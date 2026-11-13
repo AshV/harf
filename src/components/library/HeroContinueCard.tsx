@@ -55,3 +55,4 @@ export const HeroContinueCard: React.FC<HeroContinueCardProps> = ({ book, progre
     </div>
   );
 };
+

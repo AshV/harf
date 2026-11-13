@@ -60,3 +60,4 @@ export const BookCard: React.FC<BookCardProps> = ({ book, isOffline }) => {
     </Link>
   );
 };
+

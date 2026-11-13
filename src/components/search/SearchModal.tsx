@@ -122,3 +122,4 @@ export const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose, books
     </div>
   );
 };
+

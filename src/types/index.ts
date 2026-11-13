@@ -82,3 +82,4 @@ export interface ReaderSettings {
   fontFamily: ReaderFont;
   lineHeight: number; // e.g. 1.85
 }
+

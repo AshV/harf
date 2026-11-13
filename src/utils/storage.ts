@@ -72,3 +72,4 @@ export async function isBookOffline(bookId: string, totalChapters: number): Prom
   const count = await db.chapters.where('book_id').equals(bookId).count();
   return count >= totalChapters && totalChapters > 0;
 }
+
