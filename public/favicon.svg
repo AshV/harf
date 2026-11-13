@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2C1810"/>
+      <stop offset="100%" stop-color="#B84A2A"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="url(#bg)"/>
+  <circle cx="50" cy="50" r="42" fill="none" stroke="#D4AF37" stroke-width="2.5" stroke-dasharray="2 3"/>
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#D4AF37" stroke-width="1.5"/>
+  <text x="50" y="65" font-family="'Noto Serif Devanagari', serif" font-size="46" font-weight="900" fill="#FDFBF7" text-anchor="middle">ह</text>
+  <circle cx="78" cy="22" r="6" fill="#E08E45" stroke="#FAF7F2" stroke-width="2"/>
+</svg>

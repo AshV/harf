@@ -12,30 +12,54 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'covers/*.webp', 'content/**/*.json'],
+      injectRegister: 'auto',
+      includeAssets: [
+        'favicon.ico',
+        'favicon.svg',
+        'apple-touch-icon.png',
+        'pwa-192x192.png',
+        'pwa-512x512.png',
+        'pwa-maskable-512x512.png',
+        'content/**/*.json'
+      ],
       manifest: {
-        name: 'हर्फ़ — हिन्दी ई-रीडर',
+        name: 'हर्फ़ (Harf) — आधुनिक हिन्दी ई-पुस्तकालय',
         short_name: 'हर्फ़',
         description: 'सार्वजनिक डोमेन हिन्दी साहित्य के लिए आधुनिक, ऑफ़लाइन डिजिटल पुस्तकालय।',
-        theme_color: '#FBF0D9',
-        background_color: '#FBF0D9',
+        theme_color: '#FAF7F2',
+        background_color: '#FAF7F2',
         display: 'standalone',
+        orientation: 'portrait-primary',
+        scope: './',
         start_url: './',
+        lang: 'hi',
+        dir: 'ltr',
+        categories: ['books', 'education', 'literature'],
         icons: [
           {
             src: 'pwa-192x192.png',
             sizes: '192x192',
-            type: 'image/png'
+            type: 'image/png',
+            purpose: 'any'
           },
           {
             src: 'pwa-512x512.png',
             sizes: '512x512',
-            type: 'image/png'
+            type: 'image/png',
+            purpose: 'any'
+          },
+          {
+            src: 'pwa-maskable-512x512.png',
+            sizes: '512x512',
+            type: 'image/png',
+            purpose: 'maskable'
           }
         ]
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,png,svg,webp,json}'],
+        navigateFallback: 'index.html',
+        cleanupOutdatedCaches: true,
         runtimeCaching: [
           {
             urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
@@ -70,4 +94,3 @@ export default defineConfig({
     })
   ]
 });
-
