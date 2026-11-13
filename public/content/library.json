@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kaffan",
+    "title": "कफ़न",
+    "title_en": "Kafan",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी",
+    "category_en": "Short Story",
+    "description": "कफ़न मुंशी प्रेमचंद की अंतिम और सबसे प्रसिद्ध कहानियों में से एक है। यह कहानी घिसु और माधव के माध्यम से ग्रामीण भारत की चरम निर्धनता और संवेदना-शून्यता को उजागर करती है।",
+    "cover_image": "",
+    "total_chapters": 3,
+    "estimated_reading_minutes": 3,
+    "keywords": [
+      "kaffan",
+      "kafan",
+      "premchand",
+      "munshi",
+      "kahani",
+      "short story",
+      "ghisu",
+      "madhav"
+    ]
+  },
+  {
+    "id": "panch-parameshwar",
+    "title": "पंच परमेश्वर",
+    "title_en": "Panch Parameshwar",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी",
+    "category_en": "Short Story",
+    "description": "जुम्मन शेख और अलगू चौधरी की गहरी मित्रता और न्याय की निष्पक्षता पर आधारित मुंशी प्रेमचंद की कालजयी कहानी। 'पंच के मुँह से खुदा बोलता है' का अमर संदेश।",
+    "cover_image": "",
+    "total_chapters": 3,
+    "estimated_reading_minutes": 3,
+    "keywords": [
+      "panch",
+      "parameshwar",
+      "jumman",
+      "algu",
+      "premchand",
+      "kahani",
+      "justice"
+    ]
+  }
+]

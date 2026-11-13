@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+dist-ssr/
+
+# Local env & IDE
+.env
+.env.local
+.DS_Store
+*.local
+.vscode/
+.idea/
+
+# Ingestion outputs can be built or committed, let's keep content generated

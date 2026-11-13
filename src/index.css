@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Noto Serif Devanagari', Georgia, serif;
+    --font-sans: 'Noto Sans Devanagari', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+  }
+}
+
+/* Reader Themes */
+.theme-parchment {
+  background-color: #FBF0D9;
+  color: #2C221E;
+}
+
+.theme-night {
+  background-color: #000000;
+  color: #D6D3D1;
+}
+
+.theme-day {
+  background-color: #FAFAFA;
+  color: #18181B;
+}
+
+.theme-sage {
+  background-color: #EAEFE9;
+  color: #1E293B;
+}
+
+/* Hindi Reader Typography Rules */
+.reader-canvas {
+  font-synthesis: none;
+  word-break: normal;
+  overflow-wrap: break-word;
+  padding-bottom: 6rem;
+}
+
+.reader-serif {
+  font-family: var(--font-serif);
+}
+
+.reader-sans {
+  font-family: var(--font-sans);
+}
+
+/* Audio Read-along active block animation */
+.active-tts-block {
+  background-color: rgba(192, 86, 33, 0.12);
+  border-left: 3px solid #C05621;
+  padding-left: 0.75rem;
+  border-radius: 0.25rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.theme-night .active-tts-block {
+  background-color: rgba(246, 173, 85, 0.15);
+  border-left-color: #F6AD55;
+}

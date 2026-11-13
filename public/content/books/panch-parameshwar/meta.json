@@ -1,0 +1,53 @@
+{
+  "id": "panch-parameshwar",
+  "title": "पंच परमेश्वर",
+  "title_en": "Panch Parameshwar",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "कहानी",
+  "category_en": "Short Story",
+  "description": "जुम्मन शेख और अलगू चौधरी की गहरी मित्रता और न्याय की निष्पक्षता पर आधारित मुंशी प्रेमचंद की कालजयी कहानी। 'पंच के मुँह से खुदा बोलता है' का अमर संदेश।",
+  "cover_image": "",
+  "published_year": 1916,
+  "keywords": [
+    "panch",
+    "parameshwar",
+    "jumman",
+    "algu",
+    "premchand",
+    "kahani",
+    "justice"
+  ],
+  "total_words": 557,
+  "total_chapters": 3,
+  "estimated_reading_minutes": 3,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १",
+      "block_count": 5,
+      "word_count": 139,
+      "estimated_minutes": 1,
+      "file": "content/books/panch-parameshwar/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २",
+      "block_count": 7,
+      "word_count": 158,
+      "estimated_minutes": 1,
+      "file": "content/books/panch-parameshwar/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३",
+      "block_count": 13,
+      "word_count": 260,
+      "estimated_minutes": 1,
+      "file": "content/books/panch-parameshwar/ch_03.json"
+    }
+  ]
+}
