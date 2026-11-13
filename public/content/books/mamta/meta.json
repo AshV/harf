@@ -1,0 +1,62 @@
+{
+  "id": "mamta",
+  "title": "ममता",
+  "title_en": "Mamta",
+  "author": "जयशंकर प्रसाद",
+  "author_en": "Jaishankar Prasad",
+  "category": "कहानी",
+  "category_en": "Short Story",
+  "description": "रोहतास दुर्ग के प्रकोष्ठ में बैठी युवती ममता के त्याग, भारतीय शरणागत-धर्म और कर्तव्य-परायणता की कालजयी ऐतिहासिक कहानी। छायावाद के प्रमुख स्तंभ जयशंकर प्रसाद की अमर रचना।",
+  "cover_image": "",
+  "published_year": 1929,
+  "keywords": [
+    "mamta",
+    "jaishankar",
+    "prasad",
+    "rohtas",
+    "mughal",
+    "humayun",
+    "kahani"
+  ],
+  "total_words": 729,
+  "total_chapters": 4,
+  "estimated_reading_minutes": 4,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १",
+      "block_count": 9,
+      "word_count": 231,
+      "estimated_minutes": 1,
+      "file": "content/books/mamta/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २",
+      "block_count": 5,
+      "word_count": 101,
+      "estimated_minutes": 1,
+      "file": "content/books/mamta/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३",
+      "block_count": 6,
+      "word_count": 203,
+      "estimated_minutes": 1,
+      "file": "content/books/mamta/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४",
+      "block_count": 6,
+      "word_count": 194,
+      "estimated_minutes": 1,
+      "file": "content/books/mamta/ch_04.json"
+    }
+  ]
+}

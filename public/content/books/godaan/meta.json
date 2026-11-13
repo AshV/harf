@@ -1,0 +1,45 @@
+{
+  "id": "godaan",
+  "title": "गोदान",
+  "title_en": "Godan",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "उपन्यास",
+  "category_en": "Novel",
+  "description": "किसान जीवन का महाकाव्य। होरी महतो, धनिया और गोबर के माध्यम से भारतीय ग्रामीण समाज, ऋण-ग्रस्तता और मर्यादा के संघर्ष का अमर भारतीय उपन्यास।",
+  "cover_image": "",
+  "published_year": 1936,
+  "keywords": [
+    "godan",
+    "godaan",
+    "hori",
+    "dhaniya",
+    "premchand",
+    "upanyas",
+    "novel",
+    "kisan"
+  ],
+  "total_words": 377,
+  "total_chapters": 2,
+  "estimated_reading_minutes": 2,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १",
+      "block_count": 5,
+      "word_count": 183,
+      "estimated_minutes": 1,
+      "file": "content/books/godaan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २",
+      "block_count": 7,
+      "word_count": 194,
+      "estimated_minutes": 1,
+      "file": "content/books/godaan/ch_02.json"
+    }
+  ]
+}

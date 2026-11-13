@@ -22,6 +22,30 @@
     ]
   },
   {
+    "id": "godaan",
+    "title": "गोदान",
+    "title_en": "Godan",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "उपन्यास",
+    "category_en": "Novel",
+    "description": "किसान जीवन का महाकाव्य। होरी महतो, धनिया और गोबर के माध्यम से भारतीय ग्रामीण समाज, ऋण-ग्रस्तता और मर्यादा के संघर्ष का अमर भारतीय उपन्यास।",
+    "cover_image": "",
+    "published_year": 1936,
+    "total_chapters": 2,
+    "estimated_reading_minutes": 2,
+    "keywords": [
+      "godan",
+      "godaan",
+      "hori",
+      "dhaniya",
+      "premchand",
+      "upanyas",
+      "novel",
+      "kisan"
+    ]
+  },
+  {
     "id": "idgah",
     "title": "ईदगाह",
     "title_en": "Idgah",
@@ -67,6 +91,29 @@
       "short story",
       "ghisu",
       "madhav"
+    ]
+  },
+  {
+    "id": "mamta",
+    "title": "ममता",
+    "title_en": "Mamta",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "कहानी",
+    "category_en": "Short Story",
+    "description": "रोहतास दुर्ग के प्रकोष्ठ में बैठी युवती ममता के त्याग, भारतीय शरणागत-धर्म और कर्तव्य-परायणता की कालजयी ऐतिहासिक कहानी। छायावाद के प्रमुख स्तंभ जयशंकर प्रसाद की अमर रचना।",
+    "cover_image": "",
+    "published_year": 1929,
+    "total_chapters": 4,
+    "estimated_reading_minutes": 4,
+    "keywords": [
+      "mamta",
+      "jaishankar",
+      "prasad",
+      "rohtas",
+      "mughal",
+      "humayun",
+      "kahani"
     ]
   },
   {

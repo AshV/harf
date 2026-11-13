@@ -55,6 +55,24 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#EBB059',
     badgeBg: 'bg-[#EBB059]/15 text-[#FDE5BD]',
     motif: '❖ 📜 ❖'
+  },
+  godaan: {
+    bgGradient: 'from-[#4A2013] via-[#632C1A] to-[#36160B]',
+    borderColor: 'border-[#E2A745]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E2A745]',
+    accentColor: '#E2A745',
+    badgeBg: 'bg-[#E2A745]/15 text-[#FDE7BE]',
+    motif: '✦ 🌾 ✦'
+  },
+  mamta: {
+    bgGradient: 'from-[#3B1E48] via-[#4D285E] to-[#2B1435]',
+    borderColor: 'border-[#E5B55A]/40',
+    titleColor: 'text-[#FAF5FD]',
+    authorColor: 'text-[#E5B55A]',
+    accentColor: '#E5B55A',
+    badgeBg: 'bg-[#E5B55A]/15 text-[#FCEAC1]',
+    motif: '❖ 🏰 ❖'
   }
 };
 
