@@ -1,0 +1,61 @@
+{
+  "id": "bade-bhai-sahab",
+  "title": "बड़े भाई साहब",
+  "title_en": "Bade Bhai Sahab",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "कहानी",
+  "category_en": "Short Story",
+  "description": "बड़े भाई साहब और छोटे भाई के बीच शिक्षा, अनुशासन, आत्मसम्मान और उम्र के तजुर्बे की अनूठी दास्तान। प्रेमचंद की सबसे लोकप्रिय और विचारोत्तेजक हास्य-व्यंग्य रचना।",
+  "cover_image": "",
+  "published_year": 1910,
+  "keywords": [
+    "bade bhai sahab",
+    "brother",
+    "premchand",
+    "kahani",
+    "education",
+    "humor"
+  ],
+  "total_words": 818,
+  "total_chapters": 4,
+  "estimated_reading_minutes": 5,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १",
+      "block_count": 3,
+      "word_count": 168,
+      "estimated_minutes": 1,
+      "file": "content/books/bade-bhai-sahab/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २",
+      "block_count": 5,
+      "word_count": 182,
+      "estimated_minutes": 1,
+      "file": "content/books/bade-bhai-sahab/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३",
+      "block_count": 5,
+      "word_count": 145,
+      "estimated_minutes": 1,
+      "file": "content/books/bade-bhai-sahab/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४",
+      "block_count": 8,
+      "word_count": 323,
+      "estimated_minutes": 2,
+      "file": "content/books/bade-bhai-sahab/ch_04.json"
+    }
+  ]
+}

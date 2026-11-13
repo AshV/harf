@@ -1,5 +1,51 @@
 [
   {
+    "id": "bade-bhai-sahab",
+    "title": "बड़े भाई साहब",
+    "title_en": "Bade Bhai Sahab",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी",
+    "category_en": "Short Story",
+    "description": "बड़े भाई साहब और छोटे भाई के बीच शिक्षा, अनुशासन, आत्मसम्मान और उम्र के तजुर्बे की अनूठी दास्तान। प्रेमचंद की सबसे लोकप्रिय और विचारोत्तेजक हास्य-व्यंग्य रचना।",
+    "cover_image": "",
+    "published_year": 1910,
+    "total_chapters": 4,
+    "estimated_reading_minutes": 5,
+    "keywords": [
+      "bade bhai sahab",
+      "brother",
+      "premchand",
+      "kahani",
+      "education",
+      "humor"
+    ]
+  },
+  {
+    "id": "idgah",
+    "title": "ईदगाह",
+    "title_en": "Idgah",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी",
+    "category_en": "Short Story",
+    "description": "ईदगाह मुंशी प्रेमचंद की सबसे भावुक और मानवीय कहानियों में से एक है। चार-पाँच साल का नन्हा हामिद और उसकी बूढ़ी दादी अमीना के वात्सल्य, त्याग और समझदारी की अमर गाथा।",
+    "cover_image": "",
+    "published_year": 1933,
+    "total_chapters": 4,
+    "estimated_reading_minutes": 4,
+    "keywords": [
+      "idgah",
+      "hamid",
+      "amina",
+      "chimta",
+      "premchand",
+      "kahani",
+      "eid",
+      "short story"
+    ]
+  },
+  {
     "id": "kaffan",
     "title": "कफ़न",
     "title_en": "Kafan",
@@ -9,6 +55,7 @@
     "category_en": "Short Story",
     "description": "कफ़न मुंशी प्रेमचंद की अंतिम और सबसे प्रसिद्ध कहानियों में से एक है। यह कहानी घिसु और माधव के माध्यम से ग्रामीण भारत की चरम निर्धनता और संवेदना-शून्यता को उजागर करती है।",
     "cover_image": "",
+    "published_year": 1936,
     "total_chapters": 3,
     "estimated_reading_minutes": 3,
     "keywords": [
@@ -32,6 +79,7 @@
     "category_en": "Short Story",
     "description": "जुम्मन शेख और अलगू चौधरी की गहरी मित्रता और न्याय की निष्पक्षता पर आधारित मुंशी प्रेमचंद की कालजयी कहानी। 'पंच के मुँह से खुदा बोलता है' का अमर संदेश।",
     "cover_image": "",
+    "published_year": 1916,
     "total_chapters": 3,
     "estimated_reading_minutes": 3,
     "keywords": [

@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Clock, BookMarked, CheckCircle2 } from 'lucide-react';
 import type { BookSummary } from '../../types';
+import { BookCover } from './BookCover';
 
 interface BookCardProps {
   book: BookSummary;
@@ -12,52 +13,49 @@ export const BookCard: React.FC<BookCardProps> = ({ book, isOffline }) => {
   return (
     <Link
       to={`/book/${book.id}`}
-      className="group relative flex flex-col bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#2C221E]/10 shadow-xs hover:shadow-md transition-all duration-200 active:scale-[0.98]"
+      className="group relative flex flex-col focus:outline-none"
     >
-      {/* Cover / Letterhead placeholder */}
-      <div className="relative aspect-[3/4] w-full rounded-xl bg-gradient-to-br from-[#2C221E]/10 via-[#2C221E]/5 to-transparent flex flex-col items-center justify-center p-4 border border-[#2C221E]/5 overflow-hidden mb-3">
-        {/* Decorative corner ornament */}
-        <div className="absolute top-2 left-2 text-[10px] font-bold text-[#2C221E]/30 uppercase tracking-widest">
-          {book.category_en}
-        </div>
+      {/* 3D Book Cover Container with Hover Lift */}
+      <div className="relative transform transition-all duration-300 ease-out group-hover:-translate-y-2 group-hover:scale-[1.02]">
+        <BookCover
+          id={book.id}
+          title={book.title}
+          author={book.author}
+          category={book.category}
+          size="md"
+        />
 
+        {/* Offline Badge Pill */}
         {isOffline && (
-          <div className="absolute top-2 right-2 flex items-center gap-1 bg-emerald-100 text-emerald-800 text-[10px] font-semibold px-2 py-0.5 rounded-full shadow-xs">
-            <CheckCircle2 className="w-3 h-3 text-emerald-600" />
+          <div className="absolute top-2.5 right-2.5 z-30 flex items-center gap-1 bg-emerald-950/80 backdrop-blur-md text-emerald-300 border border-emerald-500/30 text-[10px] font-bold px-2 py-0.5 rounded-full shadow-lg">
+            <CheckCircle2 className="w-3 h-3 text-emerald-400" />
             <span>ऑफ़लाइन</span>
           </div>
         )}
-
-        {/* Large stylized initial */}
-        <span className="text-5xl font-serif font-black text-[#2C221E]/30 group-hover:text-[#C05621]/60 transition-colors">
-          {book.title[0]}
-        </span>
       </div>
 
-      {/* Book Info */}
-      <div className="flex-1 flex flex-col justify-between">
-        <div>
-          <h3 className="font-bold text-lg text-[#2C221E] group-hover:text-[#C05621] transition-colors leading-snug line-clamp-1 font-hindi-serif">
-            {book.title}
-          </h3>
-          <p className="text-xs text-[#2C221E]/60 line-clamp-1 mt-0.5 font-medium">
-            {book.author}
-          </p>
-        </div>
+      {/* Book Info Under Cover */}
+      <div className="mt-3 px-1">
+        <h3 className="font-bold text-base text-[#1F1916] group-hover:text-[#B84A2A] transition-colors leading-snug line-clamp-1 font-hindi-serif">
+          {book.title}
+        </h3>
+        <p className="text-xs text-[#1F1916]/65 line-clamp-1 mt-0.5 font-medium">
+          {book.author}
+        </p>
 
-        {/* Footer Meta */}
-        <div className="flex items-center justify-between text-[11px] text-[#2C221E]/60 pt-3 border-t border-[#2C221E]/5 mt-2">
-          <div className="flex items-center gap-1">
-            <BookMarked className="w-3 h-3" />
-            <span>{book.total_chapters} अध्याय</span>
-          </div>
-          <div className="flex items-center gap-1">
-            <Clock className="w-3 h-3" />
+        {/* Metadata Footer */}
+        <div className="flex items-center gap-2.5 text-[11px] text-[#1F1916]/55 mt-2 font-medium">
+          <span className="flex items-center gap-1">
+            <BookMarked className="w-3 h-3 text-[#1F1916]/40" />
+            <span>{book.total_chapters} भाग</span>
+          </span>
+          <span>•</span>
+          <span className="flex items-center gap-1">
+            <Clock className="w-3 h-3 text-[#1F1916]/40" />
             <span>~{book.estimated_reading_minutes} मि.</span>
-          </div>
+          </span>
         </div>
       </div>
     </Link>
   );
 };
-

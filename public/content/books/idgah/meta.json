@@ -1,0 +1,63 @@
+{
+  "id": "idgah",
+  "title": "ईदगाह",
+  "title_en": "Idgah",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "कहानी",
+  "category_en": "Short Story",
+  "description": "ईदगाह मुंशी प्रेमचंद की सबसे भावुक और मानवीय कहानियों में से एक है। चार-पाँच साल का नन्हा हामिद और उसकी बूढ़ी दादी अमीना के वात्सल्य, त्याग और समझदारी की अमर गाथा।",
+  "cover_image": "",
+  "published_year": 1933,
+  "keywords": [
+    "idgah",
+    "hamid",
+    "amina",
+    "chimta",
+    "premchand",
+    "kahani",
+    "eid",
+    "short story"
+  ],
+  "total_words": 783,
+  "total_chapters": 4,
+  "estimated_reading_minutes": 4,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १",
+      "block_count": 3,
+      "word_count": 185,
+      "estimated_minutes": 1,
+      "file": "content/books/idgah/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २",
+      "block_count": 3,
+      "word_count": 172,
+      "estimated_minutes": 1,
+      "file": "content/books/idgah/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३",
+      "block_count": 7,
+      "word_count": 198,
+      "estimated_minutes": 1,
+      "file": "content/books/idgah/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४",
+      "block_count": 10,
+      "word_count": 228,
+      "estimated_minutes": 1,
+      "file": "content/books/idgah/ch_04.json"
+    }
+  ]
+}

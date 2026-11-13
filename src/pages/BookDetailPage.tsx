@@ -13,6 +13,7 @@ import {
 import { useBook } from '../hooks/useBook';
 import { useReadingProgress } from '../hooks/useReadingProgress';
 import { downloadBookOffline, removeBookOffline, isBookOffline } from '../utils/storage';
+import { BookCover } from '../components/library/BookCover';
 
 export const BookDetailPage: React.FC = () => {
   const { bookId } = useParams<{ bookId: string }>();
@@ -32,20 +33,20 @@ export const BookDetailPage: React.FC = () => {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-[#FBF0D9] flex items-center justify-center">
-        <div className="w-8 h-8 rounded-full border-2 border-[#2C221E] border-t-transparent animate-spin" />
+      <div className="min-h-screen bg-[#FAF7F2] flex items-center justify-center">
+        <div className="w-8 h-8 rounded-full border-2 border-[#1F1916] border-t-transparent animate-spin" />
       </div>
     );
   }
 
   if (error || !book) {
     return (
-      <div className="min-h-screen bg-[#FBF0D9] p-6 flex flex-col items-center justify-center text-center">
+      <div className="min-h-screen bg-[#FAF7F2] p-6 flex flex-col items-center justify-center text-center">
         <h2 className="text-xl font-bold font-serif mb-2">पुस्तक उपलब्ध नहीं है</h2>
         <p className="text-sm opacity-70 mb-4">{error || 'जानकारी नहीं मिल सकी'}</p>
         <button
           onClick={() => navigate('/')}
-          className="px-4 py-2 rounded-xl bg-[#2C221E] text-[#FBF0D9] text-xs font-bold"
+          className="px-4 py-2 rounded-xl bg-[#231814] text-[#FAF5E8] text-xs font-bold"
         >
           होम पर जाएँ
         </button>
@@ -77,12 +78,12 @@ export const BookDetailPage: React.FC = () => {
   const startChapterId = progress?.chapter_id || book.chapters[0]?.id || 'ch_01';
 
   return (
-    <div className="min-h-screen bg-[#FBF0D9] text-[#2C221E]">
+    <div className="min-h-screen bg-[#FAF7F2] text-[#1F1916]">
       {/* Top Navbar */}
-      <nav className="sticky top-0 z-40 bg-[#FBF0D9]/95 backdrop-blur-md px-4 h-16 flex items-center justify-between border-b border-[#2C221E]/10">
+      <nav className="sticky top-0 z-40 bg-[#FAF7F2]/90 backdrop-blur-md px-4 sm:px-6 h-16 flex items-center justify-between border-b border-[#231A15]/8">
         <button
           onClick={() => navigate('/')}
-          className="p-2 rounded-xl hover:bg-[#2C221E]/5 active:scale-95 transition-all"
+          className="p-2 rounded-xl hover:bg-black/5 active:scale-95 transition-all"
         >
           <ArrowLeft className="w-5 h-5" />
         </button>
@@ -96,75 +97,76 @@ export const BookDetailPage: React.FC = () => {
               });
             }
           }}
-          className="p-2 rounded-xl hover:bg-[#2C221E]/5 transition-colors"
+          className="p-2 rounded-xl hover:bg-black/5 transition-colors"
           title="साझा करें (Share)"
         >
-          <Share2 className="w-5 h-5 text-[#2C221E]/70" />
+          <Share2 className="w-5 h-5 text-[#1F1916]/70" />
         </button>
       </nav>
 
-      <main className="max-w-3xl mx-auto px-4 py-8">
+      <main className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
         {/* Book Header Section */}
-        <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6 mb-8 text-center sm:text-left">
-          {/* Cover Placeholder */}
-          <div className="w-36 sm:w-44 aspect-[3/4] rounded-2xl bg-gradient-to-br from-[#2C221E]/15 to-[#2C221E]/5 border border-[#2C221E]/10 shadow-lg flex flex-col items-center justify-center p-4 relative shrink-0">
-            <span className="text-6xl font-serif font-black text-[#2C221E]/30">
-              {book.title[0]}
-            </span>
-            <span className="absolute bottom-3 text-[10px] font-bold tracking-wider uppercase text-[#2C221E]/40">
-              {book.category}
-            </span>
+        <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6 sm:gap-8 mb-10 text-center sm:text-left">
+          {/* 3D Book Cover Presentation */}
+          <div className="shrink-0 transform hover:scale-105 transition-transform duration-300">
+            <BookCover
+              id={book.id}
+              title={book.title}
+              author={book.author}
+              category={book.category}
+              size="hero"
+            />
           </div>
 
           {/* Book Metadata & Description */}
           <div className="flex-1">
-            <div className="inline-block px-3 py-1 rounded-full bg-[#2C221E]/5 text-[11px] font-semibold text-[#2C221E]/70 mb-2">
+            <div className="inline-block px-3 py-1 rounded-full bg-[#C85A32]/10 text-[11px] font-bold text-[#C85A32] mb-2 uppercase tracking-wider">
               {book.category} • {book.category_en}
             </div>
 
-            <h1 className="text-3xl sm:text-4xl font-bold font-serif leading-tight">
+            <h1 className="text-3xl sm:text-4xl font-black font-serif leading-tight">
               {book.title}
             </h1>
-            <p className="text-sm font-medium text-[#2C221E]/50 mt-0.5">
+            <p className="text-sm font-medium text-[#1F1916]/50 mt-0.5">
               {book.title_en}
             </p>
 
-            <p className="text-lg font-bold text-[#C05621] mt-2">
+            <p className="text-lg font-bold text-[#C85A32] mt-2 font-hindi-serif">
               {book.author}{' '}
-              <span className="text-xs font-normal text-[#2C221E]/60">({book.author_en})</span>
+              <span className="text-xs font-normal text-[#1F1916]/60">({book.author_en})</span>
             </p>
 
-            <div className="flex flex-wrap items-center justify-center sm:justify-start gap-4 text-xs text-[#2C221E]/70 mt-3 font-medium">
+            <div className="flex flex-wrap items-center justify-center sm:justify-start gap-4 text-xs text-[#1F1916]/70 mt-3 font-medium">
               <div className="flex items-center gap-1">
-                <BookOpen className="w-4 h-4" />
+                <BookOpen className="w-4 h-4 text-[#C85A32]" />
                 <span>{book.total_chapters} अध्याय</span>
               </div>
               <div className="flex items-center gap-1">
-                <Clock className="w-4 h-4" />
+                <Clock className="w-4 h-4 text-[#C85A32]" />
                 <span>~{book.estimated_reading_minutes} मिनट का पठन</span>
               </div>
               {book.published_year && (
                 <div className="flex items-center gap-1">
-                  <Calendar className="w-4 h-4" />
+                  <Calendar className="w-4 h-4 text-[#C85A32]" />
                   <span>प्रकाशन: {book.published_year}</span>
                 </div>
               )}
             </div>
 
-            {/* CTAs */}
+            {/* Action CTAs */}
             <div className="flex flex-wrap items-center justify-center sm:justify-start gap-3 mt-6">
               <Link
                 to={`/read/${book.id}/${startChapterId}`}
-                className="px-6 py-3 rounded-2xl bg-[#2C221E] text-[#FBF0D9] font-bold text-sm shadow-md hover:bg-[#2C221E]/90 transition-all active:scale-95 flex items-center gap-2"
+                className="px-6 py-3 rounded-2xl bg-gradient-to-r from-[#231814] to-[#3B2922] text-[#FAF5E8] font-bold text-sm shadow-md hover:brightness-110 transition-all active:scale-95 flex items-center gap-2"
               >
-                <BookOpen className="w-4 h-4" />
+                <BookOpen className="w-4 h-4 text-[#E08E45]" />
                 <span>{progress ? 'पठन जारी रखें' : 'पहला अध्याय पढ़ें'}</span>
               </Link>
 
               {isOffline ? (
                 <button
                   onClick={handleRemoveOffline}
-                  className="px-4 py-3 rounded-2xl bg-emerald-100 text-emerald-800 text-xs font-bold border border-emerald-200 flex items-center gap-2 hover:bg-emerald-200 transition-colors"
+                  className="px-4 py-3 rounded-2xl bg-emerald-100 text-emerald-800 text-xs font-bold border border-emerald-200 flex items-center gap-2 hover:bg-emerald-200 transition-colors shadow-2xs"
                   title="ऑफ़लाइन मेमोरी से हटाएँ"
                 >
                   <CheckCircle2 className="w-4 h-4 text-emerald-600" />
@@ -175,9 +177,9 @@ export const BookDetailPage: React.FC = () => {
                 <button
                   onClick={handleDownload}
                   disabled={downloading}
-                  className="px-4 py-3 rounded-2xl bg-white/70 hover:bg-white text-[#2C221E] border border-[#2C221E]/15 text-xs font-bold flex items-center gap-2 shadow-xs transition-all active:scale-95 disabled:opacity-50"
+                  className="px-4 py-3 rounded-2xl bg-white hover:bg-white/80 text-[#1F1916] border border-[#231A15]/15 text-xs font-bold flex items-center gap-2 shadow-xs transition-all active:scale-95 disabled:opacity-50"
                 >
-                  <Download className="w-4 h-4 text-[#C05621]" />
+                  <Download className="w-4 h-4 text-[#C85A32]" />
                   <span>{downloading ? downloadProgressText : 'ऑफ़लाइन सहेजें'}</span>
                 </button>
               )}
@@ -186,11 +188,11 @@ export const BookDetailPage: React.FC = () => {
         </div>
 
         {/* Synopsis / Blurb */}
-        <section className="bg-white/60 rounded-3xl p-6 border border-[#2C221E]/10 mb-8 shadow-xs">
-          <h3 className="font-bold text-base font-serif mb-2 text-[#2C221E]">
+        <section className="bg-white/70 rounded-3xl p-6 border border-[#231A15]/10 mb-8 shadow-xs">
+          <h3 className="font-bold text-base font-serif mb-2 text-[#1F1916]">
             पुस्तक परिचय (Synopsis)
           </h3>
-          <p className="text-sm leading-relaxed text-[#2C221E]/80 font-hindi-serif">
+          <p className="text-sm leading-relaxed text-[#1F1916]/80 font-hindi-serif">
             {book.description}
           </p>
         </section>
@@ -199,25 +201,25 @@ export const BookDetailPage: React.FC = () => {
         <section>
           <div className="flex items-center justify-between mb-4">
             <h3 className="font-bold text-lg font-serif">अनुक्रमणिका (Chapters)</h3>
-            <span className="text-xs text-[#2C221E]/60">{book.total_chapters} भाग</span>
+            <span className="text-xs text-[#1F1916]/60">{book.total_chapters} भाग</span>
           </div>
 
-          <div className="bg-white/70 rounded-2xl border border-[#2C221E]/10 divide-y divide-[#2C221E]/5 overflow-hidden shadow-xs">
+          <div className="bg-white/70 rounded-2xl border border-[#231A15]/10 divide-y divide-[#231A15]/5 overflow-hidden shadow-xs">
             {book.chapters.map((ch) => (
               <Link
                 key={ch.id}
                 to={`/read/${book.id}/${ch.id}`}
-                className="flex items-center justify-between p-4 hover:bg-[#2C221E]/5 transition-colors group"
+                className="flex items-center justify-between p-4 hover:bg-[#231A15]/5 transition-colors group"
               >
                 <div>
-                  <h4 className="font-bold text-sm text-[#2C221E] group-hover:text-[#C05621] transition-colors">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#C85A32] transition-colors">
                     {ch.title}
                   </h4>
-                  <p className="text-xs text-[#2C221E]/50 mt-0.5">
+                  <p className="text-xs text-[#1F1916]/50 mt-0.5">
                     {ch.word_count} शब्द • ~{ch.estimated_minutes} मिनट
                   </p>
                 </div>
-                <span className="text-xs font-bold text-[#C05621] opacity-0 group-hover:opacity-100 transition-opacity">
+                <span className="text-xs font-bold text-[#C85A32] opacity-0 group-hover:opacity-100 transition-opacity">
                   पढ़ें →
                 </span>
               </Link>
@@ -228,4 +230,3 @@ export const BookDetailPage: React.FC = () => {
     </div>
   );
 };
-

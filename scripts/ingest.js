@@ -180,6 +180,7 @@ function processBook(filePath) {
     category_en: bookMeta.category_en,
     description: bookMeta.description,
     cover_image: bookMeta.cover_image,
+    published_year: bookMeta.published_year,
     total_chapters: bookMeta.total_chapters,
     estimated_reading_minutes: bookMeta.estimated_reading_minutes,
     keywords: bookMeta.keywords

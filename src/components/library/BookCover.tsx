@@ -1,0 +1,174 @@
+import React from 'react';
+
+interface BookCoverProps {
+  id: string;
+  title: string;
+  author: string;
+  category?: string;
+  size?: 'sm' | 'md' | 'lg' | 'hero';
+  className?: string;
+}
+
+interface Palette {
+  bgGradient: string;
+  borderColor: string;
+  titleColor: string;
+  authorColor: string;
+  accentColor: string;
+  badgeBg: string;
+  motif: string;
+}
+
+const PALETTES: Record<string, Palette> = {
+  kaffan: {
+    bgGradient: 'from-[#1A1817] via-[#2D2421] to-[#171413]',
+    borderColor: 'border-[#D4AF37]/40',
+    titleColor: 'text-[#FAF5E8]',
+    authorColor: 'text-[#D4AF37]',
+    accentColor: '#D4AF37',
+    badgeBg: 'bg-[#D4AF37]/15 text-[#F3E5AB]',
+    motif: '✦ ❖ ✦'
+  },
+  'panch-parameshwar': {
+    bgGradient: 'from-[#0F1D33] via-[#1A2C4B] to-[#0A1322]',
+    borderColor: 'border-[#E0A948]/40',
+    titleColor: 'text-[#FAF8F5]',
+    authorColor: 'text-[#E0A948]',
+    accentColor: '#E0A948',
+    badgeBg: 'bg-[#E0A948]/15 text-[#FBE3B5]',
+    motif: '❖ ⚖️ ❖'
+  },
+  idgah: {
+    bgGradient: 'from-[#0D281E] via-[#163D2E] to-[#081B14]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#FCFAF2]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEAC1]',
+    motif: '✦ 🌙 ✦'
+  },
+  'bade-bhai-sahab': {
+    bgGradient: 'from-[#5C1D16] via-[#7A281E] to-[#45120D]',
+    borderColor: 'border-[#EBB059]/40',
+    titleColor: 'text-[#FFF9EE]',
+    authorColor: 'text-[#EBB059]',
+    accentColor: '#EBB059',
+    badgeBg: 'bg-[#EBB059]/15 text-[#FDE5BD]',
+    motif: '❖ 📜 ❖'
+  }
+};
+
+const DEFAULT_PALETTE: Palette = {
+  bgGradient: 'from-[#2A1810] via-[#3E2317] to-[#1F120B]',
+  borderColor: 'border-[#D8A856]/40',
+  titleColor: 'text-[#FAF7F2]',
+  authorColor: 'text-[#D8A856]',
+  accentColor: '#D8A856',
+  badgeBg: 'bg-[#D8A856]/15 text-[#FDE3B5]',
+  motif: '✦ ❖ ✦'
+};
+
+export const BookCover: React.FC<BookCoverProps> = ({
+  id,
+  title,
+  author,
+  category = 'कहानी',
+  size = 'md',
+  className = ''
+}) => {
+  const palette = PALETTES[id] || DEFAULT_PALETTE;
+
+  // Sizing definitions
+  const sizeClasses = {
+    sm: 'w-24 aspect-[2/3]',
+    md: 'w-full aspect-[2/3]',
+    lg: 'w-48 aspect-[2/3]',
+    hero: 'w-44 sm:w-56 aspect-[2/3]'
+  }[size];
+
+  return (
+    <div
+      className={`relative select-none rounded-xl overflow-hidden shadow-xl transition-all duration-300 ${sizeClasses} ${className}`}
+      style={{
+        boxShadow:
+          '0 12px 28px -6px rgba(0, 0, 0, 0.35), 0 6px 14px -4px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.15)'
+      }}
+    >
+      {/* 3D Book Spine Effect (Left Side Depth & Crease) */}
+      <div className="absolute left-0 top-0 bottom-0 w-3.5 bg-gradient-to-r from-black/50 via-white/10 to-transparent z-20 pointer-events-none" />
+      <div className="absolute left-3.5 top-0 bottom-0 w-[1px] bg-black/40 z-20 pointer-events-none" />
+
+      {/* Book Cloth / Paper Texture Background */}
+      <div
+        className={`w-full h-full bg-gradient-to-b ${palette.bgGradient} p-3.5 sm:p-4 flex flex-col justify-between relative overflow-hidden`}
+      >
+        {/* Subtle Ornamental Background Pattern */}
+        <div
+          className="absolute inset-0 opacity-[0.04] pointer-events-none"
+          style={{
+            backgroundImage: `radial-gradient(circle at 50% 50%, white 1.5px, transparent 1.5px)`,
+            backgroundSize: '16px 16px'
+          }}
+        />
+
+        {/* Outer Filigree Border */}
+        <div
+          className={`absolute inset-2 border ${palette.borderColor} rounded-lg pointer-events-none flex flex-col justify-between p-1`}
+        >
+          {/* Inner Inset Border */}
+          <div className="w-full h-full border border-dashed border-white/15 rounded-md pointer-events-none" />
+        </div>
+
+        {/* Top Header: Category Tag & Series */}
+        <div className="relative z-10 text-center pt-1">
+          <span
+            className={`inline-block px-2.5 py-0.5 rounded-full text-[9px] sm:text-[10px] font-bold tracking-widest uppercase ${palette.badgeBg}`}
+          >
+            {category}
+          </span>
+          <div className="text-[10px] sm:text-[11px] opacity-70 mt-1" style={{ color: palette.accentColor }}>
+            {palette.motif}
+          </div>
+        </div>
+
+        {/* Center: Book Title in Classic Serif Typography */}
+        <div className="relative z-10 text-center px-2 my-auto">
+          <h3
+            className={`font-serif font-black tracking-wide leading-tight ${palette.titleColor} drop-shadow-md line-clamp-2 ${
+              size === 'sm'
+                ? 'text-xs'
+                : size === 'hero'
+                ? 'text-2xl sm:text-3xl'
+                : 'text-lg sm:text-xl'
+            }`}
+          >
+            {title}
+          </h3>
+
+          {/* Delicate Divider Ornament */}
+          <div className="flex items-center justify-center gap-1.5 my-2 opacity-50">
+            <div className="h-[1px] w-5 bg-current" style={{ color: palette.accentColor }} />
+            <div className="w-1.5 h-1.5 rotate-45" style={{ backgroundColor: palette.accentColor }} />
+            <div className="h-[1px] w-5 bg-current" style={{ color: palette.accentColor }} />
+          </div>
+
+          <p
+            className={`font-hindi-serif font-bold text-center line-clamp-1 ${palette.authorColor} ${
+              size === 'sm' ? 'text-[10px]' : 'text-xs sm:text-sm'
+            }`}
+          >
+            {author}
+          </p>
+        </div>
+
+        {/* Bottom Publisher / Heritage Seal */}
+        <div className="relative z-10 text-center pb-0.5">
+          <span className="text-[8px] sm:text-[9px] font-semibold tracking-widest uppercase text-white/50 block">
+            हर्फ़ साहित्य शृंखला
+          </span>
+        </div>
+      </div>
+    </div>
+  );
+};
+

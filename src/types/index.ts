@@ -36,6 +36,7 @@ export interface BookSummary {
   category_en: string;
   description: string;
   cover_image: string;
+  published_year?: number;
   total_chapters: number;
   estimated_reading_minutes: number;
   keywords: string[];
