@@ -127,6 +127,42 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#E5B55A',
     badgeBg: 'bg-[#E5B55A]/15 text-[#FCEAC1]',
     motif: '✦ 🗡️ ✦'
+  },
+  'bharat-durdasha': {
+    bgGradient: 'from-[#4A1212] via-[#661A1A] to-[#330A0A]',
+    borderColor: 'border-[#E0A948]/40',
+    titleColor: 'text-[#FAF5E8]',
+    authorColor: 'text-[#E0A948]',
+    accentColor: '#E0A948',
+    badgeBg: 'bg-[#E0A948]/15 text-[#FDE3B5]',
+    motif: '✦ 🎭 ✦'
+  },
+  'satya-harishchandra': {
+    bgGradient: 'from-[#4D280B] via-[#6B370E] to-[#361B07]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#FFF9F0]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEAC1]',
+    motif: '❖ ☀️ ❖'
+  },
+  'bikhare-moti': {
+    bgGradient: 'from-[#3B142B] via-[#521C3C] to-[#2B0E20]',
+    borderColor: 'border-[#E8B568]/40',
+    titleColor: 'text-[#FFF5FB]',
+    authorColor: 'text-[#E8B568]',
+    accentColor: '#E8B568',
+    badgeBg: 'bg-[#E8B568]/15 text-[#FCEAC5]',
+    motif: '✦ 🦪 ✦'
+  },
+  'billesur-bakriha': {
+    bgGradient: 'from-[#2E1E14] via-[#422B1D] to-[#1F140D]',
+    borderColor: 'border-[#9BBF85]/40',
+    titleColor: 'text-[#F5F8F2]',
+    authorColor: 'text-[#9BBF85]',
+    accentColor: '#9BBF85',
+    badgeBg: 'bg-[#9BBF85]/15 text-[#E4F0DE]',
+    motif: '❖ 🌾 ❖'
   }
 };
 

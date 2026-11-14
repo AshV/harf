@@ -1,0 +1,64 @@
+{
+  "id": "satya-harishchandra",
+  "title": "सत्य हरिश्चंद्र",
+  "title_en": "Satya Harishchandra",
+  "author": "भारतेन्दु हरिश्चंद्र",
+  "author_en": "Bharatendu Harishchandra",
+  "category": "नाटक",
+  "category_en": "Play / Drama",
+  "description": "'चन्द्र टरै सूरज टरै, टरै जगत व्यवहार। पै दृढ़ श्रीहरिचन्द्र को, टरै न सत्य विचार॥' सत्य, धर्म और त्याग की पराकाष्ठा पर आधारित भारतेन्दु हरिश्चंद्र का सर्वाधिक लोकप्रिय पौराणिक नाटक।",
+  "cover_image": "",
+  "published_year": 1875,
+  "keywords": [
+    "satya harishchandra",
+    "bharatendu",
+    "harishchandra",
+    "kashi",
+    "taramati",
+    "rohitashva",
+    "vishwamitra",
+    "natak",
+    "play"
+  ],
+  "total_words": 13745,
+  "total_chapters": 4,
+  "estimated_reading_minutes": 76,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "मंगलाचरण एवं प्रथम अंक — राजसभा (ऋषि विश्वामित्र का आगमन)",
+      "block_count": 108,
+      "word_count": 2201,
+      "estimated_minutes": 12,
+      "file": "content/books/satya-harishchandra/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "द्वितीय अंक — गंगातट (काशी-यात्रा और दान-प्रतिज्ञा)",
+      "block_count": 131,
+      "word_count": 1747,
+      "estimated_minutes": 10,
+      "file": "content/books/satya-harishchandra/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तृतीय अंक — काशी का बाज़ार (सत्य की रक्षा हेतु आत्म-विक्रय)",
+      "block_count": 230,
+      "word_count": 3254,
+      "estimated_minutes": 18,
+      "file": "content/books/satya-harishchandra/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चतुर्थ अंक — मणिकर्णिका श्मशान (कठिन परीक्षा और सत्य की विजय)",
+      "block_count": 342,
+      "word_count": 6543,
+      "estimated_minutes": 36,
+      "file": "content/books/satya-harishchandra/ch_04.json"
+    }
+  ]
+}

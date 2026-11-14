@@ -1,0 +1,80 @@
+{
+  "id": "bikhare-moti",
+  "title": "बिखरे मोती",
+  "title_en": "Bikhare Moti",
+  "author": "सुभद्रा कुमारी चौहान",
+  "author_en": "Subhadra Kumari Chauhan",
+  "category": "कहानी",
+  "category_en": "Short Story Collection",
+  "description": "'झाँसी की रानी' फेम कवयित्री सुभद्रा कुमारी चौहान का प्रथम और सबसे मार्मिक कहानी-संग्रह। भारतीय नारी के अंतर्मन, त्याग, सामाजिक रूढ़ियों और पारिवारिक संवेदनाओं की सजीव कहानियाँ।",
+  "cover_image": "",
+  "published_year": 1932,
+  "keywords": [
+    "bikhare moti",
+    "subhadra kumari chauhan",
+    "kahani",
+    "short story",
+    "holi",
+    "bhagnavashesh",
+    "ahuti"
+  ],
+  "total_words": 9522,
+  "total_chapters": 6,
+  "estimated_reading_minutes": 53,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "कहानी १ — भग्नावशेष",
+      "block_count": 31,
+      "word_count": 1051,
+      "estimated_minutes": 6,
+      "file": "content/books/bikhare-moti/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "कहानी २ — होली",
+      "block_count": 44,
+      "word_count": 728,
+      "estimated_minutes": 4,
+      "file": "content/books/bikhare-moti/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "कहानी ३ — क़िस्मत",
+      "block_count": 114,
+      "word_count": 1631,
+      "estimated_minutes": 9,
+      "file": "content/books/bikhare-moti/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "कहानी ४ — कदम्ब के फूल",
+      "block_count": 85,
+      "word_count": 1560,
+      "estimated_minutes": 9,
+      "file": "content/books/bikhare-moti/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "कहानी ५ — एकादशी",
+      "block_count": 172,
+      "word_count": 1702,
+      "estimated_minutes": 9,
+      "file": "content/books/bikhare-moti/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "कहानी ६ — आहुति",
+      "block_count": 261,
+      "word_count": 2850,
+      "estimated_minutes": 16,
+      "file": "content/books/bikhare-moti/ch_06.json"
+    }
+  ]
+}

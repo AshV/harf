@@ -458,6 +458,60 @@ export const HomePage: React.FC = () => {
                 </p>
               </div>
             </div>
+
+            {/* Suryakant Tripathi Nirala Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'सूर्यकांत त्रिपाठी \'निराला\'');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#2E1E14] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                नि
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#9BBF85] transition-colors">
+                    सूर्यकांत त्रिपाठी 'निराला'
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#9BBF85] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author.includes('निराला')).length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#2E1E14] font-semibold">महाप्राण (१८९९ – १९६१)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  बिल्लेसुर बकरिहा, परिमल, अनामिका, कुकुरमुत्ता
+                </p>
+              </div>
+            </div>
+
+            {/* Subhadra Kumari Chauhan Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'सुभद्रा कुमारी चौहान');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#3B142B] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                सु
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#E8B568] transition-colors">
+                    सुभद्रा कुमारी चौहान
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#E8B568] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'सुभद्रा कुमारी चौहान').length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#3B142B] font-semibold">राष्ट्रीय चेतना की अमर कवयित्री (१९०४ – १९४८)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  बिखरे मोती, मुकुल, झाँसी की रानी, उन्मादिनी
+                </p>
+              </div>
+            </div>
           </div>
         </section>
       </main>

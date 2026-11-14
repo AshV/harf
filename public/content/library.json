@@ -45,6 +45,76 @@
     ]
   },
   {
+    "id": "bharat-durdasha",
+    "title": "भारत दुर्दशा",
+    "title_en": "Bharat Durdasha",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "'रोअहु सब मिलिकै आवहु भारत भाई, हा हा भारत-दुर्दशा न देखी जाई।' आधुनिक हिन्दी नाट्य-साहित्य का अमर राष्ट्रीय नाटक। तत्कालीन भारत की राजनीतिक, सामाजिक और आर्थिक दुर्दशा पर झकझोर देने वाला व्यंग्य-प्रहार।",
+    "cover_image": "",
+    "published_year": 1880,
+    "total_chapters": 6,
+    "estimated_reading_minutes": 36,
+    "keywords": [
+      "bharat durdasha",
+      "bharatendu",
+      "harishchandra",
+      "natak",
+      "play",
+      "rashtriya",
+      "satire",
+      "drama"
+    ]
+  },
+  {
+    "id": "bikhare-moti",
+    "title": "बिखरे मोती",
+    "title_en": "Bikhare Moti",
+    "author": "सुभद्रा कुमारी चौहान",
+    "author_en": "Subhadra Kumari Chauhan",
+    "category": "कहानी",
+    "category_en": "Short Story Collection",
+    "description": "'झाँसी की रानी' फेम कवयित्री सुभद्रा कुमारी चौहान का प्रथम और सबसे मार्मिक कहानी-संग्रह। भारतीय नारी के अंतर्मन, त्याग, सामाजिक रूढ़ियों और पारिवारिक संवेदनाओं की सजीव कहानियाँ।",
+    "cover_image": "",
+    "published_year": 1932,
+    "total_chapters": 6,
+    "estimated_reading_minutes": 53,
+    "keywords": [
+      "bikhare moti",
+      "subhadra kumari chauhan",
+      "kahani",
+      "short story",
+      "holi",
+      "bhagnavashesh",
+      "ahuti"
+    ]
+  },
+  {
+    "id": "billesur-bakriha",
+    "title": "बिल्लेसुर बकरिहा",
+    "title_en": "Billesur Bakriha",
+    "author": "सूर्यकांत त्रिपाठी 'निराला'",
+    "author_en": "Suryakant Tripathi 'Nirala'",
+    "category": "उपन्यास",
+    "category_en": "Satirical Novella",
+    "description": "महाप्राण निराला का अत्यंत लोकप्रिय और धारदार सामाजिक-हास्य उपन्यास। ग्रामीण अवध के विल्वेश्वर (बिल्लेसुर) के स्वाभिमान, बकरी-पालन और चतुराई के माध्यम से जातिवाद और निर्धनता पर गहरा व्यंग्य।",
+    "cover_image": "",
+    "published_year": 1941,
+    "total_chapters": 6,
+    "estimated_reading_minutes": 35,
+    "keywords": [
+      "billesur bakriha",
+      "nirala",
+      "suryakant tripathi",
+      "satire",
+      "novella",
+      "upanyas",
+      "awadh"
+    ]
+  },
+  {
     "id": "chandrakanta-santati-1",
     "title": "चंद्रकांता संतति (भाग १)",
     "title_en": "Chandrakanta Santati (Part 1)",
@@ -277,6 +347,31 @@
       "udaybhan",
       "kahani",
       "early prose"
+    ]
+  },
+  {
+    "id": "satya-harishchandra",
+    "title": "सत्य हरिश्चंद्र",
+    "title_en": "Satya Harishchandra",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "'चन्द्र टरै सूरज टरै, टरै जगत व्यवहार। पै दृढ़ श्रीहरिचन्द्र को, टरै न सत्य विचार॥' सत्य, धर्म और त्याग की पराकाष्ठा पर आधारित भारतेन्दु हरिश्चंद्र का सर्वाधिक लोकप्रिय पौराणिक नाटक।",
+    "cover_image": "",
+    "published_year": 1875,
+    "total_chapters": 4,
+    "estimated_reading_minutes": 76,
+    "keywords": [
+      "satya harishchandra",
+      "bharatendu",
+      "harishchandra",
+      "kashi",
+      "taramati",
+      "rohitashva",
+      "vishwamitra",
+      "natak",
+      "play"
     ]
   }
 ]
