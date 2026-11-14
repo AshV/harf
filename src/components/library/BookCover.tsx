@@ -208,6 +208,42 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#68C5DB',
     badgeBg: 'bg-[#68C5DB]/15 text-[#D1F0F7]',
     motif: '✦ 🌟 ✦'
+  },
+  priyapravas: {
+    bgGradient: 'from-[#541D12] via-[#752617] to-[#3D120B]',
+    borderColor: 'border-[#F5A623]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F5A623]',
+    accentColor: '#F5A623',
+    badgeBg: 'bg-[#F5A623]/15 text-[#FDEACC]',
+    motif: '✦ 🌅 ✦'
+  },
+  chintamani: {
+    bgGradient: 'from-[#172619] via-[#223826] to-[#101C12]',
+    borderColor: 'border-[#E2C068]/40',
+    titleColor: 'text-[#F5F8F4]',
+    authorColor: 'text-[#E2C068]',
+    accentColor: '#E2C068',
+    badgeBg: 'bg-[#E2C068]/15 text-[#FBEFCF]',
+    motif: '❖ 🖋️ ❖'
+  },
+  'pariksha-guru': {
+    bgGradient: 'from-[#382315] via-[#4F321E] to-[#26170D]',
+    borderColor: 'border-[#E5B55A]/40',
+    titleColor: 'text-[#FAF6F0]',
+    authorColor: 'text-[#E5B55A]',
+    accentColor: '#E5B55A',
+    badgeBg: 'bg-[#E5B55A]/15 text-[#FCEAC1]',
+    motif: '✦ 🏛️ ✦'
+  },
+  'bihari-satsai': {
+    bgGradient: 'from-[#4D290A] via-[#6E3B0F] to-[#361B06]',
+    borderColor: 'border-[#F5C563]/40',
+    titleColor: 'text-[#FFF9EE]',
+    authorColor: 'text-[#F5C563]',
+    accentColor: '#F5C563',
+    badgeBg: 'bg-[#F5C563]/15 text-[#FDF0CD]',
+    motif: '❖ 🏹 ❖'
   }
 };
 

@@ -1,0 +1,99 @@
+{
+  "id": "bihari-satsai",
+  "title": "बिहारी सतसई (रत्नाकर)",
+  "title_en": "Bihari Satsai (Ratnakar)",
+  "author": "कविवर बिहारी लाल",
+  "author_en": "Bihari Lal",
+  "category": "कविता",
+  "category_en": "Poetry",
+  "description": "'सतसैया के दोहरे, ज्यों नावक के तीर। देखन में छोटे लगें, घाव करें गंभीर।' रीतिकाल के श्रेष्ठतम मुक्तक कवि बिहारी लाल के अमर दोहे, जगन्नाथदास 'रत्नाकर' की प्रामाणिक व्याख्या सहित।",
+  "cover_image": "",
+  "published_year": 1662,
+  "keywords": [
+    "bihari satsai",
+    "bihari ratnakar",
+    "doha",
+    "reetikaal",
+    "jagannathdas ratnakar",
+    "shringar",
+    "neeti",
+    "bhakti"
+  ],
+  "total_words": 131918,
+  "total_chapters": 8,
+  "estimated_reading_minutes": 733,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रथम प्रकाश — मंगलाचरण व शृंगार दोहावली",
+      "block_count": 940,
+      "word_count": 19400,
+      "estimated_minutes": 108,
+      "file": "content/books/bihari-satsai/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "द्वितीय प्रकाश — नायिका-भेद व सौंदर्य वर्णन",
+      "block_count": 677,
+      "word_count": 15634,
+      "estimated_minutes": 87,
+      "file": "content/books/bihari-satsai/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तृतीय प्रकाश — मान, मान-मोचन व सखी-संवाद",
+      "block_count": 493,
+      "word_count": 16927,
+      "estimated_minutes": 94,
+      "file": "content/books/bihari-satsai/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चतुर्थ प्रकाश — विरह-ताप व अनुराग",
+      "block_count": 454,
+      "word_count": 14606,
+      "estimated_minutes": 81,
+      "file": "content/books/bihari-satsai/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पंचम प्रकाश — ऋतु-वर्णन व उद्दीपन",
+      "block_count": 487,
+      "word_count": 17312,
+      "estimated_minutes": 96,
+      "file": "content/books/bihari-satsai/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "षष्ठ प्रकाश — नीति व व्यावहारिक ज्ञान के दोहे",
+      "block_count": 466,
+      "word_count": 17268,
+      "estimated_minutes": 96,
+      "file": "content/books/bihari-satsai/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "सप्तम प्रकाश — भक्ति, वैराग्य व आत्म-निवेदन",
+      "block_count": 475,
+      "word_count": 17076,
+      "estimated_minutes": 95,
+      "file": "content/books/bihari-satsai/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अष्टम प्रकाश — विविध भाव-तरंग व उपसंहार",
+      "block_count": 862,
+      "word_count": 13695,
+      "estimated_minutes": 76,
+      "file": "content/books/bihari-satsai/ch_08.json"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "id": "pariksha-guru",
+  "title": "परीक्षा गुरु",
+  "title_en": "Pariksha Guru",
+  "author": "लाला श्रीनिवास दास",
+  "author_en": "Lala Srinivas Das",
+  "category": "उपन्यास",
+  "category_en": "Novel",
+  "description": "आचार्य रामचंद्र शुक्ल द्वारा मान्य आधुनिक हिन्दी का प्रथम मौलिक उपन्यास। लाला मदनमोहन की फिजूलखर्ची, चापलूस मित्रों का कुचक्र और सच्चे मित्र लाला ब्रजकिशोर की निष्ठा व कानूनी विवेक की अमर शिक्षाप्रद दास्तान।",
+  "cover_image": "",
+  "published_year": 1882,
+  "keywords": [
+    "pariksha guru",
+    "lala srinivas das",
+    "upanyas",
+    "first hindi novel",
+    "madanmohan",
+    "brajkishore",
+    "delhi",
+    "social novel"
+  ],
+  "total_words": 77460,
+  "total_chapters": 41,
+  "estimated_reading_minutes": 430,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रकरण १ (अध्याय १)",
+      "block_count": 85,
+      "word_count": 1448,
+      "estimated_minutes": 8,
+      "file": "content/books/pariksha-guru/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "प्रकरण २ (अध्याय २)",
+      "block_count": 107,
+      "word_count": 1565,
+      "estimated_minutes": 9,
+      "file": "content/books/pariksha-guru/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "प्रकरण ३ (अध्याय ३)",
+      "block_count": 167,
+      "word_count": 2148,
+      "estimated_minutes": 12,
+      "file": "content/books/pariksha-guru/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "प्रकरण ४ (अध्याय ४)",
+      "block_count": 84,
+      "word_count": 1908,
+      "estimated_minutes": 11,
+      "file": "content/books/pariksha-guru/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "प्रकरण ५ (अध्याय ५)",
+      "block_count": 54,
+      "word_count": 1192,
+      "estimated_minutes": 7,
+      "file": "content/books/pariksha-guru/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "प्रकरण ६ (अध्याय ६)",
+      "block_count": 107,
+      "word_count": 1813,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "प्रकरण ७ (अध्याय ७)",
+      "block_count": 114,
+      "word_count": 2693,
+      "estimated_minutes": 15,
+      "file": "content/books/pariksha-guru/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "प्रकरण ८ (अध्याय ८)",
+      "block_count": 113,
+      "word_count": 1630,
+      "estimated_minutes": 9,
+      "file": "content/books/pariksha-guru/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "प्रकरण ९ (अध्याय ९)",
+      "block_count": 75,
+      "word_count": 2014,
+      "estimated_minutes": 11,
+      "file": "content/books/pariksha-guru/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "प्रकरण १० (अध्याय १०)",
+      "block_count": 104,
+      "word_count": 1633,
+      "estimated_minutes": 9,
+      "file": "content/books/pariksha-guru/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "प्रकरण ११ (अध्याय ११)",
+      "block_count": 74,
+      "word_count": 1673,
+      "estimated_minutes": 9,
+      "file": "content/books/pariksha-guru/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "प्रकरण १२ (अध्याय १२)",
+      "block_count": 85,
+      "word_count": 2145,
+      "estimated_minutes": 12,
+      "file": "content/books/pariksha-guru/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "प्रकरण १३ (अध्याय १३)",
+      "block_count": 115,
+      "word_count": 1852,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "प्रकरण १४ (अध्याय १४)",
+      "block_count": 77,
+      "word_count": 1972,
+      "estimated_minutes": 11,
+      "file": "content/books/pariksha-guru/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "प्रकरण १५ (अध्याय १५)",
+      "block_count": 102,
+      "word_count": 1870,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "प्रकरण १६ (अध्याय १६)",
+      "block_count": 123,
+      "word_count": 2061,
+      "estimated_minutes": 11,
+      "file": "content/books/pariksha-guru/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "प्रकरण १७ (अध्याय १७)",
+      "block_count": 86,
+      "word_count": 1843,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "प्रकरण १८ (अध्याय १८)",
+      "block_count": 48,
+      "word_count": 1782,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "प्रकरण १९ (अध्याय १९)",
+      "block_count": 80,
+      "word_count": 2296,
+      "estimated_minutes": 13,
+      "file": "content/books/pariksha-guru/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "प्रकरण २० (अध्याय २०)",
+      "block_count": 42,
+      "word_count": 2200,
+      "estimated_minutes": 12,
+      "file": "content/books/pariksha-guru/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "प्रकरण २१ (अध्याय २१)",
+      "block_count": 28,
+      "word_count": 1995,
+      "estimated_minutes": 11,
+      "file": "content/books/pariksha-guru/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "प्रकरण २२ (अध्याय २२)",
+      "block_count": 31,
+      "word_count": 1665,
+      "estimated_minutes": 9,
+      "file": "content/books/pariksha-guru/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "प्रकरण २३ (अध्याय २३)",
+      "block_count": 39,
+      "word_count": 1925,
+      "estimated_minutes": 11,
+      "file": "content/books/pariksha-guru/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "प्रकरण २४ (अध्याय २४)",
+      "block_count": 33,
+      "word_count": 1880,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "प्रकरण २५ (अध्याय २५)",
+      "block_count": 47,
+      "word_count": 1875,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "प्रकरण २६ (अध्याय २६)",
+      "block_count": 51,
+      "word_count": 1582,
+      "estimated_minutes": 9,
+      "file": "content/books/pariksha-guru/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "प्रकरण २७ (अध्याय २७)",
+      "block_count": 107,
+      "word_count": 2235,
+      "estimated_minutes": 12,
+      "file": "content/books/pariksha-guru/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "प्रकरण २८ (अध्याय २८)",
+      "block_count": 48,
+      "word_count": 2445,
+      "estimated_minutes": 14,
+      "file": "content/books/pariksha-guru/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "प्रकरण २९ (अध्याय २९)",
+      "block_count": 77,
+      "word_count": 1967,
+      "estimated_minutes": 11,
+      "file": "content/books/pariksha-guru/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "प्रकरण ३० (अध्याय ३०)",
+      "block_count": 47,
+      "word_count": 1663,
+      "estimated_minutes": 9,
+      "file": "content/books/pariksha-guru/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "प्रकरण ३१ (अध्याय ३१)",
+      "block_count": 36,
+      "word_count": 1111,
+      "estimated_minutes": 6,
+      "file": "content/books/pariksha-guru/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "प्रकरण ३२ (अध्याय ३२)",
+      "block_count": 51,
+      "word_count": 1306,
+      "estimated_minutes": 7,
+      "file": "content/books/pariksha-guru/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "प्रकरण ३३ (अध्याय ३३)",
+      "block_count": 60,
+      "word_count": 2030,
+      "estimated_minutes": 11,
+      "file": "content/books/pariksha-guru/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "प्रकरण ३४ (अध्याय ३४)",
+      "block_count": 39,
+      "word_count": 1577,
+      "estimated_minutes": 9,
+      "file": "content/books/pariksha-guru/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "प्रकरण ३५ (अध्याय ३५)",
+      "block_count": 54,
+      "word_count": 1882,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "प्रकरण ३६ (अध्याय ३६)",
+      "block_count": 43,
+      "word_count": 1731,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "प्रकरण ३७ (अध्याय ३७)",
+      "block_count": 34,
+      "word_count": 2269,
+      "estimated_minutes": 13,
+      "file": "content/books/pariksha-guru/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "प्रकरण ३८ (अध्याय ३८)",
+      "block_count": 56,
+      "word_count": 1987,
+      "estimated_minutes": 11,
+      "file": "content/books/pariksha-guru/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "प्रकरण ३९ (अध्याय ३९)",
+      "block_count": 50,
+      "word_count": 1883,
+      "estimated_minutes": 10,
+      "file": "content/books/pariksha-guru/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "प्रकरण ४० (अध्याय ४०)",
+      "block_count": 57,
+      "word_count": 2600,
+      "estimated_minutes": 14,
+      "file": "content/books/pariksha-guru/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "प्रकरण ४१ (अध्याय ४१)",
+      "block_count": 52,
+      "word_count": 2114,
+      "estimated_minutes": 12,
+      "file": "content/books/pariksha-guru/ch_41.json"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "chintamani",
+  "title": "चिन्तामणि",
+  "title_en": "Chintamani",
+  "author": "आचार्य रामचंद्र शुक्ल",
+  "author_en": "Acharya Ramchandra Shukla",
+  "category": "व्यंग्य व निबंध",
+  "category_en": "Satire & Essays",
+  "description": "हिन्दी गद्य और आलोचना की सर्वोपरि कृति। 'उत्साह', 'क्रोध', 'भय', 'श्रद्धा-भक्ति' और कालजयी निबंध 'कविता क्या है' समेत मानवीय मनोविकारों और काव्य-सौंदर्य का अनुपम दार्शनिक विश्लेषण।",
+  "cover_image": "",
+  "published_year": 1939,
+  "keywords": [
+    "chintamani",
+    "ramchandra shukla",
+    "nibandh",
+    "essays",
+    "kavita kya hai",
+    "utsaah",
+    "alochana",
+    "criticism"
+  ],
+  "total_words": 82662,
+  "total_chapters": 17,
+  "estimated_reading_minutes": 459,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१. भाव या मनोविकार",
+      "block_count": 16,
+      "word_count": 1461,
+      "estimated_minutes": 8,
+      "file": "content/books/chintamani/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "२. उत्साह (साहस, आनंद और कर्म-सौंदर्य)",
+      "block_count": 39,
+      "word_count": 3382,
+      "estimated_minutes": 19,
+      "file": "content/books/chintamani/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "३. श्रद्धा-भक्ति (आदर व पूज्य-भाव का विश्लेषण)",
+      "block_count": 71,
+      "word_count": 8607,
+      "estimated_minutes": 48,
+      "file": "content/books/chintamani/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "४. करुणा (दया, सहानुभूति व सामाजिक चेतना)",
+      "block_count": 67,
+      "word_count": 3797,
+      "estimated_minutes": 21,
+      "file": "content/books/chintamani/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "५. लज्जा और ग्लानि (आत्म-संयम का मनोविज्ञान)",
+      "block_count": 49,
+      "word_count": 4010,
+      "estimated_minutes": 22,
+      "file": "content/books/chintamani/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "६. लोभ और प्रीति (आकर्षण व आसक्ति)",
+      "block_count": 78,
+      "word_count": 9220,
+      "estimated_minutes": 51,
+      "file": "content/books/chintamani/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "७. घृणा (जुगुप्सा व मानसिक दूरी)",
+      "block_count": 29,
+      "word_count": 3015,
+      "estimated_minutes": 17,
+      "file": "content/books/chintamani/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "८. ईर्ष्या (असंतोष व डाह की मीमांसा)",
+      "block_count": 35,
+      "word_count": 5500,
+      "estimated_minutes": 31,
+      "file": "content/books/chintamani/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "९. भय (डर, संकोच और कातरता)",
+      "block_count": 18,
+      "word_count": 2252,
+      "estimated_minutes": 13,
+      "file": "content/books/chintamani/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१०. क्रोध (अमर्ष, बैर और प्रतिशोध)",
+      "block_count": 22,
+      "word_count": 2972,
+      "estimated_minutes": 17,
+      "file": "content/books/chintamani/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "११. कविता क्या है (काव्य-शास्त्र व रसानुभूति की आधारशिला)",
+      "block_count": 236,
+      "word_count": 13465,
+      "estimated_minutes": 75,
+      "file": "content/books/chintamani/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "१२. भारतेन्दु हरिश्चन्द्र (आधुनिक युग-प्रवर्तक का मूल्यांकन)",
+      "block_count": 102,
+      "word_count": 3656,
+      "estimated_minutes": 20,
+      "file": "content/books/chintamani/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "१३. तुलसी का भक्ति मार्ग (लोकमंगल की साधना)",
+      "block_count": 44,
+      "word_count": 2119,
+      "estimated_minutes": 12,
+      "file": "content/books/chintamani/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "१४. 'मानस' की धर्म-भूमि (रामचरितमानस का दार्शनिक विस्तार)",
+      "block_count": 17,
+      "word_count": 1756,
+      "estimated_minutes": 10,
+      "file": "content/books/chintamani/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "१५. काव्य में लोक-मंगल की साधनावस्था",
+      "block_count": 41,
+      "word_count": 3869,
+      "estimated_minutes": 21,
+      "file": "content/books/chintamani/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "१६. साधारणीकरण और व्यक्ति-वैचित्र्यवाद",
+      "block_count": 38,
+      "word_count": 4593,
+      "estimated_minutes": 26,
+      "file": "content/books/chintamani/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "१७. रसात्मक बोध के विविध रूप",
+      "block_count": 106,
+      "word_count": 8988,
+      "estimated_minutes": 50,
+      "file": "content/books/chintamani/ch_17.json"
+    }
+  ]
+}

@@ -93,6 +93,30 @@
     ]
   },
   {
+    "id": "bihari-satsai",
+    "title": "बिहारी सतसई (रत्नाकर)",
+    "title_en": "Bihari Satsai (Ratnakar)",
+    "author": "कविवर बिहारी लाल",
+    "author_en": "Bihari Lal",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "'सतसैया के दोहरे, ज्यों नावक के तीर। देखन में छोटे लगें, घाव करें गंभीर।' रीतिकाल के श्रेष्ठतम मुक्तक कवि बिहारी लाल के अमर दोहे, जगन्नाथदास 'रत्नाकर' की प्रामाणिक व्याख्या सहित।",
+    "cover_image": "",
+    "published_year": 1662,
+    "total_chapters": 8,
+    "estimated_reading_minutes": 733,
+    "keywords": [
+      "bihari satsai",
+      "bihari ratnakar",
+      "doha",
+      "reetikaal",
+      "jagannathdas ratnakar",
+      "shringar",
+      "neeti",
+      "bhakti"
+    ]
+  },
+  {
     "id": "bikhare-moti",
     "title": "बिखरे मोती",
     "title_en": "Bikhare Moti",
@@ -185,6 +209,30 @@
       "tilism",
       "devaki nandan khatri",
       "fantasy"
+    ]
+  },
+  {
+    "id": "chintamani",
+    "title": "चिन्तामणि",
+    "title_en": "Chintamani",
+    "author": "आचार्य रामचंद्र शुक्ल",
+    "author_en": "Acharya Ramchandra Shukla",
+    "category": "व्यंग्य व निबंध",
+    "category_en": "Satire & Essays",
+    "description": "हिन्दी गद्य और आलोचना की सर्वोपरि कृति। 'उत्साह', 'क्रोध', 'भय', 'श्रद्धा-भक्ति' और कालजयी निबंध 'कविता क्या है' समेत मानवीय मनोविकारों और काव्य-सौंदर्य का अनुपम दार्शनिक विश्लेषण।",
+    "cover_image": "",
+    "published_year": 1939,
+    "total_chapters": 17,
+    "estimated_reading_minutes": 459,
+    "keywords": [
+      "chintamani",
+      "ramchandra shukla",
+      "nibandh",
+      "essays",
+      "kavita kya hai",
+      "utsaah",
+      "alochana",
+      "criticism"
     ]
   },
   {
@@ -422,6 +470,54 @@
       "premchand",
       "kahani",
       "justice"
+    ]
+  },
+  {
+    "id": "pariksha-guru",
+    "title": "परीक्षा गुरु",
+    "title_en": "Pariksha Guru",
+    "author": "लाला श्रीनिवास दास",
+    "author_en": "Lala Srinivas Das",
+    "category": "उपन्यास",
+    "category_en": "Novel",
+    "description": "आचार्य रामचंद्र शुक्ल द्वारा मान्य आधुनिक हिन्दी का प्रथम मौलिक उपन्यास। लाला मदनमोहन की फिजूलखर्ची, चापलूस मित्रों का कुचक्र और सच्चे मित्र लाला ब्रजकिशोर की निष्ठा व कानूनी विवेक की अमर शिक्षाप्रद दास्तान।",
+    "cover_image": "",
+    "published_year": 1882,
+    "total_chapters": 41,
+    "estimated_reading_minutes": 430,
+    "keywords": [
+      "pariksha guru",
+      "lala srinivas das",
+      "upanyas",
+      "first hindi novel",
+      "madanmohan",
+      "brajkishore",
+      "delhi",
+      "social novel"
+    ]
+  },
+  {
+    "id": "priyapravas",
+    "title": "प्रियप्रवास",
+    "title_en": "Priyapravas",
+    "author": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+    "author_en": "Ayodhya Singh Upadhyay 'Hariaudh'",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "'दिवस का अवसान समीप था, गगन था कुछ लोहित हो चला'— खड़ी बोली हिन्दी का प्रथम महाकाव्य। श्रीकृष्ण के मथुरा गमन पर ब्रज के विरह तथा राधा और कृष्ण के लोक-सेवी, लोकरंजक स्वरूप का अमर काव्य।",
+    "cover_image": "",
+    "published_year": 1914,
+    "total_chapters": 17,
+    "estimated_reading_minutes": 256,
+    "keywords": [
+      "priyapravas",
+      "hariaudh",
+      "mahakavya",
+      "epic",
+      "khadi boli",
+      "radha krishna",
+      "pavan dootika",
+      "mangala prasad"
     ]
   },
   {

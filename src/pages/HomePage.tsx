@@ -566,6 +566,60 @@ export const HomePage: React.FC = () => {
                 </p>
               </div>
             </div>
+
+            {/* Acharya Ramchandra Shukla Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'आचार्य रामचंद्र शुक्ल');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#172619] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                शु
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#E2C068] transition-colors">
+                    आचार्य रामचंद्र शुक्ल
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#E2C068] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'आचार्य रामचंद्र शुक्ल').length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#172619] font-semibold">हिन्दी आलोचना व निबंध के शिखर पुरुष (१८८४ – १९४१)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  चिन्तामणि, उत्साह, भय, क्रोध, कविता क्या है
+                </p>
+              </div>
+            </div>
+
+            {/* Ayodhya Singh Upadhyay Hariaudh Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', "अयोध्या सिंह उपाध्याय 'हरिऔध'");
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#541D12] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                ह
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#F5A623] transition-colors">
+                    अयोध्या सिंह उपाध्याय 'हरिऔध'
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#F5A623] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author.includes('हरिऔध')).length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#541D12] font-semibold">खड़ी बोली महाकाव्य के प्रणेता (१८६५ – १९४७)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  प्रियप्रवास, वैदेही वनवास, चोखे चौपदे, ठेठ हिन्दी का ठाठ
+                </p>
+              </div>
+            </div>
           </div>
         </section>
       </main>
