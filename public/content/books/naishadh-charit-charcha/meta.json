@@ -1,0 +1,124 @@
+{
+  "id": "naishadh-charit-charcha",
+  "title": "नैषध-चरित-चर्चा",
+  "title_en": "Naishadh-Charit-Charcha",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "निबंध व विमर्श",
+  "category_en": "Literary Criticism & Sanskrit Classics",
+  "description": "आचार्य महावीर प्रसाद द्विवेदी द्वारा रचित संस्कृत महाकाव्य 'नैषधीयचरित' और महाकवि श्रीहर्ष का युगान्तकारी समालोचनात्मक अध्ययन। श्रीहर्ष का समय, काव्य-सौंदर्य, गर्वोक्तियाँ, कथानक तथा पद्यात्मक अनुवाद सहित सम्पूर्ण ११ अध्यायों में आधुनिक हिन्दी समालोचना का प्रथम मील का पत्थर।",
+  "cover_image": "",
+  "published_year": 1899,
+  "keywords": [
+    "naishadh charit charcha",
+    "mahavir prasad dwivedi",
+    "sriharsha",
+    "naishadhiyacharita",
+    "literary criticism",
+    "sanskrit classics"
+  ],
+  "total_words": 19608,
+  "total_chapters": 11,
+  "estimated_reading_minutes": 109,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१—प्राक्कथन",
+      "block_count": 46,
+      "word_count": 877,
+      "estimated_minutes": 5,
+      "file": "content/books/naishadh-charit-charcha/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "२—श्रीहर्ष नाम के तीन पुरुष",
+      "block_count": 167,
+      "word_count": 2597,
+      "estimated_minutes": 14,
+      "file": "content/books/naishadh-charit-charcha/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "३—श्रीहर्ष-विषयक कुछ बातें",
+      "block_count": 110,
+      "word_count": 1856,
+      "estimated_minutes": 10,
+      "file": "content/books/naishadh-charit-charcha/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "४—श्रीहर्ष का समयादि-निरूपण",
+      "block_count": 167,
+      "word_count": 1584,
+      "estimated_minutes": 9,
+      "file": "content/books/naishadh-charit-charcha/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "५—श्रीहर्ष के ग्रंथ",
+      "block_count": 50,
+      "word_count": 413,
+      "estimated_minutes": 2,
+      "file": "content/books/naishadh-charit-charcha/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "६—चिंतामणि-मंत्र की सिद्धि",
+      "block_count": 83,
+      "word_count": 733,
+      "estimated_minutes": 4,
+      "file": "content/books/naishadh-charit-charcha/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "७—श्रीहर्ष की गर्वोक्तियाँ",
+      "block_count": 89,
+      "word_count": 700,
+      "estimated_minutes": 4,
+      "file": "content/books/naishadh-charit-charcha/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "८—नैषध-चरित का कथानक",
+      "block_count": 118,
+      "word_count": 1263,
+      "estimated_minutes": 7,
+      "file": "content/books/naishadh-charit-charcha/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "९—नैषध-चरित का पद्यात्मक अनुवाद",
+      "block_count": 114,
+      "word_count": 1003,
+      "estimated_minutes": 6,
+      "file": "content/books/naishadh-charit-charcha/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१०—श्रीहर्ष की कविता",
+      "block_count": 122,
+      "word_count": 1227,
+      "estimated_minutes": 7,
+      "file": "content/books/naishadh-charit-charcha/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "११—श्रीहर्ष की कविता के नमूने",
+      "block_count": 946,
+      "word_count": 7355,
+      "estimated_minutes": 41,
+      "file": "content/books/naishadh-charit-charcha/ch_11.json"
+    }
+  ]
+}

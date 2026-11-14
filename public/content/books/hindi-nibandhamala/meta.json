@@ -1,0 +1,134 @@
+{
+  "id": "hindi-nibandhamala",
+  "title": "हिंदी निबंधमाला",
+  "title_en": "Hindi Nibandhamala",
+  "author": "नागरी प्रचारिणी सभा",
+  "author_en": "Nagari Pracharini Sabha",
+  "category": "निबंध व विमर्श",
+  "category_en": "Essays / Classical Hindi Prose Anthology",
+  "description": "काशी नागरी प्रचारिणी सभा द्वारा प्रकाशित भारतेन्दु व द्विवेदी युग के मूर्धन्य विचारकों का ऐतिहासिक निबंध-संग्रह। बालकृष्ण भट्ट ('बातचीत'), सरदार पूर्णसिंह ('सच्ची वीरता'), राजा शिवप्रसाद सितारेहिन्द ('राजा भोज का सपना'), महावीर प्रसाद द्विवेदी, रामचंद्र शुक्ल, श्यामसुंदर दास, माधवप्रसाद मिश्र के १२ अमर गद्य-रत्न।",
+  "cover_image": "",
+  "published_year": 1920,
+  "keywords": [
+    "hindi nibandhamala",
+    "nagari pracharini sabha",
+    "balkrishna bhatt",
+    "puran singh",
+    "ramchandra shukla",
+    "classic essays",
+    "hindi prose"
+  ],
+  "total_words": 37426,
+  "total_chapters": 12,
+  "estimated_reading_minutes": 208,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "बातचीत — पं. बालकृष्ण भट्ट",
+      "block_count": 172,
+      "word_count": 1947,
+      "estimated_minutes": 11,
+      "file": "content/books/hindi-nibandhamala/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "सच्ची वीरता — सरदार पूर्णसिंह",
+      "block_count": 414,
+      "word_count": 4532,
+      "estimated_minutes": 25,
+      "file": "content/books/hindi-nibandhamala/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "राजा भोज का सपना — राजा शिवप्रसाद 'सितारेहिन्द'",
+      "block_count": 444,
+      "word_count": 5102,
+      "estimated_minutes": 28,
+      "file": "content/books/hindi-nibandhamala/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "कवि और कविता — आचार्य महावीर प्रसाद द्विवेदी",
+      "block_count": 40,
+      "word_count": 3653,
+      "estimated_minutes": 20,
+      "file": "content/books/hindi-nibandhamala/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "समाज और साहित्य — बाबू श्यामसुन्दर दास",
+      "block_count": 222,
+      "word_count": 2427,
+      "estimated_minutes": 13,
+      "file": "content/books/hindi-nibandhamala/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "करुणा — आचार्य रामचंद्र शुक्ल",
+      "block_count": 353,
+      "word_count": 3884,
+      "estimated_minutes": 22,
+      "file": "content/books/hindi-nibandhamala/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "क्रोध — आचार्य रामचंद्र शुक्ल",
+      "block_count": 154,
+      "word_count": 1703,
+      "estimated_minutes": 9,
+      "file": "content/books/hindi-nibandhamala/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "आपत्तियों का पर्वत — राजा केशवप्रसाद सिंह",
+      "block_count": 186,
+      "word_count": 2590,
+      "estimated_minutes": 14,
+      "file": "content/books/hindi-nibandhamala/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "रामलीला — पं. माधवप्रसाद मिश्र",
+      "block_count": 229,
+      "word_count": 2588,
+      "estimated_minutes": 14,
+      "file": "content/books/hindi-nibandhamala/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "मित्र-लाभ — गणपत जानकीराम दूबे",
+      "block_count": 182,
+      "word_count": 2198,
+      "estimated_minutes": 12,
+      "file": "content/books/hindi-nibandhamala/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "प्रकृति-सौंदर्य — गणपत जानकीराम दूबे",
+      "block_count": 296,
+      "word_count": 2984,
+      "estimated_minutes": 17,
+      "file": "content/books/hindi-nibandhamala/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "बुंदेलखंड-पर्यटन — कृष्णबलदेव वर्मा",
+      "block_count": 356,
+      "word_count": 3818,
+      "estimated_minutes": 21,
+      "file": "content/books/hindi-nibandhamala/ch_12.json"
+    }
+  ]
+}

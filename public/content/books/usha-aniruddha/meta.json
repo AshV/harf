@@ -1,0 +1,70 @@
+{
+  "id": "usha-aniruddha",
+  "title": "ऊषा-अनिरुद्ध",
+  "title_en": "Usha-Aniruddha",
+  "author": "पं. राधेश्याम कथावाचक",
+  "author_en": "Pt. Radheshyam Kathavachak",
+  "category": "नाटक",
+  "category_en": "Play / Classical Mythological Drama",
+  "description": "पं. राधेश्याम कथावाचक (१८९०–१९६३) द्वारा रचित पौराणिक शास्त्रीय नाटक। बाणासुर की पुत्री ऊषा और श्रीकृष्ण के पौत्र अनिरुद्ध का अलौकिक प्रेम, चित्रलेखा की योग-माया, बाणासुर का अहंकार और ऐतिहासिक हरि-हर (शिव-कृष्ण) युद्ध का ५ भव्य अंकों व दृश्यों में जीवंत नाट्य-रूपांतरण।",
+  "cover_image": "",
+  "published_year": 1925,
+  "keywords": [
+    "usha aniruddha",
+    "radheshyam kathavachak",
+    "mythological drama",
+    "krishna",
+    "banasur",
+    "hindi natak"
+  ],
+  "total_words": 25339,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 141,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भूमिका व निवेदन",
+      "block_count": 51,
+      "word_count": 2998,
+      "estimated_minutes": 17,
+      "file": "content/books/usha-aniruddha/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "मंगलाचरण",
+      "block_count": 41,
+      "word_count": 446,
+      "estimated_minutes": 2,
+      "file": "content/books/usha-aniruddha/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अंक पहला: कैलास व शोणितपुर",
+      "block_count": 936,
+      "word_count": 8064,
+      "estimated_minutes": 45,
+      "file": "content/books/usha-aniruddha/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अंक दूसरा: स्वप्न-दर्शन व चित्रलेखा",
+      "block_count": 1069,
+      "word_count": 9120,
+      "estimated_minutes": 51,
+      "file": "content/books/usha-aniruddha/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अंक तीसरा: नागपाश व हरिहर युद्ध",
+      "block_count": 552,
+      "word_count": 4711,
+      "estimated_minutes": 26,
+      "file": "content/books/usha-aniruddha/ch_05.json"
+    }
+  ]
+}

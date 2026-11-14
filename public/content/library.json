@@ -402,6 +402,29 @@
     ]
   },
   {
+    "id": "bhav-vilas",
+    "title": "भाव-विलास",
+    "title_en": "Bhav-Vilas",
+    "author": "महाकवि देव",
+    "author_en": "Dev",
+    "category": "कविता",
+    "category_en": "Riti Poetics, Aesthetics & Classical Verse",
+    "description": "रीतिकाल के शीर्ष आचार्य महाकवि देव (१६७३–१७६७) का रस, भाव, नायिका-भेद और काव्य-शास्त्र पर रचित अमर ग्रंथ। स्थायी भाव, विभाव, अनुभाव, सात्विक भाव, संचारी भाव, शृंगार-रस, हाव, नायक-नायिका भेद तथा अलंकारों का सम्पूर्ण ५ विलासों में गहन शास्त्रीय एवं काव्यात्मक निरूपण।",
+    "cover_image": "",
+    "published_year": 1689,
+    "total_chapters": 12,
+    "estimated_reading_minutes": 128,
+    "keywords": [
+      "bhav vilas",
+      "mahakavi dev",
+      "riti kavya",
+      "braj bhasha",
+      "rasa shastra",
+      "nayika bhed",
+      "alankara"
+    ]
+  },
+  {
     "id": "bhramargeet-saar",
     "title": "भ्रमरगीत-सार",
     "title_en": "Bhramargeet Saar",
@@ -932,6 +955,29 @@
     ]
   },
   {
+    "id": "hindi-nibandhamala",
+    "title": "हिंदी निबंधमाला",
+    "title_en": "Hindi Nibandhamala",
+    "author": "नागरी प्रचारिणी सभा",
+    "author_en": "Nagari Pracharini Sabha",
+    "category": "निबंध व विमर्श",
+    "category_en": "Essays / Classical Hindi Prose Anthology",
+    "description": "काशी नागरी प्रचारिणी सभा द्वारा प्रकाशित भारतेन्दु व द्विवेदी युग के मूर्धन्य विचारकों का ऐतिहासिक निबंध-संग्रह। बालकृष्ण भट्ट ('बातचीत'), सरदार पूर्णसिंह ('सच्ची वीरता'), राजा शिवप्रसाद सितारेहिन्द ('राजा भोज का सपना'), महावीर प्रसाद द्विवेदी, रामचंद्र शुक्ल, श्यामसुंदर दास, माधवप्रसाद मिश्र के १२ अमर गद्य-रत्न।",
+    "cover_image": "",
+    "published_year": 1920,
+    "total_chapters": 12,
+    "estimated_reading_minutes": 208,
+    "keywords": [
+      "hindi nibandhamala",
+      "nagari pracharini sabha",
+      "balkrishna bhatt",
+      "puran singh",
+      "ramchandra shukla",
+      "classic essays",
+      "hindi prose"
+    ]
+  },
+  {
     "id": "hindi-sahitya-ka-itihas",
     "title": "हिंदी साहित्य का इतिहास",
     "title_en": "Hindi Sahitya Ka Itihas",
@@ -952,6 +998,28 @@
       "ritikaal",
       "adhunik kaal",
       "criticism"
+    ]
+  },
+  {
+    "id": "hindi-vyakaran",
+    "title": "हिंदी व्याकरण",
+    "title_en": "Hindi Vyakaran",
+    "author": "पं. कामताप्रसाद गुरु",
+    "author_en": "Pt. Kamtaprasad Guru",
+    "category": "भाषा व व्याकरण",
+    "category_en": "Linguistics & Standard Grammar",
+    "description": "नागरी प्रचारिणी सभा, काशी द्वारा प्रकाशित हिन्दी भाषा और व्याकरण का सर्वमान्य, मानक एवं सर्वाधिक प्रामाणिक महाग्रंथ। हिन्दी की ऐतिहासिक उत्पत्ति, वर्ण-विचार, शब्द-भेद, संज्ञा, सर्वनाम, विशेषण, क्रिया और अव्ययों का १२ अध्यायों में सांगोपांग शास्त्रीय विवेचन।",
+    "cover_image": "",
+    "published_year": 1920,
+    "total_chapters": 12,
+    "estimated_reading_minutes": 291,
+    "keywords": [
+      "hindi vyakaran",
+      "kamtaprasad guru",
+      "nagari pracharini sabha",
+      "hindi grammar",
+      "linguistics",
+      "standard hindi"
     ]
   },
   {
@@ -1454,6 +1522,28 @@
       "political drama",
       "visakhadatta",
       "natak"
+    ]
+  },
+  {
+    "id": "naishadh-charit-charcha",
+    "title": "नैषध-चरित-चर्चा",
+    "title_en": "Naishadh-Charit-Charcha",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "निबंध व विमर्श",
+    "category_en": "Literary Criticism & Sanskrit Classics",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी द्वारा रचित संस्कृत महाकाव्य 'नैषधीयचरित' और महाकवि श्रीहर्ष का युगान्तकारी समालोचनात्मक अध्ययन। श्रीहर्ष का समय, काव्य-सौंदर्य, गर्वोक्तियाँ, कथानक तथा पद्यात्मक अनुवाद सहित सम्पूर्ण ११ अध्यायों में आधुनिक हिन्दी समालोचना का प्रथम मील का पत्थर।",
+    "cover_image": "",
+    "published_year": 1899,
+    "total_chapters": 11,
+    "estimated_reading_minutes": 109,
+    "keywords": [
+      "naishadh charit charcha",
+      "mahavir prasad dwivedi",
+      "sriharsha",
+      "naishadhiyacharita",
+      "literary criticism",
+      "sanskrit classics"
     ]
   },
   {
@@ -2407,6 +2497,28 @@
       "shail",
       "rural reform",
       "chhayavad novel"
+    ]
+  },
+  {
+    "id": "usha-aniruddha",
+    "title": "ऊषा-अनिरुद्ध",
+    "title_en": "Usha-Aniruddha",
+    "author": "पं. राधेश्याम कथावाचक",
+    "author_en": "Pt. Radheshyam Kathavachak",
+    "category": "नाटक",
+    "category_en": "Play / Classical Mythological Drama",
+    "description": "पं. राधेश्याम कथावाचक (१८९०–१९६३) द्वारा रचित पौराणिक शास्त्रीय नाटक। बाणासुर की पुत्री ऊषा और श्रीकृष्ण के पौत्र अनिरुद्ध का अलौकिक प्रेम, चित्रलेखा की योग-माया, बाणासुर का अहंकार और ऐतिहासिक हरि-हर (शिव-कृष्ण) युद्ध का ५ भव्य अंकों व दृश्यों में जीवंत नाट्य-रूपांतरण।",
+    "cover_image": "",
+    "published_year": 1925,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 141,
+    "keywords": [
+      "usha aniruddha",
+      "radheshyam kathavachak",
+      "mythological drama",
+      "krishna",
+      "banasur",
+      "hindi natak"
     ]
   },
   {

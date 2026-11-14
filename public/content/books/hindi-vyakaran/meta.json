@@ -1,0 +1,133 @@
+{
+  "id": "hindi-vyakaran",
+  "title": "हिंदी व्याकरण",
+  "title_en": "Hindi Vyakaran",
+  "author": "पं. कामताप्रसाद गुरु",
+  "author_en": "Pt. Kamtaprasad Guru",
+  "category": "भाषा व व्याकरण",
+  "category_en": "Linguistics & Standard Grammar",
+  "description": "नागरी प्रचारिणी सभा, काशी द्वारा प्रकाशित हिन्दी भाषा और व्याकरण का सर्वमान्य, मानक एवं सर्वाधिक प्रामाणिक महाग्रंथ। हिन्दी की ऐतिहासिक उत्पत्ति, वर्ण-विचार, शब्द-भेद, संज्ञा, सर्वनाम, विशेषण, क्रिया और अव्ययों का १२ अध्यायों में सांगोपांग शास्त्रीय विवेचन।",
+  "cover_image": "",
+  "published_year": 1920,
+  "keywords": [
+    "hindi vyakaran",
+    "kamtaprasad guru",
+    "nagari pracharini sabha",
+    "hindi grammar",
+    "linguistics",
+    "standard hindi"
+  ],
+  "total_words": 52375,
+  "total_chapters": 12,
+  "estimated_reading_minutes": 291,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रस्तावना",
+      "block_count": 106,
+      "word_count": 2279,
+      "estimated_minutes": 13,
+      "file": "content/books/hindi-vyakaran/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "हिंदी की उत्पत्ति",
+      "block_count": 397,
+      "word_count": 5746,
+      "estimated_minutes": 32,
+      "file": "content/books/hindi-vyakaran/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "वर्ण विचार",
+      "block_count": 583,
+      "word_count": 6427,
+      "estimated_minutes": 36,
+      "file": "content/books/hindi-vyakaran/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "शब्द-भेद",
+      "block_count": 105,
+      "word_count": 2739,
+      "estimated_minutes": 15,
+      "file": "content/books/hindi-vyakaran/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "संज्ञा",
+      "block_count": 116,
+      "word_count": 3142,
+      "estimated_minutes": 17,
+      "file": "content/books/hindi-vyakaran/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "सर्वनाम",
+      "block_count": 477,
+      "word_count": 7801,
+      "estimated_minutes": 43,
+      "file": "content/books/hindi-vyakaran/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "विशेषण",
+      "block_count": 709,
+      "word_count": 5927,
+      "estimated_minutes": 33,
+      "file": "content/books/hindi-vyakaran/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "क्रिया",
+      "block_count": 242,
+      "word_count": 3306,
+      "estimated_minutes": 18,
+      "file": "content/books/hindi-vyakaran/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "क्रिया-विशेषण",
+      "block_count": 200,
+      "word_count": 5079,
+      "estimated_minutes": 28,
+      "file": "content/books/hindi-vyakaran/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "संबंध-सूचक",
+      "block_count": 163,
+      "word_count": 3530,
+      "estimated_minutes": 20,
+      "file": "content/books/hindi-vyakaran/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "समुच्चय-बोधक",
+      "block_count": 197,
+      "word_count": 5575,
+      "estimated_minutes": 31,
+      "file": "content/books/hindi-vyakaran/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "विस्मयादि-बोधक",
+      "block_count": 44,
+      "word_count": 824,
+      "estimated_minutes": 5,
+      "file": "content/books/hindi-vyakaran/ch_12.json"
+    }
+  ]
+}

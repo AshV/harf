@@ -1009,6 +1009,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#F7DC6F',
     badgeBg: 'bg-[#F7DC6F]/15 text-[#FCF3CF]',
     motif: '✦ 🪶 ✦'
+  },
+  'hindi-vyakaran': {
+    bgGradient: 'from-[#0F1E36] via-[#1A2F50] to-[#0A1526]',
+    borderColor: 'border-[#F4D03F]/40',
+    titleColor: 'text-[#FEF9E7]',
+    authorColor: 'text-[#F4D03F]',
+    accentColor: '#F4D03F',
+    badgeBg: 'bg-[#F4D03F]/15 text-[#FCF3CF]',
+    motif: '✦ 📖 ✦'
+  },
+  'bhav-vilas': {
+    bgGradient: 'from-[#4A151B] via-[#661E26] to-[#2B0C10]',
+    borderColor: 'border-[#F5B041]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F5B041]',
+    accentColor: '#F5B041',
+    badgeBg: 'bg-[#F5B041]/15 text-[#FEF9E7]',
+    motif: '❖ 🪷 ❖'
+  },
+  'naishadh-charit-charcha': {
+    bgGradient: 'from-[#0E2F24] via-[#174536] to-[#092018]',
+    borderColor: 'border-[#58D68D]/40',
+    titleColor: 'text-[#E8F8F0]',
+    authorColor: 'text-[#58D68D]',
+    accentColor: '#58D68D',
+    badgeBg: 'bg-[#58D68D]/15 text-[#D4EFDF]',
+    motif: '✦ 📜 ✦'
+  },
+  'hindi-nibandhamala': {
+    bgGradient: 'from-[#3D1A12] via-[#57261B] to-[#26100B]',
+    borderColor: 'border-[#E59866]/40',
+    titleColor: 'text-[#FFF5EE]',
+    authorColor: 'text-[#E59866]',
+    accentColor: '#E59866',
+    badgeBg: 'bg-[#E59866]/15 text-[#EDBB99]',
+    motif: '❖ 🖋️ ❖'
+  },
+  'usha-aniruddha': {
+    bgGradient: 'from-[#421A2C] via-[#5C243E] to-[#2B101D]',
+    borderColor: 'border-[#F1948A]/40',
+    titleColor: 'text-[#FFF5F8]',
+    authorColor: 'text-[#F1948A]',
+    accentColor: '#F1948A',
+    badgeBg: 'bg-[#F1948A]/15 text-[#FDEDEC]',
+    motif: '✦ 🌅 ✦'
   }
 };
 

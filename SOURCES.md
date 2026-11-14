@@ -1324,3 +1324,63 @@
 
 ---
 
+### 111. हिंदी व्याकरण (Hindi Vyakaran)
+- **रचनाकार (Author):** पं. कामताप्रसाद गुरु (Pt. Kamtaprasad Guru)
+- **विधा (Category):** भाषा व व्याकरण (Linguistics & Standard Grammar)
+- **मूल प्रकाशन वर्ष (Published Year):** 1920
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/हिंदी_व्याकरण)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 12 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२० नागरी प्रचारिणी सभा, काशी से प्रकाशित पं. कामताप्रसाद गुरु (१८७५–१९२७) का सर्वमान्य मानक व्याकरण ग्रंथ।
+
+---
+
+### 112. भाव-विलास (Bhav-Vilas)
+- **रचनाकार (Author):** महाकवि देव (Dev)
+- **विधा (Category):** कविता (Riti Poetics, Aesthetics & Classical Verse)
+- **मूल प्रकाशन वर्ष (Published Year):** 1689
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/भाव-विलास)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 12 भाग / अध्याय
+- **सत्यापन टिप्पणी:** रीतिकाल के महाकवि देव (१६७३–१७६७) का सम्पूर्ण ५ विलासों व १२ अध्यायों का रस व काव्य-शास्त्रीय महाग्रंथ।
+
+---
+
+### 113. नैषध-चरित-चर्चा (Naishadh-Charit-Charcha)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** निबंध व विमर्श (Literary Criticism & Sanskrit Classics)
+- **मूल प्रकाशन वर्ष (Published Year):** 1899
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/नैषध-चरित-चर्चा)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 11 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १८९९ (इंडियन प्रेस, प्रयाग) से प्रकाशित आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) का श्रीहर्ष और नैषध-चरित पर ११ अध्यायों का ऐतिहासिक समालोचना ग्रंथ।
+
+---
+
+### 114. हिंदी निबंधमाला (Hindi Nibandhamala)
+- **रचनाकार (Author):** नागरी प्रचारिणी सभा (Nagari Pracharini Sabha)
+- **विधा (Category):** निबंध व विमर्श (Essays / Classical Hindi Prose Anthology)
+- **मूल प्रकाशन वर्ष (Published Year):** 1920
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/हिंदी_निबंधमाला-१)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 12 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२० नागरी प्रचारिणी सभा, काशी द्वारा संकलित बालकृष्ण भट्ट, सरदार पूर्णसिंह, राजा शिवप्रसाद, रामचंद्र शुक्ल, श्यामसुंदर दास आदि के १२ अमर निबंध।
+
+---
+
+### 115. ऊषा-अनिरुद्ध (Usha-Aniruddha)
+- **रचनाकार (Author):** पं. राधेश्याम कथावाचक (Pt. Radheshyam Kathavachak)
+- **विधा (Category):** नाटक (Play / Classical Mythological Drama)
+- **मूल प्रकाशन वर्ष (Published Year):** 1925
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/ऊषा-अनिरुद्ध)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 5 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२५ (बरेली) से प्रकाशित पं. राधेश्याम कथावाचक (१८९०–१९६३) का सम्पूर्ण ५ खंडों व अंकों का सुप्रसिद्ध पौराणिक नाटक।
+
+---
+
