@@ -180,6 +180,28 @@
     ]
   },
   {
+    "id": "apsara",
+    "title": "अप्सरा",
+    "title_en": "Apsara",
+    "author": "सूर्यकांत त्रिपाठी 'निराला'",
+    "author_en": "Suryakant Tripathi 'Nirala'",
+    "category": "उपन्यास",
+    "category_en": "Novel / Social Realism",
+    "description": "महाप्राण सूर्यकान्त त्रिपाठी 'निराला' द्वारा रचित प्रसिद्ध सामाजिक उपन्यास। कनक और अप्सरा के माध्यम से तत्कालीन सामंती समाज की संकीर्णताओं, वेश्यावृत्ति के अभिशाप, स्त्री-अधिकारों और मानवतावादी प्रेम का १० अध्यायों में फैला अत्यंत भावुक व यथार्थपरक चित्रण।",
+    "cover_image": "",
+    "published_year": 1931,
+    "total_chapters": 10,
+    "estimated_reading_minutes": 294,
+    "keywords": [
+      "apsara",
+      "suryakant tripathi nirala",
+      "nirala",
+      "social novel",
+      "hindi novel",
+      "realism"
+    ]
+  },
+  {
     "id": "awaragard",
     "title": "आवारागर्द",
     "title_en": "Awaragard",
@@ -310,6 +332,29 @@
       "jivan charitra",
       "biography",
       "nagari pracharini sabha"
+    ]
+  },
+  {
+    "id": "bharatvarsh-ka-itihas",
+    "title": "भारतवर्ष का इतिहास",
+    "title_en": "Bharatvarsh Ka Itihas",
+    "author": "लाला सीताराम 'भूप'",
+    "author_en": "Lala Sitaram 'Bhup'",
+    "category": "इतिहास व संस्कृति",
+    "category_en": "History & Civilisation",
+    "description": "लाला सीताराम 'भूप' एवं ई॰ मार्सडेन द्वारा रचित भारतवर्ष का वृहत् प्रामाणिक इतिहास। प्राचीन वैदिक काल, रामायण व महाभारत काल, बुद्ध व महावीर का युग, मौर्य व गुप्त साम्राज्य, राजपूत काल, दिल्ली सल्तनत, मुग़ल काल और मराठा उत्कर्ष तक का सम्पूर्ण ४५ अध्यायों में विस्तृत व रोचक ऐतिहासिक अध्ययन।",
+    "cover_image": "",
+    "published_year": 1919,
+    "total_chapters": 45,
+    "estimated_reading_minutes": 281,
+    "keywords": [
+      "bharatvarsh ka itihas",
+      "lala sitaram bhup",
+      "indian history",
+      "vedic period",
+      "buddhism",
+      "mughal empire",
+      "maratha"
     ]
   },
   {
@@ -819,6 +864,27 @@
       "upanyas",
       "novel",
       "kisan"
+    ]
+  },
+  {
+    "id": "heera-bai",
+    "title": "हीराबाई",
+    "title_en": "Heera-Bai",
+    "author": "पं. किशोरीलाल गोस्वामी",
+    "author_en": "Pt. Kishorilal Goswami",
+    "category": "उपन्यास",
+    "category_en": "Novel / Historical Romance",
+    "description": "पं. किशोरीलाल गोस्वामी द्वारा रचित ऐतिहासिक-रोमांचक उपन्यास। अलाउद्दीन खिलजी के काल की ऐतिहासिक पृष्ठभूमि, वीरता, छल, नारी-सम्मान और शौर्य की अमर कथा।",
+    "cover_image": "",
+    "published_year": 1905,
+    "total_chapters": 2,
+    "estimated_reading_minutes": 19,
+    "keywords": [
+      "heera bai",
+      "kishorilal goswami",
+      "historical novel",
+      "alauddin khilji",
+      "early hindi novel"
     ]
   },
   {
@@ -1663,6 +1729,29 @@
     ]
   },
   {
+    "id": "raghuvansh",
+    "title": "रघुवंश",
+    "title_en": "Raghuvansh",
+    "author": "महावीर प्रसाद द्विवेदी",
+    "author_en": "Mahavir Prasad Dwivedi",
+    "category": "कविता",
+    "category_en": "Classical Epic & Literary Translation",
+    "description": "महाकवि कालिदास रचित महाकाव्य 'रघुवंश' का आचार्य महावीर प्रसाद द्विवेदी द्वारा किया गया प्रामाणिक गद्यानुवाद एवं विस्तृत साहित्यिक विमर्श। सूर्यवंश के प्रतापी राजाओं—दिलीप, रघु, अज, दशरथ, श्रीराम, कुश और उनके उत्तरवर्ती राजाओं के यश और आदर्शों का सम्पूर्ण १९ सर्गों व ५ भूमिका-खंडों में सांगोपांग आख्यान।",
+    "cover_image": "",
+    "published_year": 1912,
+    "total_chapters": 24,
+    "estimated_reading_minutes": 650,
+    "keywords": [
+      "raghuvansh",
+      "kalidasa",
+      "mahavir prasad dwivedi",
+      "sanskrit classic",
+      "suryavansh",
+      "epic poetry",
+      "classical hindi"
+    ]
+  },
+  {
     "id": "rahim-dohavali",
     "title": "रहीम दोहावली",
     "title_en": "Rahim Dohavali",
@@ -1684,6 +1773,30 @@
       "bhakti",
       "barvai",
       "madanashthak"
+    ]
+  },
+  {
+    "id": "rahim-kavitavali",
+    "title": "रहीम-कवितावली",
+    "title_en": "Rahim-Kavitavali",
+    "author": "कविवर रहीम",
+    "author_en": "Rahim",
+    "category": "कविता",
+    "category_en": "Classical Devotional & Aesthetic Poetry",
+    "description": "अब्दुर्रहीम ख़ान-ए-ख़ानाँ 'रहीम' (१५५६–१६२७) का प्रामाणिक समग्र काव्य-संग्रह। सुरेन्द्रनाथ तिवारी द्वारा सम्पादित इस संकलन में दोहे और सोरठों के अतिरिक्त बरवै नायिका भेद, मदनाष्टक, नगर-शोभा, खेट-कौतुक (ज्योतिष काव्य) तथा स्फुट हिन्दी व संस्कृत छन्दों का सम्पूर्ण १० खंडों में दुर्लभ समाहार।",
+    "cover_image": "",
+    "published_year": 1926,
+    "total_chapters": 10,
+    "estimated_reading_minutes": 100,
+    "keywords": [
+      "rahim kavitavali",
+      "rahim",
+      "barvai nayika bhed",
+      "madanastak",
+      "nagar shobha",
+      "khet kautuk",
+      "braj bhasha",
+      "riti poetry"
     ]
   },
   {

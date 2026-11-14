@@ -1,0 +1,117 @@
+{
+  "id": "rahim-kavitavali",
+  "title": "रहीम-कवितावली",
+  "title_en": "Rahim-Kavitavali",
+  "author": "कविवर रहीम",
+  "author_en": "Rahim",
+  "category": "कविता",
+  "category_en": "Classical Devotional & Aesthetic Poetry",
+  "description": "अब्दुर्रहीम ख़ान-ए-ख़ानाँ 'रहीम' (१५५६–१६२७) का प्रामाणिक समग्र काव्य-संग्रह। सुरेन्द्रनाथ तिवारी द्वारा सम्पादित इस संकलन में दोहे और सोरठों के अतिरिक्त बरवै नायिका भेद, मदनाष्टक, नगर-शोभा, खेट-कौतुक (ज्योतिष काव्य) तथा स्फुट हिन्दी व संस्कृत छन्दों का सम्पूर्ण १० खंडों में दुर्लभ समाहार।",
+  "cover_image": "",
+  "published_year": 1926,
+  "keywords": [
+    "rahim kavitavali",
+    "rahim",
+    "barvai nayika bhed",
+    "madanastak",
+    "nagar shobha",
+    "khet kautuk",
+    "braj bhasha",
+    "riti poetry"
+  ],
+  "total_words": 18067,
+  "total_chapters": 10,
+  "estimated_reading_minutes": 100,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "रहीम का परिचय",
+      "block_count": 359,
+      "word_count": 7652,
+      "estimated_minutes": 43,
+      "file": "content/books/rahim-kavitavali/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "दोहे",
+      "block_count": 707,
+      "word_count": 5685,
+      "estimated_minutes": 32,
+      "file": "content/books/rahim-kavitavali/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "सोरठे",
+      "block_count": 37,
+      "word_count": 286,
+      "estimated_minutes": 2,
+      "file": "content/books/rahim-kavitavali/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "बरवै नायिका भेद",
+      "block_count": 448,
+      "word_count": 2214,
+      "estimated_minutes": 12,
+      "file": "content/books/rahim-kavitavali/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "ख़ानख़ाना-कृत बरवै",
+      "block_count": 64,
+      "word_count": 379,
+      "estimated_minutes": 2,
+      "file": "content/books/rahim-kavitavali/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "मदनाष्टक",
+      "block_count": 46,
+      "word_count": 247,
+      "estimated_minutes": 1,
+      "file": "content/books/rahim-kavitavali/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "नगर-शोभा-वर्णन",
+      "block_count": 44,
+      "word_count": 318,
+      "estimated_minutes": 2,
+      "file": "content/books/rahim-kavitavali/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "खेट-कौतुक",
+      "block_count": 24,
+      "word_count": 201,
+      "estimated_minutes": 1,
+      "file": "content/books/rahim-kavitavali/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "रहीम के स्फुट हिन्दी-छन्द",
+      "block_count": 51,
+      "word_count": 493,
+      "estimated_minutes": 3,
+      "file": "content/books/rahim-kavitavali/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "रहीम के स्फुट संस्कृत-छन्द",
+      "block_count": 41,
+      "word_count": 592,
+      "estimated_minutes": 3,
+      "file": "content/books/rahim-kavitavali/ch_10.json"
+    }
+  ]
+}

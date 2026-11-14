@@ -1,0 +1,431 @@
+{
+  "id": "bharatvarsh-ka-itihas",
+  "title": "भारतवर्ष का इतिहास",
+  "title_en": "Bharatvarsh Ka Itihas",
+  "author": "लाला सीताराम 'भूप'",
+  "author_en": "Lala Sitaram 'Bhup'",
+  "category": "इतिहास व संस्कृति",
+  "category_en": "History & Civilisation",
+  "description": "लाला सीताराम 'भूप' एवं ई॰ मार्सडेन द्वारा रचित भारतवर्ष का वृहत् प्रामाणिक इतिहास। प्राचीन वैदिक काल, रामायण व महाभारत काल, बुद्ध व महावीर का युग, मौर्य व गुप्त साम्राज्य, राजपूत काल, दिल्ली सल्तनत, मुग़ल काल और मराठा उत्कर्ष तक का सम्पूर्ण ४५ अध्यायों में विस्तृत व रोचक ऐतिहासिक अध्ययन।",
+  "cover_image": "",
+  "published_year": 1919,
+  "keywords": [
+    "bharatvarsh ka itihas",
+    "lala sitaram bhup",
+    "indian history",
+    "vedic period",
+    "buddhism",
+    "mughal empire",
+    "maratha"
+  ],
+  "total_words": 50602,
+  "total_chapters": 45,
+  "estimated_reading_minutes": 281,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१—भारतवर्ष-उसके पहाड़ और नदियां",
+      "block_count": 12,
+      "word_count": 538,
+      "estimated_minutes": 3,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "२––प्राचीन समय में भारतवर्ष की दशा",
+      "block_count": 37,
+      "word_count": 1946,
+      "estimated_minutes": 11,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "३–आर्य",
+      "block_count": 13,
+      "word_count": 742,
+      "estimated_minutes": 4,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "४–वेदों का समय",
+      "block_count": 17,
+      "word_count": 699,
+      "estimated_minutes": 4,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "५–रामायण का समय",
+      "block_count": 20,
+      "word_count": 1105,
+      "estimated_minutes": 6,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "६—श्रीरामचन्द्र जी की कथा",
+      "block_count": 21,
+      "word_count": 1101,
+      "estimated_minutes": 6,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "७—महाभारत का समय",
+      "block_count": 11,
+      "word_count": 904,
+      "estimated_minutes": 5,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "८—कौरवों और पांडवों की लड़ाई",
+      "block_count": 12,
+      "word_count": 599,
+      "estimated_minutes": 3,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "९—हिन्दुओं का पुरातत्व",
+      "block_count": 58,
+      "word_count": 2998,
+      "estimated_minutes": 17,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१०—महात्मा बुद्ध",
+      "block_count": 20,
+      "word_count": 1264,
+      "estimated_minutes": 7,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "११—बुद्धमत",
+      "block_count": 14,
+      "word_count": 706,
+      "estimated_minutes": 4,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "१२-जैन",
+      "block_count": 10,
+      "word_count": 421,
+      "estimated_minutes": 2,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "१३–बौद्धमत का समय",
+      "block_count": 27,
+      "word_count": 1311,
+      "estimated_minutes": 7,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "१४–बौद्ध समय के बड़े बड़े राजा और उनकी रियासतें",
+      "block_count": 33,
+      "word_count": 2133,
+      "estimated_minutes": 12,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "१५—बौद्ध समय में भारतवर्ष की अवस्था",
+      "block_count": 15,
+      "word_count": 1116,
+      "estimated_minutes": 6,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "१६—पुराण",
+      "block_count": 13,
+      "word_count": 794,
+      "estimated_minutes": 4,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "१७—पौराणिक समय के हिन्दू महात्मा",
+      "block_count": 22,
+      "word_count": 893,
+      "estimated_minutes": 5,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "१८—राजपूत",
+      "block_count": 21,
+      "word_count": 928,
+      "estimated_minutes": 5,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "१९—मुसलमान",
+      "block_count": 17,
+      "word_count": 695,
+      "estimated_minutes": 4,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "२०—महमूद ग़ज़नवी",
+      "block_count": 19,
+      "word_count": 1146,
+      "estimated_minutes": 6,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "२१-मुहम्मद ग़ोरी",
+      "block_count": 21,
+      "word_count": 1108,
+      "estimated_minutes": 6,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "२२—पठान बादशाह",
+      "block_count": 11,
+      "word_count": 537,
+      "estimated_minutes": 3,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "२३—गुलामों का वंश",
+      "block_count": 35,
+      "word_count": 1660,
+      "estimated_minutes": 9,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "२४—ख़िलजी वंश",
+      "block_count": 24,
+      "word_count": 1893,
+      "estimated_minutes": 11,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "२५—तुग़लक वंश",
+      "block_count": 16,
+      "word_count": 765,
+      "estimated_minutes": 4,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "२६—तैमूर लंग",
+      "block_count": 12,
+      "word_count": 449,
+      "estimated_minutes": 2,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "२७—हिन्दुस्थान की दशा तैमूर के जाने के पीछे",
+      "block_count": 17,
+      "word_count": 754,
+      "estimated_minutes": 4,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "२८—दखिन में पठानों की चढ़ाइयां",
+      "block_count": 7,
+      "word_count": 522,
+      "estimated_minutes": 3,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "२९—बहमनी और विजयनगर के राज्य",
+      "block_count": 17,
+      "word_count": 1001,
+      "estimated_minutes": 6,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "३०—दखिन की मुसलमानी रियासतें",
+      "block_count": 18,
+      "word_count": 1077,
+      "estimated_minutes": 6,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "३१—मुग़ल वंश",
+      "block_count": 8,
+      "word_count": 320,
+      "estimated_minutes": 2,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "३२—बाबर",
+      "block_count": 27,
+      "word_count": 2032,
+      "estimated_minutes": 11,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "३३—हुमायूं",
+      "block_count": 37,
+      "word_count": 2677,
+      "estimated_minutes": 15,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "३४—सूर वंश",
+      "block_count": 21,
+      "word_count": 1211,
+      "estimated_minutes": 7,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "३५—अकबर",
+      "block_count": 35,
+      "word_count": 2302,
+      "estimated_minutes": 13,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "३६—अकबर (उत्तरार्द्ध)",
+      "block_count": 34,
+      "word_count": 1984,
+      "estimated_minutes": 11,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "३७—जहांगीर",
+      "block_count": 25,
+      "word_count": 1492,
+      "estimated_minutes": 8,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "३८—शाहजहां",
+      "block_count": 19,
+      "word_count": 1158,
+      "estimated_minutes": 6,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "३९—औरङ्गजेब",
+      "block_count": 21,
+      "word_count": 1230,
+      "estimated_minutes": 7,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "४०—भारतवासियों और यूरोपवालों में बाणिज्य व्यवहार का आरम्भ होना",
+      "block_count": 15,
+      "word_count": 650,
+      "estimated_minutes": 4,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "४१—संयुक्त ईस्ट इंडिया कम्पनी",
+      "block_count": 15,
+      "word_count": 658,
+      "estimated_minutes": 4,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "४२—शिवाजी की बढ़ती",
+      "block_count": 25,
+      "word_count": 1260,
+      "estimated_minutes": 7,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "४३—मुग़लराज की घटती",
+      "block_count": 14,
+      "word_count": 371,
+      "estimated_minutes": 2,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_43.json"
+    },
+    {
+      "id": "ch_44",
+      "number": 44,
+      "title": "४४—मरहठों की बढ़ती",
+      "block_count": 24,
+      "word_count": 1033,
+      "estimated_minutes": 6,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_44.json"
+    },
+    {
+      "id": "ch_45",
+      "number": 45,
+      "title": "४५—नादिरशाह",
+      "block_count": 8,
+      "word_count": 419,
+      "estimated_minutes": 2,
+      "file": "content/books/bharatvarsh-ka-itihas/ch_45.json"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": "raghuvansh",
+  "title": "रघुवंश",
+  "title_en": "Raghuvansh",
+  "author": "महावीर प्रसाद द्विवेदी",
+  "author_en": "Mahavir Prasad Dwivedi",
+  "category": "कविता",
+  "category_en": "Classical Epic & Literary Translation",
+  "description": "महाकवि कालिदास रचित महाकाव्य 'रघुवंश' का आचार्य महावीर प्रसाद द्विवेदी द्वारा किया गया प्रामाणिक गद्यानुवाद एवं विस्तृत साहित्यिक विमर्श। सूर्यवंश के प्रतापी राजाओं—दिलीप, रघु, अज, दशरथ, श्रीराम, कुश और उनके उत्तरवर्ती राजाओं के यश और आदर्शों का सम्पूर्ण १९ सर्गों व ५ भूमिका-खंडों में सांगोपांग आख्यान।",
+  "cover_image": "",
+  "published_year": 1912,
+  "keywords": [
+    "raghuvansh",
+    "kalidasa",
+    "mahavir prasad dwivedi",
+    "sanskrit classic",
+    "suryavansh",
+    "epic poetry",
+    "classical hindi"
+  ],
+  "total_words": 116932,
+  "total_chapters": 24,
+  "estimated_reading_minutes": 650,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भूमिका/इस अनुवाद के सम्बन्ध में निवेदन",
+      "block_count": 51,
+      "word_count": 927,
+      "estimated_minutes": 5,
+      "file": "content/books/raghuvansh/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "भूमिका/कालिदास का समय",
+      "block_count": 260,
+      "word_count": 6954,
+      "estimated_minutes": 39,
+      "file": "content/books/raghuvansh/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "भूमिका/कालिदास की कविता",
+      "block_count": 114,
+      "word_count": 2204,
+      "estimated_minutes": 12,
+      "file": "content/books/raghuvansh/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "भूमिका/कालिदास के ग्रन्थ",
+      "block_count": 166,
+      "word_count": 3946,
+      "estimated_minutes": 22,
+      "file": "content/books/raghuvansh/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "भूमिका/कालिदास का शास्त्र-ज्ञान",
+      "block_count": 83,
+      "word_count": 1089,
+      "estimated_minutes": 6,
+      "file": "content/books/raghuvansh/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "१—सन्तान-प्राप्ति के लिए राजा दिलीप का वशिष्ठ के आश्रम को जाना",
+      "block_count": 105,
+      "word_count": 5338,
+      "estimated_minutes": 30,
+      "file": "content/books/raghuvansh/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "२—नन्दिनी से राजा दिलीप का वर पाना",
+      "block_count": 118,
+      "word_count": 5308,
+      "estimated_minutes": 29,
+      "file": "content/books/raghuvansh/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "३—रघु का जन्म और राज्याभिषेक",
+      "block_count": 163,
+      "word_count": 5013,
+      "estimated_minutes": 28,
+      "file": "content/books/raghuvansh/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "४—रघु का दिग्विजय",
+      "block_count": 96,
+      "word_count": 5569,
+      "estimated_minutes": 31,
+      "file": "content/books/raghuvansh/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "५—अज का जन्म और इन्दुमती के स्वयंवर मे जाना",
+      "block_count": 146,
+      "word_count": 6270,
+      "estimated_minutes": 35,
+      "file": "content/books/raghuvansh/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "६—इन्दुमती का स्वयंवर",
+      "block_count": 169,
+      "word_count": 6767,
+      "estimated_minutes": 38,
+      "file": "content/books/raghuvansh/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "७—इन्दुमती से अज का विवाह",
+      "block_count": 324,
+      "word_count": 5565,
+      "estimated_minutes": 31,
+      "file": "content/books/raghuvansh/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "८—अज का विलाप",
+      "block_count": 164,
+      "word_count": 6534,
+      "estimated_minutes": 36,
+      "file": "content/books/raghuvansh/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "९—दशरथ का राज्यशासन, वसन्तोत्सव और आखेट",
+      "block_count": 118,
+      "word_count": 6271,
+      "estimated_minutes": 35,
+      "file": "content/books/raghuvansh/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "१०—रामचन्द्र आदि चारों भाइयों का जन्म",
+      "block_count": 79,
+      "word_count": 4219,
+      "estimated_minutes": 23,
+      "file": "content/books/raghuvansh/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "११—परशुराम का पराभव",
+      "block_count": 117,
+      "word_count": 6009,
+      "estimated_minutes": 33,
+      "file": "content/books/raghuvansh/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "१२—रावण का वध",
+      "block_count": 273,
+      "word_count": 5864,
+      "estimated_minutes": 33,
+      "file": "content/books/raghuvansh/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "१३—रामचन्द्र का अयोध्या को लौटना",
+      "block_count": 98,
+      "word_count": 5550,
+      "estimated_minutes": 31,
+      "file": "content/books/raghuvansh/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "१४—सीता का परित्याग",
+      "block_count": 127,
+      "word_count": 6081,
+      "estimated_minutes": 34,
+      "file": "content/books/raghuvansh/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "१५—रामचन्द्र का स्वर्गारोहण",
+      "block_count": 122,
+      "word_count": 5085,
+      "estimated_minutes": 28,
+      "file": "content/books/raghuvansh/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "१६—कुश की राज्यप्राप्ति, अयोध्या का फिर से बसना, ग्रीष्म का आगमन और जलविहार आदि",
+      "block_count": 143,
+      "word_count": 5627,
+      "estimated_minutes": 31,
+      "file": "content/books/raghuvansh/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "१७—राजा अतिथि का वृत्तान्त",
+      "block_count": 182,
+      "word_count": 4698,
+      "estimated_minutes": 26,
+      "file": "content/books/raghuvansh/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "१८—अतिथि के उत्तरवर्ती राजाओं की वंशावली",
+      "block_count": 105,
+      "word_count": 3220,
+      "estimated_minutes": 18,
+      "file": "content/books/raghuvansh/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "१९—अग्निवर्ण का आख्यान",
+      "block_count": 41,
+      "word_count": 2824,
+      "estimated_minutes": 16,
+      "file": "content/books/raghuvansh/ch_24.json"
+    }
+  ]
+}

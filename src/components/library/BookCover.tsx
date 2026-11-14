@@ -919,6 +919,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#E59866',
     badgeBg: 'bg-[#E59866]/15 text-[#EDBB99]',
     motif: '✦ 🎭 ✦'
+  },
+  raghuvansh: {
+    bgGradient: 'from-[#4A1D0B] via-[#662810] to-[#2B1006]',
+    borderColor: 'border-[#F5B041]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F5B041]',
+    accentColor: '#F5B041',
+    badgeBg: 'bg-[#F5B041]/15 text-[#FEF9E7]',
+    motif: '✦ ☀️ ✦'
+  },
+  'rahim-kavitavali': {
+    bgGradient: 'from-[#0D2E1C] via-[#16472D] to-[#081C11]',
+    borderColor: 'border-[#58D68D]/40',
+    titleColor: 'text-[#E8F8F0]',
+    authorColor: 'text-[#58D68D]',
+    accentColor: '#58D68D',
+    badgeBg: 'bg-[#58D68D]/15 text-[#D4EFDF]',
+    motif: '❖ 📜 ❖'
+  },
+  apsara: {
+    bgGradient: 'from-[#3B1124] via-[#571935] to-[#240A16]',
+    borderColor: 'border-[#F1948A]/40',
+    titleColor: 'text-[#FFF5F8]',
+    authorColor: 'text-[#F1948A]',
+    accentColor: '#F1948A',
+    badgeBg: 'bg-[#F1948A]/15 text-[#FDEDEC]',
+    motif: '✦ ✨ ✦'
+  },
+  'bharatvarsh-ka-itihas': {
+    bgGradient: 'from-[#381E11] via-[#522B18] to-[#24130A]',
+    borderColor: 'border-[#E59866]/40',
+    titleColor: 'text-[#FAF5EE]',
+    authorColor: 'text-[#E59866]',
+    accentColor: '#E59866',
+    badgeBg: 'bg-[#E59866]/15 text-[#FADBD8]',
+    motif: '❖ 🏛️ ❖'
+  },
+  'heera-bai': {
+    bgGradient: 'from-[#0E1F3B] via-[#16305C] to-[#081324]',
+    borderColor: 'border-[#85C1E9]/40',
+    titleColor: 'text-[#F0F8FF]',
+    authorColor: 'text-[#85C1E9]',
+    accentColor: '#85C1E9',
+    badgeBg: 'bg-[#85C1E9]/15 text-[#D6EAF8]',
+    motif: '✦ 💎 ✦'
   }
 };
 
