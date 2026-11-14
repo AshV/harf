@@ -724,3 +724,63 @@
 
 ---
 
+### 61. कहानी खत्म हो गई (Kahani Khatm Ho Gayi)
+- **रचनाकार (Author):** आचार्य चतुरसेन शास्त्री (Acharya Chatursen Shastri)
+- **विधा (Category):** कहानी संग्रह (Short Stories)
+- **मूल प्रकाशन वर्ष (Published Year):** 1961
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/कहानी_खत्म_हो_गई)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 24 भाग / अध्याय
+- **सत्यापन टिप्पणी:** आचार्य चतुरसेन शास्त्री (१८९१–१९६०) की २४ अमर कहानियों का संग्रह, भारतीय कॉपीराइट अधिनियम १९५७ के तहत सार्वजनिक डोमेन।
+
+---
+
+### 62. आँधी (Aandhi)
+- **रचनाकार (Author):** जयशंकर प्रसाद (Jaishankar Prasad)
+- **विधा (Category):** कहानी संग्रह (Short Stories)
+- **मूल प्रकाशन वर्ष (Published Year):** 1931
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/आँधी)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 10 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९३१ भारती-भण्डार (लीडर प्रेस, प्रयाग) से सत्यापित जयशंकर प्रसाद का १० प्रतिनिधि कहानियों का संग्रह।
+
+---
+
+### 63. कर्बला (Karbala)
+- **रचनाकार (Author):** मुंशी प्रेमचंद (Munshi Premchand)
+- **विधा (Category):** नाटक (Play / Historical Drama)
+- **मूल प्रकाशन वर्ष (Published Year):** 1924
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/कर्बला)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 6 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२४ हिन्दी पुस्तक एजेंसी, कलकत्ता से सत्यापित मुंशी प्रेमचंद का ४ अंकों का ऐतिहासिक नाटक।
+
+---
+
+### 64. संग्राम (Sangram)
+- **रचनाकार (Author):** मुंशी प्रेमचंद (Munshi Premchand)
+- **विधा (Category):** नाटक (Play / Social Drama)
+- **मूल प्रकाशन वर्ष (Published Year):** 1923
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/संग्राम)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 5 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२३ हिन्दी पुस्तक एजेंसी से सत्यापित मुंशी प्रेमचंद का ५ अंकों व ३९ दृश्यों का यथार्थवादी सामाजिक नाटक।
+
+---
+
+### 65. चोखे चौपदे (Chokhe Chaupade)
+- **रचनाकार (Author):** अयोध्या सिंह उपाध्याय 'हरिऔध' (Ayodhya Singh Upadhyay 'Hariaudh')
+- **विधा (Category):** कविता (Poetry)
+- **मूल प्रकाशन वर्ष (Published Year):** 1924
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/चोखे_चौपदे)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 20 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२४ प्रथम संस्करण (लीडर प्रेस, प्रयाग) से सत्यापित अयोध्या सिंह उपाध्याय हरिऔध का मुहावरेदार बोलचाल के चौपदों का संग्रह।
+
+---
+

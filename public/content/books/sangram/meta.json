@@ -1,0 +1,69 @@
+{
+  "id": "sangram",
+  "title": "संग्राम",
+  "title_en": "Sangram",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "नाटक",
+  "category_en": "Play / Social Drama",
+  "description": "मुंशी प्रेमचंद द्वारा रचित ५ अंकों और ३९ दृश्यों का यथार्थवादी सामाजिक नाटक, जिसमें भारतीय कृषक जीवन, ज़मींदारी शोषण, ग्रामीण चेतना और स्वाभिमान के संघर्ष की महागाथा वर्णित है।",
+  "cover_image": "",
+  "published_year": 1923,
+  "keywords": [
+    "sangram",
+    "munshi premchand",
+    "social drama",
+    "kisan andolan",
+    "natak"
+  ],
+  "total_words": 48108,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 267,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रथम अंक (दृश्य १ से ७)",
+      "block_count": 688,
+      "word_count": 9234,
+      "estimated_minutes": 51,
+      "file": "content/books/sangram/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "द्वितीय अंक (दृश्य १ से १०)",
+      "block_count": 1037,
+      "word_count": 11641,
+      "estimated_minutes": 65,
+      "file": "content/books/sangram/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तृतीय अंक (दृश्य १ से ९)",
+      "block_count": 499,
+      "word_count": 10637,
+      "estimated_minutes": 59,
+      "file": "content/books/sangram/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चतुर्थ अंक (दृश्य १ से ७)",
+      "block_count": 551,
+      "word_count": 10442,
+      "estimated_minutes": 58,
+      "file": "content/books/sangram/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पंचम अंक (दृश्य १ से ६)",
+      "block_count": 383,
+      "word_count": 6154,
+      "estimated_minutes": 34,
+      "file": "content/books/sangram/ch_05.json"
+    }
+  ]
+}

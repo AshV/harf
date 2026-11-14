@@ -1,0 +1,78 @@
+{
+  "id": "karbala",
+  "title": "कर्बला",
+  "title_en": "Karbala",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "नाटक",
+  "category_en": "Play / Historical Drama",
+  "description": "मुंशी प्रेमचंद द्वारा रचित ऐतिहासिक नाटक, जो हज़रत इमाम हुसैन के सत्य, न्याय और मानवीय मूल्यों के लिए दिए गए सर्वोच्च बलिदान तथा कर्बला की ऐतिहासिक पृष्ठभूमि को जीवंत करता है।",
+  "cover_image": "",
+  "published_year": 1924,
+  "keywords": [
+    "karbala",
+    "munshi premchand",
+    "historical drama",
+    "imam hussain",
+    "natak"
+  ],
+  "total_words": 54313,
+  "total_chapters": 6,
+  "estimated_reading_minutes": 302,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "नाटक का कथानक एवं ऐतिहासिक भूमिका",
+      "block_count": 150,
+      "word_count": 6437,
+      "estimated_minutes": 36,
+      "file": "content/books/karbala/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "नाटक के पात्र (पात्र-परिचय)",
+      "block_count": 32,
+      "word_count": 163,
+      "estimated_minutes": 1,
+      "file": "content/books/karbala/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "प्रथम अंक",
+      "block_count": 355,
+      "word_count": 8071,
+      "estimated_minutes": 45,
+      "file": "content/books/karbala/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "दूसरा अंक",
+      "block_count": 748,
+      "word_count": 17116,
+      "estimated_minutes": 95,
+      "file": "content/books/karbala/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "तीसरा अंक",
+      "block_count": 243,
+      "word_count": 5650,
+      "estimated_minutes": 31,
+      "file": "content/books/karbala/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "चौथा अंक",
+      "block_count": 746,
+      "word_count": 16876,
+      "estimated_minutes": 94,
+      "file": "content/books/karbala/ch_06.json"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "chokhe-chaupade",
+  "title": "चोखे चौपदे",
+  "title_en": "Chokhe Chaupade",
+  "author": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+  "author_en": "Ayodhya Singh Upadhyay 'Hariaudh'",
+  "category": "कविता",
+  "category_en": "Poetry",
+  "description": "महाकवि 'हरिऔध' द्वारा विशुद्ध बोलचाल की मुहावरेदार ठेठ हिन्दी में रचित कालजयी चौपदों का काव्य-संग्रह, जिसमें लोक-जीवन की चुटीली सीखें, मार्मिक व्यंग्य और अनूठा भाषा-सौंदर्य समाहित है।",
+  "cover_image": "",
+  "published_year": 1924,
+  "keywords": [
+    "chokhe chaupade",
+    "hariaudh",
+    "muhavare",
+    "theth hindi",
+    "kavita",
+    "chaupade"
+  ],
+  "total_words": 26423,
+  "total_chapters": 20,
+  "estimated_reading_minutes": 147,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "केसर की क्यारी",
+      "block_count": 185,
+      "word_count": 1216,
+      "estimated_minutes": 7,
+      "file": "content/books/chokhe-chaupade/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अछूते फूल",
+      "block_count": 121,
+      "word_count": 712,
+      "estimated_minutes": 4,
+      "file": "content/books/chokhe-chaupade/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अनमोल हीरे",
+      "block_count": 255,
+      "word_count": 1568,
+      "estimated_minutes": 9,
+      "file": "content/books/chokhe-chaupade/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अन्योक्ति",
+      "block_count": 168,
+      "word_count": 1065,
+      "estimated_minutes": 6,
+      "file": "content/books/chokhe-chaupade/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "कुछ कलेजे",
+      "block_count": 197,
+      "word_count": 1156,
+      "estimated_minutes": 6,
+      "file": "content/books/chokhe-chaupade/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "कोर कसर",
+      "block_count": 154,
+      "word_count": 948,
+      "estimated_minutes": 5,
+      "file": "content/books/chokhe-chaupade/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "गागर में सागर",
+      "block_count": 218,
+      "word_count": 1414,
+      "estimated_minutes": 8,
+      "file": "content/books/chokhe-chaupade/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "गाल",
+      "block_count": 280,
+      "word_count": 1739,
+      "estimated_minutes": 10,
+      "file": "content/books/chokhe-chaupade/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "जाति के कलंक",
+      "block_count": 246,
+      "word_count": 1477,
+      "estimated_minutes": 8,
+      "file": "content/books/chokhe-chaupade/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "तलवा",
+      "block_count": 232,
+      "word_count": 1443,
+      "estimated_minutes": 8,
+      "file": "content/books/chokhe-chaupade/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "तिलक",
+      "block_count": 200,
+      "word_count": 1244,
+      "estimated_minutes": 7,
+      "file": "content/books/chokhe-chaupade/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "दम",
+      "block_count": 192,
+      "word_count": 1163,
+      "estimated_minutes": 6,
+      "file": "content/books/chokhe-chaupade/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "निराले नगीने",
+      "block_count": 478,
+      "word_count": 2974,
+      "estimated_minutes": 17,
+      "file": "content/books/chokhe-chaupade/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "नोक झोंक",
+      "block_count": 334,
+      "word_count": 2077,
+      "estimated_minutes": 12,
+      "file": "content/books/chokhe-chaupade/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "पते की बातें",
+      "block_count": 232,
+      "word_count": 1465,
+      "estimated_minutes": 8,
+      "file": "content/books/chokhe-chaupade/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "बहारदार बातें",
+      "block_count": 269,
+      "word_count": 1574,
+      "estimated_minutes": 9,
+      "file": "content/books/chokhe-chaupade/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "मुखपृष्ठ",
+      "block_count": 18,
+      "word_count": 179,
+      "estimated_minutes": 1,
+      "file": "content/books/chokhe-chaupade/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "हाथ और दान",
+      "block_count": 136,
+      "word_count": 846,
+      "estimated_minutes": 5,
+      "file": "content/books/chokhe-chaupade/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "मूठी",
+      "block_count": 131,
+      "word_count": 803,
+      "estimated_minutes": 4,
+      "file": "content/books/chokhe-chaupade/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "सुनहली सीख",
+      "block_count": 212,
+      "word_count": 1360,
+      "estimated_minutes": 8,
+      "file": "content/books/chokhe-chaupade/ch_20.json"
+    }
+  ]
+}
