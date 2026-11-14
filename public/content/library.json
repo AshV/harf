@@ -212,6 +212,29 @@
     ]
   },
   {
+    "id": "chaturi-chamar",
+    "title": "चतुरी चमार",
+    "title_en": "Chaturi Chamar",
+    "author": "सूर्यकांत त्रिपाठी 'निराला'",
+    "author_en": "Suryakant Tripathi 'Nirala'",
+    "category": "कहानी",
+    "category_en": "Short Story",
+    "description": "जाति-व्यवस्था, छुआछूत और सामंती अहंकार की बेड़ियों को तोड़ते स्वाभिमानी नायक 'चतुरी चमार' की अमर कहानी। निराला जी का प्रगतिशील, विद्रोही और मानवीय संवेदना से ओत-प्रोत कालजयी कहानी संग्रह।",
+    "cover_image": "",
+    "published_year": 1945,
+    "total_chapters": 8,
+    "estimated_reading_minutes": 118,
+    "keywords": [
+      "chaturi chamar",
+      "nirala",
+      "suryakant tripathi",
+      "dalit consciousness",
+      "social reform",
+      "kahani",
+      "progressive literature"
+    ]
+  },
+  {
     "id": "chintamani",
     "title": "चिन्तामणि",
     "title_en": "Chintamani",
@@ -569,6 +592,31 @@
     ]
   },
   {
+    "id": "rangbhoomi",
+    "title": "रंगभूमि",
+    "title_en": "Rangbhoomi",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "उपन्यास",
+    "category_en": "Novel",
+    "description": "औद्योगिक पूंजीवाद, भूमि-अधिग्रहण और औपनिवेशिक सत्ता के विरुद्ध अंधे भिखारी 'सूरदास' के सत्याग्रह, नैतिक विजय और आत्म-बलिदान की अमर महागाथा। प्रेमचंद का सर्वाधिक वृहत् और महाकाव्यात्मक उपन्यास।",
+    "cover_image": "",
+    "published_year": 1924,
+    "total_chapters": 50,
+    "estimated_reading_minutes": 1362,
+    "keywords": [
+      "rangbhoomi",
+      "munshi premchand",
+      "surdas",
+      "pandeypur",
+      "satyagraha",
+      "social realism",
+      "upanyas",
+      "clark",
+      "john sevak"
+    ]
+  },
+  {
     "id": "rani-ketki-ki-kahani",
     "title": "रानी केतकी की कहानी",
     "title_en": "Rani Ketki Ki Kahani",
@@ -684,6 +732,30 @@
       "gupta dynasty",
       "devasena",
       "rashtriya natak"
+    ]
+  },
+  {
+    "id": "titli",
+    "title": "तितली",
+    "title_en": "Titli",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "उपन्यास",
+    "category_en": "Novel",
+    "description": "ग्रामीण भारत के पुनरुद्धार, जमींदारी शोषण, महाजनी कुचक्र और नारी-स्वावलंबन का कालजयी उपन्यास। नायिका तितली और मधुबन के माध्यम से गाँव के स्वाभिमान और नव-निर्माण की प्रेरक गाथा।",
+    "cover_image": "",
+    "published_year": 1934,
+    "total_chapters": 28,
+    "estimated_reading_minutes": 406,
+    "keywords": [
+      "titli",
+      "jaishankar prasad",
+      "upanyas",
+      "social novel",
+      "madhuban",
+      "shail",
+      "rural reform",
+      "chhayavad novel"
     ]
   }
 ]

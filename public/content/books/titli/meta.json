@@ -1,0 +1,279 @@
+{
+  "id": "titli",
+  "title": "तितली",
+  "title_en": "Titli",
+  "author": "जयशंकर प्रसाद",
+  "author_en": "Jaishankar Prasad",
+  "category": "उपन्यास",
+  "category_en": "Novel",
+  "description": "ग्रामीण भारत के पुनरुद्धार, जमींदारी शोषण, महाजनी कुचक्र और नारी-स्वावलंबन का कालजयी उपन्यास। नायिका तितली और मधुबन के माध्यम से गाँव के स्वाभिमान और नव-निर्माण की प्रेरक गाथा।",
+  "cover_image": "",
+  "published_year": 1934,
+  "keywords": [
+    "titli",
+    "jaishankar prasad",
+    "upanyas",
+    "social novel",
+    "madhuban",
+    "shail",
+    "rural reform",
+    "chhayavad novel"
+  ],
+  "total_words": 73047,
+  "total_chapters": 28,
+  "estimated_reading_minutes": 406,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भाग १ — अध्याय १ (नंदो और तितली का परिचय)",
+      "block_count": 101,
+      "word_count": 2804,
+      "estimated_minutes": 16,
+      "file": "content/books/titli/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "भाग १ — अध्याय २ (मधुबन की व्यथा और ग्राम्य-जीवन)",
+      "block_count": 69,
+      "word_count": 1879,
+      "estimated_minutes": 10,
+      "file": "content/books/titli/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "भाग १ — अध्याय ३ (शेरकोट का जमींदार घराना)",
+      "block_count": 36,
+      "word_count": 1007,
+      "estimated_minutes": 6,
+      "file": "content/books/titli/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "भाग १ — अध्याय ४ (इंद्रदेव और शैल का आगमन)",
+      "block_count": 45,
+      "word_count": 773,
+      "estimated_minutes": 4,
+      "file": "content/books/titli/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "भाग १ — अध्याय ५ (तितली और मधुबन का स्नेह)",
+      "block_count": 57,
+      "word_count": 2339,
+      "estimated_minutes": 13,
+      "file": "content/books/titli/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "भाग १ — अध्याय ६ (गाँव का संघर्ष व शोषण)",
+      "block_count": 51,
+      "word_count": 1926,
+      "estimated_minutes": 11,
+      "file": "content/books/titli/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "भाग १ — अध्याय ७ (महाजनी सभ्यता का जाल)",
+      "block_count": 90,
+      "word_count": 2200,
+      "estimated_minutes": 12,
+      "file": "content/books/titli/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "भाग १ — अध्याय ८ (मधुबन का स्वाभिमान)",
+      "block_count": 80,
+      "word_count": 1859,
+      "estimated_minutes": 10,
+      "file": "content/books/titli/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "भाग २ — अध्याय १ (शैल की सुधारवादी दृष्टि)",
+      "block_count": 73,
+      "word_count": 3141,
+      "estimated_minutes": 17,
+      "file": "content/books/titli/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "भाग २ — अध्याय २ (नंदो की बीमारी व विवशता)",
+      "block_count": 68,
+      "word_count": 1624,
+      "estimated_minutes": 9,
+      "file": "content/books/titli/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "भाग २ — अध्याय ३ (मधुबन का पलायन)",
+      "block_count": 88,
+      "word_count": 3292,
+      "estimated_minutes": 18,
+      "file": "content/books/titli/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "भाग २ — अध्याय ४ (तितली का अदम्य साहस)",
+      "block_count": 116,
+      "word_count": 2848,
+      "estimated_minutes": 16,
+      "file": "content/books/titli/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "भाग २ — अध्याय ५ (अकेली नारी का स्वावलंबन)",
+      "block_count": 78,
+      "word_count": 3067,
+      "estimated_minutes": 17,
+      "file": "content/books/titli/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "भाग २ — अध्याय ६ (कृषि-फार्म और नव-निर्माण)",
+      "block_count": 51,
+      "word_count": 1938,
+      "estimated_minutes": 11,
+      "file": "content/books/titli/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "भाग २ — अध्याय ७ (शेरकोट में उथल-पुथल)",
+      "block_count": 73,
+      "word_count": 2672,
+      "estimated_minutes": 15,
+      "file": "content/books/titli/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "भाग ३ — अध्याय १ (मधुबन की भटकन व जेल)",
+      "block_count": 66,
+      "word_count": 2176,
+      "estimated_minutes": 12,
+      "file": "content/books/titli/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "भाग ३ — अध्याय २ (कोलकाता की अंधेरी गलियाँ)",
+      "block_count": 94,
+      "word_count": 3375,
+      "estimated_minutes": 19,
+      "file": "content/books/titli/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "भाग ३ — अध्याय ३ (तितली की कर्मभूमि व आदर्श गाँव)",
+      "block_count": 77,
+      "word_count": 3579,
+      "estimated_minutes": 20,
+      "file": "content/books/titli/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "भाग ३ — अध्याय ४ (इंद्रदेव का अंतर्द्वंद्व)",
+      "block_count": 79,
+      "word_count": 3779,
+      "estimated_minutes": 21,
+      "file": "content/books/titli/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "भाग ३ — अध्याय ५ (शैल का भारतीय संस्कृति से तादात्म्य)",
+      "block_count": 56,
+      "word_count": 2512,
+      "estimated_minutes": 14,
+      "file": "content/books/titli/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "भाग ३ — अध्याय ६ (ग्राम-सुधार की ज्योति)",
+      "block_count": 36,
+      "word_count": 1181,
+      "estimated_minutes": 7,
+      "file": "content/books/titli/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "भाग ३ — अध्याय ७ (मधुबन का प्रायश्चित)",
+      "block_count": 139,
+      "word_count": 5490,
+      "estimated_minutes": 31,
+      "file": "content/books/titli/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "भाग ३ — अध्याय ८ (न्याय और पुनर्स्थापना)",
+      "block_count": 51,
+      "word_count": 1784,
+      "estimated_minutes": 10,
+      "file": "content/books/titli/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "भाग ४ — अध्याय १ (मधुबन की घर वापसी)",
+      "block_count": 82,
+      "word_count": 4011,
+      "estimated_minutes": 22,
+      "file": "content/books/titli/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "भाग ४ — अध्याय २ (तितली और मधुबन का पुनर्मिलन)",
+      "block_count": 60,
+      "word_count": 2528,
+      "estimated_minutes": 14,
+      "file": "content/books/titli/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "भाग ४ — अध्याय ३ (शैल और इंद्रदेव का समर्पण)",
+      "block_count": 86,
+      "word_count": 3502,
+      "estimated_minutes": 19,
+      "file": "content/books/titli/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "भाग ४ — अध्याय ४ (नया सवेरा और सहयोग)",
+      "block_count": 64,
+      "word_count": 2619,
+      "estimated_minutes": 15,
+      "file": "content/books/titli/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "भाग ४ — अध्याय ५ (तितली का अमर संदेश)",
+      "block_count": 90,
+      "word_count": 3142,
+      "estimated_minutes": 17,
+      "file": "content/books/titli/ch_28.json"
+    }
+  ]
+}

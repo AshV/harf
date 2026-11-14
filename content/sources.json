@@ -462,5 +462,53 @@
     "ingested_at": "2026-11-14",
     "chapter_count": 58,
     "verification_notes": "१९१८ के मूल हिन्दी प्रकाशन से विकिस्रोत पर सत्यापित पूर्ण ५८ अध्याय।"
+  },
+  {
+    "id": "chaturi-chamar",
+    "title_hi": "चतुरी चमार",
+    "title_en": "Chaturi Chamar",
+    "author_hi": "सूर्यकांत त्रिपाठी 'निराला'",
+    "author_en": "Suryakant Tripathi 'Nirala'",
+    "category_hi": "कहानी",
+    "category_en": "Short Story",
+    "published_year": 1945,
+    "copyright_status": "सार्वजनिक डोमेन (Public Domain)",
+    "repository": "Hindi Wikisource / भारती भंडार",
+    "source_url": "https://hi.wikisource.org/wiki/चतुरी_चमार",
+    "ingested_at": "2026-11-14",
+    "chapter_count": 8,
+    "verification_notes": "१९४५ के मूल संस्करण (भारती भंडार) से विकिस्रोत पर सत्यापित पूर्ण आठ कहानियाँ।"
+  },
+  {
+    "id": "titli",
+    "title_hi": "तितली",
+    "title_en": "Titli",
+    "author_hi": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category_hi": "उपन्यास",
+    "category_en": "Novel",
+    "published_year": 1934,
+    "copyright_status": "सार्वजनिक डोमेन (Public Domain)",
+    "repository": "Hindi Wikisource / भारती भंडार",
+    "source_url": "https://hi.wikisource.org/wiki/तितली",
+    "ingested_at": "2026-11-14",
+    "chapter_count": 28,
+    "verification_notes": "भारती भंडार, लीडर प्रेस, इलाहाबाद (१९३४) के प्रथम संस्करण से सत्यापित पूर्ण २८ अध्याय।"
+  },
+  {
+    "id": "rangbhoomi",
+    "title_hi": "रंगभूमि",
+    "title_en": "Rangbhoomi",
+    "author_hi": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category_hi": "उपन्यास",
+    "category_en": "Novel",
+    "published_year": 1924,
+    "copyright_status": "सार्वजनिक डोमेन (Public Domain)",
+    "repository": "Hindi Wikisource",
+    "source_url": "https://hi.wikisource.org/wiki/रंगभूमि",
+    "ingested_at": "2026-11-14",
+    "chapter_count": 50,
+    "verification_notes": "१९२४-१९२५ के मूल गंगा-पुस्तक-माला संस्करण से विकिस्रोत पर सत्यापित पूर्ण ५० अध्याय।"
   }
 ]

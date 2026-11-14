@@ -280,6 +280,33 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#E2A745',
     badgeBg: 'bg-[#E2A745]/15 text-[#FDE3B5]',
     motif: '❖ 🏠 ❖'
+  },
+  'chaturi-chamar': {
+    bgGradient: 'from-[#3A2218] via-[#543122] to-[#26160F]',
+    borderColor: 'border-[#D98A5B]/40',
+    titleColor: 'text-[#FAF6F2]',
+    authorColor: 'text-[#D98A5B]',
+    accentColor: '#D98A5B',
+    badgeBg: 'bg-[#D98A5B]/15 text-[#FDE6D8]',
+    motif: '❖ ✊ ❖'
+  },
+  titli: {
+    bgGradient: 'from-[#3D2C11] via-[#573F18] to-[#291D0B]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#FCFAF2]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEAC1]',
+    motif: '✦ 🦋 ✦'
+  },
+  rangbhoomi: {
+    bgGradient: 'from-[#1A2634] via-[#26374A] to-[#121B24]',
+    borderColor: 'border-[#E5B55A]/40',
+    titleColor: 'text-[#F2F7FA]',
+    authorColor: 'text-[#E5B55A]',
+    accentColor: '#E5B55A',
+    badgeBg: 'bg-[#E5B55A]/15 text-[#FCEAC1]',
+    motif: '❖ 🪔 ❖'
   }
 };
 

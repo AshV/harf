@@ -1,0 +1,98 @@
+{
+  "id": "chaturi-chamar",
+  "title": "चतुरी चमार",
+  "title_en": "Chaturi Chamar",
+  "author": "सूर्यकांत त्रिपाठी 'निराला'",
+  "author_en": "Suryakant Tripathi 'Nirala'",
+  "category": "कहानी",
+  "category_en": "Short Story",
+  "description": "जाति-व्यवस्था, छुआछूत और सामंती अहंकार की बेड़ियों को तोड़ते स्वाभिमानी नायक 'चतुरी चमार' की अमर कहानी। निराला जी का प्रगतिशील, विद्रोही और मानवीय संवेदना से ओत-प्रोत कालजयी कहानी संग्रह।",
+  "cover_image": "",
+  "published_year": 1945,
+  "keywords": [
+    "chaturi chamar",
+    "nirala",
+    "suryakant tripathi",
+    "dalit consciousness",
+    "social reform",
+    "kahani",
+    "progressive literature"
+  ],
+  "total_words": 21156,
+  "total_chapters": 8,
+  "estimated_reading_minutes": 118,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "चतुरी चमार (आत्मसम्मान, स्वावलंबन और सामाजिक क्रांति)",
+      "block_count": 47,
+      "word_count": 3776,
+      "estimated_minutes": 21,
+      "file": "content/books/chaturi-chamar/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "न्याय (जातिगत उत्पीड़न और कानूनी पाखंड की दास्तान)",
+      "block_count": 76,
+      "word_count": 2094,
+      "estimated_minutes": 12,
+      "file": "content/books/chaturi-chamar/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "भक्त और भगवान् (धर्म, अंधविश्वास और विवेक का संघर्ष)",
+      "block_count": 61,
+      "word_count": 2737,
+      "estimated_minutes": 15,
+      "file": "content/books/chaturi-chamar/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "राजा साहब को ठेंगा दिखाया (सामंती अहंकार पर व्यंग्य-प्रहार)",
+      "block_count": 21,
+      "word_count": 1125,
+      "estimated_minutes": 6,
+      "file": "content/books/chaturi-chamar/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "सखी (नारी-मन के संकोच और आत्मीयता का चित्र)",
+      "block_count": 76,
+      "word_count": 1824,
+      "estimated_minutes": 10,
+      "file": "content/books/chaturi-chamar/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "सफलता (आधुनिक जीवन और संघर्ष की कसौटी)",
+      "block_count": 71,
+      "word_count": 3247,
+      "estimated_minutes": 18,
+      "file": "content/books/chaturi-chamar/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "स्वामी सारदानंदजी महाराज और मैं (आध्यात्मिक पाखंड पर व्यंग्य)",
+      "block_count": 20,
+      "word_count": 2534,
+      "estimated_minutes": 14,
+      "file": "content/books/chaturi-chamar/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "देवी (सच्ची भक्ति और मानवीय गरिमा का आख्यान)",
+      "block_count": 36,
+      "word_count": 3819,
+      "estimated_minutes": 21,
+      "file": "content/books/chaturi-chamar/ch_08.json"
+    }
+  ]
+}
