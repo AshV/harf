@@ -1,0 +1,154 @@
+{
+  "id": "kamayani",
+  "title": "कामायनी",
+  "title_en": "Kamayani",
+  "author": "जयशंकर प्रसाद",
+  "author_en": "Jaishankar Prasad",
+  "category": "कविता",
+  "category_en": "Epic & Lyrical Poetry",
+  "description": "छायावाद का अमर महाकाव्य। मनु, श्रद्धा और इड़ा के माध्यम से मानव सभ्यता, मन, बुद्धि और आनंद के संतुलन का दार्शनिक निरूपण। हिन्दी साहित्य का अनुपम गौरव-ग्रंथ।",
+  "cover_image": "",
+  "published_year": 1936,
+  "keywords": [
+    "kamayani",
+    "jaishankar",
+    "prasad",
+    "manu",
+    "shraddha",
+    "ida",
+    "kavita",
+    "poetry",
+    "epic"
+  ],
+  "total_words": 23583,
+  "total_chapters": 14,
+  "estimated_reading_minutes": 131,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "चिंता सर्ग",
+      "block_count": 164,
+      "word_count": 1501,
+      "estimated_minutes": 8,
+      "file": "content/books/kamayani/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "आशा सर्ग",
+      "block_count": 163,
+      "word_count": 1534,
+      "estimated_minutes": 9,
+      "file": "content/books/kamayani/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "श्रद्धा सर्ग",
+      "block_count": 132,
+      "word_count": 1289,
+      "estimated_minutes": 7,
+      "file": "content/books/kamayani/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "काम सर्ग",
+      "block_count": 137,
+      "word_count": 1356,
+      "estimated_minutes": 8,
+      "file": "content/books/kamayani/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "वासना सर्ग",
+      "block_count": 218,
+      "word_count": 1639,
+      "estimated_minutes": 9,
+      "file": "content/books/kamayani/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "लज्जा सर्ग",
+      "block_count": 97,
+      "word_count": 939,
+      "estimated_minutes": 5,
+      "file": "content/books/kamayani/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "कर्म सर्ग",
+      "block_count": 260,
+      "word_count": 2272,
+      "estimated_minutes": 13,
+      "file": "content/books/kamayani/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "ईर्ष्या सर्ग",
+      "block_count": 145,
+      "word_count": 1464,
+      "estimated_minutes": 8,
+      "file": "content/books/kamayani/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "इड़ा सर्ग",
+      "block_count": 283,
+      "word_count": 2594,
+      "estimated_minutes": 14,
+      "file": "content/books/kamayani/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "स्वप्न सर्ग",
+      "block_count": 223,
+      "word_count": 2137,
+      "estimated_minutes": 12,
+      "file": "content/books/kamayani/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "संघर्ष सर्ग",
+      "block_count": 247,
+      "word_count": 1923,
+      "estimated_minutes": 11,
+      "file": "content/books/kamayani/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "दर्शन सर्ग",
+      "block_count": 357,
+      "word_count": 1834,
+      "estimated_minutes": 10,
+      "file": "content/books/kamayani/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "रहस्य सर्ग",
+      "block_count": 157,
+      "word_count": 1555,
+      "estimated_minutes": 9,
+      "file": "content/books/kamayani/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "आनंद सर्ग",
+      "block_count": 169,
+      "word_count": 1546,
+      "estimated_minutes": 9,
+      "file": "content/books/kamayani/ch_14.json"
+    }
+  ]
+}

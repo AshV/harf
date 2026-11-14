@@ -73,6 +73,42 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#E5B55A',
     badgeBg: 'bg-[#E5B55A]/15 text-[#FCEAC1]',
     motif: '❖ 🏰 ❖'
+  },
+  'andher-nagari': {
+    bgGradient: 'from-[#4D1515] via-[#661D1D] to-[#360D0D]',
+    borderColor: 'border-[#E5A93C]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E5A93C]',
+    accentColor: '#E5A93C',
+    badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
+    motif: '❖ 👑 ❖'
+  },
+  'rani-ketki-ki-kahani': {
+    bgGradient: 'from-[#421A2C] via-[#5C243D] to-[#2E111E]',
+    borderColor: 'border-[#E8B568]/40',
+    titleColor: 'text-[#FFF5F8]',
+    authorColor: 'text-[#E8B568]',
+    accentColor: '#E8B568',
+    badgeBg: 'bg-[#E8B568]/15 text-[#FCEAC5]',
+    motif: '✦ 🌺 ✦'
+  },
+  kamayani: {
+    bgGradient: 'from-[#0D1D2D] via-[#162D44] to-[#08121C]',
+    borderColor: 'border-[#93B5C6]/40',
+    titleColor: 'text-[#EBF3F8]',
+    authorColor: 'text-[#93B5C6]',
+    accentColor: '#93B5C6',
+    badgeBg: 'bg-[#93B5C6]/15 text-[#D4E4ED]',
+    motif: '✦ 🏔️ ✦'
+  },
+  nirmala: {
+    bgGradient: 'from-[#54201A] via-[#702B23] to-[#3D1511]',
+    borderColor: 'border-[#E8AA58]/40',
+    titleColor: 'text-[#FFF9F2]',
+    authorColor: 'text-[#E8AA58]',
+    accentColor: '#E8AA58',
+    badgeBg: 'bg-[#E8AA58]/15 text-[#FDE6BD]',
+    motif: '❖ 🕊️ ❖'
   }
 };
 

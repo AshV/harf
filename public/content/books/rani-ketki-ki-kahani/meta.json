@@ -1,0 +1,60 @@
+{
+  "id": "rani-ketki-ki-kahani",
+  "title": "रानी केतकी की कहानी",
+  "title_en": "Rani Ketki Ki Kahani",
+  "author": "इन्शा अल्ला खाँ",
+  "author_en": "Insha Allah Khan",
+  "category": "कहानी",
+  "category_en": "Short Story",
+  "description": "खड़ी बोली हिन्दी गद्य की प्रथम ऐतिहासिक रचना। कुँवर उदयभान और रानी केतकी के अलौकिक प्रेम और राजा जगतप्रकाश के षड्यंत्रों की सरस और ठेठ हिन्दी दास्तान।",
+  "cover_image": "",
+  "published_year": 1803,
+  "keywords": [
+    "rani ketki",
+    "insha allah khan",
+    "udaybhan",
+    "kahani",
+    "early prose"
+  ],
+  "total_words": 9052,
+  "total_chapters": 4,
+  "estimated_reading_minutes": 50,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "पहला भाग — आरंभ और कुँवर उदयभान की शिकार-यात्रा",
+      "block_count": 252,
+      "word_count": 3639,
+      "estimated_minutes": 20,
+      "file": "content/books/rani-ketki-ki-kahani/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "दूसरा भाग — रानी केतकी से भेंट और प्रेम का अंकुर",
+      "block_count": 104,
+      "word_count": 1238,
+      "estimated_minutes": 7,
+      "file": "content/books/rani-ketki-ki-kahani/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तीसरा भाग — राजा जगतप्रकाश का क्रोध और विरह",
+      "block_count": 228,
+      "word_count": 2564,
+      "estimated_minutes": 14,
+      "file": "content/books/rani-ketki-ki-kahani/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चौथा भाग — गुरु गोरखनाथ की कृपा और मिलन",
+      "block_count": 140,
+      "word_count": 1611,
+      "estimated_minutes": 9,
+      "file": "content/books/rani-ketki-ki-kahani/ch_04.json"
+    }
+  ]
+}

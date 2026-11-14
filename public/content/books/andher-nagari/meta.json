@@ -1,0 +1,35 @@
+{
+  "id": "andher-nagari",
+  "title": "अंधेर नगरी",
+  "title_en": "Andher Nagari",
+  "author": "भारतेन्दु हरिश्चंद्र",
+  "author_en": "Bharatendu Harishchandra",
+  "category": "नाटक",
+  "category_en": "Play / Drama",
+  "description": "'अंधेर नगरी चौपट राजा, टका सेर भाजी टका सेर खाजा'— आधुनिक हिन्दी नाटक के जनक भारतेन्दु हरिश्चंद्र का अमर व्यंग्य नाटक। सत्ता के विवेकहीन अहंकार और न्याय के पाखंड पर कालजयी प्रहार।",
+  "cover_image": "",
+  "published_year": 1881,
+  "keywords": [
+    "andher nagari",
+    "bharatendu",
+    "harishchandra",
+    "natak",
+    "play",
+    "chaupat raja",
+    "satire"
+  ],
+  "total_words": 3685,
+  "total_chapters": 1,
+  "estimated_reading_minutes": 20,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "पूर्ण नाटक",
+      "block_count": 297,
+      "word_count": 3685,
+      "estimated_minutes": 20,
+      "file": "content/books/andher-nagari/ch_01.json"
+    }
+  ]
+}

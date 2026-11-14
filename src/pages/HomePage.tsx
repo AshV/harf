@@ -400,7 +400,61 @@ export const HomePage: React.FC = () => {
                 </div>
                 <p className="text-xs text-[#1B2A4A] font-semibold">छायावाद के प्रवर्तक (१८८९ – १९३७)</p>
                 <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
-                  ममता, कामायनी, चंद्रगुप्त, ध्रुवस्वामिनी, आँसू
+                  कामायनी, ममता, आँसू, चंद्रगुप्त
+                </p>
+              </div>
+            </div>
+
+            {/* Bharatendu Harishchandra Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'भारतेन्दु हरिश्चंद्र');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#4D1515] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                भा
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#C85A32] transition-colors">
+                    भारतेन्दु हरिश्चंद्र
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#C85A32] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'भारतेन्दु हरिश्चंद्र').length} कृतियाँ →
+                  </span>
+                </div>
+                <p className="text-xs text-[#C85A32] font-semibold">आधुनिक हिन्दी के जनक (१८५० – १८८५)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  अंधेर नगरी, भारत दुर्दशा, सत्य हरिश्चंद्र
+                </p>
+              </div>
+            </div>
+
+            {/* Insha Allah Khan Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'इन्शा अल्ला खाँ');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#421A2C] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                इ
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#421A2C] transition-colors">
+                    इन्शा अल्ला खाँ
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#421A2C] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'इन्शा अल्ला खाँ').length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#421A2C] font-semibold">खड़ी बोली गद्य के प्रवर्तक (१७५६ – १८१७)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  रानी केतकी की कहानी
                 </p>
               </div>
             </div>

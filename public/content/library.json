@@ -1,5 +1,28 @@
 [
   {
+    "id": "andher-nagari",
+    "title": "अंधेर नगरी",
+    "title_en": "Andher Nagari",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "'अंधेर नगरी चौपट राजा, टका सेर भाजी टका सेर खाजा'— आधुनिक हिन्दी नाटक के जनक भारतेन्दु हरिश्चंद्र का अमर व्यंग्य नाटक। सत्ता के विवेकहीन अहंकार और न्याय के पाखंड पर कालजयी प्रहार।",
+    "cover_image": "",
+    "published_year": 1881,
+    "total_chapters": 1,
+    "estimated_reading_minutes": 20,
+    "keywords": [
+      "andher nagari",
+      "bharatendu",
+      "harishchandra",
+      "natak",
+      "play",
+      "chaupat raja",
+      "satire"
+    ]
+  },
+  {
     "id": "bade-bhai-sahab",
     "title": "बड़े भाई साहब",
     "title_en": "Bade Bhai Sahab",
@@ -94,6 +117,31 @@
     ]
   },
   {
+    "id": "kamayani",
+    "title": "कामायनी",
+    "title_en": "Kamayani",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "कविता",
+    "category_en": "Epic & Lyrical Poetry",
+    "description": "छायावाद का अमर महाकाव्य। मनु, श्रद्धा और इड़ा के माध्यम से मानव सभ्यता, मन, बुद्धि और आनंद के संतुलन का दार्शनिक निरूपण। हिन्दी साहित्य का अनुपम गौरव-ग्रंथ।",
+    "cover_image": "",
+    "published_year": 1936,
+    "total_chapters": 14,
+    "estimated_reading_minutes": 131,
+    "keywords": [
+      "kamayani",
+      "jaishankar",
+      "prasad",
+      "manu",
+      "shraddha",
+      "ida",
+      "kavita",
+      "poetry",
+      "epic"
+    ]
+  },
+  {
     "id": "mamta",
     "title": "ममता",
     "title_en": "Mamta",
@@ -117,6 +165,28 @@
     ]
   },
   {
+    "id": "nirmala",
+    "title": "निर्मला",
+    "title_en": "Nirmala",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "उपन्यास",
+    "category_en": "Social & Realist Novel",
+    "description": "अनमेल विवाह और दहेज़ प्रथा की त्रासदी पर मुंशी प्रेमचंद का सबसे मर्मस्पर्शी उपन्यास। पंद्रह वर्षीय किशोरी निर्मला के आत्मसम्मान और करुणामयी नियति की अमर गाथा।",
+    "cover_image": "",
+    "published_year": 1927,
+    "total_chapters": 8,
+    "estimated_reading_minutes": 139,
+    "keywords": [
+      "nirmala",
+      "premchand",
+      "upanyas",
+      "novel",
+      "dowry",
+      "totaram"
+    ]
+  },
+  {
     "id": "panch-parameshwar",
     "title": "पंच परमेश्वर",
     "title_en": "Panch Parameshwar",
@@ -137,6 +207,27 @@
       "premchand",
       "kahani",
       "justice"
+    ]
+  },
+  {
+    "id": "rani-ketki-ki-kahani",
+    "title": "रानी केतकी की कहानी",
+    "title_en": "Rani Ketki Ki Kahani",
+    "author": "इन्शा अल्ला खाँ",
+    "author_en": "Insha Allah Khan",
+    "category": "कहानी",
+    "category_en": "Short Story",
+    "description": "खड़ी बोली हिन्दी गद्य की प्रथम ऐतिहासिक रचना। कुँवर उदयभान और रानी केतकी के अलौकिक प्रेम और राजा जगतप्रकाश के षड्यंत्रों की सरस और ठेठ हिन्दी दास्तान।",
+    "cover_image": "",
+    "published_year": 1803,
+    "total_chapters": 4,
+    "estimated_reading_minutes": 50,
+    "keywords": [
+      "rani ketki",
+      "insha allah khan",
+      "udaybhan",
+      "kahani",
+      "early prose"
     ]
   }
 ]
