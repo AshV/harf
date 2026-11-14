@@ -24,6 +24,30 @@
     ]
   },
   {
+    "id": "akhrawat-aakhiri-kalam",
+    "title": "अखरावट एवं आखिरी कलाम",
+    "title_en": "Akhrawat & Aakhiri Kalam",
+    "author": "मलिक मोहम्मद जायसी",
+    "author_en": "Malik Muhammad Jayasi",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "महाकवि जायसी की दो अमर आध्यात्मिक कृतियाँ। 'अखरावट' में देवनागरी वर्णमाला के प्रत्येक अक्षर से परमात्मा, सृष्टि और सूफ़ी रहस्यवाद की व्याख्या; तथा 'आखिरी कलाम' में प्रलय, कयामत और बाबर कालीन इतिहास का अलौकिक निरूपण।",
+    "cover_image": "",
+    "published_year": 1540,
+    "total_chapters": 2,
+    "estimated_reading_minutes": 90,
+    "keywords": [
+      "akhrawat",
+      "aakhiri kalam",
+      "jayasi",
+      "sufi poetry",
+      "brajbhasha",
+      "awadhi",
+      "mysticism",
+      "kavita"
+    ]
+  },
+  {
     "id": "andher-nagari",
     "title": "अंधेर नगरी",
     "title_en": "Andher Nagari",
@@ -44,6 +68,28 @@
       "play",
       "chaupat raja",
       "satire"
+    ]
+  },
+  {
+    "id": "bacon-vichar-ratnavali",
+    "title": "बेकन-विचाररत्नावली",
+    "title_en": "Bacon Vichar Ratnavali",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "निबंध",
+    "category_en": "Essays",
+    "description": "आंग्ल दार्शनिक लॉर्ड फ्रांसिस बेकन के विश्वविख्यात निबंधों का आचार्य महावीर प्रसाद द्विवेदी द्वारा किया गया अमर भाषानुवाद व चिंतन। सत्य, विपत्ति, संशय, संतान, स्वार्थपरता, आरोग्यरक्षा, सौन्दर्य और स्वभाव पर ३५+ कालजयी दार्शनिक निबंध।",
+    "cover_image": "",
+    "published_year": 1901,
+    "total_chapters": 37,
+    "estimated_reading_minutes": 197,
+    "keywords": [
+      "bacon vichar ratnavali",
+      "mahavir prasad dwivedi",
+      "francis bacon",
+      "philosophical essays",
+      "wisdom",
+      "nibandh"
     ]
   },
   {
@@ -522,6 +568,29 @@
     ]
   },
   {
+    "id": "kayakalph",
+    "title": "कायाकल्प",
+    "title_en": "Kayakalph",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "उपन्यास",
+    "category_en": "Novel",
+    "description": "प्रेमचंद का सर्वाधिक रहस्यमयी और बहुआयामी उपन्यास। पुनर्जन्म, कायाकल्प की योग-साधना, देशी रियासतों के षड्यंत्र और किसान-आंदोलन का अद्भूत समन्वय। चक्रधर के नैतिक आदर्श, अहल्या के त्याग और मनोरमा के अंतर्द्वंद्व की अमर कथा।",
+    "cover_image": "",
+    "published_year": 1926,
+    "total_chapters": 57,
+    "estimated_reading_minutes": 865,
+    "keywords": [
+      "kayakalph",
+      "munshi premchand",
+      "chakradhar",
+      "manorama",
+      "reincarnation",
+      "social novel",
+      "upanyas"
+    ]
+  },
+  {
     "id": "mamta",
     "title": "ममता",
     "title_en": "Mamta",
@@ -542,6 +611,29 @@
       "mughal",
       "humayun",
       "kahani"
+    ]
+  },
+  {
+    "id": "mudrarakshasa",
+    "title": "मुद्राराक्षस",
+    "title_en": "Mudrarakshasa",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "महाकवि विशाखदत्त के संस्कृत राजनीतिक नाटक का भारतेन्दु हरिश्चंद्र कृत प्रामाणिक हिन्दी नाट्य रूपांतर। आर्य चाणक्य की अप्रतिम कूटनीति, अमात्य राक्षस की स्वामीभक्ति और मौर्य साम्राज्य की सुदृढ़ स्थापना का सात अंकों का महानाटक।",
+    "cover_image": "",
+    "published_year": 1878,
+    "total_chapters": 9,
+    "estimated_reading_minutes": 136,
+    "keywords": [
+      "mudrarakshasa",
+      "bharatendu harishchandra",
+      "chanakya",
+      "amatya rakshasa",
+      "political drama",
+      "visakhadatta",
+      "natak"
     ]
   },
   {
@@ -944,6 +1036,29 @@
       "shail",
       "rural reform",
       "chhayavad novel"
+    ]
+  },
+  {
+    "id": "vaidehi-vanvas",
+    "title": "वैदेही वनवास",
+    "title_en": "Vaidehi Vanvas",
+    "author": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+    "author_en": "Ayodhya Singh Upadhyay 'Hariaudh'",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "खड़ी बोली का द्वितीय अमर महाकाव्य। मर्यादा पुरुषोत्तम राम के राजधर्म और जानकी के दारुण वनवास व आत्म-त्याग का १८ सर्गों में करुण-रसावतार। सीता के पावन सतीत्व, मातृत्व और स्वर्गारोहण की भावपूर्ण महागाथा।",
+    "cover_image": "",
+    "published_year": 1940,
+    "total_chapters": 19,
+    "estimated_reading_minutes": 240,
+    "keywords": [
+      "vaidehi vanvas",
+      "hariaudh",
+      "sita vanvas",
+      "ramayana",
+      "khadi boli mahakavya",
+      "karun ras",
+      "kavita"
     ]
   }
 ]

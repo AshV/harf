@@ -379,6 +379,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#F3C86A',
     badgeBg: 'bg-[#F3C86A]/15 text-[#FDF0CE]',
     motif: '✦ 🌸 ✦'
+  },
+  'vaidehi-vanvas': {
+    bgGradient: 'from-[#451D0B] via-[#612A11] to-[#2E1205]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
+    motif: '✦ 🌿 ✦'
+  },
+  kayakalph: {
+    bgGradient: 'from-[#161726] via-[#24263D] to-[#0E0F1A]',
+    borderColor: 'border-[#D4AF37]/40',
+    titleColor: 'text-[#F4F4FA]',
+    authorColor: 'text-[#D4AF37]',
+    accentColor: '#D4AF37',
+    badgeBg: 'bg-[#D4AF37]/15 text-[#F6EAC4]',
+    motif: '❖ 🕉️ ❖'
+  },
+  'akhrawat-aakhiri-kalam': {
+    bgGradient: 'from-[#0A261D] via-[#143B2E] to-[#061913]',
+    borderColor: 'border-[#E8B568]/40',
+    titleColor: 'text-[#F2FBF6]',
+    authorColor: 'text-[#E8B568]',
+    accentColor: '#E8B568',
+    badgeBg: 'bg-[#E8B568]/15 text-[#FCEAC5]',
+    motif: '✦ 📜 ✦'
+  },
+  'bacon-vichar-ratnavali': {
+    bgGradient: 'from-[#38141F] via-[#521E2E] to-[#240C14]',
+    borderColor: 'border-[#E5B55A]/40',
+    titleColor: 'text-[#FFF5F7]',
+    authorColor: 'text-[#E5B55A]',
+    accentColor: '#E5B55A',
+    badgeBg: 'bg-[#E5B55A]/15 text-[#FCEAC1]',
+    motif: '❖ ⚖️ ❖'
+  },
+  mudrarakshasa: {
+    bgGradient: 'from-[#361313] via-[#4F1A1A] to-[#240A0A]',
+    borderColor: 'border-[#E5A93C]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E5A93C]',
+    accentColor: '#E5A93C',
+    badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
+    motif: '✦ 💍 ✦'
   }
 };
 

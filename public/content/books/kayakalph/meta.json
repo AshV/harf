@@ -1,0 +1,539 @@
+{
+  "id": "kayakalph",
+  "title": "कायाकल्प",
+  "title_en": "Kayakalph",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "उपन्यास",
+  "category_en": "Novel",
+  "description": "प्रेमचंद का सर्वाधिक रहस्यमयी और बहुआयामी उपन्यास। पुनर्जन्म, कायाकल्प की योग-साधना, देशी रियासतों के षड्यंत्र और किसान-आंदोलन का अद्भूत समन्वय। चक्रधर के नैतिक आदर्श, अहल्या के त्याग और मनोरमा के अंतर्द्वंद्व की अमर कथा।",
+  "cover_image": "",
+  "published_year": 1926,
+  "keywords": [
+    "kayakalph",
+    "munshi premchand",
+    "chakradhar",
+    "manorama",
+    "reincarnation",
+    "social novel",
+    "upanyas"
+  ],
+  "total_words": 155701,
+  "total_chapters": 57,
+  "estimated_reading_minutes": 865,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १",
+      "block_count": 34,
+      "word_count": 1009,
+      "estimated_minutes": 6,
+      "file": "content/books/kayakalph/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २",
+      "block_count": 21,
+      "word_count": 988,
+      "estimated_minutes": 5,
+      "file": "content/books/kayakalph/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३",
+      "block_count": 50,
+      "word_count": 1307,
+      "estimated_minutes": 7,
+      "file": "content/books/kayakalph/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४",
+      "block_count": 160,
+      "word_count": 3761,
+      "estimated_minutes": 21,
+      "file": "content/books/kayakalph/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५",
+      "block_count": 182,
+      "word_count": 5703,
+      "estimated_minutes": 32,
+      "file": "content/books/kayakalph/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६",
+      "block_count": 62,
+      "word_count": 2733,
+      "estimated_minutes": 15,
+      "file": "content/books/kayakalph/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७",
+      "block_count": 70,
+      "word_count": 2852,
+      "estimated_minutes": 16,
+      "file": "content/books/kayakalph/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय ८",
+      "block_count": 85,
+      "word_count": 3193,
+      "estimated_minutes": 18,
+      "file": "content/books/kayakalph/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय ९",
+      "block_count": 108,
+      "word_count": 5993,
+      "estimated_minutes": 33,
+      "file": "content/books/kayakalph/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अध्याय १०",
+      "block_count": 89,
+      "word_count": 3273,
+      "estimated_minutes": 18,
+      "file": "content/books/kayakalph/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "अध्याय ११",
+      "block_count": 41,
+      "word_count": 2615,
+      "estimated_minutes": 15,
+      "file": "content/books/kayakalph/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "अध्याय १२",
+      "block_count": 97,
+      "word_count": 3373,
+      "estimated_minutes": 19,
+      "file": "content/books/kayakalph/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "अध्याय १३",
+      "block_count": 59,
+      "word_count": 3043,
+      "estimated_minutes": 17,
+      "file": "content/books/kayakalph/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "अध्याय १४",
+      "block_count": 138,
+      "word_count": 6830,
+      "estimated_minutes": 38,
+      "file": "content/books/kayakalph/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "अध्याय १५",
+      "block_count": 49,
+      "word_count": 2105,
+      "estimated_minutes": 12,
+      "file": "content/books/kayakalph/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "अध्याय १६",
+      "block_count": 46,
+      "word_count": 3274,
+      "estimated_minutes": 18,
+      "file": "content/books/kayakalph/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "अध्याय १७",
+      "block_count": 123,
+      "word_count": 4658,
+      "estimated_minutes": 26,
+      "file": "content/books/kayakalph/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "अध्याय १८",
+      "block_count": 80,
+      "word_count": 2642,
+      "estimated_minutes": 15,
+      "file": "content/books/kayakalph/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "अध्याय १९",
+      "block_count": 114,
+      "word_count": 4015,
+      "estimated_minutes": 22,
+      "file": "content/books/kayakalph/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "अध्याय २०",
+      "block_count": 102,
+      "word_count": 3594,
+      "estimated_minutes": 20,
+      "file": "content/books/kayakalph/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "अध्याय २१",
+      "block_count": 33,
+      "word_count": 3411,
+      "estimated_minutes": 19,
+      "file": "content/books/kayakalph/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "अध्याय २२",
+      "block_count": 108,
+      "word_count": 3780,
+      "estimated_minutes": 21,
+      "file": "content/books/kayakalph/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "अध्याय २३",
+      "block_count": 57,
+      "word_count": 2513,
+      "estimated_minutes": 14,
+      "file": "content/books/kayakalph/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "अध्याय २४",
+      "block_count": 62,
+      "word_count": 2590,
+      "estimated_minutes": 14,
+      "file": "content/books/kayakalph/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "अध्याय २५",
+      "block_count": 105,
+      "word_count": 1863,
+      "estimated_minutes": 10,
+      "file": "content/books/kayakalph/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "अध्याय २६",
+      "block_count": 85,
+      "word_count": 3287,
+      "estimated_minutes": 18,
+      "file": "content/books/kayakalph/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "अध्याय २७",
+      "block_count": 40,
+      "word_count": 2401,
+      "estimated_minutes": 13,
+      "file": "content/books/kayakalph/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "अध्याय २८",
+      "block_count": 107,
+      "word_count": 5232,
+      "estimated_minutes": 29,
+      "file": "content/books/kayakalph/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "अध्याय २९",
+      "block_count": 79,
+      "word_count": 4052,
+      "estimated_minutes": 23,
+      "file": "content/books/kayakalph/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "अध्याय ३०",
+      "block_count": 58,
+      "word_count": 2304,
+      "estimated_minutes": 13,
+      "file": "content/books/kayakalph/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "अध्याय ३१",
+      "block_count": 28,
+      "word_count": 1131,
+      "estimated_minutes": 6,
+      "file": "content/books/kayakalph/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "अध्याय ३२",
+      "block_count": 58,
+      "word_count": 4034,
+      "estimated_minutes": 22,
+      "file": "content/books/kayakalph/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "अध्याय ३३",
+      "block_count": 73,
+      "word_count": 2301,
+      "estimated_minutes": 13,
+      "file": "content/books/kayakalph/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "अध्याय ३४",
+      "block_count": 135,
+      "word_count": 5833,
+      "estimated_minutes": 32,
+      "file": "content/books/kayakalph/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "अध्याय ३५",
+      "block_count": 24,
+      "word_count": 1174,
+      "estimated_minutes": 7,
+      "file": "content/books/kayakalph/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "अध्याय ३६",
+      "block_count": 80,
+      "word_count": 3579,
+      "estimated_minutes": 20,
+      "file": "content/books/kayakalph/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "अध्याय ३७",
+      "block_count": 42,
+      "word_count": 1633,
+      "estimated_minutes": 9,
+      "file": "content/books/kayakalph/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "अध्याय ३८",
+      "block_count": 28,
+      "word_count": 1748,
+      "estimated_minutes": 10,
+      "file": "content/books/kayakalph/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "अध्याय ३९",
+      "block_count": 30,
+      "word_count": 2584,
+      "estimated_minutes": 14,
+      "file": "content/books/kayakalph/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "अध्याय ४०",
+      "block_count": 59,
+      "word_count": 2474,
+      "estimated_minutes": 14,
+      "file": "content/books/kayakalph/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "अध्याय ४१",
+      "block_count": 68,
+      "word_count": 1791,
+      "estimated_minutes": 10,
+      "file": "content/books/kayakalph/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "अध्याय ४२",
+      "block_count": 28,
+      "word_count": 1538,
+      "estimated_minutes": 9,
+      "file": "content/books/kayakalph/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "अध्याय ४३",
+      "block_count": 28,
+      "word_count": 2036,
+      "estimated_minutes": 11,
+      "file": "content/books/kayakalph/ch_43.json"
+    },
+    {
+      "id": "ch_44",
+      "number": 44,
+      "title": "अध्याय ४४",
+      "block_count": 67,
+      "word_count": 2075,
+      "estimated_minutes": 12,
+      "file": "content/books/kayakalph/ch_44.json"
+    },
+    {
+      "id": "ch_45",
+      "number": 45,
+      "title": "अध्याय ४५",
+      "block_count": 48,
+      "word_count": 3004,
+      "estimated_minutes": 17,
+      "file": "content/books/kayakalph/ch_45.json"
+    },
+    {
+      "id": "ch_46",
+      "number": 46,
+      "title": "अध्याय ४६",
+      "block_count": 11,
+      "word_count": 1019,
+      "estimated_minutes": 6,
+      "file": "content/books/kayakalph/ch_46.json"
+    },
+    {
+      "id": "ch_47",
+      "number": 47,
+      "title": "अध्याय ४७",
+      "block_count": 18,
+      "word_count": 930,
+      "estimated_minutes": 5,
+      "file": "content/books/kayakalph/ch_47.json"
+    },
+    {
+      "id": "ch_48",
+      "number": 48,
+      "title": "अध्याय ४८",
+      "block_count": 36,
+      "word_count": 2020,
+      "estimated_minutes": 11,
+      "file": "content/books/kayakalph/ch_48.json"
+    },
+    {
+      "id": "ch_49",
+      "number": 49,
+      "title": "अध्याय ४९",
+      "block_count": 54,
+      "word_count": 1947,
+      "estimated_minutes": 11,
+      "file": "content/books/kayakalph/ch_49.json"
+    },
+    {
+      "id": "ch_50",
+      "number": 50,
+      "title": "अध्याय ५०",
+      "block_count": 88,
+      "word_count": 3860,
+      "estimated_minutes": 21,
+      "file": "content/books/kayakalph/ch_50.json"
+    },
+    {
+      "id": "ch_51",
+      "number": 51,
+      "title": "अध्याय ५१",
+      "block_count": 37,
+      "word_count": 1165,
+      "estimated_minutes": 6,
+      "file": "content/books/kayakalph/ch_51.json"
+    },
+    {
+      "id": "ch_52",
+      "number": 52,
+      "title": "अध्याय ५२",
+      "block_count": 30,
+      "word_count": 1315,
+      "estimated_minutes": 7,
+      "file": "content/books/kayakalph/ch_52.json"
+    },
+    {
+      "id": "ch_53",
+      "number": 53,
+      "title": "अध्याय ५३",
+      "block_count": 32,
+      "word_count": 2150,
+      "estimated_minutes": 12,
+      "file": "content/books/kayakalph/ch_53.json"
+    },
+    {
+      "id": "ch_54",
+      "number": 54,
+      "title": "अध्याय ५४",
+      "block_count": 38,
+      "word_count": 1763,
+      "estimated_minutes": 10,
+      "file": "content/books/kayakalph/ch_54.json"
+    },
+    {
+      "id": "ch_55",
+      "number": 55,
+      "title": "अध्याय ५५",
+      "block_count": 35,
+      "word_count": 1262,
+      "estimated_minutes": 7,
+      "file": "content/books/kayakalph/ch_55.json"
+    },
+    {
+      "id": "ch_56",
+      "number": 56,
+      "title": "अध्याय ५६",
+      "block_count": 92,
+      "word_count": 2170,
+      "estimated_minutes": 12,
+      "file": "content/books/kayakalph/ch_56.json"
+    },
+    {
+      "id": "ch_57",
+      "number": 57,
+      "title": "अध्याय ५७",
+      "block_count": 31,
+      "word_count": 771,
+      "estimated_minutes": 4,
+      "file": "content/books/kayakalph/ch_57.json"
+    }
+  ]
+}

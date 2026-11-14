@@ -1,0 +1,45 @@
+{
+  "id": "akhrawat-aakhiri-kalam",
+  "title": "अखरावट एवं आखिरी कलाम",
+  "title_en": "Akhrawat & Aakhiri Kalam",
+  "author": "मलिक मोहम्मद जायसी",
+  "author_en": "Malik Muhammad Jayasi",
+  "category": "कविता",
+  "category_en": "Poetry",
+  "description": "महाकवि जायसी की दो अमर आध्यात्मिक कृतियाँ। 'अखरावट' में देवनागरी वर्णमाला के प्रत्येक अक्षर से परमात्मा, सृष्टि और सूफ़ी रहस्यवाद की व्याख्या; तथा 'आखिरी कलाम' में प्रलय, कयामत और बाबर कालीन इतिहास का अलौकिक निरूपण।",
+  "cover_image": "",
+  "published_year": 1540,
+  "keywords": [
+    "akhrawat",
+    "aakhiri kalam",
+    "jayasi",
+    "sufi poetry",
+    "brajbhasha",
+    "awadhi",
+    "mysticism",
+    "kavita"
+  ],
+  "total_words": 16267,
+  "total_chapters": 2,
+  "estimated_reading_minutes": 90,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अखरावट — देवनागरी वर्णमाला व सूफ़ी तत्व-दर्शन",
+      "block_count": 1148,
+      "word_count": 8782,
+      "estimated_minutes": 49,
+      "file": "content/books/akhrawat-aakhiri-kalam/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "आखिरी कलाम — सृष्टि, प्रलय व बाबर-प्रशंसा",
+      "block_count": 722,
+      "word_count": 7485,
+      "estimated_minutes": 42,
+      "file": "content/books/akhrawat-aakhiri-kalam/ch_02.json"
+    }
+  ]
+}
