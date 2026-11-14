@@ -1,0 +1,108 @@
+{
+  "id": "shivshambhu-ke-chitthe",
+  "title": "शिवशम्भु के चिट्ठे",
+  "title_en": "Shivshambhu Ke Chittha",
+  "author": "बालमुकुंद गुप्त",
+  "author_en": "Balmukund Gupt",
+  "category": "व्यंग्य व निबंध",
+  "category_en": "Satire & Essays",
+  "description": "लॉर्ड कर्जन के साम्राज्यवादी अहंकार, भारत की विवशता और प्रेस की स्वतंत्रता पर बालमुकुंद गुप्त के कालजयी व्यंग्य पत्र। 'बिदाई-सम्भाषण' समेत हिन्दी राजनीतिक व्यंग्य की शिखर कृति।",
+  "cover_image": "",
+  "published_year": 1905,
+  "keywords": [
+    "shivshambhu ke chitthe",
+    "balmukund gupt",
+    "vyangya",
+    "satire",
+    "curzon",
+    "essays",
+    "colonialism",
+    "bharatmitra"
+  ],
+  "total_words": 15889,
+  "total_chapters": 9,
+  "estimated_reading_minutes": 88,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भूमिका (शिवशम्भु शर्मा का परिचय)",
+      "block_count": 43,
+      "word_count": 3782,
+      "estimated_minutes": 21,
+      "file": "content/books/shivshambhu-ke-chitthe/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "पहला चिट्ठा — बनाम लार्ड कर्जन (माई लार्ड का स्वागत)",
+      "block_count": 18,
+      "word_count": 1415,
+      "estimated_minutes": 8,
+      "file": "content/books/shivshambhu-ke-chitthe/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "दूसरा चिट्ठा — श्रीमान् का स्वागत (राजभक्ति और जनभावना)",
+      "block_count": 19,
+      "word_count": 1270,
+      "estimated_minutes": 7,
+      "file": "content/books/shivshambhu-ke-chitthe/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "तीसरा चिट्ठा — वैसराय का कर्त्तव्य (कर्तव्य का विस्मरण)",
+      "block_count": 21,
+      "word_count": 1397,
+      "estimated_minutes": 8,
+      "file": "content/books/shivshambhu-ke-chitthe/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "चौथा चिट्ठा — पीछे मत फेंकिये (प्रजा की पुकार)",
+      "block_count": 20,
+      "word_count": 1536,
+      "estimated_minutes": 9,
+      "file": "content/books/shivshambhu-ke-chitthe/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "पाँचवाँ चिट्ठा — आशा का अन्त! (दमन और असंतोष)",
+      "block_count": 21,
+      "word_count": 1543,
+      "estimated_minutes": 9,
+      "file": "content/books/shivshambhu-ke-chitthe/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "छठा चिट्ठा — एक दुराशा (शासक और शासित का संबंध)",
+      "block_count": 24,
+      "word_count": 1882,
+      "estimated_minutes": 10,
+      "file": "content/books/shivshambhu-ke-chitthe/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "सातवाँ चिट्ठा — बिदाई-सम्भाषण (लॉर्ड कर्जन की विदाई पर अमर व्यंग्य)",
+      "block_count": 26,
+      "word_count": 1625,
+      "estimated_minutes": 9,
+      "file": "content/books/shivshambhu-ke-chitthe/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "आठवाँ चिट्ठा — वंग-विच्छेद (बंग-भंग के विरुद्ध प्रतिरोध)",
+      "block_count": 24,
+      "word_count": 1439,
+      "estimated_minutes": 8,
+      "file": "content/books/shivshambhu-ke-chitthe/ch_09.json"
+    }
+  ]
+}

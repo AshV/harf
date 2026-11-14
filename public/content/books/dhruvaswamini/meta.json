@@ -1,0 +1,54 @@
+{
+  "id": "dhruvaswamini",
+  "title": "ध्रुवस्वामिनी",
+  "title_en": "Dhruvaswamini",
+  "author": "जयशंकर प्रसाद",
+  "author_en": "Jaishankar Prasad",
+  "category": "नाटक",
+  "category_en": "Play / Drama",
+  "description": "गुप्त साम्राज्य की पृष्ठभूमि में नारी के आत्मसम्मान, मर्यादा, पुनर्विवाह और स्वतंत्रता का ऐतिहासिक प्रश्न। जयशंकर प्रसाद का अंतिम और सर्वाधिक विचारोत्तेजक यथार्थवादी नाटक।",
+  "cover_image": "",
+  "published_year": 1933,
+  "keywords": [
+    "dhruvaswamini",
+    "jaishankar prasad",
+    "natak",
+    "drama",
+    "gupta empire",
+    "chandragupta",
+    "chhayavad",
+    "historical play"
+  ],
+  "total_words": 12459,
+  "total_chapters": 3,
+  "estimated_reading_minutes": 69,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रथम अंक — शिविर का प्रवेश (ध्रुवस्वामिनी का आत्ममंथन व चंद्रगुप्त)",
+      "block_count": 231,
+      "word_count": 5636,
+      "estimated_minutes": 31,
+      "file": "content/books/dhruvaswamini/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "द्वितीय अंक — शकदुर्ग का अंतःपुर (कोमा, मिहिरदेव व ध्रुवस्वामिनी का स्वाभिमान)",
+      "block_count": 170,
+      "word_count": 3502,
+      "estimated_minutes": 19,
+      "file": "content/books/dhruvaswamini/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तृतीय अंक — दुर्ग का भीतरी भाग (शकराज का वध व न्याय-सभा)",
+      "block_count": 146,
+      "word_count": 3321,
+      "estimated_minutes": 18,
+      "file": "content/books/dhruvaswamini/ch_03.json"
+    }
+  ]
+}

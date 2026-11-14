@@ -1,0 +1,90 @@
+{
+  "id": "kabir-granthavali",
+  "title": "कबीर ग्रंथावली",
+  "title_en": "Kabir Granthavali",
+  "author": "संत कबीर दास",
+  "author_en": "Sant Kabir Das",
+  "category": "कविता",
+  "category_en": "Poetry",
+  "description": "कबीरदास जी के अमर दोहे और साखियाँ। बाह्याडंबरों, पाखंड और सामाजिक कुरीतियों पर प्रहार तथा आत्म-साक्षात्कार, सद्गुरु-महिमा और प्रेम की कालजयी निर्गुण वाणी।",
+  "cover_image": "",
+  "published_year": 1500,
+  "keywords": [
+    "kabir",
+    "kabir granthavali",
+    "doha",
+    "sakhi",
+    "sant kavya",
+    "bhakti",
+    "nirgun",
+    "shyam sunder das"
+  ],
+  "total_words": 27221,
+  "total_chapters": 7,
+  "estimated_reading_minutes": 151,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "गुरुदेव कौ अंग (सद्गुरु की महिमा)",
+      "block_count": 239,
+      "word_count": 6392,
+      "estimated_minutes": 36,
+      "file": "content/books/kabir-granthavali/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "सुमिरन कौ अंग (ईश्वर स्मरण व नाम-साधना)",
+      "block_count": 310,
+      "word_count": 7488,
+      "estimated_minutes": 42,
+      "file": "content/books/kabir-granthavali/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "बिरह कौ अंग (आत्मा की विरह-वेदना)",
+      "block_count": 246,
+      "word_count": 3944,
+      "estimated_minutes": 22,
+      "file": "content/books/kabir-granthavali/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "परचा कौ अंग (आत्म-साक्षात्कार व ब्रह्म-अनुभूति)",
+      "block_count": 53,
+      "word_count": 654,
+      "estimated_minutes": 4,
+      "file": "content/books/kabir-granthavali/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "रस कौ अंग (ईश्वरीय प्रेम-रस का आनंद)",
+      "block_count": 50,
+      "word_count": 753,
+      "estimated_minutes": 4,
+      "file": "content/books/kabir-granthavali/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "चितावणी कौ अंग (सांसारिक भ्रम व नश्वरता)",
+      "block_count": 333,
+      "word_count": 5357,
+      "estimated_minutes": 30,
+      "file": "content/books/kabir-granthavali/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "माया कौ अंग (माया का प्रलोभन व स्वरूप)",
+      "block_count": 177,
+      "word_count": 2633,
+      "estimated_minutes": 15,
+      "file": "content/books/kabir-granthavali/ch_07.json"
+    }
+  ]
+}

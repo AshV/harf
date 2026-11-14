@@ -163,6 +163,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#9BBF85',
     badgeBg: 'bg-[#9BBF85]/15 text-[#E4F0DE]',
     motif: '❖ 🌾 ❖'
+  },
+  'shivshambhu-ke-chitthe': {
+    bgGradient: 'from-[#3A1412] via-[#521C1A] to-[#260B0A]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#FAF5E8]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEAC1]',
+    motif: '❖ ⚖️ ❖'
+  },
+  dhruvaswamini: {
+    bgGradient: 'from-[#141B34] via-[#1E284D] to-[#0D1224]',
+    borderColor: 'border-[#E5B55A]/40',
+    titleColor: 'text-[#F5F7FD]',
+    authorColor: 'text-[#E5B55A]',
+    accentColor: '#E5B55A',
+    badgeBg: 'bg-[#E5B55A]/15 text-[#FCEAC1]',
+    motif: '✦ 👑 ✦'
+  },
+  neeldevi: {
+    bgGradient: 'from-[#0C243B] via-[#123657] to-[#081829]',
+    borderColor: 'border-[#E8B568]/40',
+    titleColor: 'text-[#F0F7FD]',
+    authorColor: 'text-[#E8B568]',
+    accentColor: '#E8B568',
+    badgeBg: 'bg-[#E8B568]/15 text-[#FCEAC5]',
+    motif: '❖ ⚔️ ❖'
+  },
+  'kabir-granthavali': {
+    bgGradient: 'from-[#4D240E] via-[#6B3213] to-[#361708]',
+    borderColor: 'border-[#F5C563]/40',
+    titleColor: 'text-[#FFF9EE]',
+    authorColor: 'text-[#F5C563]',
+    accentColor: '#F5C563',
+    badgeBg: 'bg-[#F5C563]/15 text-[#FDF0CD]',
+    motif: '✦ 🪔 ✦'
+  },
+  aakashdeep: {
+    bgGradient: 'from-[#09222E] via-[#0E3547] to-[#051720]',
+    borderColor: 'border-[#68C5DB]/40',
+    titleColor: 'text-[#F0FAFD]',
+    authorColor: 'text-[#68C5DB]',
+    accentColor: '#68C5DB',
+    badgeBg: 'bg-[#68C5DB]/15 text-[#D1F0F7]',
+    motif: '✦ 🌟 ✦'
   }
 };
 

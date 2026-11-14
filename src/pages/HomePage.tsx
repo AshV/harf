@@ -512,6 +512,60 @@ export const HomePage: React.FC = () => {
                 </p>
               </div>
             </div>
+
+            {/* Sant Kabir Das Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'संत कबीर दास');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#4D240E] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                क
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#F5C563] transition-colors">
+                    संत कबीर दास
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#F5C563] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'संत कबीर दास').length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#4D240E] font-semibold">निर्गुण भक्ति शाखा के महाकवि (१३९८ – १५१८)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  कबीर ग्रंथावली, साखी, सबद, रमैनी, बीजक
+                </p>
+              </div>
+            </div>
+
+            {/* Balmukund Gupt Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'बालमुकुंद गुप्त');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#3A1412] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                बा
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#F0C35B] transition-colors">
+                    बालमुकुंद गुप्त
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#F0C35B] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'बालमुकुंद गुप्त').length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#3A1412] font-semibold">हिन्दी राजनीतिक व्यंग्य के पुरोधा (१८६५ – १९०७)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  शिवशम्भु के चिट्ठे, बिदाई-सम्भाषण, भारतमित्र निबंध
+                </p>
+              </div>
+            </div>
           </div>
         </section>
       </main>

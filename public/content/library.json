@@ -1,5 +1,29 @@
 [
   {
+    "id": "aakashdeep",
+    "title": "आकाशदीप व अन्य कहानियाँ",
+    "title_en": "Aakashdeep & Other Stories",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "कहानी",
+    "category_en": "Short Story",
+    "description": "'आकाशदीप', 'पुरस्कार', 'गुण्डा' और 'छोटा जादूगर' समेत जयशंकर प्रसाद की सात सर्वाधिक प्रसिद्ध और भावपूर्ण कहानियों का प्रामाणिक संकलन। रूमानी सौंदर्य, कर्तव्यबोध और देशप्रेम का संगम।",
+    "cover_image": "",
+    "published_year": 1929,
+    "total_chapters": 7,
+    "estimated_reading_minutes": 143,
+    "keywords": [
+      "aakashdeep",
+      "puraskar",
+      "gunda",
+      "chhota jadugar",
+      "jaishankar prasad",
+      "kahani",
+      "short story",
+      "chhayavad"
+    ]
+  },
+  {
     "id": "andher-nagari",
     "title": "अंधेर नगरी",
     "title_en": "Andher Nagari",
@@ -164,6 +188,30 @@
     ]
   },
   {
+    "id": "dhruvaswamini",
+    "title": "ध्रुवस्वामिनी",
+    "title_en": "Dhruvaswamini",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "गुप्त साम्राज्य की पृष्ठभूमि में नारी के आत्मसम्मान, मर्यादा, पुनर्विवाह और स्वतंत्रता का ऐतिहासिक प्रश्न। जयशंकर प्रसाद का अंतिम और सर्वाधिक विचारोत्तेजक यथार्थवादी नाटक।",
+    "cover_image": "",
+    "published_year": 1933,
+    "total_chapters": 3,
+    "estimated_reading_minutes": 69,
+    "keywords": [
+      "dhruvaswamini",
+      "jaishankar prasad",
+      "natak",
+      "drama",
+      "gupta empire",
+      "chandragupta",
+      "chhayavad",
+      "historical play"
+    ]
+  },
+  {
     "id": "godaan",
     "title": "गोदान",
     "title_en": "Godan",
@@ -209,6 +257,30 @@
       "kahani",
       "eid",
       "short story"
+    ]
+  },
+  {
+    "id": "kabir-granthavali",
+    "title": "कबीर ग्रंथावली",
+    "title_en": "Kabir Granthavali",
+    "author": "संत कबीर दास",
+    "author_en": "Sant Kabir Das",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "कबीरदास जी के अमर दोहे और साखियाँ। बाह्याडंबरों, पाखंड और सामाजिक कुरीतियों पर प्रहार तथा आत्म-साक्षात्कार, सद्गुरु-महिमा और प्रेम की कालजयी निर्गुण वाणी।",
+    "cover_image": "",
+    "published_year": 1500,
+    "total_chapters": 7,
+    "estimated_reading_minutes": 151,
+    "keywords": [
+      "kabir",
+      "kabir granthavali",
+      "doha",
+      "sakhi",
+      "sant kavya",
+      "bhakti",
+      "nirgun",
+      "shyam sunder das"
     ]
   },
   {
@@ -281,6 +353,30 @@
       "mughal",
       "humayun",
       "kahani"
+    ]
+  },
+  {
+    "id": "neeldevi",
+    "title": "नीलदेवी",
+    "title_en": "Neeldevi",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "मध्यकालीन भारतीय इतिहास की पृष्ठभूमि में राजपूत वीरांगना नीलदेवी के शौर्य, स्वाभिमान, पति-प्रेम और अदम्य प्रतिशोध का अमर ऐतिहासिक नाटक। भारतेन्दु की नाट्य-प्रतिभा का अप्रतिम उदाहरण।",
+    "cover_image": "",
+    "published_year": 1881,
+    "total_chapters": 10,
+    "estimated_reading_minutes": 30,
+    "keywords": [
+      "neeldevi",
+      "bharatendu",
+      "harishchandra",
+      "natak",
+      "drama",
+      "rajput",
+      "veerangana",
+      "aitihasik"
     ]
   },
   {
@@ -372,6 +468,30 @@
       "vishwamitra",
       "natak",
       "play"
+    ]
+  },
+  {
+    "id": "shivshambhu-ke-chitthe",
+    "title": "शिवशम्भु के चिट्ठे",
+    "title_en": "Shivshambhu Ke Chittha",
+    "author": "बालमुकुंद गुप्त",
+    "author_en": "Balmukund Gupt",
+    "category": "व्यंग्य व निबंध",
+    "category_en": "Satire & Essays",
+    "description": "लॉर्ड कर्जन के साम्राज्यवादी अहंकार, भारत की विवशता और प्रेस की स्वतंत्रता पर बालमुकुंद गुप्त के कालजयी व्यंग्य पत्र। 'बिदाई-सम्भाषण' समेत हिन्दी राजनीतिक व्यंग्य की शिखर कृति।",
+    "cover_image": "",
+    "published_year": 1905,
+    "total_chapters": 9,
+    "estimated_reading_minutes": 88,
+    "keywords": [
+      "shivshambhu ke chitthe",
+      "balmukund gupt",
+      "vyangya",
+      "satire",
+      "curzon",
+      "essays",
+      "colonialism",
+      "bharatmitra"
     ]
   }
 ]
