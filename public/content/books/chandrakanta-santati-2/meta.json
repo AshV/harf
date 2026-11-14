@@ -1,0 +1,72 @@
+{
+  "id": "chandrakanta-santati-2",
+  "title": "चंद्रकांता संतति (भाग २)",
+  "title_en": "Chandrakanta Santati (Part 2)",
+  "author": "देवकीनंदन खत्री",
+  "author_en": "Devaki Nandan Khatri",
+  "category": "तिलिस्म व रहस्य",
+  "category_en": "Fantasy, Mystery & Adventure",
+  "description": "किशोरी का अपहरण, धनपति की क्रूरता और जंगल में गुप्त ऐयारों के बीच प्राणघातक संघर्ष। रहस्यमयी भूतनाथ के पदार्पण के साथ तिलिस्म का दूसरा रोमांचक अध्याय।",
+  "cover_image": "",
+  "published_year": 1896,
+  "keywords": [
+    "chandrakanta",
+    "santati",
+    "kishori",
+    "dhanpati",
+    "bhootnath",
+    "tilism",
+    "devaki nandan khatri",
+    "fantasy"
+  ],
+  "total_words": 14082,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 78,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "पहला परिच्छेद — किशोरी का उद्धार और धनपति का षड्यंत्र",
+      "block_count": 24,
+      "word_count": 1341,
+      "estimated_minutes": 7,
+      "file": "content/books/chandrakanta-santati-2/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "दूसरा परिच्छेद — जंगल में तलवारों की खनक और गुप्त ऐयार",
+      "block_count": 86,
+      "word_count": 2736,
+      "estimated_minutes": 15,
+      "file": "content/books/chandrakanta-santati-2/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तीसरा परिच्छेद — तिलिस्मी तहख़ाना और मायावी आवाज़ें",
+      "block_count": 111,
+      "word_count": 3486,
+      "estimated_minutes": 19,
+      "file": "content/books/chandrakanta-santati-2/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चौथा परिच्छेद — ऐयारों की गुप्त संधि और वीरेन्द्रसिंह",
+      "block_count": 123,
+      "word_count": 4764,
+      "estimated_minutes": 26,
+      "file": "content/books/chandrakanta-santati-2/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पाँचवाँ परिच्छेद — भूतनाथ का रहस्यमय आगमन",
+      "block_count": 52,
+      "word_count": 1755,
+      "estimated_minutes": 10,
+      "file": "content/books/chandrakanta-santati-2/ch_05.json"
+    }
+  ]
+}

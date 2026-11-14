@@ -45,6 +45,55 @@
     ]
   },
   {
+    "id": "chandrakanta-santati-1",
+    "title": "चंद्रकांता संतति (भाग १)",
+    "title_en": "Chandrakanta Santati (Part 1)",
+    "author": "देवकीनंदन खत्री",
+    "author_en": "Devaki Nandan Khatri",
+    "category": "तिलिस्म व रहस्य",
+    "category_en": "Fantasy, Mystery & Adventure",
+    "description": "हिन्दी साहित्य का प्रथम और सर्वाधिक लोकप्रिय तिलिस्मी उपन्यास। नौगढ़, विजयगढ़ और चुनार के राजाओं, जादुई ऐयारों और तिलिस्मी खजानों की अविस्मरणीय और रोमांचक दास्तान।",
+    "cover_image": "",
+    "published_year": 1896,
+    "total_chapters": 3,
+    "estimated_reading_minutes": 59,
+    "keywords": [
+      "chandrakanta",
+      "santati",
+      "devaki nandan khatri",
+      "tilism",
+      "aiyari",
+      "virendra singh",
+      "bhootnath",
+      "fantasy",
+      "adventure"
+    ]
+  },
+  {
+    "id": "chandrakanta-santati-2",
+    "title": "चंद्रकांता संतति (भाग २)",
+    "title_en": "Chandrakanta Santati (Part 2)",
+    "author": "देवकीनंदन खत्री",
+    "author_en": "Devaki Nandan Khatri",
+    "category": "तिलिस्म व रहस्य",
+    "category_en": "Fantasy, Mystery & Adventure",
+    "description": "किशोरी का अपहरण, धनपति की क्रूरता और जंगल में गुप्त ऐयारों के बीच प्राणघातक संघर्ष। रहस्यमयी भूतनाथ के पदार्पण के साथ तिलिस्म का दूसरा रोमांचक अध्याय।",
+    "cover_image": "",
+    "published_year": 1896,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 78,
+    "keywords": [
+      "chandrakanta",
+      "santati",
+      "kishori",
+      "dhanpati",
+      "bhootnath",
+      "tilism",
+      "devaki nandan khatri",
+      "fantasy"
+    ]
+  },
+  {
     "id": "godaan",
     "title": "गोदान",
     "title_en": "Godan",

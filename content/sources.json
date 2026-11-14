@@ -158,5 +158,37 @@
     "ingested_at": "2026-11-14",
     "chapter_count": 8,
     "verification_notes": "हिन्दी विकिस्रोत के प्रामाणिक पाठ से सीधे सत्यापित एवं समेकित अध्याय।"
+  },
+  {
+    "id": "chandrakanta-santati-1",
+    "title_hi": "चंद्रकांता संतति (भाग १)",
+    "title_en": "Chandrakanta Santati (Part 1)",
+    "author_hi": "देवकीनंदन खत्री",
+    "author_en": "Devaki Nandan Khatri",
+    "category_hi": "तिलिस्म व रहस्य",
+    "category_en": "Fantasy, Mystery & Adventure",
+    "published_year": 1896,
+    "copyright_status": "सार्वजनिक डोमेन (Public Domain) — लेखक का निधन १९१३ में (>११० वर्ष पूर्व)",
+    "repository": "Hindi Wikisource (लहरी प्रेस, वाराणसी)",
+    "source_url": "https://hi.wikisource.org/wiki/चन्द्रकांता_सन्तति_१",
+    "ingested_at": "2026-11-14",
+    "chapter_count": 3,
+    "verification_notes": "लहरी बुक डिपो, वाराणसी के प्रामाणिक ऐतिहासिक संस्करण से हिन्दी विकिस्रोत पर सत्यापित पाठ।"
+  },
+  {
+    "id": "chandrakanta-santati-2",
+    "title_hi": "चंद्रकांता संतति (भाग २)",
+    "title_en": "Chandrakanta Santati (Part 2)",
+    "author_hi": "देवकीनंदन खत्री",
+    "author_en": "Devaki Nandan Khatri",
+    "category_hi": "तिलिस्म व रहस्य",
+    "category_en": "Fantasy, Mystery & Adventure",
+    "published_year": 1896,
+    "copyright_status": "सार्वजनिक डोमेन (Public Domain) — लेखक का निधन १९१३ में (>११० वर्ष पूर्व)",
+    "repository": "Hindi Wikisource (लहरी प्रेस, वाराणसी)",
+    "source_url": "https://hi.wikisource.org/wiki/चन्द्रकांता_सन्तति_२",
+    "ingested_at": "2026-11-14",
+    "chapter_count": 5,
+    "verification_notes": "लहरी बुक डिपो, वाराणसी के १८९६ के मूल संस्करण से हिन्दी विकिस्रोत पर सत्यापित पाठ।"
   }
 ]

@@ -109,6 +109,24 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#E8AA58',
     badgeBg: 'bg-[#E8AA58]/15 text-[#FDE6BD]',
     motif: '❖ 🕊️ ❖'
+  },
+  'chandrakanta-santati-1': {
+    bgGradient: 'from-[#0C1A2B] via-[#152B46] to-[#07111D]',
+    borderColor: 'border-[#F3C969]/40',
+    titleColor: 'text-[#FCFAF2]',
+    authorColor: 'text-[#F3C969]',
+    accentColor: '#F3C969',
+    badgeBg: 'bg-[#F3C969]/15 text-[#FDF0CD]',
+    motif: '❖ 🗝️ ❖'
+  },
+  'chandrakanta-santati-2': {
+    bgGradient: 'from-[#0C241D] via-[#143B2F] to-[#071813]',
+    borderColor: 'border-[#E5B55A]/40',
+    titleColor: 'text-[#FCFAF2]',
+    authorColor: 'text-[#E5B55A]',
+    accentColor: '#E5B55A',
+    badgeBg: 'bg-[#E5B55A]/15 text-[#FCEAC1]',
+    motif: '✦ 🗡️ ✦'
   }
 };
 

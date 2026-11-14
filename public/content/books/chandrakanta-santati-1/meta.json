@@ -1,0 +1,55 @@
+{
+  "id": "chandrakanta-santati-1",
+  "title": "चंद्रकांता संतति (भाग १)",
+  "title_en": "Chandrakanta Santati (Part 1)",
+  "author": "देवकीनंदन खत्री",
+  "author_en": "Devaki Nandan Khatri",
+  "category": "तिलिस्म व रहस्य",
+  "category_en": "Fantasy, Mystery & Adventure",
+  "description": "हिन्दी साहित्य का प्रथम और सर्वाधिक लोकप्रिय तिलिस्मी उपन्यास। नौगढ़, विजयगढ़ और चुनार के राजाओं, जादुई ऐयारों और तिलिस्मी खजानों की अविस्मरणीय और रोमांचक दास्तान।",
+  "cover_image": "",
+  "published_year": 1896,
+  "keywords": [
+    "chandrakanta",
+    "santati",
+    "devaki nandan khatri",
+    "tilism",
+    "aiyari",
+    "virendra singh",
+    "bhootnath",
+    "fantasy",
+    "adventure"
+  ],
+  "total_words": 10601,
+  "total_chapters": 3,
+  "estimated_reading_minutes": 59,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "पहिला बयान — विजयगढ़ और नौगढ़ का तिलिस्म",
+      "block_count": 114,
+      "word_count": 3591,
+      "estimated_minutes": 20,
+      "file": "content/books/chandrakanta-santati-1/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "दूसरा बयान — चुनार का षड्यंत्र और ऐयारों की युक्ति",
+      "block_count": 18,
+      "word_count": 876,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-1/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तीसरा बयान — तिलिस्मी घाटी और गुप्त संकेत",
+      "block_count": 163,
+      "word_count": 6134,
+      "estimated_minutes": 34,
+      "file": "content/books/chandrakanta-santati-1/ch_03.json"
+    }
+  ]
+}

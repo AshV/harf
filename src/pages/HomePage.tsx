@@ -432,29 +432,29 @@ export const HomePage: React.FC = () => {
               </div>
             </div>
 
-            {/* Insha Allah Khan Card */}
+            {/* Devaki Nandan Khatri Card */}
             <div
               onClick={() => {
-                updateFilter('author', 'इन्शा अल्ला खाँ');
+                updateFilter('author', 'देवकीनंदन खत्री');
                 scrollToCollection();
               }}
               className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
             >
-              <div className="w-12 h-12 rounded-2xl bg-[#421A2C] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
-                इ
+              <div className="w-12 h-12 rounded-2xl bg-[#0C1A2B] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                दे
               </div>
               <div className="flex-1">
                 <div className="flex items-center justify-between">
-                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#421A2C] transition-colors">
-                    इन्शा अल्ला खाँ
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#F3C969] transition-colors">
+                    देवकीनंदन खत्री
                   </h4>
-                  <span className="text-[11px] font-bold text-[#421A2C] group-hover:translate-x-0.5 transition-transform">
-                    {books.filter((b) => b.author === 'इन्शा अल्ला खाँ').length} कृति →
+                  <span className="text-[11px] font-bold text-[#F3C969] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'देवकीनंदन खत्री').length} कृतियाँ →
                   </span>
                 </div>
-                <p className="text-xs text-[#421A2C] font-semibold">खड़ी बोली गद्य के प्रवर्तक (१७५६ – १८१७)</p>
+                <p className="text-xs text-[#0C1A2B] font-semibold">तिलिस्म व ऐयारी के जनक (१८६१ – १९१३)</p>
                 <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
-                  रानी केतकी की कहानी
+                  चंद्रकांता, चंद्रकांता संतति, भूतनाथ, नरेंद्र मोहिनी
                 </p>
               </div>
             </div>
