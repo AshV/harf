@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run ingest && tsc -b && vite build",
+    "build": "npm run ingest && node scripts/prerender.js && tsc -b && vite build && node scripts/prerender.js",
     "preview": "vite preview",
-    "ingest": "node scripts/ingest.js"
+    "ingest": "node scripts/ingest.js",
+    "prerender": "node scripts/prerender.js"
   },
   "dependencies": {
     "dexie": "^4.0.11",

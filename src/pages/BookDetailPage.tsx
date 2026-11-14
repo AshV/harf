@@ -8,7 +8,8 @@ import {
   CheckCircle2,
   Trash2,
   Calendar,
-  Share2
+  Share2,
+  Check
 } from 'lucide-react';
 import { useBook } from '../hooks/useBook';
 import { useReadingProgress } from '../hooks/useReadingProgress';
@@ -24,6 +25,7 @@ export const BookDetailPage: React.FC = () => {
   const [isOffline, setIsOffline] = useState(false);
   const [downloading, setDownloading] = useState(false);
   const [downloadProgressText, setDownloadProgressText] = useState('');
+  const [copiedLink, setCopiedLink] = useState(false);
 
   useEffect(() => {
     if (book) {
@@ -75,6 +77,21 @@ export const BookDetailPage: React.FC = () => {
     }
   };
 
+  const handleShare = () => {
+    const shareText = `"${book.title}" — ${book.author} की कालजयी रचना हर्फ़ ई-पुस्तकालय पर मुफ़्त में पढ़ें।`;
+    if (navigator.share) {
+      navigator.share({
+        title: `${book.title} — ${book.author}`,
+        text: shareText,
+        url: window.location.href
+      }).catch(() => {});
+    } else {
+      navigator.clipboard.writeText(`${shareText}\n${window.location.href}`);
+      setCopiedLink(true);
+      setTimeout(() => setCopiedLink(false), 2000);
+    }
+  };
+
   const startChapterId = progress?.chapter_id || book.chapters[0]?.id || 'ch_01';
 
   return (
@@ -88,19 +105,21 @@ export const BookDetailPage: React.FC = () => {
           <ArrowLeft className="w-5 h-5" />
         </button>
         <button
-          onClick={() => {
-            if (navigator.share) {
-              navigator.share({
-                title: `${book.title} — ${book.author}`,
-                text: `${book.title} - हर्फ़ पर मुफ़्त में पढ़ें।`,
-                url: window.location.href
-              });
-            }
-          }}
-          className="p-2 rounded-xl hover:bg-black/5 transition-colors"
+          onClick={handleShare}
+          className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl hover:bg-black/5 transition-all text-xs font-semibold"
           title="साझा करें (Share)"
         >
-          <Share2 className="w-5 h-5 text-[#1F1916]/70" />
+          {copiedLink ? (
+            <>
+              <Check className="w-4 h-4 text-emerald-600" />
+              <span className="text-emerald-700">लिंक कॉपी हुआ</span>
+            </>
+          ) : (
+            <>
+              <Share2 className="w-4 h-4 text-[#1F1916]/70" />
+              <span className="hidden xs:inline">साझा करें</span>
+            </>
+          )}
         </button>
       </nav>
 

@@ -74,6 +74,18 @@ export interface Bookmark {
   created_at: number;
 }
 
+export type HighlightColor = 'yellow' | 'green' | 'amber' | 'rose';
+
+export interface Highlight {
+  id?: number;
+  book_id: string;
+  chapter_id: string;
+  block_id: string;
+  selected_text: string;
+  color: HighlightColor;
+  created_at: number;
+}
+
 export type ReaderTheme = 'parchment' | 'night' | 'day' | 'sage';
 export type ReaderFont = 'serif' | 'sans';
 

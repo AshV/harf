@@ -4,6 +4,7 @@ import {
   ArrowLeft,
   Settings,
   List,
+  Bookmark,
   ChevronLeft,
   ChevronRight,
   Headphones,
@@ -11,12 +12,17 @@ import {
   Play,
   Pause
 } from 'lucide-react';
-import type { BookMetadata, ChapterContent } from '../../types';
+import { useLiveQuery } from 'dexie-react-hooks';
+import { db } from '../../db';
+import type { BookMetadata, ChapterContent, HighlightColor } from '../../types';
 import { useSettings } from '../../hooks/useSettings';
 import { useTTS } from '../../hooks/useTTS';
 import { useReadingProgress } from '../../hooks/useReadingProgress';
 import { SettingsSheet } from './SettingsSheet';
 import { TOCDrawer } from './TOCDrawer';
+import { SelectionToolbar } from './SelectionToolbar';
+import { NotebookDrawer } from './NotebookDrawer';
+import { QuoteCardModal } from './QuoteCardModal';
 
 interface ReaderViewProps {
   book: BookMetadata;
@@ -37,10 +43,32 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
   const [showChrome, setShowChrome] = useState(true);
   const [showSettings, setShowSettings] = useState(false);
   const [showTOC, setShowTOC] = useState(false);
+  const [showNotebook, setShowNotebook] = useState(false);
+  const [showQuoteModal, setShowQuoteModal] = useState(false);
+  const [quoteTextForModal, setQuoteTextForModal] = useState('');
   const [currentBlockIndex, setCurrentBlockIndex] = useState(0);
+
+  const [selectionToolbar, setSelectionToolbar] = useState<{
+    position: { top: number; left: number };
+    text: string;
+    blockId: string;
+  } | null>(null);
 
   const containerRef = useRef<HTMLDivElement>(null);
   const blockRefs = useRef<Map<string, HTMLDivElement>>(new Map());
+  const pendingJumpBlockIdRef = useRef<string | null>(null);
+
+  // Fetch highlights for current book and chapter
+  const highlights = useLiveQuery(
+    async () => {
+      return await db.highlights
+        .where('book_id')
+        .equals(book.id)
+        .filter((h) => h.chapter_id === chapter.chapter_id)
+        .toArray();
+    },
+    [book.id, chapter.chapter_id]
+  ) || [];
 
   // Determine current chapter index in manifest
   const currentChapterIndex = book.chapters.findIndex((c) => c.id === chapter.chapter_id);
@@ -73,6 +101,186 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
     return () => window.removeEventListener('scroll', handleScroll);
   }, [book.id, book.total_chapters, chapter.chapter_id, currentChapterIndex, saveProgress]);
 
+  // Jump to pending block if set during cross-chapter jump
+  useEffect(() => {
+    if (pendingJumpBlockIdRef.current) {
+      const targetBlockId = pendingJumpBlockIdRef.current;
+      pendingJumpBlockIdRef.current = null;
+      const timer = setTimeout(() => {
+        const el = blockRefs.current.get(targetBlockId) || document.getElementById(`block-${targetBlockId}`);
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      }, 200);
+      return () => clearTimeout(timer);
+    }
+  }, [chapter.chapter_id]);
+
+  // Handle Text Selection for Highlight / Bookmark / Quote Card
+  const handleSelection = () => {
+    setTimeout(() => {
+      const selection = window.getSelection();
+      if (!selection || selection.isCollapsed) {
+        setSelectionToolbar(null);
+        return;
+      }
+
+      const text = selection.toString().trim();
+      if (text.length < 2) {
+        setSelectionToolbar(null);
+        return;
+      }
+
+      try {
+        const range = selection.getRangeAt(0);
+        const rect = range.getBoundingClientRect();
+        if (rect.width === 0 && rect.height === 0) {
+          setSelectionToolbar(null);
+          return;
+        }
+
+        let parentNode: Node | null = range.startContainer;
+        if (parentNode.nodeType !== Node.ELEMENT_NODE) {
+          parentNode = parentNode.parentElement;
+        }
+        const blockEl = (parentNode as HTMLElement)?.closest('[data-block-id]');
+        const blockId = blockEl?.getAttribute('data-block-id') || chapter.blocks[0]?.id || 'b_1';
+
+        setSelectionToolbar({
+          position: {
+            top: rect.top,
+            left: rect.left + rect.width / 2
+          },
+          text,
+          blockId
+        });
+      } catch {
+        setSelectionToolbar(null);
+      }
+    }, 60);
+  };
+
+  const handleHighlight = async (color: HighlightColor) => {
+    if (!selectionToolbar) return;
+    try {
+      await db.highlights.add({
+        book_id: book.id,
+        chapter_id: chapter.chapter_id,
+        block_id: selectionToolbar.blockId,
+        selected_text: selectionToolbar.text,
+        color,
+        created_at: Date.now()
+      });
+    } catch (err) {
+      console.error('Failed to add highlight:', err);
+    }
+    window.getSelection()?.removeAllRanges();
+    setSelectionToolbar(null);
+  };
+
+  const handleBookmark = async () => {
+    if (!selectionToolbar) return;
+    try {
+      await db.bookmarks.add({
+        book_id: book.id,
+        chapter_id: chapter.chapter_id,
+        block_id: selectionToolbar.blockId,
+        snippet: selectionToolbar.text,
+        created_at: Date.now()
+      });
+    } catch (err) {
+      console.error('Failed to add bookmark:', err);
+    }
+    window.getSelection()?.removeAllRanges();
+    setSelectionToolbar(null);
+  };
+
+  const handleOpenQuoteCard = () => {
+    if (!selectionToolbar) return;
+    setQuoteTextForModal(selectionToolbar.text);
+    setShowQuoteModal(true);
+    window.getSelection()?.removeAllRanges();
+    setSelectionToolbar(null);
+  };
+
+  const handleJumpTo = (targetChapterId: string, targetBlockId: string) => {
+    if (targetChapterId !== chapter.chapter_id) {
+      pendingJumpBlockIdRef.current = targetBlockId;
+      onSelectChapter(targetChapterId);
+    } else {
+      const el = blockRefs.current.get(targetBlockId) || document.getElementById(`block-${targetBlockId}`);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+  };
+
+  // Helper to render paragraph with highlighted spans
+  const renderHighlightedText = (text: string, blockId: string) => {
+    const blockHighlights = highlights.filter((h) => h.block_id === blockId);
+    if (blockHighlights.length === 0) return text;
+
+    type MatchSegment = { start: number; end: number; color: HighlightColor };
+    const matches: MatchSegment[] = [];
+
+    for (const hl of blockHighlights) {
+      if (!hl.selected_text) continue;
+      let pos = 0;
+      while ((pos = text.indexOf(hl.selected_text, pos)) !== -1) {
+        matches.push({
+          start: pos,
+          end: pos + hl.selected_text.length,
+          color: hl.color
+        });
+        pos += hl.selected_text.length;
+      }
+    }
+
+    if (matches.length === 0) return text;
+
+    matches.sort((a, b) => a.start - b.start);
+
+    const cleanMatches: MatchSegment[] = [];
+    let maxEnd = 0;
+    for (const m of matches) {
+      if (m.start >= maxEnd) {
+        cleanMatches.push(m);
+        maxEnd = m.end;
+      }
+    }
+
+    const parts: React.ReactNode[] = [];
+    let cursor = 0;
+
+    const colorClasses: Record<HighlightColor, string> = {
+      yellow: 'bg-amber-300/60 dark:bg-amber-400/35 rounded-xs px-0.5 transition-colors',
+      green: 'bg-emerald-300/60 dark:bg-emerald-400/35 rounded-xs px-0.5 transition-colors',
+      amber: 'bg-orange-300/60 dark:bg-orange-400/35 rounded-xs px-0.5 transition-colors',
+      rose: 'bg-rose-300/60 dark:bg-rose-400/35 rounded-xs px-0.5 transition-colors'
+    };
+
+    cleanMatches.forEach((m, idx) => {
+      if (m.start > cursor) {
+        parts.push(text.slice(cursor, m.start));
+      }
+      parts.push(
+        <mark
+          key={`hl-${blockId}-${idx}-${m.start}`}
+          className={`${colorClasses[m.color] || colorClasses.yellow} text-inherit`}
+        >
+          {text.slice(m.start, m.end)}
+        </mark>
+      );
+      cursor = m.end;
+    });
+
+    if (cursor < text.length) {
+      parts.push(text.slice(cursor));
+    }
+
+    return parts;
+  };
+
   // Audio Read-Along sequence handler
   const handleToggleTTS = () => {
     if (isSpeaking) {
@@ -82,7 +290,6 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
         pause();
       }
     } else {
-      // Start reading from current block index
       startSpeakingBlock(currentBlockIndex);
     }
   };
@@ -96,14 +303,12 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
     const block = chapter.blocks[index];
     setCurrentBlockIndex(index);
 
-    // Scroll block into view
     const blockElement = blockRefs.current.get(block.id);
     if (blockElement) {
       blockElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
 
     play(block.id, block.text, () => {
-      // On block end, advance to next block automatically
       startSpeakingBlock(index + 1);
     });
   };
@@ -115,14 +320,16 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
 
   // Center Tap toggles Zen mode
   const handleContentTap = (e: React.MouseEvent) => {
-    // Only toggle if user didn't click a link or button
+    // If text was selected or link/button clicked, do not toggle chrome
+    const selection = window.getSelection();
+    if (selection && selection.toString().trim().length > 0) return;
+
     const target = e.target as HTMLElement;
-    if (target.closest('button') || target.closest('a')) return;
+    if (target.closest('button') || target.closest('a') || target.closest('mark')) return;
 
     const height = window.innerHeight;
     const y = e.clientY;
 
-    // Center 60% toggles chrome
     if (y > height * 0.2 && y < height * 0.8) {
       setShowChrome((prev) => !prev);
     }
@@ -132,6 +339,8 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
     <div
       ref={containerRef}
       onClick={handleContentTap}
+      onMouseUp={handleSelection}
+      onTouchEnd={handleSelection}
       className={`min-h-screen transition-colors duration-200 theme-${settings.theme} ${
         settings.fontFamily === 'serif' ? 'reader-serif' : 'reader-sans'
       }`}
@@ -154,7 +363,7 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
           >
             <ArrowLeft className="w-5 h-5" />
           </button>
-          <div className="truncate max-w-[200px] sm:max-w-md">
+          <div className="truncate max-w-[180px] sm:max-w-md">
             <h2 className="text-sm font-bold truncate leading-tight font-hindi-serif">
               {book.title}
             </h2>
@@ -163,6 +372,16 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
         </div>
 
         <div className="flex items-center gap-1">
+          <button
+            onClick={() => setShowNotebook(true)}
+            className="p-2 rounded-xl hover:bg-black/5 dark:hover:bg-white/10 transition-colors relative"
+            title="मेरी नोटबुक (Highlights & Bookmarks)"
+          >
+            <Bookmark className="w-5 h-5 text-amber-500" />
+            {highlights.length > 0 && (
+              <span className="absolute top-1.5 right-1.5 w-2 h-2 rounded-full bg-amber-500" />
+            )}
+          </button>
           <button
             onClick={() => setShowTOC(true)}
             className="p-2 rounded-xl hover:bg-black/5 dark:hover:bg-white/10 transition-colors"
@@ -203,11 +422,13 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
             return (
               <div
                 key={block.id}
+                id={`block-${block.id}`}
+                data-block-id={block.id}
                 ref={(el) => {
                   if (el) blockRefs.current.set(block.id, el);
                   else blockRefs.current.delete(block.id);
                 }}
-                className={`transition-all duration-200 ${
+                className={`transition-all duration-200 select-text ${
                   isActiveTTS ? 'active-tts-block' : ''
                 }`}
                 style={{
@@ -217,24 +438,23 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
               >
                 {block.type === 'quote' ? (
                   <blockquote className="border-l-4 border-[#C05621] pl-4 italic opacity-95 my-4">
-                    {block.text}
+                    {renderHighlightedText(block.text, block.id)}
                   </blockquote>
                 ) : block.type === 'h2' ? (
                   <h3 className="font-bold font-serif text-lg my-4 opacity-95">
-                    {block.text}
+                    {renderHighlightedText(block.text, block.id)}
                   </h3>
                 ) : (
                   <p
                     className="cursor-pointer"
                     onClick={(e) => {
-                      // Click paragraph to start speaking from here if TTS is open
                       if (isSpeaking) {
                         e.stopPropagation();
                         startSpeakingBlock(index);
                       }
                     }}
                   >
-                    {block.text}
+                    {renderHighlightedText(block.text, block.id)}
                   </p>
                 )}
               </div>
@@ -275,6 +495,16 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
           )}
         </div>
       </main>
+
+      {/* Selection Toolbar Floating Pill */}
+      <SelectionToolbar
+        position={selectionToolbar?.position || null}
+        selectedText={selectionToolbar?.text || ''}
+        onHighlight={handleHighlight}
+        onBookmark={handleBookmark}
+        onOpenQuoteCard={handleOpenQuoteCard}
+        onClose={() => setSelectionToolbar(null)}
+      />
 
       {/* Floating Audio Read-Along Bar */}
       <div
@@ -359,7 +589,7 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
         </button>
       </footer>
 
-      {/* Modals & Sheets */}
+      {/* Modals & Drawers */}
       <SettingsSheet
         isOpen={showSettings}
         onClose={() => setShowSettings(false)}
@@ -374,7 +604,23 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
         currentChapterId={chapter.chapter_id}
         onSelectChapter={onSelectChapter}
       />
+
+      <NotebookDrawer
+        isOpen={showNotebook}
+        onClose={() => setShowNotebook(false)}
+        bookId={book.id}
+        onJumpTo={handleJumpTo}
+      />
+
+      <QuoteCardModal
+        isOpen={showQuoteModal}
+        onClose={() => setShowQuoteModal(false)}
+        quoteText={quoteTextForModal}
+        bookTitle={book.title}
+        author={book.author}
+      />
     </div>
   );
 };
+
 
