@@ -20,16 +20,16 @@
     "fantasy",
     "adventure"
   ],
-  "total_words": 10601,
+  "total_words": 10482,
   "total_chapters": 3,
-  "estimated_reading_minutes": 59,
+  "estimated_reading_minutes": 58,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "पहिला बयान — विजयगढ़ और नौगढ़ का तिलिस्म",
-      "block_count": 114,
-      "word_count": 3591,
+      "block_count": 56,
+      "word_count": 3562,
       "estimated_minutes": 20,
       "file": "content/books/chandrakanta-santati-1/ch_01.json"
     },
@@ -37,8 +37,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "दूसरा बयान — चुनार का षड्यंत्र और ऐयारों की युक्ति",
-      "block_count": 18,
-      "word_count": 876,
+      "block_count": 9,
+      "word_count": 865,
       "estimated_minutes": 5,
       "file": "content/books/chandrakanta-santati-1/ch_02.json"
     },
@@ -46,8 +46,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "तीसरा बयान — तिलिस्मी घाटी और गुप्त संकेत",
-      "block_count": 163,
-      "word_count": 6134,
+      "block_count": 19,
+      "word_count": 6055,
       "estimated_minutes": 34,
       "file": "content/books/chandrakanta-santati-1/ch_03.json"
     }

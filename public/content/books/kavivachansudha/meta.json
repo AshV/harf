@@ -25,7 +25,7 @@
       "id": "ch_01",
       "number": 1,
       "title": "मंगलाचरण व वीर-काव्य",
-      "block_count": 285,
+      "block_count": 193,
       "word_count": 5283,
       "estimated_minutes": 29,
       "file": "content/books/kavivachansudha/ch_01.json"
@@ -34,7 +34,7 @@
       "id": "ch_02",
       "number": 2,
       "title": "मनहरण, सवैया व शृंगार",
-      "block_count": 337,
+      "block_count": 116,
       "word_count": 4283,
       "estimated_minutes": 24,
       "file": "content/books/kavivachansudha/ch_02.json"
@@ -43,7 +43,7 @@
       "id": "ch_03",
       "number": 3,
       "title": "स्तुति, पद व नीति",
-      "block_count": 244,
+      "block_count": 95,
       "word_count": 3752,
       "estimated_minutes": 21,
       "file": "content/books/kavivachansudha/ch_03.json"
@@ -52,7 +52,7 @@
       "id": "ch_04",
       "number": 4,
       "title": "अलिफनामा (आध्यात्मिक काव्य)",
-      "block_count": 132,
+      "block_count": 4,
       "word_count": 1451,
       "estimated_minutes": 8,
       "file": "content/books/kavivachansudha/ch_04.json"
@@ -61,7 +61,7 @@
       "id": "ch_05",
       "number": 5,
       "title": "पावस-कवित्त, विरह व दोहावली",
-      "block_count": 223,
+      "block_count": 190,
       "word_count": 2266,
       "estimated_minutes": 13,
       "file": "content/books/kavivachansudha/ch_05.json"

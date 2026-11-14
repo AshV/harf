@@ -17,16 +17,16 @@
     "philosophy",
     "anti superstition"
   ],
-  "total_words": 36206,
+  "total_words": 35734,
   "total_chapters": 10,
-  "estimated_reading_minutes": 201,
+  "estimated_reading_minutes": 199,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "अध्याय १: धर्म क्या है?",
-      "block_count": 38,
-      "word_count": 2525,
+      "block_count": 26,
+      "word_count": 2506,
       "estimated_minutes": 14,
       "file": "content/books/dharm-ke-naam-par/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "अध्याय २: सदुपयोग और दुरुपयोग",
-      "block_count": 56,
-      "word_count": 4020,
+      "block_count": 45,
+      "word_count": 3997,
       "estimated_minutes": 22,
       "file": "content/books/dharm-ke-naam-par/ch_02.json"
     },
@@ -43,17 +43,17 @@
       "id": "ch_03",
       "number": 3,
       "title": "अध्याय ३: अन्धविश्वास और कुसंस्कार",
-      "block_count": 77,
-      "word_count": 4854,
-      "estimated_minutes": 27,
+      "block_count": 51,
+      "word_count": 4551,
+      "estimated_minutes": 25,
       "file": "content/books/dharm-ke-naam-par/ch_03.json"
     },
     {
       "id": "ch_04",
       "number": 4,
       "title": "अध्याय ४: अत्याचार",
-      "block_count": 70,
-      "word_count": 4183,
+      "block_count": 46,
+      "word_count": 4164,
       "estimated_minutes": 23,
       "file": "content/books/dharm-ke-naam-par/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "अध्याय ५: हत्या",
-      "block_count": 89,
-      "word_count": 2896,
+      "block_count": 61,
+      "word_count": 2879,
       "estimated_minutes": 16,
       "file": "content/books/dharm-ke-naam-par/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "अध्याय ६: व्यभिचार",
-      "block_count": 123,
-      "word_count": 3530,
+      "block_count": 84,
+      "word_count": 3513,
       "estimated_minutes": 20,
       "file": "content/books/dharm-ke-naam-par/ch_06.json"
     },
@@ -79,8 +79,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "अध्याय ७: अपराध",
-      "block_count": 39,
-      "word_count": 2027,
+      "block_count": 28,
+      "word_count": 2008,
       "estimated_minutes": 11,
       "file": "content/books/dharm-ke-naam-par/ch_07.json"
     },
@@ -88,8 +88,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "अध्याय ८: कुरीति और रूढ़ियां",
-      "block_count": 86,
-      "word_count": 6378,
+      "block_count": 71,
+      "word_count": 6358,
       "estimated_minutes": 35,
       "file": "content/books/dharm-ke-naam-par/ch_08.json"
     },
@@ -97,8 +97,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "अध्याय ९: पाखण्ड",
-      "block_count": 66,
-      "word_count": 4703,
+      "block_count": 51,
+      "word_count": 4683,
       "estimated_minutes": 26,
       "file": "content/books/dharm-ke-naam-par/ch_09.json"
     },
@@ -106,8 +106,8 @@
       "id": "ch_10",
       "number": 10,
       "title": "अध्याय १०: धर्म नीति",
-      "block_count": 23,
-      "word_count": 1090,
+      "block_count": 15,
+      "word_count": 1075,
       "estimated_minutes": 6,
       "file": "content/books/dharm-ke-naam-par/ch_10.json"
     }

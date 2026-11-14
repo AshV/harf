@@ -18,7 +18,7 @@
     "chaupat raja",
     "satire"
   ],
-  "total_words": 3685,
+  "total_words": 3672,
   "total_chapters": 1,
   "estimated_reading_minutes": 20,
   "chapters": [
@@ -26,8 +26,8 @@
       "id": "ch_01",
       "number": 1,
       "title": "पूर्ण नाटक",
-      "block_count": 297,
-      "word_count": 3685,
+      "block_count": 258,
+      "word_count": 3672,
       "estimated_minutes": 20,
       "file": "content/books/andher-nagari/ch_01.json"
     }

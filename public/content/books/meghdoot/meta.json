@@ -18,7 +18,7 @@
     "alaka",
     "yaksha"
   ],
-  "total_words": 12481,
+  "total_words": 12480,
   "total_chapters": 3,
   "estimated_reading_minutes": 69,
   "chapters": [
@@ -26,8 +26,8 @@
       "id": "ch_01",
       "number": 1,
       "title": "पूर्वमेघ (पूर्वार्द्ध)",
-      "block_count": 70,
-      "word_count": 4344,
+      "block_count": 34,
+      "word_count": 4343,
       "estimated_minutes": 24,
       "file": "content/books/meghdoot/ch_01.json"
     },
@@ -35,7 +35,7 @@
       "id": "ch_02",
       "number": 2,
       "title": "उत्तरमेघ (उत्तरार्द्ध)",
-      "block_count": 42,
+      "block_count": 24,
       "word_count": 3452,
       "estimated_minutes": 19,
       "file": "content/books/meghdoot/ch_02.json"
@@ -44,7 +44,7 @@
       "id": "ch_03",
       "number": 3,
       "title": "उपसंहार व विमर्श",
-      "block_count": 255,
+      "block_count": 40,
       "word_count": 4685,
       "estimated_minutes": 26,
       "file": "content/books/meghdoot/ch_03.json"

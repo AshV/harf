@@ -18,7 +18,7 @@
     "varanasi",
     "natak"
   ],
-  "total_words": 6301,
+  "total_words": 6228,
   "total_chapters": 4,
   "estimated_reading_minutes": 35,
   "chapters": [
@@ -26,8 +26,8 @@
       "id": "ch_01",
       "number": 1,
       "title": "पहिला अंक (पहिला गर्भांक) — मंदिर का चौक व पाखंड-चित्र",
-      "block_count": 111,
-      "word_count": 1432,
+      "block_count": 78,
+      "word_count": 1407,
       "estimated_minutes": 8,
       "file": "content/books/premjogini/ch_01.json"
     },
@@ -35,8 +35,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "दूसरा गर्भांक — गंगा-तट व पंडे-पुजारियों का प्रपंच",
-      "block_count": 133,
-      "word_count": 1195,
+      "block_count": 117,
+      "word_count": 1182,
       "estimated_minutes": 7,
       "file": "content/books/premjogini/ch_02.json"
     },
@@ -44,8 +44,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "तीसरा गर्भांक — काशी के रईसों का समाज व खोखलापन",
-      "block_count": 63,
-      "word_count": 1999,
+      "block_count": 46,
+      "word_count": 1982,
       "estimated_minutes": 11,
       "file": "content/books/premjogini/ch_03.json"
     },
@@ -53,8 +53,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "चौथा गर्भांक — प्रेमजोगिनी का रहस्य व यथार्थ-बोध",
-      "block_count": 104,
-      "word_count": 1675,
+      "block_count": 68,
+      "word_count": 1657,
       "estimated_minutes": 9,
       "file": "content/books/premjogini/ch_04.json"
     }

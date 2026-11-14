@@ -17,25 +17,25 @@
     "classic hindi stories",
     "kahani"
   ],
-  "total_words": 23840,
+  "total_words": 23589,
   "total_chapters": 8,
-  "estimated_reading_minutes": 132,
+  "estimated_reading_minutes": 131,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "भूमिका — प्रथम संस्करण का वक्तव्य",
-      "block_count": 15,
-      "word_count": 277,
-      "estimated_minutes": 2,
+      "block_count": 5,
+      "word_count": 138,
+      "estimated_minutes": 1,
       "file": "content/books/sapta-saroj/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "नमक का दारोगा",
-      "block_count": 74,
-      "word_count": 3640,
+      "block_count": 63,
+      "word_count": 3625,
       "estimated_minutes": 20,
       "file": "content/books/sapta-saroj/ch_02.json"
     },
@@ -43,17 +43,17 @@
       "id": "ch_03",
       "number": 3,
       "title": "बड़े घर की बेटी",
-      "block_count": 175,
-      "word_count": 2798,
-      "estimated_minutes": 16,
+      "block_count": 70,
+      "word_count": 2782,
+      "estimated_minutes": 15,
       "file": "content/books/sapta-saroj/ch_03.json"
     },
     {
       "id": "ch_04",
       "number": 4,
       "title": "पंच परमेश्वर",
-      "block_count": 100,
-      "word_count": 4335,
+      "block_count": 79,
+      "word_count": 4313,
       "estimated_minutes": 24,
       "file": "content/books/sapta-saroj/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "उपदेश",
-      "block_count": 156,
-      "word_count": 7506,
+      "block_count": 106,
+      "word_count": 7489,
       "estimated_minutes": 42,
       "file": "content/books/sapta-saroj/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "परीक्षा",
-      "block_count": 25,
-      "word_count": 566,
+      "block_count": 8,
+      "word_count": 557,
       "estimated_minutes": 3,
       "file": "content/books/sapta-saroj/ch_06.json"
     },
@@ -79,8 +79,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "सज्जनता का दंड",
-      "block_count": 47,
-      "word_count": 1984,
+      "block_count": 32,
+      "word_count": 1969,
       "estimated_minutes": 11,
       "file": "content/books/sapta-saroj/ch_07.json"
     },
@@ -88,8 +88,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "सौत",
-      "block_count": 56,
-      "word_count": 2734,
+      "block_count": 40,
+      "word_count": 2716,
       "estimated_minutes": 15,
       "file": "content/books/sapta-saroj/ch_08.json"
     }

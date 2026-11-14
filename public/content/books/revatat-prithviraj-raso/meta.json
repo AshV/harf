@@ -18,16 +18,16 @@
     "adi kavya",
     "kavita"
   ],
-  "total_words": 51879,
+  "total_words": 51698,
   "total_chapters": 2,
-  "estimated_reading_minutes": 288,
+  "estimated_reading_minutes": 287,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "प्रस्तावना एवं रेवातट-कथा सार — डॉ. विपिन बिहारी त्रिवेदी",
-      "block_count": 10,
-      "word_count": 2092,
+      "block_count": 6,
+      "word_count": 2079,
       "estimated_minutes": 12,
       "file": "content/books/revatat-prithviraj-raso/ch_01.json"
     },
@@ -35,9 +35,9 @@
       "id": "ch_02",
       "number": 2,
       "title": "रेवातट समय (मूल रासो महाकाव्य) — महाकवि चंदबरदाई",
-      "block_count": 1958,
-      "word_count": 49787,
-      "estimated_minutes": 277,
+      "block_count": 1398,
+      "word_count": 49619,
+      "estimated_minutes": 276,
       "file": "content/books/revatat-prithviraj-raso/ch_02.json"
     }
   ]

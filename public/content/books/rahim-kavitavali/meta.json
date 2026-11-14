@@ -19,34 +19,34 @@
     "braj bhasha",
     "riti poetry"
   ],
-  "total_words": 18067,
+  "total_words": 17865,
   "total_chapters": 10,
-  "estimated_reading_minutes": 100,
+  "estimated_reading_minutes": 99,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "रहीम का परिचय",
-      "block_count": 359,
-      "word_count": 7652,
-      "estimated_minutes": 43,
+      "block_count": 247,
+      "word_count": 7631,
+      "estimated_minutes": 42,
       "file": "content/books/rahim-kavitavali/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "दोहे",
-      "block_count": 707,
-      "word_count": 5685,
-      "estimated_minutes": 32,
+      "block_count": 675,
+      "word_count": 5669,
+      "estimated_minutes": 31,
       "file": "content/books/rahim-kavitavali/ch_02.json"
     },
     {
       "id": "ch_03",
       "number": 3,
       "title": "सोरठे",
-      "block_count": 37,
-      "word_count": 286,
+      "block_count": 31,
+      "word_count": 270,
       "estimated_minutes": 2,
       "file": "content/books/rahim-kavitavali/ch_03.json"
     },
@@ -54,8 +54,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "बरवै नायिका भेद",
-      "block_count": 448,
-      "word_count": 2214,
+      "block_count": 439,
+      "word_count": 2198,
       "estimated_minutes": 12,
       "file": "content/books/rahim-kavitavali/ch_04.json"
     },
@@ -63,8 +63,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "ख़ानख़ाना-कृत बरवै",
-      "block_count": 64,
-      "word_count": 379,
+      "block_count": 59,
+      "word_count": 360,
       "estimated_minutes": 2,
       "file": "content/books/rahim-kavitavali/ch_05.json"
     },
@@ -72,8 +72,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "मदनाष्टक",
-      "block_count": 46,
-      "word_count": 247,
+      "block_count": 33,
+      "word_count": 221,
       "estimated_minutes": 1,
       "file": "content/books/rahim-kavitavali/ch_06.json"
     },
@@ -81,8 +81,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "नगर-शोभा-वर्णन",
-      "block_count": 44,
-      "word_count": 318,
+      "block_count": 39,
+      "word_count": 297,
       "estimated_minutes": 2,
       "file": "content/books/rahim-kavitavali/ch_07.json"
     },
@@ -90,8 +90,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "खेट-कौतुक",
-      "block_count": 24,
-      "word_count": 201,
+      "block_count": 19,
+      "word_count": 177,
       "estimated_minutes": 1,
       "file": "content/books/rahim-kavitavali/ch_08.json"
     },
@@ -99,8 +99,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "रहीम के स्फुट हिन्दी-छन्द",
-      "block_count": 51,
-      "word_count": 493,
+      "block_count": 46,
+      "word_count": 470,
       "estimated_minutes": 3,
       "file": "content/books/rahim-kavitavali/ch_09.json"
     },
@@ -108,8 +108,8 @@
       "id": "ch_10",
       "number": 10,
       "title": "रहीम के स्फुट संस्कृत-छन्द",
-      "block_count": 41,
-      "word_count": 592,
+      "block_count": 36,
+      "word_count": 572,
       "estimated_minutes": 3,
       "file": "content/books/rahim-kavitavali/ch_10.json"
     }

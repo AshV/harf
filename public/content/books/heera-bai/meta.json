@@ -16,16 +16,16 @@
     "alauddin khilji",
     "early hindi novel"
   ],
-  "total_words": 3349,
+  "total_words": 3219,
   "total_chapters": 2,
-  "estimated_reading_minutes": 19,
+  "estimated_reading_minutes": 18,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "भाग 1",
-      "block_count": 50,
-      "word_count": 1458,
+      "block_count": 44,
+      "word_count": 1391,
       "estimated_minutes": 8,
       "file": "content/books/heera-bai/ch_01.json"
     },
@@ -33,9 +33,9 @@
       "id": "ch_02",
       "number": 2,
       "title": "भाग 2",
-      "block_count": 70,
-      "word_count": 1891,
-      "estimated_minutes": 11,
+      "block_count": 64,
+      "word_count": 1828,
+      "estimated_minutes": 10,
       "file": "content/books/heera-bai/ch_02.json"
     }
   ]

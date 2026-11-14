@@ -18,16 +18,16 @@
     "maurya",
     "natak"
   ],
-  "total_words": 35215,
+  "total_words": 35036,
   "total_chapters": 5,
-  "estimated_reading_minutes": 196,
+  "estimated_reading_minutes": 195,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "भूमिका एवं पात्र-परिचय",
-      "block_count": 64,
-      "word_count": 139,
+      "block_count": 19,
+      "word_count": 63,
       "estimated_minutes": 1,
       "file": "content/books/chandragupta/ch_01.json"
     },
@@ -35,17 +35,17 @@
       "id": "ch_02",
       "number": 2,
       "title": "प्रथम अंक",
-      "block_count": 607,
-      "word_count": 9271,
-      "estimated_minutes": 52,
+      "block_count": 547,
+      "word_count": 9235,
+      "estimated_minutes": 51,
       "file": "content/books/chandragupta/ch_02.json"
     },
     {
       "id": "ch_03",
       "number": 3,
       "title": "द्वितीय अंक",
-      "block_count": 655,
-      "word_count": 8593,
+      "block_count": 575,
+      "word_count": 8568,
       "estimated_minutes": 48,
       "file": "content/books/chandragupta/ch_03.json"
     },
@@ -53,8 +53,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "तृतीय अंक",
-      "block_count": 475,
-      "word_count": 7233,
+      "block_count": 417,
+      "word_count": 7217,
       "estimated_minutes": 40,
       "file": "content/books/chandragupta/ch_04.json"
     },
@@ -62,8 +62,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "चतुर्थ अंक",
-      "block_count": 700,
-      "word_count": 9979,
+      "block_count": 616,
+      "word_count": 9953,
       "estimated_minutes": 55,
       "file": "content/books/chandragupta/ch_05.json"
     }

@@ -18,16 +18,16 @@
     "bhagnavashesh",
     "ahuti"
   ],
-  "total_words": 9522,
+  "total_words": 9421,
   "total_chapters": 6,
-  "estimated_reading_minutes": 53,
+  "estimated_reading_minutes": 52,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "कहानी १ — भग्नावशेष",
-      "block_count": 31,
-      "word_count": 1051,
+      "block_count": 19,
+      "word_count": 1035,
       "estimated_minutes": 6,
       "file": "content/books/bikhare-moti/ch_01.json"
     },
@@ -35,8 +35,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "कहानी २ — होली",
-      "block_count": 44,
-      "word_count": 728,
+      "block_count": 33,
+      "word_count": 712,
       "estimated_minutes": 4,
       "file": "content/books/bikhare-moti/ch_02.json"
     },
@@ -44,8 +44,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "कहानी ३ — क़िस्मत",
-      "block_count": 114,
-      "word_count": 1631,
+      "block_count": 37,
+      "word_count": 1612,
       "estimated_minutes": 9,
       "file": "content/books/bikhare-moti/ch_03.json"
     },
@@ -53,8 +53,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "कहानी ४ — कदम्ब के फूल",
-      "block_count": 85,
-      "word_count": 1560,
+      "block_count": 40,
+      "word_count": 1544,
       "estimated_minutes": 9,
       "file": "content/books/bikhare-moti/ch_04.json"
     },
@@ -62,8 +62,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "कहानी ५ — एकादशी",
-      "block_count": 172,
-      "word_count": 1702,
+      "block_count": 36,
+      "word_count": 1686,
       "estimated_minutes": 9,
       "file": "content/books/bikhare-moti/ch_05.json"
     },
@@ -71,8 +71,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "कहानी ६ — आहुति",
-      "block_count": 261,
-      "word_count": 2850,
+      "block_count": 38,
+      "word_count": 2832,
       "estimated_minutes": 16,
       "file": "content/books/bikhare-moti/ch_06.json"
     }

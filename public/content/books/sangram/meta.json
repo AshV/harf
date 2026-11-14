@@ -16,7 +16,7 @@
     "kisan andolan",
     "natak"
   ],
-  "total_words": 48108,
+  "total_words": 48050,
   "total_chapters": 5,
   "estimated_reading_minutes": 267,
   "chapters": [
@@ -24,8 +24,8 @@
       "id": "ch_01",
       "number": 1,
       "title": "प्रथम अंक (दृश्य १ से ७)",
-      "block_count": 688,
-      "word_count": 9234,
+      "block_count": 356,
+      "word_count": 9222,
       "estimated_minutes": 51,
       "file": "content/books/sangram/ch_01.json"
     },
@@ -33,8 +33,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "द्वितीय अंक (दृश्य १ से १०)",
-      "block_count": 1037,
-      "word_count": 11641,
+      "block_count": 408,
+      "word_count": 11631,
       "estimated_minutes": 65,
       "file": "content/books/sangram/ch_02.json"
     },
@@ -42,8 +42,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "तृतीय अंक (दृश्य १ से ९)",
-      "block_count": 499,
-      "word_count": 10637,
+      "block_count": 413,
+      "word_count": 10625,
       "estimated_minutes": 59,
       "file": "content/books/sangram/ch_03.json"
     },
@@ -51,8 +51,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "चतुर्थ अंक (दृश्य १ से ७)",
-      "block_count": 551,
-      "word_count": 10442,
+      "block_count": 418,
+      "word_count": 10430,
       "estimated_minutes": 58,
       "file": "content/books/sangram/ch_04.json"
     },
@@ -60,8 +60,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "पंचम अंक (दृश्य १ से ६)",
-      "block_count": 383,
-      "word_count": 6154,
+      "block_count": 283,
+      "word_count": 6142,
       "estimated_minutes": 34,
       "file": "content/books/sangram/ch_05.json"
     }

@@ -16,16 +16,16 @@
     "kahani",
     "early prose"
   ],
-  "total_words": 9052,
+  "total_words": 8893,
   "total_chapters": 4,
-  "estimated_reading_minutes": 50,
+  "estimated_reading_minutes": 49,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "पहला भाग — आरंभ और कुँवर उदयभान की शिकार-यात्रा",
-      "block_count": 252,
-      "word_count": 3639,
+      "block_count": 48,
+      "word_count": 3617,
       "estimated_minutes": 20,
       "file": "content/books/rani-ketki-ki-kahani/ch_01.json"
     },
@@ -33,8 +33,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "दूसरा भाग — रानी केतकी से भेंट और प्रेम का अंकुर",
-      "block_count": 104,
-      "word_count": 1238,
+      "block_count": 55,
+      "word_count": 1232,
       "estimated_minutes": 7,
       "file": "content/books/rani-ketki-ki-kahani/ch_02.json"
     },
@@ -42,7 +42,7 @@
       "id": "ch_03",
       "number": 3,
       "title": "तीसरा भाग — राजा जगतप्रकाश का क्रोध और विरह",
-      "block_count": 228,
+      "block_count": 57,
       "word_count": 2564,
       "estimated_minutes": 14,
       "file": "content/books/rani-ketki-ki-kahani/ch_03.json"
@@ -51,9 +51,9 @@
       "id": "ch_04",
       "number": 4,
       "title": "चौथा भाग — गुरु गोरखनाथ की कृपा और मिलन",
-      "block_count": 140,
-      "word_count": 1611,
-      "estimated_minutes": 9,
+      "block_count": 53,
+      "word_count": 1480,
+      "estimated_minutes": 8,
       "file": "content/books/rani-ketki-ki-kahani/ch_04.json"
     }
   ]

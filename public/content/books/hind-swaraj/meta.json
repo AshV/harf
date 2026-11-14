@@ -17,7 +17,7 @@
     "indian independence",
     "political philosophy"
   ],
-  "total_words": 33359,
+  "total_words": 33274,
   "total_chapters": 10,
   "estimated_reading_minutes": 185,
   "chapters": [
@@ -25,8 +25,8 @@
       "id": "ch_01",
       "number": 1,
       "title": "निवेदन",
-      "block_count": 7,
-      "word_count": 141,
+      "block_count": 4,
+      "word_count": 122,
       "estimated_minutes": 1,
       "file": "content/books/hind-swaraj/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "१",
-      "block_count": 74,
-      "word_count": 3164,
+      "block_count": 70,
+      "word_count": 3161,
       "estimated_minutes": 18,
       "file": "content/books/hind-swaraj/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "२",
-      "block_count": 109,
-      "word_count": 2177,
+      "block_count": 106,
+      "word_count": 2175,
       "estimated_minutes": 12,
       "file": "content/books/hind-swaraj/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "३",
-      "block_count": 85,
-      "word_count": 3427,
+      "block_count": 74,
+      "word_count": 3420,
       "estimated_minutes": 19,
       "file": "content/books/hind-swaraj/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "४",
-      "block_count": 79,
-      "word_count": 3310,
+      "block_count": 70,
+      "word_count": 3308,
       "estimated_minutes": 18,
       "file": "content/books/hind-swaraj/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "५",
-      "block_count": 136,
-      "word_count": 5396,
+      "block_count": 124,
+      "word_count": 5393,
       "estimated_minutes": 30,
       "file": "content/books/hind-swaraj/ch_06.json"
     },
@@ -79,8 +79,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "६",
-      "block_count": 138,
-      "word_count": 5204,
+      "block_count": 125,
+      "word_count": 5203,
       "estimated_minutes": 29,
       "file": "content/books/hind-swaraj/ch_07.json"
     },
@@ -88,8 +88,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "७",
-      "block_count": 142,
-      "word_count": 6220,
+      "block_count": 130,
+      "word_count": 6216,
       "estimated_minutes": 35,
       "file": "content/books/hind-swaraj/ch_08.json"
     },
@@ -97,8 +97,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "८",
-      "block_count": 93,
-      "word_count": 2592,
+      "block_count": 70,
+      "word_count": 2569,
       "estimated_minutes": 14,
       "file": "content/books/hind-swaraj/ch_09.json"
     },
@@ -106,9 +106,9 @@
       "id": "ch_10",
       "number": 10,
       "title": "⁠दो शब्द",
-      "block_count": 40,
-      "word_count": 1728,
-      "estimated_minutes": 10,
+      "block_count": 35,
+      "word_count": 1707,
+      "estimated_minutes": 9,
       "file": "content/books/hind-swaraj/ch_10.json"
     }
   ]

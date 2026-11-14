@@ -17,16 +17,16 @@
     "jamshedpur",
     "jivan charitra"
   ],
-  "total_words": 10966,
+  "total_words": 10864,
   "total_chapters": 5,
-  "estimated_reading_minutes": 61,
+  "estimated_reading_minutes": 60,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "अध्याय १: जन्म और आरंभकाल",
-      "block_count": 76,
-      "word_count": 3779,
+      "block_count": 50,
+      "word_count": 3754,
       "estimated_minutes": 21,
       "file": "content/books/tata-jivan-charitra/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "अध्याय २: अभ्युदय एवं औद्योगिक क्रांति",
-      "block_count": 24,
-      "word_count": 1691,
+      "block_count": 12,
+      "word_count": 1668,
       "estimated_minutes": 9,
       "file": "content/books/tata-jivan-charitra/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "अध्याय ३: देशभक्ति और लोकोपकार",
-      "block_count": 31,
-      "word_count": 2269,
+      "block_count": 17,
+      "word_count": 2251,
       "estimated_minutes": 13,
       "file": "content/books/tata-jivan-charitra/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "अध्याय ४: जीवन संध्या एवं स्वर्गारोहण",
-      "block_count": 58,
-      "word_count": 3027,
+      "block_count": 40,
+      "word_count": 3007,
       "estimated_minutes": 17,
       "file": "content/books/tata-jivan-charitra/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "उपसंहार: राष्ट्र-निर्माण में ताता का अवदान",
-      "block_count": 5,
-      "word_count": 200,
+      "block_count": 1,
+      "word_count": 184,
       "estimated_minutes": 1,
       "file": "content/books/tata-jivan-charitra/ch_05.json"
     }

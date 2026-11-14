@@ -17,25 +17,25 @@
     "gwalior fort",
     "daulatabad"
   ],
-  "total_words": 34521,
+  "total_words": 34315,
   "total_chapters": 13,
-  "estimated_reading_minutes": 192,
+  "estimated_reading_minutes": 191,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "औरङ्गाबाद, दौलताबाद और रौज़ा",
-      "block_count": 38,
-      "word_count": 1904,
-      "estimated_minutes": 11,
+      "block_count": 21,
+      "word_count": 1889,
+      "estimated_minutes": 10,
       "file": "content/books/drishya-darshan/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "ग्वालियर।",
-      "block_count": 150,
-      "word_count": 4554,
+      "block_count": 84,
+      "word_count": 4539,
       "estimated_minutes": 25,
       "file": "content/books/drishya-darshan/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "चरखारी-राज्य।",
-      "block_count": 105,
-      "word_count": 2890,
+      "block_count": 51,
+      "word_count": 2875,
       "estimated_minutes": 16,
       "file": "content/books/drishya-darshan/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "चिदम्बर",
-      "block_count": 40,
-      "word_count": 941,
+      "block_count": 16,
+      "word_count": 927,
       "estimated_minutes": 5,
       "file": "content/books/drishya-darshan/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "जयपुर।",
-      "block_count": 11,
-      "word_count": 1151,
+      "block_count": 5,
+      "word_count": 1140,
       "estimated_minutes": 6,
       "file": "content/books/drishya-darshan/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "तिबत।",
-      "block_count": 61,
-      "word_count": 1839,
+      "block_count": 27,
+      "word_count": 1817,
       "estimated_minutes": 10,
       "file": "content/books/drishya-darshan/ch_06.json"
     },
@@ -79,8 +79,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "देहली।",
-      "block_count": 30,
-      "word_count": 2377,
+      "block_count": 24,
+      "word_count": 2376,
       "estimated_minutes": 13,
       "file": "content/books/drishya-darshan/ch_07.json"
     },
@@ -88,8 +88,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "नेपाल।",
-      "block_count": 132,
-      "word_count": 4214,
+      "block_count": 65,
+      "word_count": 4191,
       "estimated_minutes": 23,
       "file": "content/books/drishya-darshan/ch_08.json"
     },
@@ -97,8 +97,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "पटना।",
-      "block_count": 65,
-      "word_count": 1568,
+      "block_count": 22,
+      "word_count": 1546,
       "estimated_minutes": 9,
       "file": "content/books/drishya-darshan/ch_09.json"
     },
@@ -106,8 +106,8 @@
       "id": "ch_10",
       "number": 10,
       "title": "बनारस।",
-      "block_count": 196,
-      "word_count": 5534,
+      "block_count": 102,
+      "word_count": 5522,
       "estimated_minutes": 31,
       "file": "content/books/drishya-darshan/ch_10.json"
     },
@@ -115,8 +115,8 @@
       "id": "ch_11",
       "number": 11,
       "title": "बलगारिया।",
-      "block_count": 64,
-      "word_count": 1184,
+      "block_count": 22,
+      "word_count": 1175,
       "estimated_minutes": 7,
       "file": "content/books/drishya-darshan/ch_11.json"
     },
@@ -124,8 +124,8 @@
       "id": "ch_12",
       "number": 12,
       "title": "मलाबार।",
-      "block_count": 46,
-      "word_count": 1402,
+      "block_count": 23,
+      "word_count": 1392,
       "estimated_minutes": 8,
       "file": "content/books/drishya-darshan/ch_12.json"
     },
@@ -133,9 +133,9 @@
       "id": "ch_13",
       "number": 13,
       "title": "मुरशिदाबाद",
-      "block_count": 201,
-      "word_count": 4963,
-      "estimated_minutes": 28,
+      "block_count": 107,
+      "word_count": 4926,
+      "estimated_minutes": 27,
       "file": "content/books/drishya-darshan/ch_13.json"
     }
   ]

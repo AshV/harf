@@ -17,16 +17,16 @@
     "ghisu",
     "hindi kahani"
   ],
-  "total_words": 28623,
+  "total_words": 28494,
   "total_chapters": 10,
-  "estimated_reading_minutes": 159,
+  "estimated_reading_minutes": 158,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "आंधी",
-      "block_count": 367,
-      "word_count": 9556,
+      "block_count": 163,
+      "word_count": 9547,
       "estimated_minutes": 53,
       "file": "content/books/aandhi/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "मधुआ",
-      "block_count": 96,
-      "word_count": 2098,
+      "block_count": 46,
+      "word_count": 2086,
       "estimated_minutes": 12,
       "file": "content/books/aandhi/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "दासी",
-      "block_count": 227,
-      "word_count": 5906,
+      "block_count": 90,
+      "word_count": 5894,
       "estimated_minutes": 33,
       "file": "content/books/aandhi/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "घीसू",
-      "block_count": 99,
-      "word_count": 1596,
+      "block_count": 48,
+      "word_count": 1584,
       "estimated_minutes": 9,
       "file": "content/books/aandhi/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "बेड़ी",
-      "block_count": 30,
-      "word_count": 491,
+      "block_count": 13,
+      "word_count": 478,
       "estimated_minutes": 3,
       "file": "content/books/aandhi/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "व्रत भंग",
-      "block_count": 160,
-      "word_count": 2549,
+      "block_count": 81,
+      "word_count": 2534,
       "estimated_minutes": 14,
       "file": "content/books/aandhi/ch_06.json"
     },
@@ -79,17 +79,17 @@
       "id": "ch_07",
       "number": 7,
       "title": "ग्राम गीत",
-      "block_count": 79,
-      "word_count": 1184,
-      "estimated_minutes": 7,
+      "block_count": 45,
+      "word_count": 1169,
+      "estimated_minutes": 6,
       "file": "content/books/aandhi/ch_07.json"
     },
     {
       "id": "ch_08",
       "number": 8,
       "title": "विजया",
-      "block_count": 36,
-      "word_count": 671,
+      "block_count": 17,
+      "word_count": 657,
       "estimated_minutes": 4,
       "file": "content/books/aandhi/ch_08.json"
     },
@@ -97,8 +97,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "अमिट स्मृति",
-      "block_count": 43,
-      "word_count": 1370,
+      "block_count": 19,
+      "word_count": 1356,
       "estimated_minutes": 8,
       "file": "content/books/aandhi/ch_09.json"
     },
@@ -106,8 +106,8 @@
       "id": "ch_10",
       "number": 10,
       "title": "नीरा",
-      "block_count": 171,
-      "word_count": 3202,
+      "block_count": 54,
+      "word_count": 3189,
       "estimated_minutes": 18,
       "file": "content/books/aandhi/ch_10.json"
     }

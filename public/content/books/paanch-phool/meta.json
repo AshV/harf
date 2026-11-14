@@ -17,25 +17,25 @@
     "classic stories",
     "kahani"
   ],
-  "total_words": 23499,
+  "total_words": 22348,
   "total_chapters": 8,
-  "estimated_reading_minutes": 131,
+  "estimated_reading_minutes": 124,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "कहानी — कप्तान-साहब",
-      "block_count": 87,
-      "word_count": 2889,
-      "estimated_minutes": 16,
+      "block_count": 53,
+      "word_count": 2746,
+      "estimated_minutes": 15,
       "file": "content/books/paanch-phool/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "कहानी — ज्वालामुखी",
-      "block_count": 12,
-      "word_count": 194,
+      "block_count": 5,
+      "word_count": 58,
       "estimated_minutes": 1,
       "file": "content/books/paanch-phool/ch_02.json"
     },
@@ -43,54 +43,54 @@
       "id": "ch_03",
       "number": 3,
       "title": "कहानी — प्रस्तावना",
-      "block_count": 112,
-      "word_count": 608,
-      "estimated_minutes": 3,
+      "block_count": 87,
+      "word_count": 445,
+      "estimated_minutes": 2,
       "file": "content/books/paanch-phool/ch_03.json"
     },
     {
       "id": "ch_04",
       "number": 4,
       "title": "कहानी — फ़ातिहा",
-      "block_count": 325,
-      "word_count": 7293,
-      "estimated_minutes": 41,
+      "block_count": 183,
+      "word_count": 7151,
+      "estimated_minutes": 40,
       "file": "content/books/paanch-phool/ch_04.json"
     },
     {
       "id": "ch_05",
       "number": 5,
       "title": "कहानी — वृक्ष-विज्ञान",
-      "block_count": 32,
-      "word_count": 370,
-      "estimated_minutes": 2,
+      "block_count": 5,
+      "word_count": 230,
+      "estimated_minutes": 1,
       "file": "content/books/paanch-phool/ch_05.json"
     },
     {
       "id": "ch_06",
       "number": 6,
       "title": "कहानी — स्तीफ़ा",
-      "block_count": 256,
-      "word_count": 3698,
-      "estimated_minutes": 21,
+      "block_count": 105,
+      "word_count": 3555,
+      "estimated_minutes": 20,
       "file": "content/books/paanch-phool/ch_06.json"
     },
     {
       "id": "ch_07",
       "number": 7,
       "title": "कहानी — जिहाद",
-      "block_count": 293,
-      "word_count": 3564,
-      "estimated_minutes": 20,
+      "block_count": 82,
+      "word_count": 3422,
+      "estimated_minutes": 19,
       "file": "content/books/paanch-phool/ch_07.json"
     },
     {
       "id": "ch_08",
       "number": 8,
       "title": "कहानी — मंत्र",
-      "block_count": 160,
-      "word_count": 4883,
-      "estimated_minutes": 27,
+      "block_count": 85,
+      "word_count": 4741,
+      "estimated_minutes": 26,
       "file": "content/books/paanch-phool/ch_08.json"
     }
   ]

@@ -18,16 +18,16 @@
     "raidas",
     "poetry anthology"
   ],
-  "total_words": 18456,
+  "total_words": 18359,
   "total_chapters": 6,
-  "estimated_reading_minutes": 103,
+  "estimated_reading_minutes": 102,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "हिन्दी भाषा का संक्षिप्त इतिहास",
-      "block_count": 360,
-      "word_count": 7647,
+      "block_count": 257,
+      "word_count": 7625,
       "estimated_minutes": 42,
       "file": "content/books/kavita-kaumudi-1/ch_01.json"
     },
@@ -35,17 +35,17 @@
       "id": "ch_02",
       "number": 2,
       "title": "महाकवि चन्द बरदाई (पृथ्वीराज रासो)",
-      "block_count": 308,
-      "word_count": 2612,
-      "estimated_minutes": 15,
+      "block_count": 301,
+      "word_count": 2595,
+      "estimated_minutes": 14,
       "file": "content/books/kavita-kaumudi-1/ch_02.json"
     },
     {
       "id": "ch_03",
       "number": 3,
       "title": "मैथिल कोकिल विद्यापति",
-      "block_count": 146,
-      "word_count": 1455,
+      "block_count": 143,
+      "word_count": 1442,
       "estimated_minutes": 8,
       "file": "content/books/kavita-kaumudi-1/ch_03.json"
     },
@@ -53,8 +53,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "सन्त कबीर साहब",
-      "block_count": 580,
-      "word_count": 5651,
+      "block_count": 574,
+      "word_count": 5638,
       "estimated_minutes": 31,
       "file": "content/books/kavita-kaumudi-1/ch_04.json"
     },
@@ -62,18 +62,18 @@
       "id": "ch_05",
       "number": 5,
       "title": "सन्त रैदास (रविदास)",
-      "block_count": 64,
-      "word_count": 635,
-      "estimated_minutes": 4,
+      "block_count": 52,
+      "word_count": 615,
+      "estimated_minutes": 3,
       "file": "content/books/kavita-kaumudi-1/ch_05.json"
     },
     {
       "id": "ch_06",
       "number": 6,
       "title": "सन्त धर्मदास",
-      "block_count": 42,
-      "word_count": 456,
-      "estimated_minutes": 3,
+      "block_count": 38,
+      "word_count": 444,
+      "estimated_minutes": 2,
       "file": "content/books/kavita-kaumudi-1/ch_06.json"
     }
   ]

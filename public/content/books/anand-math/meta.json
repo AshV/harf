@@ -17,16 +17,16 @@
     "sanyasi vidroh",
     "upanyas"
   ],
-  "total_words": 47259,
+  "total_words": 47187,
   "total_chapters": 4,
-  "estimated_reading_minutes": 263,
+  "estimated_reading_minutes": 262,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "प्रथम खंड (कथा मुख एवं परिच्छेद १ से १८)",
-      "block_count": 737,
-      "word_count": 22809,
+      "block_count": 555,
+      "word_count": 22789,
       "estimated_minutes": 127,
       "file": "content/books/anand-math/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "द्वितीय खंड (परिच्छेद १ से ८)",
-      "block_count": 318,
-      "word_count": 6742,
+      "block_count": 247,
+      "word_count": 6724,
       "estimated_minutes": 37,
       "file": "content/books/anand-math/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "तृतीय खंड (परिच्छेद १ से १२)",
-      "block_count": 438,
-      "word_count": 10784,
+      "block_count": 356,
+      "word_count": 10766,
       "estimated_minutes": 60,
       "file": "content/books/anand-math/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "चतुर्थ खंड (परिच्छेद १ से ८ एवं उपसंहार)",
-      "block_count": 248,
-      "word_count": 6924,
+      "block_count": 200,
+      "word_count": 6908,
       "estimated_minutes": 38,
       "file": "content/books/anand-math/ch_04.json"
     }

@@ -19,16 +19,16 @@
     "veerangana",
     "aitihasik"
   ],
-  "total_words": 5375,
+  "total_words": 5175,
   "total_chapters": 10,
-  "estimated_reading_minutes": 30,
+  "estimated_reading_minutes": 29,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "पहिला दृश्य — मैदान (राजा सूर्यदेव का शिविर)",
-      "block_count": 22,
-      "word_count": 124,
+      "block_count": 14,
+      "word_count": 104,
       "estimated_minutes": 1,
       "file": "content/books/neeldevi/ch_01.json"
     },
@@ -36,8 +36,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "दूसरा दृश्य — अंतःपुर (रानी नीलदेवी का विलाप)",
-      "block_count": 27,
-      "word_count": 343,
+      "block_count": 20,
+      "word_count": 324,
       "estimated_minutes": 2,
       "file": "content/books/neeldevi/ch_02.json"
     },
@@ -45,8 +45,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "तीसरा दृश्य — अमीर का खेमा (अमीर व काजी की मंत्रणा)",
-      "block_count": 27,
-      "word_count": 317,
+      "block_count": 21,
+      "word_count": 289,
       "estimated_minutes": 2,
       "file": "content/books/neeldevi/ch_03.json"
     },
@@ -54,17 +54,17 @@
       "id": "ch_04",
       "number": 4,
       "title": "चौथा दृश्य — राजमहल (सैनिकों की तैयारी)",
-      "block_count": 31,
-      "word_count": 464,
-      "estimated_minutes": 3,
+      "block_count": 25,
+      "word_count": 449,
+      "estimated_minutes": 2,
       "file": "content/books/neeldevi/ch_04.json"
     },
     {
       "id": "ch_05",
       "number": 5,
       "title": "पाँचवाँ दृश्य — रणभूमि (तुर्क सेना का आक्रमण)",
-      "block_count": 44,
-      "word_count": 357,
+      "block_count": 37,
+      "word_count": 344,
       "estimated_minutes": 2,
       "file": "content/books/neeldevi/ch_05.json"
     },
@@ -72,8 +72,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "छठा दृश्य — वन (नीलदेवी का प्रतिशोध संकल्प)",
-      "block_count": 30,
-      "word_count": 331,
+      "block_count": 25,
+      "word_count": 314,
       "estimated_minutes": 2,
       "file": "content/books/neeldevi/ch_06.json"
     },
@@ -81,8 +81,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "सातवाँ दृश्य — तुर्क शिविर (नीलदेवी का नर्तकी वेश)",
-      "block_count": 45,
-      "word_count": 432,
+      "block_count": 39,
+      "word_count": 417,
       "estimated_minutes": 2,
       "file": "content/books/neeldevi/ch_07.json"
     },
@@ -90,8 +90,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "आठवाँ दृश्य — कारागार (राजा का धैर्य)",
-      "block_count": 56,
-      "word_count": 1183,
+      "block_count": 50,
+      "word_count": 1170,
       "estimated_minutes": 7,
       "file": "content/books/neeldevi/ch_08.json"
     },
@@ -99,8 +99,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "नवाँ दृश्य — अमीर का शयनागार (अमीर वध)",
-      "block_count": 70,
-      "word_count": 909,
+      "block_count": 61,
+      "word_count": 869,
       "estimated_minutes": 5,
       "file": "content/books/neeldevi/ch_09.json"
     },
@@ -108,8 +108,8 @@
       "id": "ch_10",
       "number": 10,
       "title": "दसवाँ दृश्य — चिताभूमि (सतीत्व व अमर बलिदान)",
-      "block_count": 75,
-      "word_count": 915,
+      "block_count": 69,
+      "word_count": 895,
       "estimated_minutes": 5,
       "file": "content/books/neeldevi/ch_10.json"
     }

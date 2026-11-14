@@ -1,15 +1,24 @@
 ---
-id: "bade-bhai-sahab"
-title: "बड़े भाई साहब"
-title_en: "Bade Bhai Sahab"
-author: "मुंशी प्रेमचंद"
-author_en: "Munshi Premchand"
-category: "कहानी"
-category_en: "Short Story"
+id: bade-bhai-sahab
+title: बड़े भाई साहब
+title_en: Bade Bhai Sahab
+author: मुंशी प्रेमचंद
+author_en: Munshi Premchand
+category: कहानी
+category_en: Short Story
 published_year: 1910
-description: "बड़े भाई साहब और छोटे भाई के बीच शिक्षा, अनुशासन, आत्मसम्मान और उम्र के तजुर्बे की अनूठी दास्तान। प्रेमचंद की सबसे लोकप्रिय और विचारोत्तेजक हास्य-व्यंग्य रचना।"
-keywords: ["bade bhai sahab", "brother", "premchand", "kahani", "education", "humor"]
-cover: ""
+description: >-
+  बड़े भाई साहब और छोटे भाई के बीच शिक्षा, अनुशासन, आत्मसम्मान और उम्र के
+  तजुर्बे की अनूठी दास्तान। प्रेमचंद की सबसे लोकप्रिय और विचारोत्तेजक
+  हास्य-व्यंग्य रचना।
+keywords:
+  - bade bhai sahab
+  - brother
+  - premchand
+  - kahani
+  - education
+  - humor
+cover: ''
 ---
 
 # अध्याय १
@@ -61,4 +70,3 @@ cover: ""
 भाई साहब ने मुझे गले से लगा लिया और बोले— "मैं कनकौए उड़ाने को मना नहीं करता। मेरा जी भी ललचाता है; लेकिन क्या करूँ, खुद बेराह चलूँ तो तुम्हारी रक्षा कैसे करूँ? यह कर्तव्य भी तो मेरे सर है!"
 
 संयोग से उसी वक्त एक कटा हुआ कनकौआ हमारे ऊपर से गुज़रा। उसकी डोर लटक रही थी। भाई साहब लंबे थे ही, उछलकर उसकी डोर पकड़ ली और बेतहाशा हॉस्टल की तरफ़ दौड़े। मैं पीछे-पीछे दौड़ रहा था।
-

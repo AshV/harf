@@ -1,15 +1,24 @@
 ---
-id: "panch-parameshwar"
-title: "पंच परमेश्वर"
-title_en: "Panch Parameshwar"
-author: "मुंशी प्रेमचंद"
-author_en: "Munshi Premchand"
-category: "कहानी"
-category_en: "Short Story"
+id: panch-parameshwar
+title: पंच परमेश्वर
+title_en: Panch Parameshwar
+author: मुंशी प्रेमचंद
+author_en: Munshi Premchand
+category: कहानी
+category_en: Short Story
 published_year: 1916
-description: "जुम्मन शेख और अलगू चौधरी की गहरी मित्रता और न्याय की निष्पक्षता पर आधारित मुंशी प्रेमचंद की कालजयी कहानी। 'पंच के मुँह से खुदा बोलता है' का अमर संदेश।"
-keywords: ["panch", "parameshwar", "jumman", "algu", "premchand", "kahani", "justice"]
-cover: ""
+description: >-
+  जुम्मन शेख और अलगू चौधरी की गहरी मित्रता और न्याय की निष्पक्षता पर आधारित
+  मुंशी प्रेमचंद की कालजयी कहानी। 'पंच के मुँह से खुदा बोलता है' का अमर संदेश।
+keywords:
+  - panch
+  - parameshwar
+  - jumman
+  - algu
+  - premchand
+  - kahani
+  - justice
+cover: ''
 ---
 
 # अध्याय १
@@ -67,4 +76,3 @@ cover: ""
 "जुम्मन शेख! पंचों ने इस मामले पर विचार किया। उन्हें यह नीति-संगत मालूम होता है कि खालाजान को माहवार खर्च दिया जाए। यदि तुम्हें यह स्वीकार न हो, तो रजिस्ट्री रद्द समझी जाए।"
 
 यह फैसला सुनते ही जुम्मन सन्न रह गए। जिस मित्र पर उन्हें सबसे अधिक भरोसा था, उसी ने उनकी जड़ काट दी! मित्रता की जड़ें हिल गईं।
-

@@ -19,7 +19,7 @@
     "short story",
     "chhayavad"
   ],
-  "total_words": 25743,
+  "total_words": 25651,
   "total_chapters": 7,
   "estimated_reading_minutes": 143,
   "chapters": [
@@ -27,17 +27,17 @@
       "id": "ch_01",
       "number": 1,
       "title": "आकाशदीप (बुद्धगुप्त व चंपा की अमर प्रेम-गाथा)",
-      "block_count": 93,
-      "word_count": 2976,
-      "estimated_minutes": 17,
+      "block_count": 87,
+      "word_count": 2963,
+      "estimated_minutes": 16,
       "file": "content/books/aakashdeep/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "पुरस्कार (मधूलिका का देशप्रेम व आत्म-बलिदान)",
-      "block_count": 104,
-      "word_count": 3507,
+      "block_count": 99,
+      "word_count": 3493,
       "estimated_minutes": 19,
       "file": "content/books/aakashdeep/ch_02.json"
     },
@@ -45,8 +45,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "गुण्डा (नन्हकू सिंह व काशी का आन-बान)",
-      "block_count": 92,
-      "word_count": 3974,
+      "block_count": 83,
+      "word_count": 3963,
       "estimated_minutes": 22,
       "file": "content/books/aakashdeep/ch_03.json"
     },
@@ -54,17 +54,17 @@
       "id": "ch_04",
       "number": 4,
       "title": "छोटा जादूगर (बाल मनोविज्ञान व स्वाभिमान)",
-      "block_count": 62,
-      "word_count": 1351,
-      "estimated_minutes": 8,
+      "block_count": 57,
+      "word_count": 1337,
+      "estimated_minutes": 7,
       "file": "content/books/aakashdeep/ch_04.json"
     },
     {
       "id": "ch_05",
       "number": 5,
       "title": "ग्राम (जयशंकर प्रसाद की प्रथम मौलिक कहानी)",
-      "block_count": 43,
-      "word_count": 1579,
+      "block_count": 36,
+      "word_count": 1565,
       "estimated_minutes": 9,
       "file": "content/books/aakashdeep/ch_05.json"
     },
@@ -72,8 +72,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "आँधी (मनुष्य के अंतर्द्वंद्व का मनोवैज्ञानिक चित्र)",
-      "block_count": 209,
-      "word_count": 9394,
+      "block_count": 199,
+      "word_count": 9381,
       "estimated_minutes": 52,
       "file": "content/books/aakashdeep/ch_06.json"
     },
@@ -81,8 +81,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "इन्द्रजाल (माया, भाग्य और नियति का संघर्ष)",
-      "block_count": 84,
-      "word_count": 2962,
+      "block_count": 76,
+      "word_count": 2949,
       "estimated_minutes": 16,
       "file": "content/books/aakashdeep/ch_07.json"
     }

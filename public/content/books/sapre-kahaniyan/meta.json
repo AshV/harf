@@ -16,16 +16,16 @@
     "hindi kahaniya",
     "sapre"
   ],
-  "total_words": 16346,
+  "total_words": 16158,
   "total_chapters": 9,
-  "estimated_reading_minutes": 91,
+  "estimated_reading_minutes": 90,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "एक टोकरी भर मिट्‌टी (हिन्दी की प्रथम मौलिक कहानी)",
-      "block_count": 8,
-      "word_count": 623,
+      "block_count": 4,
+      "word_count": 606,
       "estimated_minutes": 3,
       "file": "content/books/sapre-kahaniyan/ch_01.json"
     },
@@ -33,35 +33,35 @@
       "id": "ch_02",
       "number": 2,
       "title": "एक पथिक का स्वप्न",
-      "block_count": 71,
-      "word_count": 5491,
-      "estimated_minutes": 31,
+      "block_count": 60,
+      "word_count": 5465,
+      "estimated_minutes": 30,
       "file": "content/books/sapre-kahaniyan/ch_02.json"
     },
     {
       "id": "ch_03",
       "number": 3,
       "title": "आजम",
-      "block_count": 19,
-      "word_count": 1898,
-      "estimated_minutes": 11,
+      "block_count": 12,
+      "word_count": 1879,
+      "estimated_minutes": 10,
       "file": "content/books/sapre-kahaniyan/ch_03.json"
     },
     {
       "id": "ch_04",
       "number": 4,
       "title": "सम्मान किसे कहते हैं?",
-      "block_count": 17,
-      "word_count": 1359,
-      "estimated_minutes": 8,
+      "block_count": 11,
+      "word_count": 1337,
+      "estimated_minutes": 7,
       "file": "content/books/sapre-kahaniyan/ch_04.json"
     },
     {
       "id": "ch_05",
       "number": 5,
       "title": "सुभाषित रत्न (भाग १)",
-      "block_count": 30,
-      "word_count": 445,
+      "block_count": 20,
+      "word_count": 421,
       "estimated_minutes": 2,
       "file": "content/books/sapre-kahaniyan/ch_05.json"
     },
@@ -69,8 +69,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "सुभाषित रत्न (भाग २)",
-      "block_count": 20,
-      "word_count": 629,
+      "block_count": 15,
+      "word_count": 607,
       "estimated_minutes": 3,
       "file": "content/books/sapre-kahaniyan/ch_06.json"
     },
@@ -78,8 +78,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "अपनी बात (कथा-दृष्टि)",
-      "block_count": 46,
-      "word_count": 3070,
+      "block_count": 36,
+      "word_count": 3050,
       "estimated_minutes": 17,
       "file": "content/books/sapre-kahaniyan/ch_07.json"
     },
@@ -87,8 +87,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "स्पष्टीकरण के दो शब्द",
-      "block_count": 12,
-      "word_count": 752,
+      "block_count": 9,
+      "word_count": 737,
       "estimated_minutes": 4,
       "file": "content/books/sapre-kahaniyan/ch_08.json"
     },
@@ -96,9 +96,9 @@
       "id": "ch_09",
       "number": 9,
       "title": "अन्तर्भाष्य-समीक्षा",
-      "block_count": 16,
-      "word_count": 2079,
-      "estimated_minutes": 12,
+      "block_count": 9,
+      "word_count": 2056,
+      "estimated_minutes": 11,
       "file": "content/books/sapre-kahaniyan/ch_09.json"
     }
   ]

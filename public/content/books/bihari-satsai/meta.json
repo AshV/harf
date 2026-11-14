@@ -19,34 +19,34 @@
     "neeti",
     "bhakti"
   ],
-  "total_words": 131918,
+  "total_words": 130337,
   "total_chapters": 8,
-  "estimated_reading_minutes": 733,
+  "estimated_reading_minutes": 724,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "प्रथम प्रकाश — मंगलाचरण व शृंगार दोहावली",
-      "block_count": 940,
-      "word_count": 19400,
-      "estimated_minutes": 108,
+      "block_count": 282,
+      "word_count": 19327,
+      "estimated_minutes": 107,
       "file": "content/books/bihari-satsai/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "द्वितीय प्रकाश — नायिका-भेद व सौंदर्य वर्णन",
-      "block_count": 677,
-      "word_count": 15634,
-      "estimated_minutes": 87,
+      "block_count": 27,
+      "word_count": 15552,
+      "estimated_minutes": 86,
       "file": "content/books/bihari-satsai/ch_02.json"
     },
     {
       "id": "ch_03",
       "number": 3,
       "title": "तृतीय प्रकाश — मान, मान-मोचन व सखी-संवाद",
-      "block_count": 493,
-      "word_count": 16927,
+      "block_count": 35,
+      "word_count": 16839,
       "estimated_minutes": 94,
       "file": "content/books/bihari-satsai/ch_03.json"
     },
@@ -54,8 +54,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "चतुर्थ प्रकाश — विरह-ताप व अनुराग",
-      "block_count": 454,
-      "word_count": 14606,
+      "block_count": 36,
+      "word_count": 14524,
       "estimated_minutes": 81,
       "file": "content/books/bihari-satsai/ch_04.json"
     },
@@ -63,8 +63,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "पंचम प्रकाश — ऋतु-वर्णन व उद्दीपन",
-      "block_count": 487,
-      "word_count": 17312,
+      "block_count": 77,
+      "word_count": 17192,
       "estimated_minutes": 96,
       "file": "content/books/bihari-satsai/ch_05.json"
     },
@@ -72,27 +72,27 @@
       "id": "ch_06",
       "number": 6,
       "title": "षष्ठ प्रकाश — नीति व व्यावहारिक ज्ञान के दोहे",
-      "block_count": 466,
-      "word_count": 17268,
-      "estimated_minutes": 96,
+      "block_count": 36,
+      "word_count": 17147,
+      "estimated_minutes": 95,
       "file": "content/books/bihari-satsai/ch_06.json"
     },
     {
       "id": "ch_07",
       "number": 7,
       "title": "सप्तम प्रकाश — भक्ति, वैराग्य व आत्म-निवेदन",
-      "block_count": 475,
-      "word_count": 17076,
-      "estimated_minutes": 95,
+      "block_count": 139,
+      "word_count": 16944,
+      "estimated_minutes": 94,
       "file": "content/books/bihari-satsai/ch_07.json"
     },
     {
       "id": "ch_08",
       "number": 8,
       "title": "अष्टम प्रकाश — विविध भाव-तरंग व उपसंहार",
-      "block_count": 862,
-      "word_count": 13695,
-      "estimated_minutes": 76,
+      "block_count": 139,
+      "word_count": 12812,
+      "estimated_minutes": 71,
       "file": "content/books/bihari-satsai/ch_08.json"
     }
   ]

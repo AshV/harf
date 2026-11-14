@@ -18,7 +18,7 @@
     "humayun",
     "kahani"
   ],
-  "total_words": 729,
+  "total_words": 699,
   "total_chapters": 4,
   "estimated_reading_minutes": 4,
   "chapters": [
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "अध्याय २",
       "block_count": 5,
-      "word_count": 101,
+      "word_count": 100,
       "estimated_minutes": 1,
       "file": "content/books/mamta/ch_02.json"
     },
@@ -45,7 +45,7 @@
       "number": 3,
       "title": "अध्याय ३",
       "block_count": 6,
-      "word_count": 203,
+      "word_count": 200,
       "estimated_minutes": 1,
       "file": "content/books/mamta/ch_03.json"
     },
@@ -53,8 +53,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "अध्याय ४",
-      "block_count": 6,
-      "word_count": 194,
+      "block_count": 5,
+      "word_count": 168,
       "estimated_minutes": 1,
       "file": "content/books/mamta/ch_04.json"
     }

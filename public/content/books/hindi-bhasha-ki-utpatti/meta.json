@@ -17,16 +17,16 @@
     "origin of hindi",
     "prakrit"
   ],
-  "total_words": 15437,
+  "total_words": 15309,
   "total_chapters": 6,
-  "estimated_reading_minutes": 86,
+  "estimated_reading_minutes": 85,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "१-पूर्ववर्ती काल",
-      "block_count": 126,
-      "word_count": 3537,
+      "block_count": 99,
+      "word_count": 3524,
       "estimated_minutes": 20,
       "file": "content/books/hindi-bhasha-ki-utpatti/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "२-परवर्ती काल",
-      "block_count": 246,
-      "word_count": 2318,
+      "block_count": 79,
+      "word_count": 2290,
       "estimated_minutes": 13,
       "file": "content/books/hindi-bhasha-ki-utpatti/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "३-प्राकृत-काल",
-      "block_count": 145,
-      "word_count": 1583,
+      "block_count": 15,
+      "word_count": 1561,
       "estimated_minutes": 9,
       "file": "content/books/hindi-bhasha-ki-utpatti/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "४-अपभ्रंश-काल",
-      "block_count": 146,
-      "word_count": 1474,
+      "block_count": 24,
+      "word_count": 1448,
       "estimated_minutes": 8,
       "file": "content/books/hindi-bhasha-ki-utpatti/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "५-आधुनिक काल",
-      "block_count": 246,
-      "word_count": 2948,
+      "block_count": 26,
+      "word_count": 2925,
       "estimated_minutes": 16,
       "file": "content/books/hindi-bhasha-ki-utpatti/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "६-उपसंहार",
-      "block_count": 85,
-      "word_count": 3577,
+      "block_count": 61,
+      "word_count": 3561,
       "estimated_minutes": 20,
       "file": "content/books/hindi-bhasha-ki-utpatti/ch_06.json"
     }

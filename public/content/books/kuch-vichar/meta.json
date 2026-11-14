@@ -17,16 +17,16 @@
     "nibandh",
     "literary criticism"
   ],
-  "total_words": 42214,
+  "total_words": 42030,
   "total_chapters": 11,
-  "estimated_reading_minutes": 235,
+  "estimated_reading_minutes": 234,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "साहित्य का उद्देश्य",
-      "block_count": 91,
-      "word_count": 5699,
+      "block_count": 64,
+      "word_count": 5687,
       "estimated_minutes": 32,
       "file": "content/books/kuch-vichar/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "कहानी-कला (भाग १)",
-      "block_count": 11,
-      "word_count": 1396,
+      "block_count": 5,
+      "word_count": 1381,
       "estimated_minutes": 8,
       "file": "content/books/kuch-vichar/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "कहानी-कला (भाग २)",
-      "block_count": 25,
-      "word_count": 2417,
+      "block_count": 16,
+      "word_count": 2402,
       "estimated_minutes": 13,
       "file": "content/books/kuch-vichar/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "कहानी-कला (भाग ३)",
-      "block_count": 24,
-      "word_count": 1795,
+      "block_count": 8,
+      "word_count": 1782,
       "estimated_minutes": 10,
       "file": "content/books/kuch-vichar/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "उपन्यास",
-      "block_count": 83,
-      "word_count": 3940,
+      "block_count": 41,
+      "word_count": 3927,
       "estimated_minutes": 22,
       "file": "content/books/kuch-vichar/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "उपन्यास का विषय",
-      "block_count": 49,
-      "word_count": 2472,
+      "block_count": 19,
+      "word_count": 2460,
       "estimated_minutes": 14,
       "file": "content/books/kuch-vichar/ch_06.json"
     },
@@ -79,8 +79,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "उर्दू, हिन्दी और हिन्दुस्तानी",
-      "block_count": 45,
-      "word_count": 3896,
+      "block_count": 13,
+      "word_count": 3874,
       "estimated_minutes": 22,
       "file": "content/books/kuch-vichar/ch_07.json"
     },
@@ -88,17 +88,17 @@
       "id": "ch_08",
       "number": 8,
       "title": "एक भाषण",
-      "block_count": 62,
-      "word_count": 5856,
-      "estimated_minutes": 33,
+      "block_count": 36,
+      "word_count": 5837,
+      "estimated_minutes": 32,
       "file": "content/books/kuch-vichar/ch_08.json"
     },
     {
       "id": "ch_09",
       "number": 9,
       "title": "कौमी भाषा के विषय में कुछ विचार",
-      "block_count": 63,
-      "word_count": 5435,
+      "block_count": 22,
+      "word_count": 5411,
       "estimated_minutes": 30,
       "file": "content/books/kuch-vichar/ch_09.json"
     },
@@ -106,8 +106,8 @@
       "id": "ch_10",
       "number": 10,
       "title": "जीवन में साहित्य का स्थान",
-      "block_count": 37,
-      "word_count": 3030,
+      "block_count": 12,
+      "word_count": 3013,
       "estimated_minutes": 17,
       "file": "content/books/kuch-vichar/ch_10.json"
     },
@@ -115,8 +115,8 @@
       "id": "ch_11",
       "number": 11,
       "title": "राष्ट्र-भाषा हिन्दी और उसकी समस्याएँ",
-      "block_count": 52,
-      "word_count": 6278,
+      "block_count": 12,
+      "word_count": 6256,
       "estimated_minutes": 35,
       "file": "content/books/kuch-vichar/ch_11.json"
     }

@@ -17,15 +17,15 @@
     "riti kavya",
     "krishna bhakti"
   ],
-  "total_words": 36679,
+  "total_words": 36544,
   "total_chapters": 12,
-  "estimated_reading_minutes": 204,
+  "estimated_reading_minutes": 203,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "भूमिका व मंगलाचरण",
-      "block_count": 269,
+      "block_count": 231,
       "word_count": 6716,
       "estimated_minutes": 37,
       "file": "content/books/bhaktabhavan/ch_01.json"
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "यमुना लहरी",
-      "block_count": 596,
-      "word_count": 6459,
+      "block_count": 595,
+      "word_count": 6454,
       "estimated_minutes": 36,
       "file": "content/books/bhaktabhavan/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "कृष्णचंद्रजू के नखशिख",
-      "block_count": 311,
-      "word_count": 3396,
+      "block_count": 308,
+      "word_count": 3387,
       "estimated_minutes": 19,
       "file": "content/books/bhaktabhavan/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "गोपी पचीसी",
-      "block_count": 90,
-      "word_count": 937,
+      "block_count": 86,
+      "word_count": 918,
       "estimated_minutes": 5,
       "file": "content/books/bhaktabhavan/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "कृष्ण प्रति गोपिन को पत्री",
-      "block_count": 46,
-      "word_count": 480,
+      "block_count": 40,
+      "word_count": 466,
       "estimated_minutes": 3,
       "file": "content/books/bhaktabhavan/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "षट्ऋतु वर्णन",
-      "block_count": 566,
-      "word_count": 6151,
+      "block_count": 562,
+      "word_count": 6139,
       "estimated_minutes": 34,
       "file": "content/books/bhaktabhavan/ch_06.json"
     },
@@ -79,8 +79,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "कृष्णाष्टक",
-      "block_count": 162,
-      "word_count": 1788,
+      "block_count": 158,
+      "word_count": 1776,
       "estimated_minutes": 10,
       "file": "content/books/bhaktabhavan/ch_07.json"
     },
@@ -88,17 +88,17 @@
       "id": "ch_08",
       "number": 8,
       "title": "राधाष्टक",
-      "block_count": 45,
-      "word_count": 450,
-      "estimated_minutes": 3,
+      "block_count": 41,
+      "word_count": 435,
+      "estimated_minutes": 2,
       "file": "content/books/bhaktabhavan/ch_08.json"
     },
     {
       "id": "ch_09",
       "number": 9,
       "title": "दशमहाविज्ञान की स्तुति",
-      "block_count": 66,
-      "word_count": 692,
+      "block_count": 62,
+      "word_count": 680,
       "estimated_minutes": 4,
       "file": "content/books/bhaktabhavan/ch_09.json"
     },
@@ -106,8 +106,8 @@
       "id": "ch_10",
       "number": 10,
       "title": "ज्वालाष्टक",
-      "block_count": 305,
-      "word_count": 3282,
+      "block_count": 301,
+      "word_count": 3269,
       "estimated_minutes": 18,
       "file": "content/books/bhaktabhavan/ch_10.json"
     },
@@ -115,8 +115,8 @@
       "id": "ch_11",
       "number": 11,
       "title": "अन्योक्ति",
-      "block_count": 73,
-      "word_count": 825,
+      "block_count": 69,
+      "word_count": 813,
       "estimated_minutes": 5,
       "file": "content/books/bhaktabhavan/ch_11.json"
     },
@@ -124,8 +124,8 @@
       "id": "ch_12",
       "number": 12,
       "title": "प्रस्तावक नीति",
-      "block_count": 544,
-      "word_count": 5503,
+      "block_count": 540,
+      "word_count": 5491,
       "estimated_minutes": 31,
       "file": "content/books/bhaktabhavan/ch_12.json"
     }

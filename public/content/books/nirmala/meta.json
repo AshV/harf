@@ -17,16 +17,16 @@
     "dowry",
     "totaram"
   ],
-  "total_words": 24965,
+  "total_words": 24869,
   "total_chapters": 8,
-  "estimated_reading_minutes": 139,
+  "estimated_reading_minutes": 138,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "अध्याय १",
-      "block_count": 43,
-      "word_count": 1749,
+      "block_count": 32,
+      "word_count": 1737,
       "estimated_minutes": 10,
       "file": "content/books/nirmala/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "अध्याय २",
-      "block_count": 60,
-      "word_count": 2740,
+      "block_count": 49,
+      "word_count": 2731,
       "estimated_minutes": 15,
       "file": "content/books/nirmala/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "अध्याय ३",
-      "block_count": 128,
-      "word_count": 5619,
+      "block_count": 117,
+      "word_count": 5611,
       "estimated_minutes": 31,
       "file": "content/books/nirmala/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "अध्याय ४",
-      "block_count": 38,
-      "word_count": 1577,
+      "block_count": 33,
+      "word_count": 1569,
       "estimated_minutes": 9,
       "file": "content/books/nirmala/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "अध्याय ५",
-      "block_count": 36,
-      "word_count": 2534,
+      "block_count": 27,
+      "word_count": 2521,
       "estimated_minutes": 14,
       "file": "content/books/nirmala/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "अध्याय ६",
-      "block_count": 36,
-      "word_count": 2261,
+      "block_count": 29,
+      "word_count": 2252,
       "estimated_minutes": 13,
       "file": "content/books/nirmala/ch_06.json"
     },
@@ -79,8 +79,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "अध्याय ७",
-      "block_count": 75,
-      "word_count": 5412,
+      "block_count": 65,
+      "word_count": 5395,
       "estimated_minutes": 30,
       "file": "content/books/nirmala/ch_07.json"
     },
@@ -88,8 +88,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "अध्याय ८",
-      "block_count": 65,
-      "word_count": 3073,
+      "block_count": 56,
+      "word_count": 3053,
       "estimated_minutes": 17,
       "file": "content/books/nirmala/ch_08.json"
     }

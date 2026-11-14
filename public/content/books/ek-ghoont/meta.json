@@ -17,17 +17,17 @@
     "anandvad",
     "natak"
   ],
-  "total_words": 7189,
+  "total_words": 7058,
   "total_chapters": 1,
-  "estimated_reading_minutes": 40,
+  "estimated_reading_minutes": 39,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "एक घूँट — सम्पूर्ण एकांकी नाटक",
-      "block_count": 327,
-      "word_count": 7189,
-      "estimated_minutes": 40,
+      "block_count": 308,
+      "word_count": 7058,
+      "estimated_minutes": 39,
       "file": "content/books/ek-ghoont/ch_01.json"
     }
   ]

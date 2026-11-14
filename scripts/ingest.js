@@ -23,71 +23,125 @@ function countHindiWords(text) {
   return clean ? clean.split(/\s+/).length : 0;
 }
 
-function parseMarkdownChapters(content) {
+function parseMarkdownChapters(content, frontmatter = {}) {
   // Normalize Unicode NFC to prevent split conjuncts / matras
   const normalized = content.normalize('NFC');
-  
-  // Split by markdown H1 headers (# Header)
-  const lines = normalized.split('\n');
+  const isPoetry = frontmatter.category === 'कविता';
+  const rawChapters = normalized.split(/\n(?=# )/).filter(c => c.trim().length > 0);
   const chapters = [];
-  let currentChapter = null;
-  let currentBlocks = [];
-  let blockIndex = 1;
 
-  for (let line of lines) {
-    const trimmed = line.trim();
-    if (trimmed.startsWith('# ')) {
-      // If we already had an active chapter, save it
-      if (currentChapter) {
-        currentChapter.blocks = currentBlocks;
-        chapters.push(currentChapter);
-      }
-      
-      const chNumber = chapters.length + 1;
-      const chTitle = trimmed.substring(2).trim();
-      currentChapter = {
-        id: `ch_${String(chNumber).padStart(2, '0')}`,
-        number: chNumber,
-        title: chTitle,
-        blocks: []
-      };
-      currentBlocks = [];
-      blockIndex = 1;
-    } else if (trimmed.length > 0) {
-      if (!currentChapter) {
-        // Content before the first # header becomes Prologue / Chapter 1
-        currentChapter = {
-          id: 'ch_01',
-          number: 1,
-          title: 'आरंभ',
-          blocks: []
-        };
-      }
+  for (const rawCh of rawChapters) {
+    const trimmedRaw = rawCh.trim();
+    if (!trimmedRaw) continue;
 
-      // Check block type (quote vs heading vs normal paragraph)
-      let type = 'p';
-      let text = trimmed;
+    let header = '';
+    let body = '';
 
-      if (trimmed.startsWith('> ')) {
-        type = 'quote';
-        text = trimmed.substring(2).trim();
-      } else if (trimmed.startsWith('## ')) {
-        type = 'h2';
-        text = trimmed.substring(3).trim();
-      }
-
-      currentBlocks.push({
-        id: `b_${blockIndex++}`,
-        type,
-        text
-      });
+    if (trimmedRaw.startsWith('# ')) {
+      const firstNl = trimmedRaw.indexOf('\n');
+      header = firstNl === -1 ? trimmedRaw : trimmedRaw.slice(0, firstNl).trim();
+      body = firstNl === -1 ? '' : trimmedRaw.slice(firstNl).trim();
+    } else {
+      header = '# आरंभ';
+      body = trimmedRaw;
     }
-  }
 
-  // Push final chapter
-  if (currentChapter) {
-    currentChapter.blocks = currentBlocks;
-    chapters.push(currentChapter);
+    const chNumber = chapters.length + 1;
+    const chTitle = header.replace(/^#\s*/, '').trim();
+    const currentChapter = {
+      id: `ch_${String(chNumber).padStart(2, '0')}`,
+      number: chNumber,
+      title: chTitle,
+      blocks: []
+    };
+
+    let blockIndex = 1;
+    const paragraphs = body.split(/\n\s*\n+/);
+
+    for (const p of paragraphs) {
+      const trimmedP = p.trim();
+      if (!trimmedP) continue;
+
+      // Skip stray metadata lines or scan dividers if any slipped through
+      if (
+        trimmedP === '___' ||
+        /^_{3,}$/.test(trimmedP) ||
+        /^(?:Layout\s*\d+|TEXT|HEADER|FOOTER)$/i.test(trimmedP) ||
+        /^\(?\[?\s*[०-९\d]+\s*\]?\)?\.?$/.test(trimmedP) ||
+        /^(?:This work is in the|Public domain|सार्वजनिक डोमेन|सार्वजनिक प्रभावक्षेत्र)/i.test(trimmedP)
+      ) {
+        continue;
+      }
+
+      let type = 'p';
+      let text = trimmedP;
+
+      if (trimmedP.startsWith('### ')) {
+        type = 'h3';
+        text = trimmedP.replace(/^###\s*/, '').trim();
+      } else if (trimmedP.startsWith('## ')) {
+        type = 'h2';
+        text = trimmedP.replace(/^##\s*/, '').trim();
+      } else if (trimmedP.startsWith('> ')) {
+        type = 'quote';
+        text = trimmedP
+          .split('\n')
+          .map(l => l.replace(/^>\s*/, '').trim())
+          .filter(Boolean)
+          .join(' ');
+      } else if (isPoetry) {
+        // In poetry, keep line breaks inside verse stanzas
+        text = trimmedP;
+      } else {
+        // In prose, join soft-wrapped lines into a single flowing paragraph
+        text = trimmedP
+          .split('\n')
+          .map(l => l.trim())
+          .filter(Boolean)
+          .join(' ');
+      }
+
+      // Strip running headers or page numbers at start of block
+      if (!isPoetry && text.length > 30) {
+        text = text.replace(/^(?:\([\s०-९\d]+\)|\[[\s०-९\d]+\])\s*/, '');
+        text = text.replace(/^(?:पहला|पहिला|दूसरा|तीसरा|चौथा|पांचवां)\s+(?:भाग|हिस्सा|खंड|खण्ड|अध्याय|बयान|प्रकरण|परिच्छेद)\s*/, '');
+        text = text.replace(/^\|\s*/, '');
+      }
+
+      // If text has inline page number + title prefix (e.g. "( १६) भारतेन्दु बाबू हरिश्चन्द्र का जीवन चरित्र उनके साथ...")
+      if (frontmatter.title && text.length > 50) {
+        const titleWords = frontmatter.title
+          .replace(/[^\u0900-\u097F\s]/g, '')
+          .trim()
+          .split(/\s+/)
+          .filter(w => w.length >= 2);
+        if (titleWords.length > 0) {
+          const patternStr = '^(?:\\([\\s०-९\\d]+\\)|\\[[\\s०-९\\d]+\\]|[\\s०-९\\d]+)?\\s*(?:' + titleWords.map(w => {
+            return w
+              .replace(/ंद्र/g, '(?:ंद्र|न्द्र)')
+              .replace(/ंत/g, '(?:ंत|न्त)')
+              .replace(/ंप/g, '(?:ंप|म्प)')
+              .replace(/ंब/g, '(?:ंब|म्ब)');
+          }).join('\\s*') + ')\\s*';
+          try {
+            const inlinePrefixRegex = new RegExp(patternStr, 'u');
+            text = text.replace(inlinePrefixRegex, '');
+          } catch (e) {}
+        }
+      }
+
+      if (text.trim().length > 0) {
+        currentChapter.blocks.push({
+          id: `b_${blockIndex++}`,
+          type,
+          text: text.trim()
+        });
+      }
+    }
+
+    if (currentChapter.blocks.length > 0) {
+      chapters.push(currentChapter);
+    }
   }
 
   return chapters;
@@ -107,9 +161,18 @@ function processBook(filePath) {
   const bookDir = path.join(BOOKS_OUTPUT_DIR, frontmatter.id);
   ensureDir(bookDir);
 
-  const rawChapters = parseMarkdownChapters(content);
+  const rawChapters = parseMarkdownChapters(content, frontmatter);
   let totalWords = 0;
   const chapterManifest = [];
+
+  // Remove any stale chapter JSON files from previous ingestions
+  const currentChapterFiles = new Set(rawChapters.map(c => `${c.id}.json`));
+  const existingFiles = fs.readdirSync(bookDir).filter(f => f.startsWith('ch_') && f.endsWith('.json'));
+  for (const ef of existingFiles) {
+    if (!currentChapterFiles.has(ef)) {
+      fs.unlinkSync(path.join(bookDir, ef));
+    }
+  }
 
   for (const ch of rawChapters) {
     const chWordCount = ch.blocks.reduce((acc, b) => acc + countHindiWords(b.text), 0);

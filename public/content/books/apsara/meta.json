@@ -17,16 +17,16 @@
     "hindi novel",
     "realism"
   ],
-  "total_words": 52875,
+  "total_words": 52755,
   "total_chapters": 10,
-  "estimated_reading_minutes": 294,
+  "estimated_reading_minutes": 293,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "प्रारम्भिक भाग",
-      "block_count": 169,
-      "word_count": 4144,
+      "block_count": 62,
+      "word_count": 4140,
       "estimated_minutes": 23,
       "file": "content/books/apsara/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "भाग 1",
-      "block_count": 452,
-      "word_count": 5467,
+      "block_count": 32,
+      "word_count": 5466,
       "estimated_minutes": 30,
       "file": "content/books/apsara/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "भाग 2",
-      "block_count": 466,
-      "word_count": 5627,
+      "block_count": 23,
+      "word_count": 5626,
       "estimated_minutes": 31,
       "file": "content/books/apsara/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "भाग 3",
-      "block_count": 467,
-      "word_count": 5629,
+      "block_count": 24,
+      "word_count": 5628,
       "estimated_minutes": 31,
       "file": "content/books/apsara/ch_04.json"
     },
@@ -61,7 +61,7 @@
       "id": "ch_05",
       "number": 5,
       "title": "भाग 4",
-      "block_count": 384,
+      "block_count": 3,
       "word_count": 3665,
       "estimated_minutes": 20,
       "file": "content/books/apsara/ch_05.json"
@@ -70,8 +70,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "भाग 5",
-      "block_count": 642,
-      "word_count": 6675,
+      "block_count": 4,
+      "word_count": 6673,
       "estimated_minutes": 37,
       "file": "content/books/apsara/ch_06.json"
     },
@@ -79,7 +79,7 @@
       "id": "ch_07",
       "number": 7,
       "title": "भाग 6",
-      "block_count": 511,
+      "block_count": 1,
       "word_count": 5336,
       "estimated_minutes": 30,
       "file": "content/books/apsara/ch_07.json"
@@ -88,7 +88,7 @@
       "id": "ch_08",
       "number": 8,
       "title": "भाग 7",
-      "block_count": 573,
+      "block_count": 8,
       "word_count": 5994,
       "estimated_minutes": 33,
       "file": "content/books/apsara/ch_08.json"
@@ -97,8 +97,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "भाग 8",
-      "block_count": 214,
-      "word_count": 5045,
+      "block_count": 6,
+      "word_count": 5004,
       "estimated_minutes": 28,
       "file": "content/books/apsara/ch_09.json"
     },
@@ -106,8 +106,8 @@
       "id": "ch_10",
       "number": 10,
       "title": "भाग 9",
-      "block_count": 163,
-      "word_count": 5293,
+      "block_count": 11,
+      "word_count": 5223,
       "estimated_minutes": 29,
       "file": "content/books/apsara/ch_10.json"
     }

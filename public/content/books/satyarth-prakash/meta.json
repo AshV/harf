@@ -17,7 +17,7 @@
     "dharma",
     "social reform"
   ],
-  "total_words": 25790,
+  "total_words": 25712,
   "total_chapters": 5,
   "estimated_reading_minutes": 143,
   "chapters": [
@@ -25,8 +25,8 @@
       "id": "ch_01",
       "number": 1,
       "title": "भूमिका व निवेदन",
-      "block_count": 127,
-      "word_count": 2117,
+      "block_count": 24,
+      "word_count": 2096,
       "estimated_minutes": 12,
       "file": "content/books/satyarth-prakash/ch_01.json"
     },
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "प्रथम समुल्लास: ओंकार व ईश्वर के नाम",
-      "block_count": 6,
-      "word_count": 46,
+      "block_count": 2,
+      "word_count": 35,
       "estimated_minutes": 1,
       "file": "content/books/satyarth-prakash/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "प्रथम समुल्लास: ईश्वर-स्वरूप विवेचन",
-      "block_count": 121,
-      "word_count": 6856,
+      "block_count": 57,
+      "word_count": 6845,
       "estimated_minutes": 38,
       "file": "content/books/satyarth-prakash/ch_03.json"
     },
@@ -52,8 +52,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "द्वितीय समुल्लास: बाल-शिक्षा व संस्कार",
-      "block_count": 172,
-      "word_count": 3242,
+      "block_count": 22,
+      "word_count": 3227,
       "estimated_minutes": 18,
       "file": "content/books/satyarth-prakash/ch_04.json"
     },
@@ -61,8 +61,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "तृतीय समुल्लास: अध्ययन-अध्यापन व ब्रह्मचर्य",
-      "block_count": 1373,
-      "word_count": 13529,
+      "block_count": 45,
+      "word_count": 13509,
       "estimated_minutes": 75,
       "file": "content/books/satyarth-prakash/ch_05.json"
     }

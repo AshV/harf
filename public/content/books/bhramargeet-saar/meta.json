@@ -19,16 +19,16 @@
     "brajbhasha",
     "kavita"
   ],
-  "total_words": 38833,
+  "total_words": 38254,
   "total_chapters": 9,
-  "estimated_reading_minutes": 216,
+  "estimated_reading_minutes": 213,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "भूमिका — आचार्य रामचंद्र शुक्ल",
-      "block_count": 70,
-      "word_count": 1489,
+      "block_count": 47,
+      "word_count": 1480,
       "estimated_minutes": 8,
       "file": "content/books/bhramargeet-saar/ch_01.json"
     },
@@ -36,17 +36,17 @@
       "id": "ch_02",
       "number": 2,
       "title": "प्रथम तरंग: मथुरा से उद्धव का ब्रज-गमन (पद १ से ५०)",
-      "block_count": 735,
-      "word_count": 5138,
-      "estimated_minutes": 29,
+      "block_count": 636,
+      "word_count": 5068,
+      "estimated_minutes": 28,
       "file": "content/books/bhramargeet-saar/ch_02.json"
     },
     {
       "id": "ch_03",
       "number": 3,
       "title": "द्वितीय तरंग: उद्धव-गोपी संवाद व विरह-निवेदन (पद ५१ से १००)",
-      "block_count": 612,
-      "word_count": 4711,
+      "block_count": 520,
+      "word_count": 4637,
       "estimated_minutes": 26,
       "file": "content/books/bhramargeet-saar/ch_03.json"
     },
@@ -54,26 +54,26 @@
       "id": "ch_04",
       "number": 4,
       "title": "तृतीय तरंग: भ्रमरगीत — सगुण-प्रेम बनाम निर्गुण-ज्ञान (पद १०१ से १५०)",
-      "block_count": 576,
-      "word_count": 4283,
-      "estimated_minutes": 24,
+      "block_count": 486,
+      "word_count": 4214,
+      "estimated_minutes": 23,
       "file": "content/books/bhramargeet-saar/ch_04.json"
     },
     {
       "id": "ch_05",
       "number": 5,
       "title": "चतुर्थ तरंग: गोपियों का मुरली-उपालंभ व विरह-दशा (पद १५१ से २००)",
-      "block_count": 582,
-      "word_count": 4275,
-      "estimated_minutes": 24,
+      "block_count": 490,
+      "word_count": 4207,
+      "estimated_minutes": 23,
       "file": "content/books/bhramargeet-saar/ch_05.json"
     },
     {
       "id": "ch_06",
       "number": 6,
       "title": "पंचम तरंग: प्रेम-निष्ठा व योग-साधना का खंडन (पद २०१ से २५०)",
-      "block_count": 651,
-      "word_count": 4888,
+      "block_count": 549,
+      "word_count": 4809,
       "estimated_minutes": 27,
       "file": "content/books/bhramargeet-saar/ch_06.json"
     },
@@ -81,8 +81,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "षष्ठ तरंग: गोपियों का एकनिष्ठ अनुराग व तर्क-कौशल (पद २५१ से ३००)",
-      "block_count": 696,
-      "word_count": 5475,
+      "block_count": 594,
+      "word_count": 5393,
       "estimated_minutes": 30,
       "file": "content/books/bhramargeet-saar/ch_07.json"
     },
@@ -90,8 +90,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "सप्तम तरंग: उद्धव का ज्ञान-भंग व प्रेम-दीक्षा (पद ३०१ से ३५०)",
-      "block_count": 611,
-      "word_count": 4905,
+      "block_count": 525,
+      "word_count": 4835,
       "estimated_minutes": 27,
       "file": "content/books/bhramargeet-saar/ch_08.json"
     },
@@ -99,8 +99,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "अष्टम तरंग: उद्धव का मथुरा लौटना व श्रीकृष्ण-वचन (पद ३५१ से ३८७)",
-      "block_count": 457,
-      "word_count": 3669,
+      "block_count": 393,
+      "word_count": 3611,
       "estimated_minutes": 20,
       "file": "content/books/bhramargeet-saar/ch_09.json"
     }

@@ -19,16 +19,16 @@
     "satire",
     "drama"
   ],
-  "total_words": 6510,
+  "total_words": 6185,
   "total_chapters": 6,
-  "estimated_reading_minutes": 36,
+  "estimated_reading_minutes": 34,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "पहिला अंक — बीथी (योगी का विलाप व भारत-दुर्दशा का वर्णन)",
-      "block_count": 43,
-      "word_count": 216,
+      "block_count": 3,
+      "word_count": 14,
       "estimated_minutes": 1,
       "file": "content/books/bharat-durdasha/ch_01.json"
     },
@@ -36,8 +36,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "दूसरा अंक — श्मशान (भारत का प्रवेश व अश्रुपात)",
-      "block_count": 33,
-      "word_count": 466,
+      "block_count": 24,
+      "word_count": 452,
       "estimated_minutes": 3,
       "file": "content/books/bharat-durdasha/ch_02.json"
     },
@@ -45,8 +45,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "तीसरा अंक — मैदान (भारत-दुर्देव और सत्यानाश का षड्यंत्र)",
-      "block_count": 92,
-      "word_count": 1244,
+      "block_count": 77,
+      "word_count": 1212,
       "estimated_minutes": 7,
       "file": "content/books/bharat-durdasha/ch_03.json"
     },
@@ -54,17 +54,17 @@
       "id": "ch_04",
       "number": 4,
       "title": "चौथा अंक — कमरा (रोग, आलस्य, मदिरा और अंधकार की सेना)",
-      "block_count": 146,
-      "word_count": 2089,
-      "estimated_minutes": 12,
+      "block_count": 119,
+      "word_count": 2062,
+      "estimated_minutes": 11,
       "file": "content/books/bharat-durdasha/ch_04.json"
     },
     {
       "id": "ch_05",
       "number": 5,
       "title": "पाँचवाँ अंक — किताबखाना (सात सभ्य पुरुषों की समिति)",
-      "block_count": 55,
-      "word_count": 1065,
+      "block_count": 35,
+      "word_count": 1050,
       "estimated_minutes": 6,
       "file": "content/books/bharat-durdasha/ch_05.json"
     },
@@ -72,8 +72,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "छठा अंक — गंभीर वन (भारत-भाग्य का विलाप और आत्मोत्सर्ग)",
-      "block_count": 143,
-      "word_count": 1430,
+      "block_count": 130,
+      "word_count": 1395,
       "estimated_minutes": 8,
       "file": "content/books/bharat-durdasha/ch_06.json"
     }

@@ -18,16 +18,16 @@
     "upanyas",
     "awadh"
   ],
-  "total_words": 6231,
+  "total_words": 6162,
   "total_chapters": 6,
-  "estimated_reading_minutes": 35,
+  "estimated_reading_minutes": 34,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "अध्याय १",
-      "block_count": 30,
-      "word_count": 2509,
+      "block_count": 23,
+      "word_count": 2495,
       "estimated_minutes": 14,
       "file": "content/books/billesur-bakriha/ch_01.json"
     },
@@ -35,8 +35,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "अध्याय २",
-      "block_count": 17,
-      "word_count": 972,
+      "block_count": 13,
+      "word_count": 961,
       "estimated_minutes": 5,
       "file": "content/books/billesur-bakriha/ch_02.json"
     },
@@ -44,8 +44,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "अध्याय ३",
-      "block_count": 14,
-      "word_count": 608,
+      "block_count": 10,
+      "word_count": 597,
       "estimated_minutes": 3,
       "file": "content/books/billesur-bakriha/ch_03.json"
     },
@@ -53,8 +53,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "अध्याय ४",
-      "block_count": 34,
-      "word_count": 1266,
+      "block_count": 30,
+      "word_count": 1255,
       "estimated_minutes": 7,
       "file": "content/books/billesur-bakriha/ch_04.json"
     },
@@ -62,8 +62,8 @@
       "id": "ch_05",
       "number": 5,
       "title": "अध्याय ५",
-      "block_count": 10,
-      "word_count": 228,
+      "block_count": 6,
+      "word_count": 217,
       "estimated_minutes": 1,
       "file": "content/books/billesur-bakriha/ch_05.json"
     },
@@ -71,8 +71,8 @@
       "id": "ch_06",
       "number": 6,
       "title": "अध्याय ६",
-      "block_count": 27,
-      "word_count": 648,
+      "block_count": 23,
+      "word_count": 637,
       "estimated_minutes": 4,
       "file": "content/books/billesur-bakriha/ch_06.json"
     }

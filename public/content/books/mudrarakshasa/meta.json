@@ -18,34 +18,34 @@
     "visakhadatta",
     "natak"
   ],
-  "total_words": 24475,
+  "total_words": 24318,
   "total_chapters": 9,
-  "estimated_reading_minutes": 136,
+  "estimated_reading_minutes": 135,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "नांदी-पाठ व प्रस्तावना",
-      "block_count": 115,
-      "word_count": 1722,
-      "estimated_minutes": 10,
+      "block_count": 95,
+      "word_count": 1700,
+      "estimated_minutes": 9,
       "file": "content/books/mudrarakshasa/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "प्रथम अंक — चाणक्य की कूटनीति व राक्षस का भेद",
-      "block_count": 282,
-      "word_count": 3704,
-      "estimated_minutes": 21,
+      "block_count": 244,
+      "word_count": 3687,
+      "estimated_minutes": 20,
       "file": "content/books/mudrarakshasa/ch_02.json"
     },
     {
       "id": "ch_03",
       "number": 3,
       "title": "द्वितीय अंक — राक्षस-भवन व कूट-योजना",
-      "block_count": 281,
-      "word_count": 3903,
+      "block_count": 235,
+      "word_count": 3885,
       "estimated_minutes": 22,
       "file": "content/books/mudrarakshasa/ch_03.json"
     },
@@ -53,8 +53,8 @@
       "id": "ch_04",
       "number": 4,
       "title": "तृतीय अंक — चन्द्रगुप्त-चाणक्य का छद्म-कलह",
-      "block_count": 301,
-      "word_count": 3755,
+      "block_count": 271,
+      "word_count": 3734,
       "estimated_minutes": 21,
       "file": "content/books/mudrarakshasa/ch_04.json"
     },
@@ -62,17 +62,17 @@
       "id": "ch_05",
       "number": 5,
       "title": "चतुर्थ अंक — मलयकेतु का शिविर व षड्यंत्र",
-      "block_count": 237,
-      "word_count": 2617,
-      "estimated_minutes": 15,
+      "block_count": 190,
+      "word_count": 2604,
+      "estimated_minutes": 14,
       "file": "content/books/mudrarakshasa/ch_05.json"
     },
     {
       "id": "ch_06",
       "number": 6,
       "title": "पंचम अंक — मलयकेतु-राक्षस संवाद व फूट",
-      "block_count": 344,
-      "word_count": 3739,
+      "block_count": 276,
+      "word_count": 3726,
       "estimated_minutes": 21,
       "file": "content/books/mudrarakshasa/ch_06.json"
     },
@@ -80,8 +80,8 @@
       "id": "ch_07",
       "number": 7,
       "title": "षष्ठ अंक — पाटलिपुत्र में राक्षस का आत्म-समर्पण विचार",
-      "block_count": 188,
-      "word_count": 2343,
+      "block_count": 152,
+      "word_count": 2325,
       "estimated_minutes": 13,
       "file": "content/books/mudrarakshasa/ch_07.json"
     },
@@ -89,8 +89,8 @@
       "id": "ch_08",
       "number": 8,
       "title": "सप्तम अंक — चंदनदास की प्राण-रक्षा व राक्षस का मंत्रित्व",
-      "block_count": 194,
-      "word_count": 1999,
+      "block_count": 147,
+      "word_count": 1977,
       "estimated_minutes": 11,
       "file": "content/books/mudrarakshasa/ch_08.json"
     },
@@ -98,8 +98,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "उपसंहार व भरतवाक्य",
-      "block_count": 87,
-      "word_count": 693,
+      "block_count": 83,
+      "word_count": 680,
       "estimated_minutes": 4,
       "file": "content/books/mudrarakshasa/ch_09.json"
     }

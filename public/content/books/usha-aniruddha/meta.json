@@ -17,15 +17,15 @@
     "banasur",
     "hindi natak"
   ],
-  "total_words": 25339,
+  "total_words": 24427,
   "total_chapters": 5,
-  "estimated_reading_minutes": 141,
+  "estimated_reading_minutes": 136,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "भूमिका व निवेदन",
-      "block_count": 51,
+      "block_count": 49,
       "word_count": 2998,
       "estimated_minutes": 17,
       "file": "content/books/usha-aniruddha/ch_01.json"
@@ -34,8 +34,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "मंगलाचरण",
-      "block_count": 41,
-      "word_count": 446,
+      "block_count": 34,
+      "word_count": 426,
       "estimated_minutes": 2,
       "file": "content/books/usha-aniruddha/ch_02.json"
     },
@@ -43,26 +43,26 @@
       "id": "ch_03",
       "number": 3,
       "title": "अंक पहला: कैलास व शोणितपुर",
-      "block_count": 936,
-      "word_count": 8064,
-      "estimated_minutes": 45,
+      "block_count": 495,
+      "word_count": 7620,
+      "estimated_minutes": 42,
       "file": "content/books/usha-aniruddha/ch_03.json"
     },
     {
       "id": "ch_04",
       "number": 4,
       "title": "अंक दूसरा: स्वप्न-दर्शन व चित्रलेखा",
-      "block_count": 1069,
-      "word_count": 9120,
-      "estimated_minutes": 51,
+      "block_count": 651,
+      "word_count": 8691,
+      "estimated_minutes": 48,
       "file": "content/books/usha-aniruddha/ch_04.json"
     },
     {
       "id": "ch_05",
       "number": 5,
       "title": "अंक तीसरा: नागपाश व हरिहर युद्ध",
-      "block_count": 552,
-      "word_count": 4711,
+      "block_count": 251,
+      "word_count": 4692,
       "estimated_minutes": 26,
       "file": "content/books/usha-aniruddha/ch_05.json"
     }

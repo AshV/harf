@@ -19,7 +19,7 @@
     "mysticism",
     "kavita"
   ],
-  "total_words": 16267,
+  "total_words": 16190,
   "total_chapters": 2,
   "estimated_reading_minutes": 90,
   "chapters": [
@@ -27,18 +27,18 @@
       "id": "ch_01",
       "number": 1,
       "title": "अखरावट — देवनागरी वर्णमाला व सूफ़ी तत्व-दर्शन",
-      "block_count": 1148,
-      "word_count": 8782,
-      "estimated_minutes": 49,
+      "block_count": 776,
+      "word_count": 8721,
+      "estimated_minutes": 48,
       "file": "content/books/akhrawat-aakhiri-kalam/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "आखिरी कलाम — सृष्टि, प्रलय व बाबर-प्रशंसा",
-      "block_count": 722,
-      "word_count": 7485,
-      "estimated_minutes": 42,
+      "block_count": 602,
+      "word_count": 7469,
+      "estimated_minutes": 41,
       "file": "content/books/akhrawat-aakhiri-kalam/ch_02.json"
     }
   ]

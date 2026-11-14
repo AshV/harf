@@ -1,15 +1,26 @@
 ---
-id: "kaffan"
-title: "कफ़न"
-title_en: "Kafan"
-author: "मुंशी प्रेमचंद"
-author_en: "Munshi Premchand"
-category: "कहानी"
-category_en: "Short Story"
+id: kaffan
+title: कफ़न
+title_en: Kafan
+author: मुंशी प्रेमचंद
+author_en: Munshi Premchand
+category: कहानी
+category_en: Short Story
 published_year: 1936
-description: "कफ़न मुंशी प्रेमचंद की अंतिम और सबसे प्रसिद्ध कहानियों में से एक है। यह कहानी घिसु और माधव के माध्यम से ग्रामीण भारत की चरम निर्धनता और संवेदना-शून्यता को उजागर करती है।"
-keywords: ["kaffan", "kafan", "premchand", "munshi", "kahani", "short story", "ghisu", "madhav"]
-cover: ""
+description: >-
+  कफ़न मुंशी प्रेमचंद की अंतिम और सबसे प्रसिद्ध कहानियों में से एक है। यह कहानी
+  घिसु और माधव के माध्यम से ग्रामीण भारत की चरम निर्धनता और संवेदना-शून्यता को
+  उजागर करती है।
+keywords:
+  - kaffan
+  - kafan
+  - premchand
+  - munshi
+  - kahani
+  - short story
+  - ghisu
+  - madhav
+cover: ''
 ---
 
 # अध्याय १
@@ -59,4 +70,3 @@ cover: ""
 माधव ने तृप्त होकर कहा— हमारी आत्मा प्रसन्न हो रही है तो क्या उसे पुण्य न होगा?
 
 घीसू ने सिर झुकाकर तस्दीक की— ज़रूर से ज़रूर होगा। भगवान सब जानते हैं। वह बैकुंठ में जाएगी, ज़रूर जाएगी। उसने ज़िंदगी में किसी को सताया नहीं।
-

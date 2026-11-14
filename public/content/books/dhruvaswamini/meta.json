@@ -19,7 +19,7 @@
     "chhayavad",
     "historical play"
   ],
-  "total_words": 12459,
+  "total_words": 12332,
   "total_chapters": 3,
   "estimated_reading_minutes": 69,
   "chapters": [
@@ -27,8 +27,8 @@
       "id": "ch_01",
       "number": 1,
       "title": "प्रथम अंक — शिविर का प्रवेश (ध्रुवस्वामिनी का आत्ममंथन व चंद्रगुप्त)",
-      "block_count": 231,
-      "word_count": 5636,
+      "block_count": 212,
+      "word_count": 5568,
       "estimated_minutes": 31,
       "file": "content/books/dhruvaswamini/ch_01.json"
     },
@@ -36,8 +36,8 @@
       "id": "ch_02",
       "number": 2,
       "title": "द्वितीय अंक — शकदुर्ग का अंतःपुर (कोमा, मिहिरदेव व ध्रुवस्वामिनी का स्वाभिमान)",
-      "block_count": 170,
-      "word_count": 3502,
+      "block_count": 165,
+      "word_count": 3481,
       "estimated_minutes": 19,
       "file": "content/books/dhruvaswamini/ch_02.json"
     },
@@ -45,8 +45,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "तृतीय अंक — दुर्ग का भीतरी भाग (शकराज का वध व न्याय-सभा)",
-      "block_count": 146,
-      "word_count": 3321,
+      "block_count": 139,
+      "word_count": 3283,
       "estimated_minutes": 18,
       "file": "content/books/dhruvaswamini/ch_03.json"
     }

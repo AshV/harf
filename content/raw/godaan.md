@@ -1,15 +1,25 @@
 ---
-id: "godaan"
-title: "गोदान"
-title_en: "Godan"
-author: "मुंशी प्रेमचंद"
-author_en: "Munshi Premchand"
-category: "उपन्यास"
-category_en: "Novel"
+id: godaan
+title: गोदान
+title_en: Godan
+author: मुंशी प्रेमचंद
+author_en: Munshi Premchand
+category: उपन्यास
+category_en: Novel
 published_year: 1936
-description: "किसान जीवन का महाकाव्य। होरी महतो, धनिया और गोबर के माध्यम से भारतीय ग्रामीण समाज, ऋण-ग्रस्तता और मर्यादा के संघर्ष का अमर भारतीय उपन्यास।"
-keywords: ["godan", "godaan", "hori", "dhaniya", "premchand", "upanyas", "novel", "kisan"]
-cover: ""
+description: >-
+  किसान जीवन का महाकाव्य। होरी महतो, धनिया और गोबर के माध्यम से भारतीय ग्रामीण
+  समाज, ऋण-ग्रस्तता और मर्यादा के संघर्ष का अमर भारतीय उपन्यास।
+keywords:
+  - godan
+  - godaan
+  - hori
+  - dhaniya
+  - premchand
+  - upanyas
+  - novel
+  - kisan
+cover: ''
 ---
 
 # अध्याय १
