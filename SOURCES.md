@@ -604,3 +604,63 @@
 
 ---
 
+### 51. वेनिस का बाँका (Venice Ka Banka (The Merchant of Venice))
+- **रचनाकार (Author):** अयोध्या सिंह उपाध्याय 'हरिऔध' (विलियम शेक्सपियर) (Ayodhya Singh Upadhyay 'Hariaudh' (William Shakespeare))
+- **विधा (Category):** उपन्यास (Novel)
+- **मूल प्रकाशन वर्ष (Published Year):** 1928
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/वेनिस_का_बाँका)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 26 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२८ द्वितीय संस्करण (पुस्तक-भंडार, लहेरियासराय) से शेक्सपियर के मर्चेंट ऑफ वेनिस का हरिऔध जी कृत सम्पूर्ण २४ परिच्छेद व भूमिका।
+
+---
+
+### 52. साहित्य सीकर (Sahitya Seekar)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** निबंध (Essays)
+- **मूल प्रकाशन वर्ष (Published Year):** 1920
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/साहित्य_सीकर)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 21 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२० के मूल संस्करण से हिन्दी विकिस्रोत पर सत्यापित भाषा-शास्त्र व सम्पादन-कला के सम्पूर्ण २१ निबंध।
+
+---
+
+### 53. पुरातत्त्व प्रसंग (Puratattva Prasang)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** निबंध (Essays)
+- **मूल प्रकाशन वर्ष (Published Year):** 1926
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/पुरातत्त्व_प्रसंग)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 15 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२६ के मूल संस्करण से हिन्दी विकिस्रोत पर सत्यापित तक्षशिला, कंबोडिया, जावा आदि पर आधारित ऐतिहासिक निबंध।
+
+---
+
+### 54. प्रेम पंचमी (Prem Panchami)
+- **रचनाकार (Author):** मुंशी प्रेमचंद (Munshi Premchand)
+- **विधा (Category):** कहानी (Stories)
+- **मूल प्रकाशन वर्ष (Published Year):** 1923
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/प्रेम_पंचमी)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 5 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२३ के मूल संस्करण से हिन्दी विकिस्रोत पर सत्यापित सम्पूर्ण ५ सामाजिक कहानियाँ।
+
+---
+
+### 55. धनंजय-विजय (Dhananjay Vijay)
+- **रचनाकार (Author):** भारतेन्दु हरिश्चंद्र (Bharatendu Harishchandra)
+- **विधा (Category):** नाटक (Play / Drama)
+- **मूल प्रकाशन वर्ष (Published Year):** 1873
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/भारतेंदु-नाटकावली/१–धनंजयविजय)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 1 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १८७३/१९३५ भारतेंदु-नाटकावली (संपादक: बाबू श्यामसुन्दर दास) से सत्यापित सम्पूर्ण धनंजय-विजय व्यायोग नाटक।
+
+---
+

@@ -1,0 +1,260 @@
+{
+  "id": "venice-ka-banka",
+  "title": "वेनिस का बाँका",
+  "title_en": "Venice Ka Banka (The Merchant of Venice)",
+  "author": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+  "author_en": "Ayodhya Singh Upadhyay 'Hariaudh' (William Shakespeare)",
+  "category": "उपन्यास",
+  "category_en": "Novel",
+  "description": "विलियम शेक्सपियर के विश्वविख्यात नाटक 'द मर्चेंट ऑफ़ वेनिस' का अयोध्या सिंह उपाध्याय 'हरिऔध' द्वारा किया गया अमर औपन्यासिक हिन्दी रूपान्तर। एंटोनियो की उदार मित्रता, शाइलॉक का क्रूर ऋण-बंध और पोर्शिया के न्याय-कौशल की कालजयी कथा।",
+  "cover_image": "",
+  "published_year": 1928,
+  "keywords": [
+    "venice ka banka",
+    "merchant of venice",
+    "william shakespeare",
+    "hariaudh",
+    "shylock",
+    "portia",
+    "upanyas"
+  ],
+  "total_words": 41290,
+  "total_chapters": 26,
+  "estimated_reading_minutes": 229,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भूमिका — दूसरे संस्करण की भूमिका",
+      "block_count": 21,
+      "word_count": 1323,
+      "estimated_minutes": 7,
+      "file": "content/books/venice-ka-banka/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "लेखक का संक्षिप्त परिचय — विलियम शेक्सपियर",
+      "block_count": 125,
+      "word_count": 1254,
+      "estimated_minutes": 7,
+      "file": "content/books/venice-ka-banka/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "पहला परिच्छेद — एंटोनियो और बसेनियो",
+      "block_count": 15,
+      "word_count": 1329,
+      "estimated_minutes": 7,
+      "file": "content/books/venice-ka-banka/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "दूसरा परिच्छेद — पोर्शिया और नेरिसा",
+      "block_count": 32,
+      "word_count": 1229,
+      "estimated_minutes": 7,
+      "file": "content/books/venice-ka-banka/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "तीसरा परिच्छेद — शाइलॉक का तीन सहस्त्र डुकाट का ऋण",
+      "block_count": 34,
+      "word_count": 1513,
+      "estimated_minutes": 8,
+      "file": "content/books/venice-ka-banka/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "चौथा परिच्छेद — मोरक्को के राजकुमार का आगमन",
+      "block_count": 30,
+      "word_count": 1461,
+      "estimated_minutes": 8,
+      "file": "content/books/venice-ka-banka/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "पाँचवाँ परिच्छेद — लांसलाट का अंतर्द्वंद्व",
+      "block_count": 17,
+      "word_count": 1126,
+      "estimated_minutes": 6,
+      "file": "content/books/venice-ka-banka/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "षष्ठ परिच्छेद — जेसिका और लोरेंजिया",
+      "block_count": 140,
+      "word_count": 1380,
+      "estimated_minutes": 8,
+      "file": "content/books/venice-ka-banka/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "सप्तम परिच्छेद — सोने, चाँदी और सीसे की मंजूषा",
+      "block_count": 91,
+      "word_count": 892,
+      "estimated_minutes": 5,
+      "file": "content/books/venice-ka-banka/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अष्टम परिच्छेद — शाइलॉक का विलाप",
+      "block_count": 245,
+      "word_count": 2369,
+      "estimated_minutes": 13,
+      "file": "content/books/venice-ka-banka/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "नवम परिच्छेद — एरोगन के राजकुमार की परीक्षा",
+      "block_count": 220,
+      "word_count": 2052,
+      "estimated_minutes": 11,
+      "file": "content/books/venice-ka-banka/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "दशम परिच्छेद — एंटोनियो के पोत की विपदा",
+      "block_count": 274,
+      "word_count": 2483,
+      "estimated_minutes": 14,
+      "file": "content/books/venice-ka-banka/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "एकादश परिच्छेद — बसेनियो का चुनाव",
+      "block_count": 236,
+      "word_count": 2138,
+      "estimated_minutes": 12,
+      "file": "content/books/venice-ka-banka/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "द्वादश परिच्छेद — एंटोनियो का दारुण पत्र",
+      "block_count": 116,
+      "word_count": 1175,
+      "estimated_minutes": 7,
+      "file": "content/books/venice-ka-banka/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "त्रयोदश परिच्छेद — शाइलॉक की कठोरता",
+      "block_count": 251,
+      "word_count": 2620,
+      "estimated_minutes": 15,
+      "file": "content/books/venice-ka-banka/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "चतुर्दश परिच्छेद — पोर्शिया की गुप्त मंत्रणा",
+      "block_count": 126,
+      "word_count": 1345,
+      "estimated_minutes": 7,
+      "file": "content/books/venice-ka-banka/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "पञ्चदश परिच्छेद — लांसलाट और जेसिका का संवाद",
+      "block_count": 172,
+      "word_count": 1699,
+      "estimated_minutes": 9,
+      "file": "content/books/venice-ka-banka/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "षोड़श परिच्छेद — वेनिस की राजसभा और न्यायालय",
+      "block_count": 79,
+      "word_count": 758,
+      "estimated_minutes": 4,
+      "file": "content/books/venice-ka-banka/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "सप्तदश परिच्छेद — दया का महत्व व पोर्शिया का तर्क",
+      "block_count": 118,
+      "word_count": 1022,
+      "estimated_minutes": 6,
+      "file": "content/books/venice-ka-banka/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "अष्टादश परिच्छेद — एक पाउंड मांस और रक्त की बूंद",
+      "block_count": 133,
+      "word_count": 1350,
+      "estimated_minutes": 8,
+      "file": "content/books/venice-ka-banka/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "एकोनविंशति परिच्छेद — शाइलॉक का दंड और पश्चाताप",
+      "block_count": 185,
+      "word_count": 1756,
+      "estimated_minutes": 10,
+      "file": "content/books/venice-ka-banka/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "विंशति परिच्छेद — मुद्रिका (अंगूठी) का उपहार",
+      "block_count": 185,
+      "word_count": 1699,
+      "estimated_minutes": 9,
+      "file": "content/books/venice-ka-banka/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "एकविंशति परिच्छेद — बेलमोंट की चांदनी रात",
+      "block_count": 134,
+      "word_count": 1228,
+      "estimated_minutes": 7,
+      "file": "content/books/venice-ka-banka/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "द्वाविंशति परिच्छेद — मुद्रिका को लेकर छद्म-कलह",
+      "block_count": 178,
+      "word_count": 1675,
+      "estimated_minutes": 9,
+      "file": "content/books/venice-ka-banka/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "त्रयविंशति परिच्छेद — सत्य का उद्घाटन व रहस्य-भेद",
+      "block_count": 196,
+      "word_count": 2088,
+      "estimated_minutes": 12,
+      "file": "content/books/venice-ka-banka/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "चतुर्विंश परिच्छेद — आनंद-मिलन व कल्याण",
+      "block_count": 214,
+      "word_count": 2326,
+      "estimated_minutes": 13,
+      "file": "content/books/venice-ka-banka/ch_26.json"
+    }
+  ]
+}

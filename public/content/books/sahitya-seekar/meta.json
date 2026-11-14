@@ -1,0 +1,215 @@
+{
+  "id": "sahitya-seekar",
+  "title": "साहित्य सीकर",
+  "title_en": "Sahitya Seekar",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "निबंध",
+  "category_en": "Essays",
+  "description": "आचार्य महावीर प्रसाद द्विवेदी का भाषा-शास्त्र, विश्व-साहित्य, पत्रकारिता और सम्पादन-कला पर लिखा गया अनमोल वैचारिक ग्रंथ। वेदों से लेकर प्राकृत, संस्कृत, यूरोपीय प्राच्यविद्या, समाचार-पत्रों के इतिहास और कॉपीराइट तक २१ सारगर्भित निबंध।",
+  "cover_image": "",
+  "published_year": 1920,
+  "keywords": [
+    "sahitya seekar",
+    "mahavir prasad dwivedi",
+    "literary criticism",
+    "philology",
+    "journalism",
+    "essays",
+    "nibandh"
+  ],
+  "total_words": 37920,
+  "total_chapters": 21,
+  "estimated_reading_minutes": 211,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "निबंध — १—वेद",
+      "block_count": 38,
+      "word_count": 3175,
+      "estimated_minutes": 18,
+      "file": "content/books/sahitya-seekar/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "निबंध — २—प्राकृत भाषा",
+      "block_count": 15,
+      "word_count": 1605,
+      "estimated_minutes": 9,
+      "file": "content/books/sahitya-seekar/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "निबंध — ३—संस्कृत-साहित्य का महत्व",
+      "block_count": 42,
+      "word_count": 4578,
+      "estimated_minutes": 25,
+      "file": "content/books/sahitya-seekar/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "निबंध — ४—सर विलियम जोन्स ने कैसे संस्कृत सीखी",
+      "block_count": 15,
+      "word_count": 1801,
+      "estimated_minutes": 10,
+      "file": "content/books/sahitya-seekar/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "निबंध — ५—पुराने अँगरेज अधिकारियों के संस्कृत पढ़ने का फल",
+      "block_count": 22,
+      "word_count": 2618,
+      "estimated_minutes": 15,
+      "file": "content/books/sahitya-seekar/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "निबंध — ६—योरप के विद्वानों के संस्कृत-लेख और देवनागरी लिपि",
+      "block_count": 43,
+      "word_count": 2039,
+      "estimated_minutes": 11,
+      "file": "content/books/sahitya-seekar/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "निबंध — ७—अँगरेजों का साहित्य-प्रेम",
+      "block_count": 17,
+      "word_count": 846,
+      "estimated_minutes": 5,
+      "file": "content/books/sahitya-seekar/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "निबंध — ८—शब्दार्थ विचार",
+      "block_count": 41,
+      "word_count": 1083,
+      "estimated_minutes": 6,
+      "file": "content/books/sahitya-seekar/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "निबंध — ९—हिन्दी शब्दों के रूपान्तर",
+      "block_count": 108,
+      "word_count": 2811,
+      "estimated_minutes": 16,
+      "file": "content/books/sahitya-seekar/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "निबंध — १०—कापी-राइट ऐक्ट",
+      "block_count": 30,
+      "word_count": 1161,
+      "estimated_minutes": 6,
+      "file": "content/books/sahitya-seekar/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "निबंध — ११—नया कापी-राइट ऐक्ट",
+      "block_count": 34,
+      "word_count": 1338,
+      "estimated_minutes": 7,
+      "file": "content/books/sahitya-seekar/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "निबंध — १२—पुस्तक-प्रकाशन",
+      "block_count": 52,
+      "word_count": 3221,
+      "estimated_minutes": 18,
+      "file": "content/books/sahitya-seekar/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "निबंध — १३—समाचार-पत्रों का विराट् रूप",
+      "block_count": 39,
+      "word_count": 1062,
+      "estimated_minutes": 6,
+      "file": "content/books/sahitya-seekar/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "निबंध — १४—संपादकीय योग्यता",
+      "block_count": 20,
+      "word_count": 1015,
+      "estimated_minutes": 6,
+      "file": "content/books/sahitya-seekar/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "निबंध — १५—संपादकों के लिए स्कूल",
+      "block_count": 14,
+      "word_count": 755,
+      "estimated_minutes": 4,
+      "file": "content/books/sahitya-seekar/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "निबंध — १६—अमेरिका के अखबार",
+      "block_count": 25,
+      "word_count": 2904,
+      "estimated_minutes": 16,
+      "file": "content/books/sahitya-seekar/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "निबंध — १७—चीन के अखबार",
+      "block_count": 14,
+      "word_count": 958,
+      "estimated_minutes": 5,
+      "file": "content/books/sahitya-seekar/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "निबंध — १८—विलायत का टाइम्स नामक प्रसिद्ध समाचार पत्र",
+      "block_count": 21,
+      "word_count": 2148,
+      "estimated_minutes": 12,
+      "file": "content/books/sahitya-seekar/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "निबंध — १९—खुदाबख्श-लाइब्रेरी",
+      "block_count": 16,
+      "word_count": 987,
+      "estimated_minutes": 5,
+      "file": "content/books/sahitya-seekar/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "निबंध — २०—मौलिकता का मूल्य",
+      "block_count": 9,
+      "word_count": 660,
+      "estimated_minutes": 4,
+      "file": "content/books/sahitya-seekar/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "निबंध — २१—क़वायद परेड की पुस्तकों में रोमन-लिपि",
+      "block_count": 16,
+      "word_count": 1155,
+      "estimated_minutes": 6,
+      "file": "content/books/sahitya-seekar/ch_21.json"
+    }
+  ]
+}

@@ -374,6 +374,29 @@
     ]
   },
   {
+    "id": "dhananjay-vijay",
+    "title": "धनंजय-विजय",
+    "title_en": "Dhananjay Vijay",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "भारतेन्दु हरिश्चंद्र कृत प्रसिद्ध महाभारत-कालीन शास्त्रीय व्यायोग (एकांकी वीर-नाटक)। राजा विराट के अज्ञातवास में बृहन्नला रूपी अर्जुन (धनंजय) द्वारा कौरवों की विशाल सेना को परास्त कर गोधन की रक्षा और वीरता का ओजस्वी निरूपण।",
+    "cover_image": "",
+    "published_year": 1873,
+    "total_chapters": 1,
+    "estimated_reading_minutes": 19,
+    "keywords": [
+      "dhananjay vijay",
+      "bharatendu harishchandra",
+      "vyayoga",
+      "arjuna",
+      "mahabharata",
+      "virata parva",
+      "natak"
+    ]
+  },
+  {
     "id": "dhruvaswamini",
     "title": "ध्रुवस्वामिनी",
     "title_en": "Dhruvaswamini",
@@ -798,6 +821,27 @@
     ]
   },
   {
+    "id": "prem-panchami",
+    "title": "प्रेम पंचमी",
+    "title_en": "Prem Panchami",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी",
+    "category_en": "Stories",
+    "description": "मुंशी प्रेमचंद का संवेदनशील पांच कहानियों का अनूठा संग्रह। पारिवारिक अंतर्द्वंद्व, आभूषण-लालसा, राजभक्ति बनाम जन-निष्ठा और मृत्यु के उपरांत पश्चाताप पर केंद्रित ५ मार्मिक सामाजिक कहानियाँ।",
+    "cover_image": "",
+    "published_year": 1923,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 141,
+    "keywords": [
+      "prem panchami",
+      "munshi premchand",
+      "classic stories",
+      "social realism",
+      "kahani"
+    ]
+  },
+  {
     "id": "premjogini",
     "title": "प्रेमजोगिनी",
     "title_en": "Premjogini",
@@ -842,6 +886,29 @@
       "radha krishna",
       "pavan dootika",
       "mangala prasad"
+    ]
+  },
+  {
+    "id": "puratattva-prasang",
+    "title": "पुरातत्त्व प्रसंग",
+    "title_en": "Puratattva Prasang",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "निबंध",
+    "category_en": "Essays",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी का भारतीय इतिहास, पुरातत्व और वैश्विक सांस्कृतिक संपर्कों पर लिखा गया ऐतिहासिक निबंध-संग्रह। तक्षशिला, अफ़गानिस्तान के बौद्ध अवशेष, कंबोडिया के अंकोर, सुमात्रा-जावा तथा प्राचीन हिन्दुओं की समुद्र-यात्राओं का प्रामाणिक दिग्दर्शन।",
+    "cover_image": "",
+    "published_year": 1926,
+    "total_chapters": 15,
+    "estimated_reading_minutes": 194,
+    "keywords": [
+      "puratattva prasang",
+      "mahavir prasad dwivedi",
+      "archaeology",
+      "ancient india",
+      "takshashila",
+      "cambodia",
+      "nibandh"
     ]
   },
   {
@@ -957,6 +1024,29 @@
       "progressive writers association",
       "literary criticism",
       "realism",
+      "essays",
+      "nibandh"
+    ]
+  },
+  {
+    "id": "sahitya-seekar",
+    "title": "साहित्य सीकर",
+    "title_en": "Sahitya Seekar",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "निबंध",
+    "category_en": "Essays",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी का भाषा-शास्त्र, विश्व-साहित्य, पत्रकारिता और सम्पादन-कला पर लिखा गया अनमोल वैचारिक ग्रंथ। वेदों से लेकर प्राकृत, संस्कृत, यूरोपीय प्राच्यविद्या, समाचार-पत्रों के इतिहास और कॉपीराइट तक २१ सारगर्भित निबंध।",
+    "cover_image": "",
+    "published_year": 1920,
+    "total_chapters": 21,
+    "estimated_reading_minutes": 211,
+    "keywords": [
+      "sahitya seekar",
+      "mahavir prasad dwivedi",
+      "literary criticism",
+      "philology",
+      "journalism",
       "essays",
       "nibandh"
     ]
@@ -1170,6 +1260,29 @@
       "khadi boli mahakavya",
       "karun ras",
       "kavita"
+    ]
+  },
+  {
+    "id": "venice-ka-banka",
+    "title": "वेनिस का बाँका",
+    "title_en": "Venice Ka Banka (The Merchant of Venice)",
+    "author": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+    "author_en": "Ayodhya Singh Upadhyay 'Hariaudh' (William Shakespeare)",
+    "category": "उपन्यास",
+    "category_en": "Novel",
+    "description": "विलियम शेक्सपियर के विश्वविख्यात नाटक 'द मर्चेंट ऑफ़ वेनिस' का अयोध्या सिंह उपाध्याय 'हरिऔध' द्वारा किया गया अमर औपन्यासिक हिन्दी रूपान्तर। एंटोनियो की उदार मित्रता, शाइलॉक का क्रूर ऋण-बंध और पोर्शिया के न्याय-कौशल की कालजयी कथा।",
+    "cover_image": "",
+    "published_year": 1928,
+    "total_chapters": 26,
+    "estimated_reading_minutes": 229,
+    "keywords": [
+      "venice ka banka",
+      "merchant of venice",
+      "william shakespeare",
+      "hariaudh",
+      "shylock",
+      "portia",
+      "upanyas"
     ]
   }
 ]

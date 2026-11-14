@@ -469,6 +469,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#8EC5FC',
     badgeBg: 'bg-[#8EC5FC]/15 text-[#DDF0FE]',
     motif: '❖ 🔭 ❖'
+  },
+  'venice-ka-banka': {
+    bgGradient: 'from-[#0A2A33] via-[#14424F] to-[#061A20]',
+    borderColor: 'border-[#E8B568]/40',
+    titleColor: 'text-[#F2FBFB]',
+    authorColor: 'text-[#E8B568]',
+    accentColor: '#E8B568',
+    badgeBg: 'bg-[#E8B568]/15 text-[#FCEAC5]',
+    motif: '✦ ⚖️ ✦'
+  },
+  'sahitya-seekar': {
+    bgGradient: 'from-[#1B2612] via-[#2A3B1C] to-[#121A0C]',
+    borderColor: 'border-[#E2C068]/40',
+    titleColor: 'text-[#F5F8F2]',
+    authorColor: 'text-[#E2C068]',
+    accentColor: '#E2C068',
+    badgeBg: 'bg-[#E2C068]/15 text-[#FDF0CD]',
+    motif: '❖ 📜 ❖'
+  },
+  'puratattva-prasang': {
+    bgGradient: 'from-[#361B10] via-[#4D2717] to-[#24110A]',
+    borderColor: 'border-[#E5A93C]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E5A93C]',
+    accentColor: '#E5A93C',
+    badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
+    motif: '✦ 🏛️ ✦'
+  },
+  'prem-panchami': {
+    bgGradient: 'from-[#3D1219] via-[#571923] to-[#260A10]',
+    borderColor: 'border-[#F3C969]/40',
+    titleColor: 'text-[#FFF5F7]',
+    authorColor: 'text-[#F3C969]',
+    accentColor: '#F3C969',
+    badgeBg: 'bg-[#F3C969]/15 text-[#FDF0CD]',
+    motif: '❖ 🌸 ❖'
+  },
+  'dhananjay-vijay': {
+    bgGradient: 'from-[#33200B] via-[#4A2F10] to-[#211406]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
+    motif: '✦ 🏹 ✦'
   }
 };
 

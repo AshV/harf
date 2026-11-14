@@ -1,0 +1,69 @@
+{
+  "id": "prem-panchami",
+  "title": "प्रेम पंचमी",
+  "title_en": "Prem Panchami",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "कहानी",
+  "category_en": "Stories",
+  "description": "मुंशी प्रेमचंद का संवेदनशील पांच कहानियों का अनूठा संग्रह। पारिवारिक अंतर्द्वंद्व, आभूषण-लालसा, राजभक्ति बनाम जन-निष्ठा और मृत्यु के उपरांत पश्चाताप पर केंद्रित ५ मार्मिक सामाजिक कहानियाँ।",
+  "cover_image": "",
+  "published_year": 1923,
+  "keywords": [
+    "prem panchami",
+    "munshi premchand",
+    "classic stories",
+    "social realism",
+    "kahani"
+  ],
+  "total_words": 25458,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 141,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "कहानी १ — मृत्यु के पीछे",
+      "block_count": 387,
+      "word_count": 4142,
+      "estimated_minutes": 23,
+      "file": "content/books/prem-panchami/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "कहानी २ — आभूषण",
+      "block_count": 680,
+      "word_count": 7009,
+      "estimated_minutes": 39,
+      "file": "content/books/prem-panchami/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "कहानी ३ — राज्य-भक्त",
+      "block_count": 617,
+      "word_count": 6297,
+      "estimated_minutes": 35,
+      "file": "content/books/prem-panchami/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "कहानी ४ — अधिकार-चिंता",
+      "block_count": 158,
+      "word_count": 1697,
+      "estimated_minutes": 9,
+      "file": "content/books/prem-panchami/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "कहानी ५ — गृह-दाह",
+      "block_count": 631,
+      "word_count": 6313,
+      "estimated_minutes": 35,
+      "file": "content/books/prem-panchami/ch_05.json"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dhananjay-vijay",
+  "title": "धनंजय-विजय",
+  "title_en": "Dhananjay Vijay",
+  "author": "भारतेन्दु हरिश्चंद्र",
+  "author_en": "Bharatendu Harishchandra",
+  "category": "नाटक",
+  "category_en": "Play / Drama",
+  "description": "भारतेन्दु हरिश्चंद्र कृत प्रसिद्ध महाभारत-कालीन शास्त्रीय व्यायोग (एकांकी वीर-नाटक)। राजा विराट के अज्ञातवास में बृहन्नला रूपी अर्जुन (धनंजय) द्वारा कौरवों की विशाल सेना को परास्त कर गोधन की रक्षा और वीरता का ओजस्वी निरूपण।",
+  "cover_image": "",
+  "published_year": 1873,
+  "keywords": [
+    "dhananjay vijay",
+    "bharatendu harishchandra",
+    "vyayoga",
+    "arjuna",
+    "mahabharata",
+    "virata parva",
+    "natak"
+  ],
+  "total_words": 3449,
+  "total_chapters": 1,
+  "estimated_reading_minutes": 19,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "धनंजय-विजय व्यायोग — सम्पूर्ण एकांकी नाटक",
+      "block_count": 420,
+      "word_count": 3449,
+      "estimated_minutes": 19,
+      "file": "content/books/dhananjay-vijay/ch_01.json"
+    }
+  ]
+}
