@@ -2,8 +2,8 @@
 id: "raghuvansh"
 title: "रघुवंश"
 title_en: "Raghuvansh"
-author: "महावीर प्रसाद द्विवेदी"
-author_en: "Mahavir Prasad Dwivedi"
+author: "आचार्य महावीर प्रसाद द्विवेदी"
+author_en: "Acharya Mahavir Prasad Dwivedi"
 category: "कविता"
 category_en: "Classical Epic & Literary Translation"
 published_year: 1912

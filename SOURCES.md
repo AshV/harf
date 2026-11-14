@@ -941,7 +941,7 @@
 ---
 
 ### 79. अयोध्या का इतिहास (Ayodhya Ka Itihas)
-- **रचनाकार (Author):** लाला सीताराम (Lala Sitaram)
+- **रचनाकार (Author):** लाला सीताराम 'भूप' (Lala Sitaram 'Bhup')
 - **विधा (Category):** इतिहास (History / Archaeology)
 - **मूल प्रकाशन वर्ष (Published Year):** 1932
 - **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
@@ -1205,7 +1205,7 @@
 ---
 
 ### 101. रघुवंश (Raghuvansh)
-- **रचनाकार (Author):** महावीर प्रसाद द्विवेदी (Mahavir Prasad Dwivedi)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
 - **विधा (Category):** कविता (Classical Epic & Literary Translation)
 - **मूल प्रकाशन वर्ष (Published Year):** 1912
 - **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)

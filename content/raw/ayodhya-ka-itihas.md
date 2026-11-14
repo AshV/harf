@@ -2,8 +2,8 @@
 id: "ayodhya-ka-itihas"
 title: "अयोध्या का इतिहास"
 title_en: "Ayodhya Ka Itihas"
-author: "लाला सीताराम"
-author_en: "Lala Sitaram"
+author: "लाला सीताराम 'भूप'"
+author_en: "Lala Sitaram 'Bhup'"
 category: "इतिहास"
 category_en: "History / Archaeology"
 published_year: 1932
