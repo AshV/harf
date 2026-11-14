@@ -1,0 +1,133 @@
+{
+  "id": "kovid-kirtan",
+  "title": "कोविद-कीर्तन",
+  "title_en": "Kovid-Kirtan",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "इतिहास व जीवन-चरित्र",
+  "category_en": "Biographical Essays & Historical Profiles",
+  "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा रचित मूर्धन्य भारतीय विद्वानों, भाषाविदों और विचारकों के जीवन-चरित्रों का अनुपम संकलन। वामन शिवराम आपटे, विष्णु शास्त्री चिपलूणकर, मौलाना ज़काउल्लाह, इच्छाराम देसाई, बौद्धाचार्य शीलभद्र और आचार्य सुमंगल सहित १२ अमर मनीषियों के प्रेरक व्यक्तित्व व कृतित्व का रेखांकन।",
+  "cover_image": "",
+  "published_year": 1928,
+  "keywords": [
+    "kovid kirtan",
+    "mahavir prasad dwivedi",
+    "biography",
+    "indian scholars",
+    "vaman shivram apte",
+    "chiplunkar"
+  ],
+  "total_words": 27909,
+  "total_chapters": 12,
+  "estimated_reading_minutes": 155,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "वामन शिवराम आपटे",
+      "block_count": 27,
+      "word_count": 1928,
+      "estimated_minutes": 11,
+      "file": "content/books/kovid-kirtan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "विष्णु शास्त्री चिपलूणकर",
+      "block_count": 130,
+      "word_count": 5854,
+      "estimated_minutes": 33,
+      "file": "content/books/kovid-kirtan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "महामहोपाध्याय आदित्यराम भट्टाचार्य",
+      "block_count": 61,
+      "word_count": 2226,
+      "estimated_minutes": 12,
+      "file": "content/books/kovid-kirtan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "पण्डित मथुराप्रसाद मिश्र",
+      "block_count": 190,
+      "word_count": 6132,
+      "estimated_minutes": 34,
+      "file": "content/books/kovid-kirtan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पण्डित कुन्दनलाल",
+      "block_count": 66,
+      "word_count": 2027,
+      "estimated_minutes": 11,
+      "file": "content/books/kovid-kirtan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "बौद्धाचार्य शीलभद्र",
+      "block_count": 33,
+      "word_count": 1464,
+      "estimated_minutes": 8,
+      "file": "content/books/kovid-kirtan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "मौलाना मुहम्मद ज़काउल्लाह",
+      "block_count": 39,
+      "word_count": 1310,
+      "estimated_minutes": 7,
+      "file": "content/books/kovid-kirtan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "रावबहादुर गणेश वेंकटेश जोशी",
+      "block_count": 31,
+      "word_count": 923,
+      "estimated_minutes": 5,
+      "file": "content/books/kovid-kirtan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "इच्छाराम सूर्यराम देसाई",
+      "block_count": 28,
+      "word_count": 1081,
+      "estimated_minutes": 6,
+      "file": "content/books/kovid-kirtan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "राय श्रीशचन्द्र बसु बहादुर",
+      "block_count": 46,
+      "word_count": 1983,
+      "estimated_minutes": 11,
+      "file": "content/books/kovid-kirtan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "रायबहादुर पण्डित परमानन्द चतुर्वेदी",
+      "block_count": 48,
+      "word_count": 1715,
+      "estimated_minutes": 10,
+      "file": "content/books/kovid-kirtan/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "सिंहल द्वीप के बौद्ध विद्वान् आचार्य सुमंगल",
+      "block_count": 49,
+      "word_count": 1266,
+      "estimated_minutes": 7,
+      "file": "content/books/kovid-kirtan/ch_12.json"
+    }
+  ]
+}

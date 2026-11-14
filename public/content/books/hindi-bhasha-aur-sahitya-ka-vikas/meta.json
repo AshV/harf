@@ -1,0 +1,304 @@
+{
+  "id": "hindi-bhasha-aur-sahitya-ka-vikas",
+  "title": "हिंदी भाषा और उसके साहित्य का विकास",
+  "title_en": "Hindi Bhasha aur Uske Sahitya ka Vikas",
+  "author": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+  "author_en": "Ayodhya Singh Upadhyay 'Hariaudh'",
+  "category": "भाषा व व्याकरण",
+  "category_en": "Linguistics, Philology & Literary History",
+  "description": "अयोध्यासिंह उपाध्याय 'हरिऔध' (१८६५–१९४७) द्वारा पटना विश्वविद्यालय में प्रदत्त ऐतिहासिक व्याख्यानों का महाग्रंथ। हिन्दी भाषा का उद्गम, प्राकृत व अपभ्रंश भाषाएँ, आर्यभाषा परिवार, व्याकरणिक रूप-विकास तथा आरम्भिक काल से लेकर माध्यमिक व उत्तर-काल के अमर कवियों (गोरखनाथ, कबीर, जायसी, सूर, तुलसी, मीरा, रहीम, केशव, बिहारी, भूषण) का ३१ अध्यायों में सांगोपांग इतिहास।",
+  "cover_image": "",
+  "published_year": 1930,
+  "keywords": [
+    "hindi bhasha aur sahitya ka vikas",
+    "hariaudh",
+    "patna university",
+    "hindi linguistics",
+    "history of hindi literature",
+    "philology"
+  ],
+  "total_words": 107883,
+  "total_chapters": 31,
+  "estimated_reading_minutes": 599,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "खंड १ (प्रकरण १): भाषा की परिभाषा",
+      "block_count": 55,
+      "word_count": 1894,
+      "estimated_minutes": 11,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "खंड १ (प्रकरण २): हिन्दी भाषा का उद्गम",
+      "block_count": 377,
+      "word_count": 6901,
+      "estimated_minutes": 38,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "खंड १ (प्रकरण ३): अन्य प्राकृत भाषाएँ और हिन्दी",
+      "block_count": 390,
+      "word_count": 7067,
+      "estimated_minutes": 39,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "खंड १ (प्रकरण ४): आर्यभाषा परिवार",
+      "block_count": 134,
+      "word_count": 5285,
+      "estimated_minutes": 29,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "खंड १ (प्रकरण ५): अंतरंग और बहिरंग भाषा",
+      "block_count": 46,
+      "word_count": 2340,
+      "estimated_minutes": 13,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "खंड १ (प्रकरण ६): विभक्तियाँ, सर्वनाम और क्रियाएँ",
+      "block_count": 92,
+      "word_count": 4467,
+      "estimated_minutes": 25,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "खंड १ (प्रकरण ७): हिन्दी भाषा पर अन्य भाषाओं का प्रभाव",
+      "block_count": 58,
+      "word_count": 4181,
+      "estimated_minutes": 23,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "खंड २ (प्रकरण १): साहित्य का स्वरूप",
+      "block_count": 29,
+      "word_count": 1530,
+      "estimated_minutes": 9,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "खंड २ (प्रकरण २): पूर्वरूप और आरंभिक काल (भाग १)",
+      "block_count": 62,
+      "word_count": 3659,
+      "estimated_minutes": 20,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "खंड २ (प्रकरण २): पूर्वरूप और आरंभिक काल (भाग २)",
+      "block_count": 108,
+      "word_count": 3732,
+      "estimated_minutes": 21,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "खंड २ (प्रकरण ३): माध्यमिककाल की भूमिका",
+      "block_count": 86,
+      "word_count": 2907,
+      "estimated_minutes": 16,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "माध्यमिककाल: अवधी और ब्रजभाषा",
+      "block_count": 39,
+      "word_count": 2234,
+      "estimated_minutes": 12,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "माध्यमिककाल: गोरखनाथ",
+      "block_count": 87,
+      "word_count": 3944,
+      "estimated_minutes": 22,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "माध्यमिककाल: स्वामी रामानंद",
+      "block_count": 180,
+      "word_count": 1981,
+      "estimated_minutes": 11,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "माध्यमिककाल: महाप्रभु वल्लभाचार्य",
+      "block_count": 99,
+      "word_count": 2370,
+      "estimated_minutes": 13,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "माध्यमिककाल: कबीरदास",
+      "block_count": 533,
+      "word_count": 5952,
+      "estimated_minutes": 33,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "माध्यमिककाल: गुरु नानकदेव",
+      "block_count": 177,
+      "word_count": 2855,
+      "estimated_minutes": 16,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "माध्यमिककाल: दादूदयाल",
+      "block_count": 41,
+      "word_count": 947,
+      "estimated_minutes": 5,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "माध्यमिककाल: मलिक मोहम्मद जायसी",
+      "block_count": 253,
+      "word_count": 5698,
+      "estimated_minutes": 32,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "माध्यमिककाल: महाकवि सूरदास",
+      "block_count": 198,
+      "word_count": 6031,
+      "estimated_minutes": 34,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "माध्यमिककाल: गोस्वामी तुलसीदास",
+      "block_count": 193,
+      "word_count": 5517,
+      "estimated_minutes": 31,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "माध्यमिककाल: भक्त शिरोमणि मीराबाई",
+      "block_count": 131,
+      "word_count": 1620,
+      "estimated_minutes": 9,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "माध्यमिककाल: अब्दुर्रहीम खानखाना",
+      "block_count": 229,
+      "word_count": 3599,
+      "estimated_minutes": 20,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "माध्यमिककाल: आचार्य केशवदास",
+      "block_count": 162,
+      "word_count": 4579,
+      "estimated_minutes": 25,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "उत्तर-काल: सामान्य परिचय",
+      "block_count": 61,
+      "word_count": 1270,
+      "estimated_minutes": 7,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "उत्तर-काल: निर्गुण संत कवि",
+      "block_count": 122,
+      "word_count": 1468,
+      "estimated_minutes": 8,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "उत्तर-काल: सगुण भक्त कवि",
+      "block_count": 138,
+      "word_count": 1474,
+      "estimated_minutes": 8,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "उत्तर-काल: रीति ग्रन्थकार",
+      "block_count": 148,
+      "word_count": 1669,
+      "estimated_minutes": 9,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "उत्तर-काल: आलम",
+      "block_count": 490,
+      "word_count": 4578,
+      "estimated_minutes": 25,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "उत्तर-काल: महाकवि बिहारी",
+      "block_count": 300,
+      "word_count": 3628,
+      "estimated_minutes": 20,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "उत्तर-काल: महाकवि भूषण",
+      "block_count": 250,
+      "word_count": 2506,
+      "estimated_minutes": 14,
+      "file": "content/books/hindi-bhasha-aur-sahitya-ka-vikas/ch_31.json"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "videshi-vidwan",
+  "title": "विदेशी विद्वान्",
+  "title_en": "Videshi Vidwan",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "इतिहास व जीवन-चरित्र",
+  "category_en": "Global Biography, Philosophy & Science",
+  "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा विश्व-प्रसिद्ध वैज्ञानिकों, दार्शनिकों, समाज-सुधारकों और प्राच्यविद्या-विशारदों के जीवन और योगदान पर रचित ग्रंथ। कोपर्निकस, गैलीलियो, न्यूटन, हर्बर्ट स्पेंसर, कर्नल ऑलकॉट, मैक्स मूलर, कीलहॉर्न, अलबरूनी, बुकर टी. वाशिंगटन और हरमन जैकोबी सहित ११ महापुरुषों के प्रेरणादायी चरित्र।",
+  "cover_image": "",
+  "published_year": 1921,
+  "keywords": [
+    "videshi vidwan",
+    "mahavir prasad dwivedi",
+    "biography",
+    "copernicus",
+    "galileo",
+    "newton",
+    "max muller",
+    "alberuni"
+  ],
+  "total_words": 25327,
+  "total_chapters": 11,
+  "estimated_reading_minutes": 141,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "कोपर्निकस, गैलीलियो और न्यूटन",
+      "block_count": 158,
+      "word_count": 1988,
+      "estimated_minutes": 11,
+      "file": "content/books/videshi-vidwan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "दार्शनिक हर्बर्ट स्पेंसर",
+      "block_count": 366,
+      "word_count": 3748,
+      "estimated_minutes": 21,
+      "file": "content/books/videshi-vidwan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "कर्नल हेनरी स्टील ऑलकॉट",
+      "block_count": 118,
+      "word_count": 1189,
+      "estimated_minutes": 7,
+      "file": "content/books/videshi-vidwan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "डॉ. जॉर्ज थीबो (George Thibaut)",
+      "block_count": 81,
+      "word_count": 990,
+      "estimated_minutes": 6,
+      "file": "content/books/videshi-vidwan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "प्रो. मैक्स मूलर (मुग्धानलाचार्य)",
+      "block_count": 550,
+      "word_count": 5429,
+      "estimated_minutes": 30,
+      "file": "content/books/videshi-vidwan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "डॉ. फ्रांज कीलहॉर्न (Franz Kielhorn)",
+      "block_count": 82,
+      "word_count": 752,
+      "estimated_minutes": 4,
+      "file": "content/books/videshi-vidwan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "विलियम रैंडोल्फ हर्स्ट (William Randolph Hearst)",
+      "block_count": 127,
+      "word_count": 1406,
+      "estimated_minutes": 8,
+      "file": "content/books/videshi-vidwan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "इतिहासकार व दार्शनिक अलबरूनी",
+      "block_count": 171,
+      "word_count": 1856,
+      "estimated_minutes": 10,
+      "file": "content/books/videshi-vidwan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "प्रो. एडवर्ड हेनरी पामर",
+      "block_count": 434,
+      "word_count": 3862,
+      "estimated_minutes": 21,
+      "file": "content/books/videshi-vidwan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "बुकर टी. वाशिंगटन (Booker T. Washington)",
+      "block_count": 353,
+      "word_count": 3497,
+      "estimated_minutes": 19,
+      "file": "content/books/videshi-vidwan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "डॉ. हरमन जैकोबी (Hermann Jacobi)",
+      "block_count": 66,
+      "word_count": 610,
+      "estimated_minutes": 3,
+      "file": "content/books/videshi-vidwan/ch_11.json"
+    }
+  ]
+}

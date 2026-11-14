@@ -1384,3 +1384,63 @@
 
 ---
 
+### 116. कवि-रहस्य (Kavi-Rahasya)
+- **रचनाकार (Author):** डॉ. गंगानाथ झा (Dr. Ganganath Jha)
+- **विधा (Category):** निबंध व विमर्श (Classical Poetics, Aesthetics & Literary Theory)
+- **मूल प्रकाशन वर्ष (Published Year):** 1929
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/कवि-रहस्य)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 17 भाग / अध्याय
+- **सत्यापन टिप्पणी:** महामहोपाध्याय डॉ. सर गंगानाथ झा (१८७१–१९४१) द्वारा अनूदित व व्याख्यायित आचार्य राजशेखर की काव्यमीमांसा का १७ अध्यायों का प्रामाणिक ग्रंथ।
+
+---
+
+### 117. हिंदी भाषा और उसके साहित्य का विकास (Hindi Bhasha aur Uske Sahitya ka Vikas)
+- **रचनाकार (Author):** अयोध्या सिंह उपाध्याय 'हरिऔध' (Ayodhya Singh Upadhyay 'Hariaudh')
+- **विधा (Category):** भाषा व व्याकरण (Linguistics, Philology & Literary History)
+- **मूल प्रकाशन वर्ष (Published Year):** 1930
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/हिंदी_भाषा_और_उसके_साहित्य_का_विकास)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 31 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९३० (पटना विश्वविद्यालय) अयोध्यासिंह उपाध्याय 'हरिऔध' (१८६५–१९४७) का भाषा-विज्ञान एवं हिन्दी साहित्य के ऐतिहासिक विकास पर ३१ अध्यायों का मानक महाग्रंथ।
+
+---
+
+### 118. कोविद-कीर्तन (Kovid-Kirtan)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** इतिहास व जीवन-चरित्र (Biographical Essays & Historical Profiles)
+- **मूल प्रकाशन वर्ष (Published Year):** 1928
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/कोविद-कीर्तन)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 12 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२८ (गंगा-पुस्तकमाला, लखनऊ) आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा १२ मूर्धन्य विद्वानों पर रचित प्रामाणिक चरित-ग्रंथ।
+
+---
+
+### 119. प्राचीन चिह्न (Prachin Chihna)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** इतिहास व जीवन-चरित्र (Archaeology, Ancient Heritage & World History)
+- **मूल प्रकाशन वर्ष (Published Year):** 1918
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/प्राचीन_चिह्न)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 14 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९१८ (इंडियन प्रेस, प्रयाग) आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा रचित पुरातत्त्व व ऐतिहासिक धरोहरों का १४ अध्यायों का शास्त्रीय संकलन।
+
+---
+
+### 120. विदेशी विद्वान् (Videshi Vidwan)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** इतिहास व जीवन-चरित्र (Global Biography, Philosophy & Science)
+- **मूल प्रकाशन वर्ष (Published Year):** 1921
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/विदेशी_विद्वान्)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 11 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२१ (इंडियन प्रेस, प्रयाग) आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा ११ अंतरराष्ट्रीय विद्वानों, वैज्ञानिकों व विचारकों पर रचित प्रामाणिक चरित-ग्रंथ।
+
+---
+

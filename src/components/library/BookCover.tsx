@@ -1054,6 +1054,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#F1948A',
     badgeBg: 'bg-[#F1948A]/15 text-[#FDEDEC]',
     motif: '✦ 🌅 ✦'
+  },
+  'kavi-rahasya': {
+    bgGradient: 'from-[#2C1338] via-[#3E1B4F] to-[#1C0B24]',
+    borderColor: 'border-[#D7BDE2]/40',
+    titleColor: 'text-[#FBF7FD]',
+    authorColor: 'text-[#D7BDE2]',
+    accentColor: '#D7BDE2',
+    badgeBg: 'bg-[#D7BDE2]/15 text-[#EBDEF0]',
+    motif: '❖ 🪶 ❖'
+  },
+  'hindi-bhasha-aur-sahitya-ka-vikas': {
+    bgGradient: 'from-[#142B28] via-[#1D3E39] to-[#0D1D1B]',
+    borderColor: 'border-[#76D7C4]/40',
+    titleColor: 'text-[#E8F8F5]',
+    authorColor: 'text-[#76D7C4]',
+    accentColor: '#76D7C4',
+    badgeBg: 'bg-[#76D7C4]/15 text-[#D1F2EB]',
+    motif: '✦ 📜 ✦'
+  },
+  'kovid-kirtan': {
+    bgGradient: 'from-[#2D2115] via-[#423120] to-[#1A130C]',
+    borderColor: 'border-[#F8C471]/40',
+    titleColor: 'text-[#FEF9E7]',
+    authorColor: 'text-[#F8C471]',
+    accentColor: '#F8C471',
+    badgeBg: 'bg-[#F8C471]/15 text-[#FDEBD0]',
+    motif: '❖ 🎖️ ❖'
+  },
+  'prachin-chihna': {
+    bgGradient: 'from-[#3A2218] via-[#523023] to-[#24150F]',
+    borderColor: 'border-[#EDBB99]/40',
+    titleColor: 'text-[#FBEEE6]',
+    authorColor: 'text-[#EDBB99]',
+    accentColor: '#EDBB99',
+    badgeBg: 'bg-[#EDBB99]/15 text-[#F5CBA7]',
+    motif: '✦ 🏛️ ✦'
+  },
+  'videshi-vidwan': {
+    bgGradient: 'from-[#16273B] via-[#203754] to-[#0E1A29]',
+    borderColor: 'border-[#85C1E9]/40',
+    titleColor: 'text-[#EBF5FB]',
+    authorColor: 'text-[#85C1E9]',
+    accentColor: '#85C1E9',
+    badgeBg: 'bg-[#85C1E9]/15 text-[#D4E6F1]',
+    motif: '❖ 🌐 ❖'
   }
 };
 

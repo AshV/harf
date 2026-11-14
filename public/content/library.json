@@ -955,6 +955,28 @@
     ]
   },
   {
+    "id": "hindi-bhasha-aur-sahitya-ka-vikas",
+    "title": "हिंदी भाषा और उसके साहित्य का विकास",
+    "title_en": "Hindi Bhasha aur Uske Sahitya ka Vikas",
+    "author": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+    "author_en": "Ayodhya Singh Upadhyay 'Hariaudh'",
+    "category": "भाषा व व्याकरण",
+    "category_en": "Linguistics, Philology & Literary History",
+    "description": "अयोध्यासिंह उपाध्याय 'हरिऔध' (१८६५–१९४७) द्वारा पटना विश्वविद्यालय में प्रदत्त ऐतिहासिक व्याख्यानों का महाग्रंथ। हिन्दी भाषा का उद्गम, प्राकृत व अपभ्रंश भाषाएँ, आर्यभाषा परिवार, व्याकरणिक रूप-विकास तथा आरम्भिक काल से लेकर माध्यमिक व उत्तर-काल के अमर कवियों (गोरखनाथ, कबीर, जायसी, सूर, तुलसी, मीरा, रहीम, केशव, बिहारी, भूषण) का ३१ अध्यायों में सांगोपांग इतिहास।",
+    "cover_image": "",
+    "published_year": 1930,
+    "total_chapters": 31,
+    "estimated_reading_minutes": 599,
+    "keywords": [
+      "hindi bhasha aur sahitya ka vikas",
+      "hariaudh",
+      "patna university",
+      "hindi linguistics",
+      "history of hindi literature",
+      "philology"
+    ]
+  },
+  {
     "id": "hindi-nibandhamala",
     "title": "हिंदी निबंधमाला",
     "title_en": "Hindi Nibandhamala",
@@ -1208,6 +1230,29 @@
     ]
   },
   {
+    "id": "kavi-rahasya",
+    "title": "कवि-रहस्य",
+    "title_en": "Kavi-Rahasya",
+    "author": "डॉ. गंगानाथ झा",
+    "author_en": "Dr. Ganganath Jha",
+    "category": "निबंध व विमर्श",
+    "category_en": "Classical Poetics, Aesthetics & Literary Theory",
+    "description": "महामहोपाध्याय डॉ. गंगानाथ झा (१८७१–१९४१) द्वारा विरचित आचार्य राजशेखर की 'काव्यमीमांसा' का सर्वोत्कृष्ट शास्त्रीय हिन्दी रूपान्तर। काव्य की उत्पत्ति, वाङ्मय स्वरूप, काव्य-पुरुष व साहित्य-वधू संयोग, कवि-लक्षण, कवित्व-शिक्षा, काव्य-हरण (चौर्य) विवेक, कवि-समय, देश-विभाग और काल-विभाग का १७ अध्यायों में गहन शास्त्रीय निरूपण।",
+    "cover_image": "",
+    "published_year": 1929,
+    "total_chapters": 17,
+    "estimated_reading_minutes": 123,
+    "keywords": [
+      "kavi rahasya",
+      "ganganath jha",
+      "rajashekhara",
+      "kavyamimamsa",
+      "sanskrit poetics",
+      "literary theory",
+      "aesthetics"
+    ]
+  },
+  {
     "id": "kavita-kaumudi-1",
     "title": "कविता-कौमुदी (भाग १)",
     "title_en": "Kavita Kaumudi Part 1",
@@ -1320,6 +1365,28 @@
       "reincarnation",
       "social novel",
       "upanyas"
+    ]
+  },
+  {
+    "id": "kovid-kirtan",
+    "title": "कोविद-कीर्तन",
+    "title_en": "Kovid-Kirtan",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "इतिहास व जीवन-चरित्र",
+    "category_en": "Biographical Essays & Historical Profiles",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा रचित मूर्धन्य भारतीय विद्वानों, भाषाविदों और विचारकों के जीवन-चरित्रों का अनुपम संकलन। वामन शिवराम आपटे, विष्णु शास्त्री चिपलूणकर, मौलाना ज़काउल्लाह, इच्छाराम देसाई, बौद्धाचार्य शीलभद्र और आचार्य सुमंगल सहित १२ अमर मनीषियों के प्रेरक व्यक्तित्व व कृतित्व का रेखांकन।",
+    "cover_image": "",
+    "published_year": 1928,
+    "total_chapters": 12,
+    "estimated_reading_minutes": 155,
+    "keywords": [
+      "kovid kirtan",
+      "mahavir prasad dwivedi",
+      "biography",
+      "indian scholars",
+      "vaman shivram apte",
+      "chiplunkar"
     ]
   },
   {
@@ -1747,6 +1814,29 @@
       "brajkishore",
       "delhi",
       "social novel"
+    ]
+  },
+  {
+    "id": "prachin-chihna",
+    "title": "प्राचीन चिह्न",
+    "title_en": "Prachin Chihna",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "इतिहास व जीवन-चरित्र",
+    "category_en": "Archaeology, Ancient Heritage & World History",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा प्राचीन ऐतिहासिक स्मारकों, पुरातत्त्व और विश्व-धरोहरों पर विरचित ऐतिहासिक ग्रंथ। साँची के बौद्ध स्तूप, खजुराहो, एलोरा, कुतुबमीनार, देवगढ़, ईसापुर यूप-स्तम्भ, ओंकार-मान्धाता, श्रीरंगपत्तन, पॉम्पेई और पेरू के सूर्य-मन्दिर का १४ अध्यायों में सजीव पुरातात्त्विक विवरण।",
+    "cover_image": "",
+    "published_year": 1918,
+    "total_chapters": 14,
+    "estimated_reading_minutes": 139,
+    "keywords": [
+      "prachin chihna",
+      "mahavir prasad dwivedi",
+      "archaeology",
+      "sanchi stupa",
+      "ellora caves",
+      "khajuraho",
+      "ancient history"
     ]
   },
   {
@@ -2587,6 +2677,30 @@
       "shylock",
       "portia",
       "upanyas"
+    ]
+  },
+  {
+    "id": "videshi-vidwan",
+    "title": "विदेशी विद्वान्",
+    "title_en": "Videshi Vidwan",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "इतिहास व जीवन-चरित्र",
+    "category_en": "Global Biography, Philosophy & Science",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा विश्व-प्रसिद्ध वैज्ञानिकों, दार्शनिकों, समाज-सुधारकों और प्राच्यविद्या-विशारदों के जीवन और योगदान पर रचित ग्रंथ। कोपर्निकस, गैलीलियो, न्यूटन, हर्बर्ट स्पेंसर, कर्नल ऑलकॉट, मैक्स मूलर, कीलहॉर्न, अलबरूनी, बुकर टी. वाशिंगटन और हरमन जैकोबी सहित ११ महापुरुषों के प्रेरणादायी चरित्र।",
+    "cover_image": "",
+    "published_year": 1921,
+    "total_chapters": 11,
+    "estimated_reading_minutes": 141,
+    "keywords": [
+      "videshi vidwan",
+      "mahavir prasad dwivedi",
+      "biography",
+      "copernicus",
+      "galileo",
+      "newton",
+      "max muller",
+      "alberuni"
     ]
   },
   {

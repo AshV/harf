@@ -1,0 +1,152 @@
+{
+  "id": "prachin-chihna",
+  "title": "प्राचीन चिह्न",
+  "title_en": "Prachin Chihna",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "इतिहास व जीवन-चरित्र",
+  "category_en": "Archaeology, Ancient Heritage & World History",
+  "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा प्राचीन ऐतिहासिक स्मारकों, पुरातत्त्व और विश्व-धरोहरों पर विरचित ऐतिहासिक ग्रंथ। साँची के बौद्ध स्तूप, खजुराहो, एलोरा, कुतुबमीनार, देवगढ़, ईसापुर यूप-स्तम्भ, ओंकार-मान्धाता, श्रीरंगपत्तन, पॉम्पेई और पेरू के सूर्य-मन्दिर का १४ अध्यायों में सजीव पुरातात्त्विक विवरण।",
+  "cover_image": "",
+  "published_year": 1918,
+  "keywords": [
+    "prachin chihna",
+    "mahavir prasad dwivedi",
+    "archaeology",
+    "sanchi stupa",
+    "ellora caves",
+    "khajuraho",
+    "ancient history"
+  ],
+  "total_words": 25025,
+  "total_chapters": 14,
+  "estimated_reading_minutes": 139,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "साँची के पुराने स्तूप",
+      "block_count": 200,
+      "word_count": 2341,
+      "estimated_minutes": 13,
+      "file": "content/books/prachin-chihna/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "खजुराहो के प्राचीन मन्दिर",
+      "block_count": 295,
+      "word_count": 3139,
+      "estimated_minutes": 17,
+      "file": "content/books/prachin-chihna/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "एलोरा के गुफा-मन्दिर",
+      "block_count": 409,
+      "word_count": 4617,
+      "estimated_minutes": 26,
+      "file": "content/books/prachin-chihna/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "क़ुतुब-मीनार",
+      "block_count": 152,
+      "word_count": 1574,
+      "estimated_minutes": 9,
+      "file": "content/books/prachin-chihna/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "देवगढ़ की पुरानी इमारतें",
+      "block_count": 225,
+      "word_count": 2420,
+      "estimated_minutes": 13,
+      "file": "content/books/prachin-chihna/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "ईसापुर के यूप-स्तम्भ",
+      "block_count": 137,
+      "word_count": 1606,
+      "estimated_minutes": 9,
+      "file": "content/books/prachin-chihna/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "ओंकार-मान्धाता",
+      "block_count": 108,
+      "word_count": 1149,
+      "estimated_minutes": 6,
+      "file": "content/books/prachin-chihna/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "वृन्दावन का श्रीरंगजी मन्दिर",
+      "block_count": 41,
+      "word_count": 734,
+      "estimated_minutes": 4,
+      "file": "content/books/prachin-chihna/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "श्रीरंगपत्तन",
+      "block_count": 115,
+      "word_count": 1389,
+      "estimated_minutes": 8,
+      "file": "content/books/prachin-chihna/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "प्रयाग-प्रान्त के प्राचीन ऐतिहासिक नगर",
+      "block_count": 162,
+      "word_count": 1720,
+      "estimated_minutes": 10,
+      "file": "content/books/prachin-chihna/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "पाताल-प्रविष्ट पॉम्पेई नगर",
+      "block_count": 106,
+      "word_count": 1056,
+      "estimated_minutes": 6,
+      "file": "content/books/prachin-chihna/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "पेरू का प्राचीन सूर्य-मन्दिर",
+      "block_count": 121,
+      "word_count": 1313,
+      "estimated_minutes": 7,
+      "file": "content/books/prachin-chihna/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "ढाई हज़ार वर्ष की पुरानी क़बरें",
+      "block_count": 71,
+      "word_count": 850,
+      "estimated_minutes": 5,
+      "file": "content/books/prachin-chihna/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "तीस लाख वर्ष के पुराने जीवाश्म व कंकाल",
+      "block_count": 101,
+      "word_count": 1117,
+      "estimated_minutes": 6,
+      "file": "content/books/prachin-chihna/ch_14.json"
+    }
+  ]
+}
