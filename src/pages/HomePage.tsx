@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import type { BookSummary } from '../types';
 import { Header } from '../components/common/Header';
 import { SearchModal } from '../components/search/SearchModal';
@@ -9,15 +10,22 @@ import { DailyQuoteCard } from '../components/library/DailyQuoteCard';
 import { useAllReadingProgress } from '../hooks/useReadingProgress';
 import { getStorageUsage, requestPersistentStorage } from '../utils/storage';
 import { db } from '../db';
-import { Feather, Compass, Sparkles } from 'lucide-react';
+import { Feather, Compass, Sparkles, Filter, X, Check, HardDriveDownload } from 'lucide-react';
 
 export const HomePage: React.FC = () => {
   const [books, setBooks] = useState<BookSummary[]>([]);
   const [loading, setLoading] = useState(true);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
-  const [selectedFilter, setSelectedFilter] = useState<string>('सभी');
   const [storageUsage, setStorageUsage] = useState<{ usedMB: number } | null>(null);
   const [offlineBookIds, setOfflineBookIds] = useState<Set<string>>(new Set());
+
+  const [searchParams, setSearchParams] = useSearchParams();
+  const collectionRef = useRef<HTMLElement>(null);
+
+  // Separate Filter Dimensions from URL params
+  const selectedCategory = searchParams.get('category') || 'all';
+  const selectedAuthor = searchParams.get('author') || 'all';
+  const onlyOffline = searchParams.get('offline') === 'true';
 
   const allProgress = useAllReadingProgress();
 
@@ -46,6 +54,23 @@ export const HomePage: React.FC = () => {
     checkOffline();
   }, []);
 
+  // Update URL search parameters
+  const updateFilter = (key: 'category' | 'author' | 'offline', value: string | boolean) => {
+    const newParams = new URLSearchParams(searchParams);
+    if (key === 'offline') {
+      if (value === true) newParams.set('offline', 'true');
+      else newParams.delete('offline');
+    } else {
+      if (value === 'all' || !value) newParams.delete(key);
+      else newParams.set(key, value as string);
+    }
+    setSearchParams(newParams);
+  };
+
+  const clearAllFilters = () => {
+    setSearchParams(new URLSearchParams());
+  };
+
   // Find the most recently read book for the hero continue card
   const lastReadProgress = allProgress.sort(
     (a, b) => b.last_read_timestamp - a.last_read_timestamp
@@ -54,20 +79,34 @@ export const HomePage: React.FC = () => {
     ? books.find((b) => b.id === lastReadProgress.book_id)
     : null;
 
-  // Choose a spotlight book (e.g. Idgah or first book)
+  // Choose a spotlight book
   const spotlightBook = books.find((b) => b.id === 'idgah') || books[0];
 
-  // Filters calculation
-  const filterOptions = [
-    { id: 'सभी', label: 'सभी कृतियाँ', count: books.length },
-    { id: 'ऑफ़लाइन', label: 'ऑफ़लाइन सहेजी गई', count: offlineBookIds.size }
-  ];
+  // Distinct categories and authors extraction with counts
+  const categories = Array.from(new Set(books.map((b) => b.category)));
+  const authors = Array.from(new Set(books.map((b) => b.author)));
 
-  const filteredBooks = books.filter((b) => {
-    if (selectedFilter === 'सभी') return true;
-    if (selectedFilter === 'ऑफ़लाइन') return offlineBookIds.has(b.id);
-    return b.category === selectedFilter;
+  // Multi-facet filtering logic: Category AND Author AND Offline
+  const filteredBooks = books.filter((book) => {
+    // 1. Availability filter
+    if (onlyOffline && !offlineBookIds.has(book.id)) return false;
+
+    // 2. Category / Genre filter
+    if (selectedCategory !== 'all' && book.category !== selectedCategory) return false;
+
+    // 3. Author filter
+    if (selectedAuthor !== 'all' && book.author !== selectedAuthor) return false;
+
+    return true;
   });
+
+  const hasActiveFilters = selectedCategory !== 'all' || selectedAuthor !== 'all' || onlyOffline;
+
+  const scrollToCollection = () => {
+    if (collectionRef.current) {
+      collectionRef.current.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
 
   return (
     <div className="min-h-screen bg-[#FAF7F2] text-[#1F1916] selection:bg-[#E08E45]/30">
@@ -78,20 +117,20 @@ export const HomePage: React.FC = () => {
 
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-10">
         {/* Continue Reading Hero (Shown if user has active reading session) */}
-        {continueBook && lastReadProgress && (
+        {continueBook && lastReadProgress && !hasActiveFilters && (
           <HeroContinueCard book={continueBook} progress={lastReadProgress} />
         )}
 
         {/* Featured Masterpiece Spotlight (Hero of the Day) */}
-        {spotlightBook && (!continueBook || spotlightBook.id !== continueBook.id) && (
+        {spotlightBook && !continueBook && !hasActiveFilters && (
           <FeaturedSpotlight book={spotlightBook} />
         )}
 
-        {/* Daily Literary Quote */}
-        <DailyQuoteCard />
+        {/* Daily Literary Quote (Only shown on default view to keep filtered view focused) */}
+        {!hasActiveFilters && <DailyQuoteCard />}
 
         {/* Curated Collection Section */}
-        <section className="mt-8 mb-12">
+        <section ref={collectionRef} className="mt-6 mb-12">
           {/* Section Header */}
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-6">
             <div>
@@ -100,35 +139,170 @@ export const HomePage: React.FC = () => {
                 <span>पुस्तकालय संग्रह</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black font-serif text-[#1F1916] tracking-tight">
-                कालजयी कृतियाँ (Timeless Classics)
+                {selectedAuthor !== 'all' ? `${selectedAuthor} की कृतियाँ` : 'कालजयी कृतियाँ'}
+                {selectedCategory !== 'all' && ` • ${selectedCategory}`}
               </h2>
+              <p className="text-xs text-[#1F1916]/60 mt-0.5 font-medium">
+                कुल {filteredBooks.length} पुस्तकें उपलब्ध
+              </p>
             </div>
 
-            {/* Filter Chips */}
-            <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
-              {filterOptions.map((f) => (
+            {/* Offline toggle pill */}
+            <div className="flex items-center gap-2">
+              <button
+                onClick={() => updateFilter('offline', !onlyOffline)}
+                className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all flex items-center gap-1.5 border ${
+                  onlyOffline
+                    ? 'bg-emerald-900 text-emerald-100 border-emerald-700 shadow-sm'
+                    : 'bg-white hover:bg-white/80 text-[#1F1916]/75 border-[#231A15]/10 shadow-2xs'
+                }`}
+              >
+                <HardDriveDownload className={`w-3.5 h-3.5 ${onlyOffline ? 'text-emerald-400' : 'opacity-60'}`} />
+                <span>केवल ऑफ़लाइन ({offlineBookIds.size})</span>
+                {onlyOffline && <Check className="w-3 h-3 text-emerald-400" />}
+              </button>
+            </div>
+          </div>
+
+          {/* DUAL FILTER CONTROLS: Category & Author Managed Separately */}
+          <div className="bg-white/70 rounded-3xl p-4 sm:p-5 border border-[#231A15]/10 shadow-xs mb-8 space-y-4">
+            {/* Filter Row 1: विधा (Category / Genre) */}
+            <div>
+              <div className="flex items-center justify-between mb-2">
+                <span className="text-xs font-bold text-[#1F1916]/60 uppercase tracking-wider flex items-center gap-1">
+                  <Filter className="w-3 h-3 text-[#C85A32]" />
+                  <span>विधा के अनुसार (By Genre)</span>
+                </span>
+                {selectedCategory !== 'all' && (
+                  <button
+                    onClick={() => updateFilter('category', 'all')}
+                    className="text-[11px] font-semibold text-[#C85A32] hover:underline"
+                  >
+                    हटाएँ
+                  </button>
+                )}
+              </div>
+
+              <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
                 <button
-                  key={f.id}
-                  onClick={() => setSelectedFilter(f.id)}
-                  className={`px-4 py-2 rounded-2xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 flex items-center gap-1.5 ${
-                    selectedFilter === f.id
-                      ? 'bg-[#231814] text-[#FAF5E8] shadow-md'
-                      : 'bg-white hover:bg-white/80 text-[#1F1916]/75 border border-[#231A15]/10 shadow-2xs'
+                  onClick={() => updateFilter('category', 'all')}
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 ${
+                    selectedCategory === 'all'
+                      ? 'bg-[#231814] text-[#FAF5E8] shadow-sm'
+                      : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
                   }`}
                 >
-                  <span>{f.label}</span>
-                  <span
-                    className={`text-[10px] px-1.5 py-0.2 rounded-full ${
-                      selectedFilter === f.id
-                        ? 'bg-white/20 text-white'
-                        : 'bg-black/5 text-black/60'
-                    }`}
-                  >
-                    {f.count}
-                  </span>
+                  सभी विधाएँ ({books.length})
                 </button>
-              ))}
+
+                {categories.map((cat) => {
+                  const count = books.filter((b) => b.category === cat).length;
+                  const isSelected = selectedCategory === cat;
+                  return (
+                    <button
+                      key={cat}
+                      onClick={() => updateFilter('category', isSelected ? 'all' : cat)}
+                      className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 flex items-center gap-1.5 ${
+                        isSelected
+                          ? 'bg-[#C85A32] text-white shadow-sm'
+                          : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
+                      }`}
+                    >
+                      <span>{cat}</span>
+                      <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${isSelected ? 'bg-white/20 text-white' : 'bg-black/10 text-black/60'}`}>
+                        {count}
+                      </span>
+                    </button>
+                  );
+                })}
+              </div>
             </div>
+
+            {/* Filter Row 2: रचनाकार (Authors) */}
+            <div className="pt-3 border-t border-[#231A15]/8">
+              <div className="flex items-center justify-between mb-2">
+                <span className="text-xs font-bold text-[#1F1916]/60 uppercase tracking-wider flex items-center gap-1">
+                  <Feather className="w-3 h-3 text-[#1B2A4A]" />
+                  <span>रचनाकार के अनुसार (By Author)</span>
+                </span>
+                {selectedAuthor !== 'all' && (
+                  <button
+                    onClick={() => updateFilter('author', 'all')}
+                    className="text-[11px] font-semibold text-[#1B2A4A] hover:underline"
+                  >
+                    हटाएँ
+                  </button>
+                )}
+              </div>
+
+              <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
+                <button
+                  onClick={() => updateFilter('author', 'all')}
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 ${
+                    selectedAuthor === 'all'
+                      ? 'bg-[#231814] text-[#FAF5E8] shadow-sm'
+                      : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
+                  }`}
+                >
+                  सभी रचनाकार ({books.length})
+                </button>
+
+                {authors.map((author) => {
+                  const count = books.filter((b) => b.author === author).length;
+                  const isSelected = selectedAuthor === author;
+                  return (
+                    <button
+                      key={author}
+                      onClick={() => updateFilter('author', isSelected ? 'all' : author)}
+                      className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 flex items-center gap-1.5 ${
+                        isSelected
+                          ? 'bg-[#1B2A4A] text-white shadow-sm'
+                          : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
+                      }`}
+                    >
+                      <span>{author}</span>
+                      <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${isSelected ? 'bg-white/20 text-white' : 'bg-black/10 text-black/60'}`}>
+                        {count}
+                      </span>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+
+            {/* Active Filters Summary Pill Bar */}
+            {hasActiveFilters && (
+              <div className="pt-3 border-t border-[#231A15]/8 flex items-center justify-between flex-wrap gap-2 text-xs">
+                <div className="flex items-center gap-1.5 flex-wrap">
+                  <span className="font-semibold text-[#1F1916]/60">सक्रिय फ़िल्टर:</span>
+                  {selectedCategory !== 'all' && (
+                    <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-lg bg-[#C85A32]/10 text-[#C85A32] font-bold">
+                      विधा: {selectedCategory}
+                      <X className="w-3 h-3 cursor-pointer" onClick={() => updateFilter('category', 'all')} />
+                    </span>
+                  )}
+                  {selectedAuthor !== 'all' && (
+                    <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-lg bg-[#1B2A4A]/10 text-[#1B2A4A] font-bold">
+                      लेखक: {selectedAuthor}
+                      <X className="w-3 h-3 cursor-pointer" onClick={() => updateFilter('author', 'all')} />
+                    </span>
+                  )}
+                  {onlyOffline && (
+                    <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-lg bg-emerald-100 text-emerald-800 font-bold">
+                      केवल ऑफ़लाइन
+                      <X className="w-3 h-3 cursor-pointer" onClick={() => updateFilter('offline', false)} />
+                    </span>
+                  )}
+                </div>
+
+                <button
+                  onClick={clearAllFilters}
+                  className="text-xs font-bold text-[#C85A32] hover:underline cursor-pointer"
+                >
+                  सभी फ़िल्टर साफ़ करें (Clear All)
+                </button>
+              </div>
+            )}
           </div>
 
           {/* Books Grid with 3D Tactile Presentation */}
@@ -154,45 +328,79 @@ export const HomePage: React.FC = () => {
               <h3 className="font-bold text-base text-[#1F1916] mb-1">
                 कोई पुस्तक नहीं मिली
               </h3>
-              <p className="text-xs text-[#1F1916]/60">
-                इस श्रेणी में अभी कोई पुस्तक उपलब्ध नहीं है।
+              <p className="text-xs text-[#1F1916]/60 mb-4">
+                चुने गए फ़िल्टर के अनुसार कोई रचना उपलब्ध नहीं है।
               </p>
+              <button
+                onClick={clearAllFilters}
+                className="px-4 py-2 rounded-xl bg-[#231814] text-[#FAF5E8] text-xs font-bold"
+              >
+                सभी फ़िल्टर साफ़ करें
+              </button>
             </div>
           )}
         </section>
 
-        {/* Great Literary Masters Section */}
+        {/* Great Literary Masters Section with 1-Click Filter Links */}
         <section className="mt-12 pt-10 border-t border-[#231A15]/10">
           <div className="flex items-center gap-2 mb-4">
             <Sparkles className="w-4 h-4 text-[#C85A32]" />
             <h3 className="font-bold text-lg font-serif text-[#1F1916]">
-              साहित्य के कालजयी स्तंभ
+              साहित्य के कालजयी स्तंभ (लेखक संग्रह)
             </h3>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <div className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs transition-all flex items-center gap-4">
-              <div className="w-12 h-12 rounded-2xl bg-[#7D2E1E] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm">
+            {/* Munshi Premchand Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'मुंशी प्रेमचंद');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#7D2E1E] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
                 प्र
               </div>
-              <div>
-                <h4 className="font-bold text-sm text-[#1F1916]">मुंशी प्रेमचंद</h4>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#C85A32] transition-colors">
+                    मुंशी प्रेमचंद
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#C85A32] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'मुंशी प्रेमचंद').length} कृतियाँ →
+                  </span>
+                </div>
                 <p className="text-xs text-[#C85A32] font-semibold">उपन्यास सम्राट (१८८० – १९३६)</p>
                 <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
-                  गोदान, कफ़न, ईदगाह, पंच परमेश्वर, सेवासदन
+                  गोदान, कफ़न, ईदगाह, पंच परमेश्वर, बड़े भाई साहब
                 </p>
               </div>
             </div>
 
-            <div className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs transition-all flex items-center gap-4">
-              <div className="w-12 h-12 rounded-2xl bg-[#1B2A4A] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm">
+            {/* Jaishankar Prasad Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'जयशंकर प्रसाद');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#1B2A4A] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
                 प्र
               </div>
-              <div>
-                <h4 className="font-bold text-sm text-[#1F1916]">जयशंकर प्रसाद</h4>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#1B2A4A] transition-colors">
+                    जयशंकर प्रसाद
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#1B2A4A] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'जयशंकर प्रसाद').length} कृतियाँ →
+                  </span>
+                </div>
                 <p className="text-xs text-[#1B2A4A] font-semibold">छायावाद के प्रवर्तक (१८८९ – १९३७)</p>
                 <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
-                  कामायनी, चंद्रगुप्त, ध्रुवस्वामिनी, आँसू
+                  ममता, कामायनी, चंद्रगुप्त, ध्रुवस्वामिनी, आँसू
                 </p>
               </div>
             </div>

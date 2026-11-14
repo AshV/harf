@@ -120,9 +120,12 @@ export const BookDetailPage: React.FC = () => {
 
           {/* Book Metadata & Description */}
           <div className="flex-1">
-            <div className="inline-block px-3 py-1 rounded-full bg-[#C85A32]/10 text-[11px] font-bold text-[#C85A32] mb-2 uppercase tracking-wider">
+            <Link
+              to={`/?category=${encodeURIComponent(book.category)}`}
+              className="inline-block px-3 py-1 rounded-full bg-[#C85A32]/10 hover:bg-[#C85A32]/20 text-[11px] font-bold text-[#C85A32] mb-2 uppercase tracking-wider transition-colors"
+            >
               {book.category} • {book.category_en}
-            </div>
+            </Link>
 
             <h1 className="text-3xl sm:text-4xl font-black font-serif leading-tight">
               {book.title}
@@ -131,10 +134,13 @@ export const BookDetailPage: React.FC = () => {
               {book.title_en}
             </p>
 
-            <p className="text-lg font-bold text-[#C85A32] mt-2 font-hindi-serif">
+            <Link
+              to={`/?author=${encodeURIComponent(book.author)}`}
+              className="text-lg font-bold text-[#C85A32] hover:underline mt-2 font-hindi-serif inline-block"
+            >
               {book.author}{' '}
               <span className="text-xs font-normal text-[#1F1916]/60">({book.author_en})</span>
-            </p>
+            </Link>
 
             <div className="flex flex-wrap items-center justify-center sm:justify-start gap-4 text-xs text-[#1F1916]/70 mt-3 font-medium">
               <div className="flex items-center gap-1">

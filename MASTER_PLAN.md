@@ -181,10 +181,14 @@ When running `npm run ingest`, the script:
 
 ### A. Screen Hierarchy
 1. **होम (Library/Home):**
-   * Top app bar: Logo (हर्फ़) + Search Input (supporting Devanagari & Hinglish).
-   * Hero Card: "पढ़ना जारी रखें" (*Continue Reading*) with active book thumbnail and progress bar.
-   * Category Filter Pills: *सभी (All)*, *ऑफ़लाइन (Saved)*, *उपन्यास (Novels)*, *कहानियाँ (Stories)*, *कविता (Poetry)*.
-   * Responsive Book Grid (2 columns on mobile, 4 on tablet, 6 on desktop).
+   * Top app bar: Logo (हर्फ़) + Search Input (supporting Devanagari & Hinglish) + Offline Storage meter.
+   * Hero Card: "पढ़ना जारी रखें" (*Continue Reading*) or "आज की विशेष कृति" (*Featured Masterpiece Spotlight*).
+   * **Dual Multi-Facet Filtering (लेखक व विधा अलग-अलग):**
+     * **विधा (By Genre):** सभी विधाएँ, कहानी, उपन्यास, कविता...
+     * **रचनाकार (By Author):** सभी रचनाकार, मुंशी प्रेमचंद, जयशंकर प्रसाद...
+     * **उपलब्धता (Availability):** केवल ऑफ़लाइन सहेजी गई पुस्तकें.
+     * **सक्रिय फ़िल्टर बार:** Active filter chips with 1-click removal and "सभी फ़िल्टर साफ़ करें" (Clear All).
+   * Responsive 3D Book Grid with realistic procedural book jackets and hover lift.
 2. **पुस्तक विवरण (Book Detail):**
    * Blur-backdrop cover display.
    * Action buttons: "पढ़ना शुरू करें" (Primary) + "ऑफ़लाइन सहेजें" (Secondary).
