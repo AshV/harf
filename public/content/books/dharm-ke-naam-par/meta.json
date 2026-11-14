@@ -1,0 +1,115 @@
+{
+  "id": "dharm-ke-naam-par",
+  "title": "धर्म के नाम पर",
+  "title_en": "Dharm Ke Naam Par",
+  "author": "आचार्य चतुरसेन शास्त्री",
+  "author_en": "Acharya Chatursen Shastri",
+  "category": "निबन्ध",
+  "category_en": "Philosophy & Social Reform",
+  "description": "आचार्य चतुरसेन शास्त्री का निर्भीक एवं क्रान्तिकारी वैचारिक ग्रंथ। धर्म के नाम पर सदियों से फैले अंधविश्वास, कुरीतियों, पाखंड, शोषण और रूढ़ियों का ऐतिहासिक एवं तार्किक पर्दाफ़ाश करते हुए विशुद्ध मानवतावादी धर्म-नीति का प्रतिपादन।",
+  "cover_image": "",
+  "published_year": 1933,
+  "keywords": [
+    "dharm ke naam par",
+    "chatursen shastri",
+    "social reform",
+    "rationalism",
+    "philosophy",
+    "anti superstition"
+  ],
+  "total_words": 36206,
+  "total_chapters": 10,
+  "estimated_reading_minutes": 201,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १: धर्म क्या है?",
+      "block_count": 38,
+      "word_count": 2525,
+      "estimated_minutes": 14,
+      "file": "content/books/dharm-ke-naam-par/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २: सदुपयोग और दुरुपयोग",
+      "block_count": 56,
+      "word_count": 4020,
+      "estimated_minutes": 22,
+      "file": "content/books/dharm-ke-naam-par/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३: अन्धविश्वास और कुसंस्कार",
+      "block_count": 77,
+      "word_count": 4854,
+      "estimated_minutes": 27,
+      "file": "content/books/dharm-ke-naam-par/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४: अत्याचार",
+      "block_count": 70,
+      "word_count": 4183,
+      "estimated_minutes": 23,
+      "file": "content/books/dharm-ke-naam-par/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५: हत्या",
+      "block_count": 89,
+      "word_count": 2896,
+      "estimated_minutes": 16,
+      "file": "content/books/dharm-ke-naam-par/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६: व्यभिचार",
+      "block_count": 123,
+      "word_count": 3530,
+      "estimated_minutes": 20,
+      "file": "content/books/dharm-ke-naam-par/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७: अपराध",
+      "block_count": 39,
+      "word_count": 2027,
+      "estimated_minutes": 11,
+      "file": "content/books/dharm-ke-naam-par/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय ८: कुरीति और रूढ़ियां",
+      "block_count": 86,
+      "word_count": 6378,
+      "estimated_minutes": 35,
+      "file": "content/books/dharm-ke-naam-par/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय ९: पाखण्ड",
+      "block_count": 66,
+      "word_count": 4703,
+      "estimated_minutes": 26,
+      "file": "content/books/dharm-ke-naam-par/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अध्याय १०: धर्म नीति",
+      "block_count": 23,
+      "word_count": 1090,
+      "estimated_minutes": 6,
+      "file": "content/books/dharm-ke-naam-par/ch_10.json"
+    }
+  ]
+}

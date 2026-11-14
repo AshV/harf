@@ -137,6 +137,28 @@
     ]
   },
   {
+    "id": "awaragard",
+    "title": "आवारागर्द",
+    "title_en": "Awaragard",
+    "author": "आचार्य चतुरसेन शास्त्री",
+    "author_en": "Acharya Chatursen Shastri",
+    "category": "कहानी संग्रह",
+    "category_en": "Short Stories",
+    "description": "आचार्य चतुरसेन शास्त्री का लोकप्रिय सामाजिक कथा संकलन। आधुनिक जीवन की विडम्बनाओं, रोचक अनुभवों, मानव-स्वभाव के विविध रंगों और रोमांचकारी मोड़ों से परिपूर्ण १० प्रतिनिधि कहानियों का अनूठा संग्रह।",
+    "cover_image": "",
+    "published_year": 1928,
+    "total_chapters": 10,
+    "estimated_reading_minutes": 155,
+    "keywords": [
+      "awaragard",
+      "chatursen shastri",
+      "tikdam",
+      "japani dasi",
+      "hindi kahaniya",
+      "stories"
+    ]
+  },
+  {
     "id": "bacon-vichar-ratnavali",
     "title": "बेकन-विचाररत्नावली",
     "title_en": "Bacon Vichar Ratnavali",
@@ -505,6 +527,28 @@
     ]
   },
   {
+    "id": "dharm-ke-naam-par",
+    "title": "धर्म के नाम पर",
+    "title_en": "Dharm Ke Naam Par",
+    "author": "आचार्य चतुरसेन शास्त्री",
+    "author_en": "Acharya Chatursen Shastri",
+    "category": "निबन्ध",
+    "category_en": "Philosophy & Social Reform",
+    "description": "आचार्य चतुरसेन शास्त्री का निर्भीक एवं क्रान्तिकारी वैचारिक ग्रंथ। धर्म के नाम पर सदियों से फैले अंधविश्वास, कुरीतियों, पाखंड, शोषण और रूढ़ियों का ऐतिहासिक एवं तार्किक पर्दाफ़ाश करते हुए विशुद्ध मानवतावादी धर्म-नीति का प्रतिपादन।",
+    "cover_image": "",
+    "published_year": 1933,
+    "total_chapters": 10,
+    "estimated_reading_minutes": 201,
+    "keywords": [
+      "dharm ke naam par",
+      "chatursen shastri",
+      "social reform",
+      "rationalism",
+      "philosophy",
+      "anti superstition"
+    ]
+  },
+  {
     "id": "dhruvaswamini",
     "title": "ध्रुवस्वामिनी",
     "title_en": "Dhruvaswamini",
@@ -595,6 +639,29 @@
       "upanyas",
       "novel",
       "kisan"
+    ]
+  },
+  {
+    "id": "hindi-sahitya-ka-itihas",
+    "title": "हिंदी साहित्य का इतिहास",
+    "title_en": "Hindi Sahitya Ka Itihas",
+    "author": "आचार्य रामचंद्र शुक्ल",
+    "author_en": "Acharya Ramchandra Shukla",
+    "category": "निबन्ध",
+    "category_en": "Literary History & Criticism",
+    "description": "हिन्दी आलोचना और साहित्येतिहास का सर्वोच्च शिखर ग्रंथ। आचार्य रामचंद्र शुक्ल द्वारा रचित कालजयी इतिहास, जिसमें आदिकाल (वीरगाथा), भक्तिकाल, रीतिकाल और आधुनिक काल का वैज्ञानिक, युगचेतनामूलक व रसशास्त्रीय विश्लेषण समाहित है।",
+    "cover_image": "",
+    "published_year": 1929,
+    "total_chapters": 19,
+    "estimated_reading_minutes": 1182,
+    "keywords": [
+      "hindi sahitya ka itihas",
+      "ramchandra shukla",
+      "aadikaal",
+      "bhaktikaal",
+      "ritikaal",
+      "adhunik kaal",
+      "criticism"
     ]
   },
   {
@@ -1126,6 +1193,28 @@
     ]
   },
   {
+    "id": "premsagar",
+    "title": "प्रेमसागर",
+    "title_en": "Premsagar",
+    "author": "लल्लू लाल",
+    "author_en": "Lallu Lal",
+    "category": "उपन्यास",
+    "category_en": "Classic Narrative / Early Prose",
+    "description": "फोर्ट विलियम कॉलेज (कलकत्ता) के प्राध्यापक लल्लूजीलाल द्वारा रचित आधुनिक खड़ी बोली हिन्दी गद्य का ऐतिहासिक प्रथम महा-आख्यान (१८०५)। श्रीमद्भागवत दशम स्कंध पर आधारित भगवान श्रीकृष्ण के जन्मोत्सव, बाललीला, मथुरा-विजय और द्वारिका-विहार का सम्पूर्ण ९० अध्यायों में रससिक्त वर्णन।",
+    "cover_image": "",
+    "published_year": 1805,
+    "total_chapters": 94,
+    "estimated_reading_minutes": 587,
+    "keywords": [
+      "premsagar",
+      "lallu lal",
+      "fort william college",
+      "khari boli",
+      "early hindi prose",
+      "krishna leela"
+    ]
+  },
+  {
     "id": "priyapravas",
     "title": "प्रियप्रवास",
     "title_en": "Priyapravas",
@@ -1332,6 +1421,29 @@
       "philology",
       "journalism",
       "essays",
+      "nibandh"
+    ]
+  },
+  {
+    "id": "sahityalaap",
+    "title": "साहित्यालाप",
+    "title_en": "Sahityalaap",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "निबन्ध",
+    "category_en": "Essays / Linguistics",
+    "description": "द्विवेदी युग के नियामक आचार्य महावीर प्रसाद द्विवेदी के १८ प्रखर भाषाशास्त्रीय एवं साहित्यिक निबन्धों का संकलन। देवनागरी लिपि का उद्भव व प्रसार, हिन्दी-उर्दू विवाद, जनगणना में भाषा की राजनीति और छायावादी कविता पर प्रामाणिक विमर्श।",
+    "cover_image": "",
+    "published_year": 1929,
+    "total_chapters": 18,
+    "estimated_reading_minutes": 424,
+    "keywords": [
+      "sahityalaap",
+      "mahavir prasad dwivedi",
+      "devanagari",
+      "linguistics",
+      "hindi urdu",
+      "chhayavad",
       "nibandh"
     ]
   },

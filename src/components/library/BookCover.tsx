@@ -649,6 +649,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#F0C35B',
     badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
     motif: '❖ 🚩 ❖'
+  },
+  'hindi-sahitya-ka-itihas': {
+    bgGradient: 'from-[#2A1708] via-[#40230C] to-[#1C0F05]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
+    motif: '❖ 📖 ❖'
+  },
+  premsagar: {
+    bgGradient: 'from-[#0B2538] via-[#143954] to-[#071824]',
+    borderColor: 'border-[#8EC5FC]/40',
+    titleColor: 'text-[#F0F7FD]',
+    authorColor: 'text-[#8EC5FC]',
+    accentColor: '#8EC5FC',
+    badgeBg: 'bg-[#8EC5FC]/15 text-[#DDF0FE]',
+    motif: '✦ 🌊 ✦'
+  },
+  sahityalaap: {
+    bgGradient: 'from-[#1F2410] via-[#303819] to-[#14170A]',
+    borderColor: 'border-[#E2C068]/40',
+    titleColor: 'text-[#F6F8F0]',
+    authorColor: 'text-[#E2C068]',
+    accentColor: '#E2C068',
+    badgeBg: 'bg-[#E2C068]/15 text-[#FDF0CD]',
+    motif: '❖ 🗣️ ❖'
+  },
+  'dharm-ke-naam-par': {
+    bgGradient: 'from-[#2E1210] via-[#451B18] to-[#1F0C0A]',
+    borderColor: 'border-[#E5A93C]/40',
+    titleColor: 'text-[#FFF5F5]',
+    authorColor: 'text-[#E5A93C]',
+    accentColor: '#E5A93C',
+    badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
+    motif: '✦ ⚖️ ✦'
+  },
+  awaragard: {
+    bgGradient: 'from-[#19192B] via-[#262640] to-[#10101C]',
+    borderColor: 'border-[#C39BD3]/40',
+    titleColor: 'text-[#F8F5FD]',
+    authorColor: 'text-[#C39BD3]',
+    accentColor: '#C39BD3',
+    badgeBg: 'bg-[#C39BD3]/15 text-[#EEDBF5]',
+    motif: '❖ 🚶 ❖'
   }
 };
 

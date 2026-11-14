@@ -1,0 +1,197 @@
+{
+  "id": "hindi-sahitya-ka-itihas",
+  "title": "हिंदी साहित्य का इतिहास",
+  "title_en": "Hindi Sahitya Ka Itihas",
+  "author": "आचार्य रामचंद्र शुक्ल",
+  "author_en": "Acharya Ramchandra Shukla",
+  "category": "निबन्ध",
+  "category_en": "Literary History & Criticism",
+  "description": "हिन्दी आलोचना और साहित्येतिहास का सर्वोच्च शिखर ग्रंथ। आचार्य रामचंद्र शुक्ल द्वारा रचित कालजयी इतिहास, जिसमें आदिकाल (वीरगाथा), भक्तिकाल, रीतिकाल और आधुनिक काल का वैज्ञानिक, युगचेतनामूलक व रसशास्त्रीय विश्लेषण समाहित है।",
+  "cover_image": "",
+  "published_year": 1929,
+  "keywords": [
+    "hindi sahitya ka itihas",
+    "ramchandra shukla",
+    "aadikaal",
+    "bhaktikaal",
+    "ritikaal",
+    "adhunik kaal",
+    "criticism"
+  ],
+  "total_words": 212681,
+  "total_chapters": 19,
+  "estimated_reading_minutes": 1182,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "काल-विभाग एवं भूमिका",
+      "block_count": 10,
+      "word_count": 299,
+      "estimated_minutes": 2,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "आदिकाल (प्रकरण १: सामान्य परिचय)",
+      "block_count": 22,
+      "word_count": 794,
+      "estimated_minutes": 4,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "आदिकाल (प्रकरण २: अपभ्रंश-काल)",
+      "block_count": 230,
+      "word_count": 6488,
+      "estimated_minutes": 36,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "आदिकाल (प्रकरण ३: देशभाषा काव्य - वीरगाथा)",
+      "block_count": 219,
+      "word_count": 7192,
+      "estimated_minutes": 40,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "आदिकाल (प्रकरण ४: फुटकल रचनाएँ)",
+      "block_count": 65,
+      "word_count": 1927,
+      "estimated_minutes": 11,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "भक्तिकाल (प्रकरण १: सामान्य परिचय)",
+      "block_count": 93,
+      "word_count": 4836,
+      "estimated_minutes": 27,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "भक्तिकाल (प्रकरण २: निर्गुण धारा - ज्ञानाश्रयी शाखा)",
+      "block_count": 218,
+      "word_count": 5279,
+      "estimated_minutes": 29,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "भक्तिकाल (प्रकरण ३: निर्गुण धारा - प्रेममार्गी सूफी शाखा)",
+      "block_count": 195,
+      "word_count": 7213,
+      "estimated_minutes": 40,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "भक्तिकाल (प्रकरण ४: सगुण धारा - रामभक्ति शाखा)",
+      "block_count": 342,
+      "word_count": 11815,
+      "estimated_minutes": 66,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "भक्तिकाल (प्रकरण ५: सगुण धारा - कृष्णभक्ति शाखा)",
+      "block_count": 514,
+      "word_count": 11797,
+      "estimated_minutes": 66,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "भक्तिकाल (प्रकरण ६: भक्तिकाल की फुटकल रचनाएँ)",
+      "block_count": 555,
+      "word_count": 9846,
+      "estimated_minutes": 55,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "रीतिकाल (प्रकरण १: सामान्य परिचय)",
+      "block_count": 55,
+      "word_count": 3089,
+      "estimated_minutes": 17,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "रीतिकाल (प्रकरण २: रीति-ग्रंथकार कवि)",
+      "block_count": 1079,
+      "word_count": 21442,
+      "estimated_minutes": 119,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "रीतिकाल (प्रकरण ३: रीतिकाल के अन्य कवि)",
+      "block_count": 1034,
+      "word_count": 21779,
+      "estimated_minutes": 121,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "आधुनिक काल (गद्य खंड: प्रकरण १ गद्य का विकास)",
+      "block_count": 152,
+      "word_count": 10703,
+      "estimated_minutes": 59,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "आधुनिक काल (गद्य खंड: प्रकरण २ गद्य-साहित्य का आविर्भाव)",
+      "block_count": 234,
+      "word_count": 16267,
+      "estimated_minutes": 90,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "आधुनिक काल (गद्य खंड: प्रकरण ३ गद्य-साहित्य का प्रसार)",
+      "block_count": 335,
+      "word_count": 28896,
+      "estimated_minutes": 161,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "आधुनिक काल (काव्य खंड: प्रकरण १ पुरानी धारा)",
+      "block_count": 82,
+      "word_count": 2851,
+      "estimated_minutes": 16,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "आधुनिक काल (काव्य खंड: प्रकरण २ नई धारा)",
+      "block_count": 1275,
+      "word_count": 40168,
+      "estimated_minutes": 223,
+      "file": "content/books/hindi-sahitya-ka-itihas/ch_19.json"
+    }
+  ]
+}

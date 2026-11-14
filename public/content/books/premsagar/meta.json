@@ -1,0 +1,871 @@
+{
+  "id": "premsagar",
+  "title": "प्रेमसागर",
+  "title_en": "Premsagar",
+  "author": "लल्लू लाल",
+  "author_en": "Lallu Lal",
+  "category": "उपन्यास",
+  "category_en": "Classic Narrative / Early Prose",
+  "description": "फोर्ट विलियम कॉलेज (कलकत्ता) के प्राध्यापक लल्लूजीलाल द्वारा रचित आधुनिक खड़ी बोली हिन्दी गद्य का ऐतिहासिक प्रथम महा-आख्यान (१८०५)। श्रीमद्भागवत दशम स्कंध पर आधारित भगवान श्रीकृष्ण के जन्मोत्सव, बाललीला, मथुरा-विजय और द्वारिका-विहार का सम्पूर्ण ९० अध्यायों में रससिक्त वर्णन।",
+  "cover_image": "",
+  "published_year": 1805,
+  "keywords": [
+    "premsagar",
+    "lallu lal",
+    "fort william college",
+    "khari boli",
+    "early hindi prose",
+    "krishna leela"
+  ],
+  "total_words": 105659,
+  "total_chapters": 94,
+  "estimated_reading_minutes": 587,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "गद्य साहित्य का विकास",
+      "block_count": 268,
+      "word_count": 5557,
+      "estimated_minutes": 31,
+      "file": "content/books/premsagar/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "ग्रंथकार की भूमिका",
+      "block_count": 16,
+      "word_count": 256,
+      "estimated_minutes": 1,
+      "file": "content/books/premsagar/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "वक्तव्य",
+      "block_count": 18,
+      "word_count": 1146,
+      "estimated_minutes": 6,
+      "file": "content/books/premsagar/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "श्री लल्लूजीलाल का जीवन-चरित",
+      "block_count": 32,
+      "word_count": 1827,
+      "estimated_minutes": 10,
+      "file": "content/books/premsagar/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "१ अध्याय मुखबंध",
+      "block_count": 40,
+      "word_count": 3191,
+      "estimated_minutes": 18,
+      "file": "content/books/premsagar/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "१० दामबंधन",
+      "block_count": 19,
+      "word_count": 461,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "११ यमलार्जुनमोक्ष",
+      "block_count": 15,
+      "word_count": 390,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "१२ बत्सासुर-बकासुरवध",
+      "block_count": 23,
+      "word_count": 741,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "१३ अघासुरवध",
+      "block_count": 8,
+      "word_count": 330,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१४ ब्रह्मा-वत्सहरण",
+      "block_count": 15,
+      "word_count": 571,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "१५ ब्रह्मास्तुति",
+      "block_count": 10,
+      "word_count": 226,
+      "estimated_minutes": 1,
+      "file": "content/books/premsagar/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "१६ धेनुकवध",
+      "block_count": 11,
+      "word_count": 627,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "१७ कालीमर्दन",
+      "block_count": 23,
+      "word_count": 830,
+      "estimated_minutes": 5,
+      "file": "content/books/premsagar/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "१८ दावाग्निमोचन",
+      "block_count": 24,
+      "word_count": 406,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "१९ प्रलंबवध",
+      "block_count": 16,
+      "word_count": 337,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "२ देवकीविवाह बालकवध",
+      "block_count": 11,
+      "word_count": 841,
+      "estimated_minutes": 5,
+      "file": "content/books/premsagar/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "२० दावाग्निमोचन",
+      "block_count": 12,
+      "word_count": 350,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "२१ वर्षा-शरद-वर्णन",
+      "block_count": 11,
+      "word_count": 312,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "२२ गोपी-वेणु-गीत",
+      "block_count": 12,
+      "word_count": 314,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "२३ चीरहरण",
+      "block_count": 17,
+      "word_count": 788,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "२४ द्विजपत्नीयाचन",
+      "block_count": 36,
+      "word_count": 1022,
+      "estimated_minutes": 6,
+      "file": "content/books/premsagar/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "२५ गोवर्धनपूजन",
+      "block_count": 20,
+      "word_count": 1166,
+      "estimated_minutes": 6,
+      "file": "content/books/premsagar/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "२६ ब्रजरक्षा",
+      "block_count": 18,
+      "word_count": 624,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "२७ कृष्णप्रशंसा",
+      "block_count": 8,
+      "word_count": 168,
+      "estimated_minutes": 1,
+      "file": "content/books/premsagar/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "२८ इंद्रस्तुति",
+      "block_count": 14,
+      "word_count": 387,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "२९ वरुणलोकगमन",
+      "block_count": 14,
+      "word_count": 564,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "३ गर्भस्तुति",
+      "block_count": 14,
+      "word_count": 909,
+      "estimated_minutes": 5,
+      "file": "content/books/premsagar/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "३० रासक्रीड़ारंभ",
+      "block_count": 36,
+      "word_count": 1218,
+      "estimated_minutes": 7,
+      "file": "content/books/premsagar/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "३१ गोपीविरह-वर्णन",
+      "block_count": 35,
+      "word_count": 860,
+      "estimated_minutes": 5,
+      "file": "content/books/premsagar/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "३२ गोपीजन-विरहकथा",
+      "block_count": 10,
+      "word_count": 369,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "३३ गोपीकृष्ण-संवाद",
+      "block_count": 25,
+      "word_count": 517,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "३४ रासलीला-वर्णन",
+      "block_count": 24,
+      "word_count": 864,
+      "estimated_minutes": 5,
+      "file": "content/books/premsagar/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "३५ विद्याधरमोक्ष, शंखचूड़वध",
+      "block_count": 13,
+      "word_count": 686,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "३६ गोपीगीतवर्णन",
+      "block_count": 16,
+      "word_count": 199,
+      "estimated_minutes": 1,
+      "file": "content/books/premsagar/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "३७ कंस नारद संवाद",
+      "block_count": 54,
+      "word_count": 1423,
+      "estimated_minutes": 8,
+      "file": "content/books/premsagar/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "३८ व्योमासुर वध",
+      "block_count": 30,
+      "word_count": 777,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "३९ अक्रूर वृंदावन गमन",
+      "block_count": 23,
+      "word_count": 503,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "४ कृष्णजन्म",
+      "block_count": 17,
+      "word_count": 716,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "४० अक्रूर दर्शन",
+      "block_count": 36,
+      "word_count": 1052,
+      "estimated_minutes": 6,
+      "file": "content/books/premsagar/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "४१ अक्रूरस्तुति",
+      "block_count": 5,
+      "word_count": 160,
+      "estimated_minutes": 1,
+      "file": "content/books/premsagar/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "४२ पुर-प्रवेश",
+      "block_count": 54,
+      "word_count": 1359,
+      "estimated_minutes": 8,
+      "file": "content/books/premsagar/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "४३ कंसस्वप्रदर्शन",
+      "block_count": 32,
+      "word_count": 996,
+      "estimated_minutes": 6,
+      "file": "content/books/premsagar/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "४४ कुवलियावध",
+      "block_count": 39,
+      "word_count": 863,
+      "estimated_minutes": 5,
+      "file": "content/books/premsagar/ch_43.json"
+    },
+    {
+      "id": "ch_44",
+      "number": 44,
+      "title": "४५ कंसासुरवध",
+      "block_count": 23,
+      "word_count": 675,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_44.json"
+    },
+    {
+      "id": "ch_45",
+      "number": 45,
+      "title": "४६ शंखासुरवध",
+      "block_count": 91,
+      "word_count": 2779,
+      "estimated_minutes": 15,
+      "file": "content/books/premsagar/ch_45.json"
+    },
+    {
+      "id": "ch_46",
+      "number": 46,
+      "title": "४७ उद्धववृंदावनगमन",
+      "block_count": 32,
+      "word_count": 939,
+      "estimated_minutes": 5,
+      "file": "content/books/premsagar/ch_46.json"
+    },
+    {
+      "id": "ch_47",
+      "number": 47,
+      "title": "४८ उद्धवगोपीसंबोधन",
+      "block_count": 62,
+      "word_count": 1840,
+      "estimated_minutes": 10,
+      "file": "content/books/premsagar/ch_47.json"
+    },
+    {
+      "id": "ch_48",
+      "number": 48,
+      "title": "४९ कुब्जाकेलिवर्णन",
+      "block_count": 14,
+      "word_count": 355,
+      "estimated_minutes": 2,
+      "file": "content/books/premsagar/ch_48.json"
+    },
+    {
+      "id": "ch_49",
+      "number": 49,
+      "title": "५ कंस-उपद्रव",
+      "block_count": 7,
+      "word_count": 530,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_49.json"
+    },
+    {
+      "id": "ch_50",
+      "number": 50,
+      "title": "५० अक्रूरहस्तिनापुरगमन",
+      "block_count": 22,
+      "word_count": 805,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_50.json"
+    },
+    {
+      "id": "ch_51",
+      "number": 51,
+      "title": "५१ जरासंधपराजय",
+      "block_count": 45,
+      "word_count": 1858,
+      "estimated_minutes": 10,
+      "file": "content/books/premsagar/ch_51.json"
+    },
+    {
+      "id": "ch_52",
+      "number": 52,
+      "title": "५२ कालयवनमरण, मुचकुंदतारण, द्वारकागमन",
+      "block_count": 36,
+      "word_count": 1398,
+      "estimated_minutes": 8,
+      "file": "content/books/premsagar/ch_52.json"
+    },
+    {
+      "id": "ch_53",
+      "number": 53,
+      "title": "५३ श्रीकृष्णप्रति रुक्मिणीसंदेश",
+      "block_count": 253,
+      "word_count": 2892,
+      "estimated_minutes": 16,
+      "file": "content/books/premsagar/ch_53.json"
+    },
+    {
+      "id": "ch_54",
+      "number": 54,
+      "title": "५४ रुक्मिणीहरण",
+      "block_count": 127,
+      "word_count": 2420,
+      "estimated_minutes": 13,
+      "file": "content/books/premsagar/ch_54.json"
+    },
+    {
+      "id": "ch_55",
+      "number": 55,
+      "title": "५५ रुक्मिणीचरित्र",
+      "block_count": 65,
+      "word_count": 2435,
+      "estimated_minutes": 14,
+      "file": "content/books/premsagar/ch_55.json"
+    },
+    {
+      "id": "ch_56",
+      "number": 56,
+      "title": "५६ प्रद्युम्नजन्म, संबरवध",
+      "block_count": 36,
+      "word_count": 1639,
+      "estimated_minutes": 9,
+      "file": "content/books/premsagar/ch_56.json"
+    },
+    {
+      "id": "ch_57",
+      "number": 57,
+      "title": "५७ जाम्बन्ती-सत्यभामा-विवाह",
+      "block_count": 55,
+      "word_count": 2403,
+      "estimated_minutes": 13,
+      "file": "content/books/premsagar/ch_57.json"
+    },
+    {
+      "id": "ch_58",
+      "number": 58,
+      "title": "५८ शतधन्वावध",
+      "block_count": 49,
+      "word_count": 2481,
+      "estimated_minutes": 14,
+      "file": "content/books/premsagar/ch_58.json"
+    },
+    {
+      "id": "ch_59",
+      "number": 59,
+      "title": "५९ श्रीकृष्णपंचविवाह",
+      "block_count": 69,
+      "word_count": 2533,
+      "estimated_minutes": 14,
+      "file": "content/books/premsagar/ch_59.json"
+    },
+    {
+      "id": "ch_60",
+      "number": 60,
+      "title": "६ कृष्ण-जन्मोत्सव",
+      "block_count": 16,
+      "word_count": 560,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_60.json"
+    },
+    {
+      "id": "ch_61",
+      "number": 61,
+      "title": "६० भौमासुरवध",
+      "block_count": 52,
+      "word_count": 2567,
+      "estimated_minutes": 14,
+      "file": "content/books/premsagar/ch_61.json"
+    },
+    {
+      "id": "ch_62",
+      "number": 62,
+      "title": "६१ श्रीरुक्मिणीमानलीला",
+      "block_count": 41,
+      "word_count": 1062,
+      "estimated_minutes": 6,
+      "file": "content/books/premsagar/ch_62.json"
+    },
+    {
+      "id": "ch_63",
+      "number": 63,
+      "title": "६२ अनिरुद्धविवाह, रुक्मवध",
+      "block_count": 52,
+      "word_count": 1814,
+      "estimated_minutes": 10,
+      "file": "content/books/premsagar/ch_63.json"
+    },
+    {
+      "id": "ch_64",
+      "number": 64,
+      "title": "६३ ऊषास्वप्न",
+      "block_count": 126,
+      "word_count": 5048,
+      "estimated_minutes": 28,
+      "file": "content/books/premsagar/ch_64.json"
+    },
+    {
+      "id": "ch_65",
+      "number": 65,
+      "title": "६४ ऊषाचरित्र",
+      "block_count": 63,
+      "word_count": 2707,
+      "estimated_minutes": 15,
+      "file": "content/books/premsagar/ch_65.json"
+    },
+    {
+      "id": "ch_66",
+      "number": 66,
+      "title": "६५ राजा नृग मोक्ष",
+      "block_count": 35,
+      "word_count": 1403,
+      "estimated_minutes": 8,
+      "file": "content/books/premsagar/ch_66.json"
+    },
+    {
+      "id": "ch_67",
+      "number": 67,
+      "title": "६६ बलभद्र चरित्र",
+      "block_count": 43,
+      "word_count": 1330,
+      "estimated_minutes": 7,
+      "file": "content/books/premsagar/ch_67.json"
+    },
+    {
+      "id": "ch_68",
+      "number": 68,
+      "title": "६७ नृप पौड्रक मोक्ष",
+      "block_count": 28,
+      "word_count": 1173,
+      "estimated_minutes": 7,
+      "file": "content/books/premsagar/ch_68.json"
+    },
+    {
+      "id": "ch_69",
+      "number": 69,
+      "title": "६८ द्विविद कपि वध",
+      "block_count": 13,
+      "word_count": 541,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_69.json"
+    },
+    {
+      "id": "ch_70",
+      "number": 70,
+      "title": "६९ शांब विवाह",
+      "block_count": 30,
+      "word_count": 1255,
+      "estimated_minutes": 7,
+      "file": "content/books/premsagar/ch_70.json"
+    },
+    {
+      "id": "ch_71",
+      "number": 71,
+      "title": "७ पूतनाबध",
+      "block_count": 11,
+      "word_count": 509,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_71.json"
+    },
+    {
+      "id": "ch_72",
+      "number": 72,
+      "title": "७० नारद माया दर्शन",
+      "block_count": 16,
+      "word_count": 604,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_72.json"
+    },
+    {
+      "id": "ch_73",
+      "number": 73,
+      "title": "७१ राजायुधिष्ठिरसंदेश",
+      "block_count": 14,
+      "word_count": 618,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_73.json"
+    },
+    {
+      "id": "ch_74",
+      "number": 74,
+      "title": "७२ श्रीकृष्ण-हस्तिनापुरगमन",
+      "block_count": 12,
+      "word_count": 677,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_74.json"
+    },
+    {
+      "id": "ch_75",
+      "number": 75,
+      "title": "७३ जरासंधवध",
+      "block_count": 60,
+      "word_count": 2297,
+      "estimated_minutes": 13,
+      "file": "content/books/premsagar/ch_75.json"
+    },
+    {
+      "id": "ch_76",
+      "number": 76,
+      "title": "७४ राजाओ का मोक्ष",
+      "block_count": 14,
+      "word_count": 583,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_76.json"
+    },
+    {
+      "id": "ch_77",
+      "number": 77,
+      "title": "७५ शिशुपालमोक्ष",
+      "block_count": 27,
+      "word_count": 1488,
+      "estimated_minutes": 8,
+      "file": "content/books/premsagar/ch_77.json"
+    },
+    {
+      "id": "ch_78",
+      "number": 78,
+      "title": "७६ दुर्योधनमानमर्दन",
+      "block_count": 8,
+      "word_count": 514,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_78.json"
+    },
+    {
+      "id": "ch_79",
+      "number": 79,
+      "title": "७७ शाल्वदैत्यवध",
+      "block_count": 38,
+      "word_count": 1493,
+      "estimated_minutes": 8,
+      "file": "content/books/premsagar/ch_79.json"
+    },
+    {
+      "id": "ch_80",
+      "number": 80,
+      "title": "७८ सूतवध",
+      "block_count": 18,
+      "word_count": 748,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_80.json"
+    },
+    {
+      "id": "ch_81",
+      "number": 81,
+      "title": "७९ श्रीबलराम की तीर्थयात्रा",
+      "block_count": 18,
+      "word_count": 713,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_81.json"
+    },
+    {
+      "id": "ch_82",
+      "number": 82,
+      "title": "८ शकटभंजन, तृणावर्तवध",
+      "block_count": 14,
+      "word_count": 526,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_82.json"
+    },
+    {
+      "id": "ch_83",
+      "number": 83,
+      "title": "८० सुदामाचरित्र",
+      "block_count": 15,
+      "word_count": 816,
+      "estimated_minutes": 5,
+      "file": "content/books/premsagar/ch_83.json"
+    },
+    {
+      "id": "ch_84",
+      "number": 84,
+      "title": "८१ सुदामादरिद्रगमन, सुदामा का ऐश्वर्य",
+      "block_count": 14,
+      "word_count": 749,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_84.json"
+    },
+    {
+      "id": "ch_85",
+      "number": 85,
+      "title": "८२ श्रीकृष्ण-बलराम की कुरुक्षेत्र-यात्रा",
+      "block_count": 30,
+      "word_count": 1720,
+      "estimated_minutes": 10,
+      "file": "content/books/premsagar/ch_85.json"
+    },
+    {
+      "id": "ch_86",
+      "number": 86,
+      "title": "८३ श्रीकृष्ण की रानियो और द्रौपदी की बातचीत",
+      "block_count": 8,
+      "word_count": 262,
+      "estimated_minutes": 1,
+      "file": "content/books/premsagar/ch_86.json"
+    },
+    {
+      "id": "ch_87",
+      "number": 87,
+      "title": "८४ बसुदेवजी का यज्ञ",
+      "block_count": 14,
+      "word_count": 807,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_87.json"
+    },
+    {
+      "id": "ch_88",
+      "number": 88,
+      "title": "८५ देवकी का मृतकपुत्रयाचन",
+      "block_count": 20,
+      "word_count": 665,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_88.json"
+    },
+    {
+      "id": "ch_89",
+      "number": 89,
+      "title": "८६ सुभद्राहरण, श्रीकृष्णचंद का मिथिलागमन",
+      "block_count": 22,
+      "word_count": 936,
+      "estimated_minutes": 5,
+      "file": "content/books/premsagar/ch_89.json"
+    },
+    {
+      "id": "ch_90",
+      "number": 90,
+      "title": "८७ नरनारायण-नारदसंवाद",
+      "block_count": 12,
+      "word_count": 723,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_90.json"
+    },
+    {
+      "id": "ch_91",
+      "number": 91,
+      "title": "८८ रुद्रमोक्ष, वृकासुरवध",
+      "block_count": 14,
+      "word_count": 702,
+      "estimated_minutes": 4,
+      "file": "content/books/premsagar/ch_91.json"
+    },
+    {
+      "id": "ch_92",
+      "number": 92,
+      "title": "८९ द्विंजकुमारहरण",
+      "block_count": 31,
+      "word_count": 1513,
+      "estimated_minutes": 8,
+      "file": "content/books/premsagar/ch_92.json"
+    },
+    {
+      "id": "ch_93",
+      "number": 93,
+      "title": "९ विश्वदर्शन",
+      "block_count": 25,
+      "word_count": 1048,
+      "estimated_minutes": 6,
+      "file": "content/books/premsagar/ch_93.json"
+    },
+    {
+      "id": "ch_94",
+      "number": 94,
+      "title": "९० द्वारिकाविहारवर्णन",
+      "block_count": 13,
+      "word_count": 603,
+      "estimated_minutes": 3,
+      "file": "content/books/premsagar/ch_94.json"
+    }
+  ]
+}

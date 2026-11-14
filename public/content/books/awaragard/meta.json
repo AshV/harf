@@ -1,0 +1,115 @@
+{
+  "id": "awaragard",
+  "title": "आवारागर्द",
+  "title_en": "Awaragard",
+  "author": "आचार्य चतुरसेन शास्त्री",
+  "author_en": "Acharya Chatursen Shastri",
+  "category": "कहानी संग्रह",
+  "category_en": "Short Stories",
+  "description": "आचार्य चतुरसेन शास्त्री का लोकप्रिय सामाजिक कथा संकलन। आधुनिक जीवन की विडम्बनाओं, रोचक अनुभवों, मानव-स्वभाव के विविध रंगों और रोमांचकारी मोड़ों से परिपूर्ण १० प्रतिनिधि कहानियों का अनूठा संग्रह।",
+  "cover_image": "",
+  "published_year": 1928,
+  "keywords": [
+    "awaragard",
+    "chatursen shastri",
+    "tikdam",
+    "japani dasi",
+    "hindi kahaniya",
+    "stories"
+  ],
+  "total_words": 27852,
+  "total_chapters": 10,
+  "estimated_reading_minutes": 155,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "आवारागर्द",
+      "block_count": 80,
+      "word_count": 3249,
+      "estimated_minutes": 18,
+      "file": "content/books/awaragard/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "तिकड़म",
+      "block_count": 109,
+      "word_count": 2272,
+      "estimated_minutes": 13,
+      "file": "content/books/awaragard/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "डाक्टर साहब की घड़ी",
+      "block_count": 37,
+      "word_count": 2689,
+      "estimated_minutes": 15,
+      "file": "content/books/awaragard/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "मरम्मत",
+      "block_count": 209,
+      "word_count": 5979,
+      "estimated_minutes": 33,
+      "file": "content/books/awaragard/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "चिट्ठी की दोस्ती",
+      "block_count": 72,
+      "word_count": 3059,
+      "estimated_minutes": 17,
+      "file": "content/books/awaragard/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "तसवीर",
+      "block_count": 39,
+      "word_count": 2082,
+      "estimated_minutes": 12,
+      "file": "content/books/awaragard/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "तेरह बरस बाद",
+      "block_count": 52,
+      "word_count": 2089,
+      "estimated_minutes": 12,
+      "file": "content/books/awaragard/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "जापानी दासी",
+      "block_count": 37,
+      "word_count": 1950,
+      "estimated_minutes": 11,
+      "file": "content/books/awaragard/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "हेर फेर",
+      "block_count": 92,
+      "word_count": 2782,
+      "estimated_minutes": 15,
+      "file": "content/books/awaragard/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "वह कहे तो?",
+      "block_count": 68,
+      "word_count": 1701,
+      "estimated_minutes": 9,
+      "file": "content/books/awaragard/ch_10.json"
+    }
+  ]
+}
