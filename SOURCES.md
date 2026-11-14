@@ -1121,7 +1121,7 @@
 ---
 
 ### 94. नव-निधि (Nav-Nidhi)
-- **रचनाकार (Author):** प्रेमचंद (Premchand)
+- **रचनाकार (Author):** मुंशी प्रेमचंद (Munshi Premchand)
 - **विधा (Category):** कहानी (Short Stories / Classical Fiction)
 - **मूल प्रकाशन वर्ष (Published Year):** 1917
 - **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)

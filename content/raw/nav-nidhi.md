@@ -2,8 +2,8 @@
 id: "nav-nidhi"
 title: "नव-निधि"
 title_en: "Nav-Nidhi"
-author: "प्रेमचंद"
-author_en: "Premchand"
+author: "मुंशी प्रेमचंद"
+author_en: "Munshi Premchand"
 category: "कहानी"
 category_en: "Short Stories / Classical Fiction"
 published_year: 1917
