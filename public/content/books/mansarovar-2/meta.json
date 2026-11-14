@@ -1,0 +1,250 @@
+{
+  "id": "mansarovar-2",
+  "title": "मानसरोवर (भाग २)",
+  "title_en": "Mansarovar Part 2",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "कहानी संग्रह",
+  "category_en": "Short Stories",
+  "description": "मुंशी प्रेमचंद के अमर कथा-साहित्य का दूसरा प्रामाणिक खण्ड। इसमें 'दो बैलों की कथा' (हीरा और मोती), 'लॉटरी', 'दूध का दाम', 'बालक', 'रियासत का दीवान', 'डामुल का कैदी' और 'नया विवाह' जैसी हिन्दी साहित्य की २६ विश्वविख्यात कहानियाँ संकलित हैं।",
+  "cover_image": "",
+  "published_year": 1936,
+  "keywords": [
+    "mansarovar",
+    "munshi premchand",
+    "do bailon ki katha",
+    "lottery",
+    "doodh ka daam",
+    "hindi kahaniya"
+  ],
+  "total_words": 107512,
+  "total_chapters": 25,
+  "estimated_reading_minutes": 597,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१ कुसुम‌",
+      "block_count": 221,
+      "word_count": 7092,
+      "estimated_minutes": 39,
+      "file": "content/books/mansarovar-2/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "१० न्याय",
+      "block_count": 258,
+      "word_count": 3055,
+      "estimated_minutes": 17,
+      "file": "content/books/mansarovar-2/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "११ कुत्सा",
+      "block_count": 105,
+      "word_count": 1351,
+      "estimated_minutes": 8,
+      "file": "content/books/mansarovar-2/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "१२ दो बैलों की कथा",
+      "block_count": 348,
+      "word_count": 4247,
+      "estimated_minutes": 24,
+      "file": "content/books/mansarovar-2/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "१३ रियासत का दीवान",
+      "block_count": 472,
+      "word_count": 6201,
+      "estimated_minutes": 34,
+      "file": "content/books/mansarovar-2/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "१४ मुफ्त का यश",
+      "block_count": 171,
+      "word_count": 2650,
+      "estimated_minutes": 15,
+      "file": "content/books/mansarovar-2/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "१६ दूध का दाम",
+      "block_count": 113,
+      "word_count": 1196,
+      "estimated_minutes": 7,
+      "file": "content/books/mansarovar-2/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "१७ बालक",
+      "block_count": 235,
+      "word_count": 3040,
+      "estimated_minutes": 17,
+      "file": "content/books/mansarovar-2/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "१८ जीवन का शाप",
+      "block_count": 362,
+      "word_count": 4425,
+      "estimated_minutes": 25,
+      "file": "content/books/mansarovar-2/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१९ डामुल का कैदी",
+      "block_count": 365,
+      "word_count": 8418,
+      "estimated_minutes": 47,
+      "file": "content/books/mansarovar-2/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "२ खुदाई फौजदार",
+      "block_count": 306,
+      "word_count": 4021,
+      "estimated_minutes": 22,
+      "file": "content/books/mansarovar-2/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "२० नेउर",
+      "block_count": 251,
+      "word_count": 3369,
+      "estimated_minutes": 19,
+      "file": "content/books/mansarovar-2/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "२१ गृह-नीति",
+      "block_count": 365,
+      "word_count": 4716,
+      "estimated_minutes": 26,
+      "file": "content/books/mansarovar-2/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "२२ क़ानूनी कुमार",
+      "block_count": 292,
+      "word_count": 3625,
+      "estimated_minutes": 20,
+      "file": "content/books/mansarovar-2/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "२३ लॉटरी",
+      "block_count": 427,
+      "word_count": 5382,
+      "estimated_minutes": 30,
+      "file": "content/books/mansarovar-2/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "२४ जादू",
+      "block_count": 91,
+      "word_count": 631,
+      "estimated_minutes": 4,
+      "file": "content/books/mansarovar-2/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "२५ नया विवाह",
+      "block_count": 408,
+      "word_count": 4826,
+      "estimated_minutes": 27,
+      "file": "content/books/mansarovar-2/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "२६ शूद्रा",
+      "block_count": 572,
+      "word_count": 7565,
+      "estimated_minutes": 42,
+      "file": "content/books/mansarovar-2/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "३ वेश्या",
+      "block_count": 574,
+      "word_count": 7522,
+      "estimated_minutes": 42,
+      "file": "content/books/mansarovar-2/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "४ चमत्कार",
+      "block_count": 392,
+      "word_count": 4754,
+      "estimated_minutes": 26,
+      "file": "content/books/mansarovar-2/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "५ मोटर के छींटे",
+      "block_count": 110,
+      "word_count": 1397,
+      "estimated_minutes": 8,
+      "file": "content/books/mansarovar-2/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "६ कैदी",
+      "block_count": 313,
+      "word_count": 4154,
+      "estimated_minutes": 23,
+      "file": "content/books/mansarovar-2/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "७ मिस पद्मा",
+      "block_count": 185,
+      "word_count": 2284,
+      "estimated_minutes": 13,
+      "file": "content/books/mansarovar-2/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "८ विद्रोही",
+      "block_count": 359,
+      "word_count": 4763,
+      "estimated_minutes": 26,
+      "file": "content/books/mansarovar-2/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "९ उन्माद",
+      "block_count": 530,
+      "word_count": 6828,
+      "estimated_minutes": 38,
+      "file": "content/books/mansarovar-2/ch_25.json"
+    }
+  ]
+}

@@ -159,6 +159,28 @@
     ]
   },
   {
+    "id": "ayodhya-ka-itihas",
+    "title": "अयोध्या का इतिहास",
+    "title_en": "Ayodhya Ka Itihas",
+    "author": "लाला सीताराम",
+    "author_en": "Lala Sitaram",
+    "category": "इतिहास",
+    "category_en": "History / Archaeology",
+    "description": "प्रसिद्ध पुरातत्त्ववेत्ता एवं इतिहासकार रायबहादुर लाला सीताराम 'भूप' द्वारा रचित अयोध्या का प्रामाणिक ऐतिहासिक, पुरातात्त्विक व सांस्कृतिक सर्वेक्षण ग्रंथ (१९३२)। वैदिक युग, रामायण काल, बौद्ध-जैन परम्परा, गुप्त राजवंश, मुगल व अवध के नवाबों के शासनकाल का विस्तृत प्रामाणिक इतिहास।",
+    "cover_image": "",
+    "published_year": 1932,
+    "total_chapters": 16,
+    "estimated_reading_minutes": 258,
+    "keywords": [
+      "ayodhya ka itihas",
+      "lala sitaram",
+      "ancient ayodhya",
+      "archaeology",
+      "itihas",
+      "history"
+    ]
+  },
+  {
     "id": "bacon-vichar-ratnavali",
     "title": "बेकन-विचाररत्नावली",
     "title_en": "Bacon Vichar Ratnavali",
@@ -920,6 +942,29 @@
     ]
   },
   {
+    "id": "kural-kavya",
+    "title": "कुरल-काव्य",
+    "title_en": "Kural Kavya (Tirukkural)",
+    "author": "तिरुवल्लुवर",
+    "author_en": "Tiruvalluvar",
+    "category": "कविता",
+    "category_en": "Poetry / Ethics",
+    "description": "दक्षिण भारत के अमर महर्षि तिरुवल्लुवर द्वारा रचित तमिल संगम साहित्य के सर्वोच्च नीतिशास्त्र 'तिरुक्कुरल' का प्रामाणिक हिन्दी पद्यानुवाद। धर्म, अर्थ, गृहस्थ-कर्तव्य, सत्य, दया, अहिंसा और राजनीति पर १०८ परिच्छेदों में कालजयी अमृत-वाणी।",
+    "cover_image": "",
+    "published_year": 1930,
+    "total_chapters": 200,
+    "estimated_reading_minutes": 320,
+    "keywords": [
+      "kural kavya",
+      "tirukkural",
+      "tiruvalluvar",
+      "govindray jain",
+      "tamil sangam",
+      "ethics",
+      "kavita"
+    ]
+  },
+  {
     "id": "mamta",
     "title": "ममता",
     "title_en": "Mamta",
@@ -940,6 +985,28 @@
       "mughal",
       "humayun",
       "kahani"
+    ]
+  },
+  {
+    "id": "mansarovar-2",
+    "title": "मानसरोवर (भाग २)",
+    "title_en": "Mansarovar Part 2",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी संग्रह",
+    "category_en": "Short Stories",
+    "description": "मुंशी प्रेमचंद के अमर कथा-साहित्य का दूसरा प्रामाणिक खण्ड। इसमें 'दो बैलों की कथा' (हीरा और मोती), 'लॉटरी', 'दूध का दाम', 'बालक', 'रियासत का दीवान', 'डामुल का कैदी' और 'नया विवाह' जैसी हिन्दी साहित्य की २६ विश्वविख्यात कहानियाँ संकलित हैं।",
+    "cover_image": "",
+    "published_year": 1936,
+    "total_chapters": 25,
+    "estimated_reading_minutes": 597,
+    "keywords": [
+      "mansarovar",
+      "munshi premchand",
+      "do bailon ki katha",
+      "lottery",
+      "doodh ka daam",
+      "hindi kahaniya"
     ]
   },
   {
@@ -1167,6 +1234,28 @@
       "classic stories",
       "social realism",
       "kahani"
+    ]
+  },
+  {
+    "id": "premashram",
+    "title": "प्रेमाश्रम",
+    "title_en": "Premashram",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "उपन्यास",
+    "category_en": "Novel / Agrarian Classic",
+    "description": "मुंशी प्रेमचंद का महान किसान-उपन्यास (१९२२)। भारतीय ग्रामीण समाज, ज़मींदारी शोषण, किसानों के स्वाभिमान, सत्याग्रह और प्रेमशंकर-ज्ञानशंकर के पारिवारिक व सामाजिक अंतर्द्वंद्व का सम्पूर्ण ६४ अध्यायों में सजीव महाकाव्यात्मक अंकन।",
+    "cover_image": "",
+    "published_year": 1922,
+    "total_chapters": 64,
+    "estimated_reading_minutes": 1059,
+    "keywords": [
+      "premashram",
+      "munshi premchand",
+      "kisan andolan",
+      "zamindari",
+      "upanyas",
+      "peasant novel"
     ]
   },
   {
@@ -1651,6 +1740,28 @@
       "gupta dynasty",
       "devasena",
       "rashtriya natak"
+    ]
+  },
+  {
+    "id": "tata-jivan-charitra",
+    "title": "जमसेदजी नसरवानजी ताता का जीवन चरित्र",
+    "title_en": "Jamsetji Nusserwanji Tata Ka Jivan Charitra",
+    "author": "मन्नन द्विवेदी 'गजपुरी'",
+    "author_en": "Mannan Dwivedi 'Gajpuri'",
+    "category": "जीवनी",
+    "category_en": "Biography / Industrial Pioneer",
+    "description": "भारतीय आधुनिक उद्योग के पितामह जमसेदजी नसरवानजी ताता की हिन्दी में रचित प्रथम प्रामाणिक जीवनी (१९१८)। कपड़ा मिलों, इस्पात नगर (जमशेदपुर), जल-विद्युत और भारतीय विज्ञान संस्थान (IISc) के स्वप्नद्रष्टा के संघर्ष, स्वावलंबन और देशभक्ति की अमर गाथा।",
+    "cover_image": "",
+    "published_year": 1918,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 61,
+    "keywords": [
+      "jamsetji tata",
+      "mannan dwivedi",
+      "biography",
+      "industrial pioneer",
+      "jamshedpur",
+      "jivan charitra"
     ]
   },
   {

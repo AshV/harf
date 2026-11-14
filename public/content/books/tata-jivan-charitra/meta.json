@@ -1,0 +1,70 @@
+{
+  "id": "tata-jivan-charitra",
+  "title": "जमसेदजी नसरवानजी ताता का जीवन चरित्र",
+  "title_en": "Jamsetji Nusserwanji Tata Ka Jivan Charitra",
+  "author": "मन्नन द्विवेदी 'गजपुरी'",
+  "author_en": "Mannan Dwivedi 'Gajpuri'",
+  "category": "जीवनी",
+  "category_en": "Biography / Industrial Pioneer",
+  "description": "भारतीय आधुनिक उद्योग के पितामह जमसेदजी नसरवानजी ताता की हिन्दी में रचित प्रथम प्रामाणिक जीवनी (१९१८)। कपड़ा मिलों, इस्पात नगर (जमशेदपुर), जल-विद्युत और भारतीय विज्ञान संस्थान (IISc) के स्वप्नद्रष्टा के संघर्ष, स्वावलंबन और देशभक्ति की अमर गाथा।",
+  "cover_image": "",
+  "published_year": 1918,
+  "keywords": [
+    "jamsetji tata",
+    "mannan dwivedi",
+    "biography",
+    "industrial pioneer",
+    "jamshedpur",
+    "jivan charitra"
+  ],
+  "total_words": 10966,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 61,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १: जन्म और आरंभकाल",
+      "block_count": 76,
+      "word_count": 3779,
+      "estimated_minutes": 21,
+      "file": "content/books/tata-jivan-charitra/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २: अभ्युदय एवं औद्योगिक क्रांति",
+      "block_count": 24,
+      "word_count": 1691,
+      "estimated_minutes": 9,
+      "file": "content/books/tata-jivan-charitra/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३: देशभक्ति और लोकोपकार",
+      "block_count": 31,
+      "word_count": 2269,
+      "estimated_minutes": 13,
+      "file": "content/books/tata-jivan-charitra/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४: जीवन संध्या एवं स्वर्गारोहण",
+      "block_count": 58,
+      "word_count": 3027,
+      "estimated_minutes": 17,
+      "file": "content/books/tata-jivan-charitra/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "उपसंहार: राष्ट्र-निर्माण में ताता का अवदान",
+      "block_count": 5,
+      "word_count": 200,
+      "estimated_minutes": 1,
+      "file": "content/books/tata-jivan-charitra/ch_05.json"
+    }
+  ]
+}

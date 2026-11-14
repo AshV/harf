@@ -1,0 +1,169 @@
+{
+  "id": "ayodhya-ka-itihas",
+  "title": "अयोध्या का इतिहास",
+  "title_en": "Ayodhya Ka Itihas",
+  "author": "लाला सीताराम",
+  "author_en": "Lala Sitaram",
+  "category": "इतिहास",
+  "category_en": "History / Archaeology",
+  "description": "प्रसिद्ध पुरातत्त्ववेत्ता एवं इतिहासकार रायबहादुर लाला सीताराम 'भूप' द्वारा रचित अयोध्या का प्रामाणिक ऐतिहासिक, पुरातात्त्विक व सांस्कृतिक सर्वेक्षण ग्रंथ (१९३२)। वैदिक युग, रामायण काल, बौद्ध-जैन परम्परा, गुप्त राजवंश, मुगल व अवध के नवाबों के शासनकाल का विस्तृत प्रामाणिक इतिहास।",
+  "cover_image": "",
+  "published_year": 1932,
+  "keywords": [
+    "ayodhya ka itihas",
+    "lala sitaram",
+    "ancient ayodhya",
+    "archaeology",
+    "itihas",
+    "history"
+  ],
+  "total_words": 46408,
+  "total_chapters": 16,
+  "estimated_reading_minutes": 258,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १: अयोध्या की महिमा",
+      "block_count": 32,
+      "word_count": 803,
+      "estimated_minutes": 4,
+      "file": "content/books/ayodhya-ka-itihas/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २: उत्तर कोशल और अयोध्या की स्थिति",
+      "block_count": 130,
+      "word_count": 5153,
+      "estimated_minutes": 29,
+      "file": "content/books/ayodhya-ka-itihas/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३: प्राचीन अयोध्या",
+      "block_count": 161,
+      "word_count": 4727,
+      "estimated_minutes": 26,
+      "file": "content/books/ayodhya-ka-itihas/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४: आज-कल की अयोध्या",
+      "block_count": 45,
+      "word_count": 3034,
+      "estimated_minutes": 17,
+      "file": "content/books/ayodhya-ka-itihas/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५: अयोध्या के आदिम निवासी",
+      "block_count": 21,
+      "word_count": 1384,
+      "estimated_minutes": 8,
+      "file": "content/books/ayodhya-ka-itihas/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६: वेदों में अयोध्या",
+      "block_count": 33,
+      "word_count": 693,
+      "estimated_minutes": 4,
+      "file": "content/books/ayodhya-ka-itihas/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७: पुराणों में अयोध्या",
+      "block_count": 378,
+      "word_count": 11845,
+      "estimated_minutes": 66,
+      "file": "content/books/ayodhya-ka-itihas/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय ८: अयोध्या और जैनधर्म",
+      "block_count": 53,
+      "word_count": 1287,
+      "estimated_minutes": 7,
+      "file": "content/books/ayodhya-ka-itihas/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय ९: अयोध्या और बौद्धमत",
+      "block_count": 45,
+      "word_count": 4055,
+      "estimated_minutes": 23,
+      "file": "content/books/ayodhya-ka-itihas/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अध्याय १०: अयोध्या के गुप्तवंशी राजा",
+      "block_count": 26,
+      "word_count": 1782,
+      "estimated_minutes": 10,
+      "file": "content/books/ayodhya-ka-itihas/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "अध्याय ११: अयोध्या के योगी, वैश्य, श्रीवास्तव्य, परिहार और गहरवार वंशी राजा",
+      "block_count": 29,
+      "word_count": 1574,
+      "estimated_minutes": 9,
+      "file": "content/books/ayodhya-ka-itihas/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "अध्याय १२: भारत पर मुस्लिम राज्य स्थापन से पहिले अयोध्या पर मुस्लिमों के आक्रमण",
+      "block_count": 21,
+      "word_count": 1048,
+      "estimated_minutes": 6,
+      "file": "content/books/ayodhya-ka-itihas/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "अध्याय १३: दिल्ली के बादशाहों के राज्य में अयोध्या",
+      "block_count": 46,
+      "word_count": 1809,
+      "estimated_minutes": 10,
+      "file": "content/books/ayodhya-ka-itihas/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "अध्याय १४: नवाब वजीरों के शासन में अयोध्या",
+      "block_count": 43,
+      "word_count": 2108,
+      "estimated_minutes": 12,
+      "file": "content/books/ayodhya-ka-itihas/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "अध्याय १५: अयोध्या के शाकद्वीपी राजा",
+      "block_count": 100,
+      "word_count": 4724,
+      "estimated_minutes": 26,
+      "file": "content/books/ayodhya-ka-itihas/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "अध्याय १६: अंगरेजी राज्य में अयोध्या",
+      "block_count": 10,
+      "word_count": 382,
+      "estimated_minutes": 2,
+      "file": "content/books/ayodhya-ka-itihas/ch_16.json"
+    }
+  ]
+}

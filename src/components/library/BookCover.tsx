@@ -694,6 +694,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#C39BD3',
     badgeBg: 'bg-[#C39BD3]/15 text-[#EEDBF5]',
     motif: '❖ 🚶 ❖'
+  },
+  premashram: {
+    bgGradient: 'from-[#291708] via-[#42250E] to-[#1A0E05]',
+    borderColor: 'border-[#E5A93C]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E5A93C]',
+    accentColor: '#E5A93C',
+    badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
+    motif: '❖ 🏡 ❖'
+  },
+  'mansarovar-2': {
+    bgGradient: 'from-[#0E2433] via-[#16384F] to-[#091721]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#F2FAF6]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
+    motif: '✦ 🦢 ✦'
+  },
+  'kural-kavya': {
+    bgGradient: 'from-[#1C2612] via-[#2D3D1D] to-[#121A0B]',
+    borderColor: 'border-[#E2C068]/40',
+    titleColor: 'text-[#F6F8F0]',
+    authorColor: 'text-[#E2C068]',
+    accentColor: '#E2C068',
+    badgeBg: 'bg-[#E2C068]/15 text-[#FDF0CD]',
+    motif: '❖ 📜 ❖'
+  },
+  'ayodhya-ka-itihas': {
+    bgGradient: 'from-[#381B0E] via-[#522714] to-[#241109]',
+    borderColor: 'border-[#F3C969]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F3C969]',
+    accentColor: '#F3C969',
+    badgeBg: 'bg-[#F3C969]/15 text-[#FDF0CD]',
+    motif: '✦ 🏛️ ✦'
+  },
+  'tata-jivan-charitra': {
+    bgGradient: 'from-[#161D26] via-[#232E3D] to-[#0E131A]',
+    borderColor: 'border-[#8EC5FC]/40',
+    titleColor: 'text-[#F0F6FD]',
+    authorColor: 'text-[#8EC5FC]',
+    accentColor: '#8EC5FC',
+    badgeBg: 'bg-[#8EC5FC]/15 text-[#DDF0FE]',
+    motif: '❖ ⚙️ ❖'
   }
 };
 
