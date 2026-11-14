@@ -1,0 +1,44 @@
+{
+  "id": "revatat-prithviraj-raso",
+  "title": "रेवातट (पृथ्वीराज रासो)",
+  "title_en": "Revatat (Prithviraj Raso)",
+  "author": "महाकवि चंदबरदाई",
+  "author_en": "Chand Bardai",
+  "category": "कविता",
+  "category_en": "Poetry",
+  "description": "हिन्दी साहित्य के प्रथम महाकाव्य 'पृथ्वीराज रासो' का सर्वोत्कृष्ट सत्ताईसवाँ समय (सर्ग)। नर्मदा (रेवा) तट पर दिल्लीपति पृथ्वीराज चौहान और शहाबुद्दीन गोरी के ऐतिहासिक संग्राम, वीर रस और अपभ्रंश-पिंगल छंद-शिल्प का अनुपम महाकाव्यात्मक शिखर।",
+  "cover_image": "",
+  "published_year": 1192,
+  "keywords": [
+    "revatat",
+    "prithviraj raso",
+    "chand bardai",
+    "prithviraj chauhan",
+    "veer gatha",
+    "adi kavya",
+    "kavita"
+  ],
+  "total_words": 51879,
+  "total_chapters": 2,
+  "estimated_reading_minutes": 288,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रस्तावना एवं रेवातट-कथा सार — डॉ. विपिन बिहारी त्रिवेदी",
+      "block_count": 10,
+      "word_count": 2092,
+      "estimated_minutes": 12,
+      "file": "content/books/revatat-prithviraj-raso/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "रेवातट समय (मूल रासो महाकाव्य) — महाकवि चंदबरदाई",
+      "block_count": 1958,
+      "word_count": 49787,
+      "estimated_minutes": 277,
+      "file": "content/books/revatat-prithviraj-raso/ch_02.json"
+    }
+  ]
+}

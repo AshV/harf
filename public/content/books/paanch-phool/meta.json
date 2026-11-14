@@ -1,0 +1,97 @@
+{
+  "id": "paanch-phool",
+  "title": "पाँच फूल",
+  "title_en": "Paanch Phool",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "कहानी",
+  "category_en": "Stories",
+  "description": "मुंशी प्रेमचंद की अमर कहानी 'मंत्र' (डॉ. चड्ढा और बूढ़े भगत की मार्मिक कथा) सहित सात उत्कृष्ट कहानियों का संकलन। त्याग, कर्तव्य-बोध, स्वाभिमान और सामाजिक विषमता पर रचित प्रेमचंद की कालजयी कृतियाँ।",
+  "cover_image": "",
+  "published_year": 1921,
+  "keywords": [
+    "paanch phool",
+    "mantra",
+    "munshi premchand",
+    "dr chadha",
+    "classic stories",
+    "kahani"
+  ],
+  "total_words": 23499,
+  "total_chapters": 8,
+  "estimated_reading_minutes": 131,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "कहानी — कप्तान-साहब",
+      "block_count": 87,
+      "word_count": 2889,
+      "estimated_minutes": 16,
+      "file": "content/books/paanch-phool/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "कहानी — ज्वालामुखी",
+      "block_count": 12,
+      "word_count": 194,
+      "estimated_minutes": 1,
+      "file": "content/books/paanch-phool/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "कहानी — प्रस्तावना",
+      "block_count": 112,
+      "word_count": 608,
+      "estimated_minutes": 3,
+      "file": "content/books/paanch-phool/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "कहानी — फ़ातिहा",
+      "block_count": 325,
+      "word_count": 7293,
+      "estimated_minutes": 41,
+      "file": "content/books/paanch-phool/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "कहानी — वृक्ष-विज्ञान",
+      "block_count": 32,
+      "word_count": 370,
+      "estimated_minutes": 2,
+      "file": "content/books/paanch-phool/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "कहानी — स्तीफ़ा",
+      "block_count": 256,
+      "word_count": 3698,
+      "estimated_minutes": 21,
+      "file": "content/books/paanch-phool/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "कहानी — जिहाद",
+      "block_count": 293,
+      "word_count": 3564,
+      "estimated_minutes": 20,
+      "file": "content/books/paanch-phool/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "कहानी — मंत्र",
+      "block_count": 160,
+      "word_count": 4883,
+      "estimated_minutes": 27,
+      "file": "content/books/paanch-phool/ch_08.json"
+    }
+  ]
+}

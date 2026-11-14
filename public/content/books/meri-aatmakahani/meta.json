@@ -1,0 +1,133 @@
+{
+  "id": "meri-aatmakahani",
+  "title": "मेरी आत्मकहानी",
+  "title_en": "Meri Aatmakahani",
+  "author": "बाबू श्यामसुन्दर दास",
+  "author_en": "Babu Shyam Sundar Das",
+  "category": "जीवनी व संस्मरण",
+  "category_en": "Autobiography / Memoir",
+  "description": "आधुनिक हिन्दी गद्य व नागरीप्रचारिणी सभा के संस्थापक-निर्माता बाबू श्यामसुन्दर दास की ऐतिहासिक आत्मकथा। हिन्दी शब्दसागर, नागरी आंदोलन, काशी हिन्दू विश्वविद्यालय के हिन्दी विभाग की स्थापना और हिन्दी नवजागरण का जीवंत दस्तावेज।",
+  "cover_image": "",
+  "published_year": 1941,
+  "keywords": [
+    "meri aatmakahani",
+    "shyam sundar das",
+    "nagari pracharini sabha",
+    "hindi shabdasagar",
+    "autobiography",
+    "memoir"
+  ],
+  "total_words": 63500,
+  "total_chapters": 12,
+  "estimated_reading_minutes": 353,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १ — वंश-परिचय और शिक्षा",
+      "block_count": 113,
+      "word_count": 4384,
+      "estimated_minutes": 24,
+      "file": "content/books/meri-aatmakahani/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २ — नागरी-प्रचारिणी सभा की स्थापना",
+      "block_count": 41,
+      "word_count": 3303,
+      "estimated_minutes": 18,
+      "file": "content/books/meri-aatmakahani/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३ — अदालतों में नागरी लिपि का प्रवेश",
+      "block_count": 115,
+      "word_count": 3002,
+      "estimated_minutes": 17,
+      "file": "content/books/meri-aatmakahani/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४ — हिंदी-वैज्ञानिक कोष का निर्माण",
+      "block_count": 171,
+      "word_count": 3553,
+      "estimated_minutes": 20,
+      "file": "content/books/meri-aatmakahani/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५ — हिंदी की लेख तथा लिपि-प्रणाली",
+      "block_count": 254,
+      "word_count": 3893,
+      "estimated_minutes": 22,
+      "file": "content/books/meri-aatmakahani/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६ — हस्तलिखित हिंदी-पुस्तकों की ऐतिहासिक खोज",
+      "block_count": 117,
+      "word_count": 5770,
+      "estimated_minutes": 32,
+      "file": "content/books/meri-aatmakahani/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७ — कुछ अन्य महत्वपूर्ण साहित्यिक कार्य",
+      "block_count": 206,
+      "word_count": 5204,
+      "estimated_minutes": 29,
+      "file": "content/books/meri-aatmakahani/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय ८ — आपत्तियों का पहाड़ व संघर्ष",
+      "block_count": 205,
+      "word_count": 2236,
+      "estimated_minutes": 12,
+      "file": "content/books/meri-aatmakahani/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय ९ — हिंदी-शब्दसागर का ऐतिहासिक महायज्ञ",
+      "block_count": 195,
+      "word_count": 10370,
+      "estimated_minutes": 58,
+      "file": "content/books/meri-aatmakahani/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अध्याय १० — लखनऊ का प्रवास व सेवाएँ",
+      "block_count": 141,
+      "word_count": 4991,
+      "estimated_minutes": 28,
+      "file": "content/books/meri-aatmakahani/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "अध्याय ११ — काशी हिन्दू विश्वविद्यालय में हिन्दी विभाग",
+      "block_count": 122,
+      "word_count": 6135,
+      "estimated_minutes": 34,
+      "file": "content/books/meri-aatmakahani/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "अध्याय १२ — कुछ व्यक्तिगत संस्मरण व जीवन-सत्य",
+      "block_count": 717,
+      "word_count": 10659,
+      "estimated_minutes": 59,
+      "file": "content/books/meri-aatmakahani/ch_12.json"
+    }
+  ]
+}

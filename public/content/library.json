@@ -421,6 +421,28 @@
     ]
   },
   {
+    "id": "ek-ghoont",
+    "title": "एक घूँट",
+    "title_en": "Ek Ghoont",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "नाटक",
+    "category_en": "Play / One-Act Drama",
+    "description": "हिन्दी साहित्य का प्रथम आधुनिक एकांकी नाटक (१९३०)। रस, प्रेम, वैवाहिक जीवन के बंधनों और स्वच्छंदता पर आनंदवादी दर्शन का जीवंत नाट्य-निरूपण। रसाल, वनलता, आनंद और प्रीति के माध्यम से प्रसादीय नाट्य-प्रतिभा का अनूठा एकांकी।",
+    "cover_image": "",
+    "published_year": 1930,
+    "total_chapters": 1,
+    "estimated_reading_minutes": 40,
+    "keywords": [
+      "ek ghoont",
+      "jaishankar prasad",
+      "first hindi one act play",
+      "ekanki",
+      "anandvad",
+      "natak"
+    ]
+  },
+  {
     "id": "gaban",
     "title": "गबन",
     "title_en": "Gaban",
@@ -613,6 +635,29 @@
     ]
   },
   {
+    "id": "kavya-aur-kala",
+    "title": "काव्य और कला तथा अन्य निबन्ध",
+    "title_en": "Kavya Aur Kala Tatha Anya Nibandh",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "निबंध",
+    "category_en": "Essays",
+    "description": "जयशंकर प्रसाद का अमर सौंदर्यशास्त्रीय और दार्शनिक निबंध-संग्रह। छायावाद की तात्विक व्याख्या, यथार्थवाद बनाम आदर्शवाद, रस-सिद्धांत, भारतीय रंगमंच का इतिहास और रहस्यवाद की गंभीर शास्त्रीय मीमांसा।",
+    "cover_image": "",
+    "published_year": 1939,
+    "total_chapters": 9,
+    "estimated_reading_minutes": 173,
+    "keywords": [
+      "kavya aur kala",
+      "jaishankar prasad",
+      "chhayavad",
+      "realism",
+      "literary criticism",
+      "aesthetics",
+      "nibandh"
+    ]
+  },
+  {
     "id": "kayakalph",
     "title": "कायाकल्प",
     "title_en": "Kayakalph",
@@ -656,6 +701,28 @@
       "mughal",
       "humayun",
       "kahani"
+    ]
+  },
+  {
+    "id": "meri-aatmakahani",
+    "title": "मेरी आत्मकहानी",
+    "title_en": "Meri Aatmakahani",
+    "author": "बाबू श्यामसुन्दर दास",
+    "author_en": "Babu Shyam Sundar Das",
+    "category": "जीवनी व संस्मरण",
+    "category_en": "Autobiography / Memoir",
+    "description": "आधुनिक हिन्दी गद्य व नागरीप्रचारिणी सभा के संस्थापक-निर्माता बाबू श्यामसुन्दर दास की ऐतिहासिक आत्मकथा। हिन्दी शब्दसागर, नागरी आंदोलन, काशी हिन्दू विश्वविद्यालय के हिन्दी विभाग की स्थापना और हिन्दी नवजागरण का जीवंत दस्तावेज।",
+    "cover_image": "",
+    "published_year": 1941,
+    "total_chapters": 12,
+    "estimated_reading_minutes": 353,
+    "keywords": [
+      "meri aatmakahani",
+      "shyam sundar das",
+      "nagari pracharini sabha",
+      "hindi shabdasagar",
+      "autobiography",
+      "memoir"
     ]
   },
   {
@@ -725,6 +792,28 @@
       "novel",
       "dowry",
       "totaram"
+    ]
+  },
+  {
+    "id": "paanch-phool",
+    "title": "पाँच फूल",
+    "title_en": "Paanch Phool",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी",
+    "category_en": "Stories",
+    "description": "मुंशी प्रेमचंद की अमर कहानी 'मंत्र' (डॉ. चड्ढा और बूढ़े भगत की मार्मिक कथा) सहित सात उत्कृष्ट कहानियों का संकलन। त्याग, कर्तव्य-बोध, स्वाभिमान और सामाजिक विषमता पर रचित प्रेमचंद की कालजयी कृतियाँ।",
+    "cover_image": "",
+    "published_year": 1921,
+    "total_chapters": 8,
+    "estimated_reading_minutes": 131,
+    "keywords": [
+      "paanch phool",
+      "mantra",
+      "munshi premchand",
+      "dr chadha",
+      "classic stories",
+      "kahani"
     ]
   },
   {
@@ -1003,6 +1092,29 @@
       "alochana",
       "saraswati",
       "essays"
+    ]
+  },
+  {
+    "id": "revatat-prithviraj-raso",
+    "title": "रेवातट (पृथ्वीराज रासो)",
+    "title_en": "Revatat (Prithviraj Raso)",
+    "author": "महाकवि चंदबरदाई",
+    "author_en": "Chand Bardai",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "हिन्दी साहित्य के प्रथम महाकाव्य 'पृथ्वीराज रासो' का सर्वोत्कृष्ट सत्ताईसवाँ समय (सर्ग)। नर्मदा (रेवा) तट पर दिल्लीपति पृथ्वीराज चौहान और शहाबुद्दीन गोरी के ऐतिहासिक संग्राम, वीर रस और अपभ्रंश-पिंगल छंद-शिल्प का अनुपम महाकाव्यात्मक शिखर।",
+    "cover_image": "",
+    "published_year": 1192,
+    "total_chapters": 2,
+    "estimated_reading_minutes": 288,
+    "keywords": [
+      "revatat",
+      "prithviraj raso",
+      "chand bardai",
+      "prithviraj chauhan",
+      "veer gatha",
+      "adi kavya",
+      "kavita"
     ]
   },
   {

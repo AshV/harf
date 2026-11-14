@@ -514,6 +514,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#F0C35B',
     badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
     motif: '✦ 🏹 ✦'
+  },
+  'ek-ghoont': {
+    bgGradient: 'from-[#241C0A] via-[#382C10] to-[#171206]',
+    borderColor: 'border-[#E2C068]/40',
+    titleColor: 'text-[#FAF6EE]',
+    authorColor: 'text-[#E2C068]',
+    accentColor: '#E2C068',
+    badgeBg: 'bg-[#E2C068]/15 text-[#FDF0CD]',
+    motif: '❖ 🍵 ❖'
+  },
+  'kavya-aur-kala': {
+    bgGradient: 'from-[#0C1626] via-[#14243D] to-[#080E1A]',
+    borderColor: 'border-[#94B8DB]/40',
+    titleColor: 'text-[#F0F5FA]',
+    authorColor: 'text-[#94B8DB]',
+    accentColor: '#94B8DB',
+    badgeBg: 'bg-[#94B8DB]/15 text-[#DDE9F5]',
+    motif: '✦ 🎭 ✦'
+  },
+  'meri-aatmakahani': {
+    bgGradient: 'from-[#38160E] via-[#522015] to-[#240E09]',
+    borderColor: 'border-[#E5A93C]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E5A93C]',
+    accentColor: '#E5A93C',
+    badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
+    motif: '❖ 🖋️ ❖'
+  },
+  'paanch-phool': {
+    bgGradient: 'from-[#36121D] via-[#4F1A2A] to-[#210A12]',
+    borderColor: 'border-[#F3C969]/40',
+    titleColor: 'text-[#FFF5F7]',
+    authorColor: 'text-[#F3C969]',
+    accentColor: '#F3C969',
+    badgeBg: 'bg-[#F3C969]/15 text-[#FDF0CD]',
+    motif: '✦ 💐 ✦'
+  },
+  'revatat-prithviraj-raso': {
+    bgGradient: 'from-[#421A07] via-[#5E250A] to-[#2B1004]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
+    motif: '❖ ⚔️ ❖'
   }
 };
 

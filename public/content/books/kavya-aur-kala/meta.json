@@ -1,0 +1,107 @@
+{
+  "id": "kavya-aur-kala",
+  "title": "काव्य और कला तथा अन्य निबन्ध",
+  "title_en": "Kavya Aur Kala Tatha Anya Nibandh",
+  "author": "जयशंकर प्रसाद",
+  "author_en": "Jaishankar Prasad",
+  "category": "निबंध",
+  "category_en": "Essays",
+  "description": "जयशंकर प्रसाद का अमर सौंदर्यशास्त्रीय और दार्शनिक निबंध-संग्रह। छायावाद की तात्विक व्याख्या, यथार्थवाद बनाम आदर्शवाद, रस-सिद्धांत, भारतीय रंगमंच का इतिहास और रहस्यवाद की गंभीर शास्त्रीय मीमांसा।",
+  "cover_image": "",
+  "published_year": 1939,
+  "keywords": [
+    "kavya aur kala",
+    "jaishankar prasad",
+    "chhayavad",
+    "realism",
+    "literary criticism",
+    "aesthetics",
+    "nibandh"
+  ],
+  "total_words": 31190,
+  "total_chapters": 9,
+  "estimated_reading_minutes": 173,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "निबंध — प्राक्कथन",
+      "block_count": 49,
+      "word_count": 5350,
+      "estimated_minutes": 30,
+      "file": "content/books/kavya-aur-kala/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "निबंध — काव्य और कला",
+      "block_count": 68,
+      "word_count": 5124,
+      "estimated_minutes": 28,
+      "file": "content/books/kavya-aur-kala/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "निबंध — रस",
+      "block_count": 51,
+      "word_count": 2775,
+      "estimated_minutes": 15,
+      "file": "content/books/kavya-aur-kala/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "निबंध — रहस्यवाद",
+      "block_count": 159,
+      "word_count": 5625,
+      "estimated_minutes": 31,
+      "file": "content/books/kavya-aur-kala/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "निबंध — यथार्थवाद और छायावाद",
+      "block_count": 52,
+      "word_count": 2484,
+      "estimated_minutes": 14,
+      "file": "content/books/kavya-aur-kala/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "निबंध — रंगमंच",
+      "block_count": 72,
+      "word_count": 4457,
+      "estimated_minutes": 25,
+      "file": "content/books/kavya-aur-kala/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "निबंध — नाटकों का आरम्भ",
+      "block_count": 35,
+      "word_count": 1597,
+      "estimated_minutes": 9,
+      "file": "content/books/kavya-aur-kala/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "निबंध — नाटकों में रस का प्रयोग",
+      "block_count": 13,
+      "word_count": 1582,
+      "estimated_minutes": 9,
+      "file": "content/books/kavya-aur-kala/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "निबंध — आरम्भिक पाठ्य काव्य",
+      "block_count": 31,
+      "word_count": 2196,
+      "estimated_minutes": 12,
+      "file": "content/books/kavya-aur-kala/ch_09.json"
+    }
+  ]
+}
