@@ -620,6 +620,60 @@ export const HomePage: React.FC = () => {
                 </p>
               </div>
             </div>
+
+            {/* Goswami Tulsidas Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'गोस्वामी तुलसीदास');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#4D1C0F] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                तु
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#F5C563] transition-colors">
+                    गोस्वामी तुलसीदास
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#F5C563] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'गोस्वामी तुलसीदास').length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#4D1C0F] font-semibold">भक्तिकाल के शिरोमणि महाकवि (१५३२ – १६२३)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  कवितावली, दोहावली, रामचरितमानस, विनय पत्रिका
+                </p>
+              </div>
+            </div>
+
+            {/* Abdul Rahim Khan-i-Khana Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'कविवर रहीम');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#0E291E] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                र
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#E8B568] transition-colors">
+                    कविवर रहीम
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#E8B568] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'कविवर रहीम').length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#0E291E] font-semibold">नीति व समन्वय के अमर कवि (१५५६ – १६२७)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  रहीम दोहावली, बरवै नायिका भेद, मदनाष्टक, नगर शोभा
+                </p>
+              </div>
+            </div>
           </div>
         </section>
       </main>

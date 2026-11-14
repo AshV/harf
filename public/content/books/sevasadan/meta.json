@@ -1,0 +1,549 @@
+{
+  "id": "sevasadan",
+  "title": "सेवासदन",
+  "title_en": "Sevasadan",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "उपन्यास",
+  "category_en": "Novel",
+  "description": "मुंशी प्रेमचंद का प्रथम वृहत् सामाजिक उपन्यास जिसने हिन्दी साहित्य की दिशा बदल दी। सुमन के जीवन-संघर्ष, दहेज-प्रथा, सामाजिक पाखंड, नारी-अस्मिता और सुधारवादी 'सेवासदन' की कालजयी दास्तान।",
+  "cover_image": "",
+  "published_year": 1918,
+  "keywords": [
+    "sevasadan",
+    "munshi premchand",
+    "suman",
+    "social novel",
+    "upanyas",
+    "women reform",
+    "dowry",
+    "varanasi"
+  ],
+  "total_words": 232686,
+  "total_chapters": 58,
+  "estimated_reading_minutes": 1293,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १",
+      "block_count": 20,
+      "word_count": 1218,
+      "estimated_minutes": 7,
+      "file": "content/books/sevasadan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २",
+      "block_count": 59,
+      "word_count": 1548,
+      "estimated_minutes": 9,
+      "file": "content/books/sevasadan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३",
+      "block_count": 18,
+      "word_count": 662,
+      "estimated_minutes": 4,
+      "file": "content/books/sevasadan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४",
+      "block_count": 19,
+      "word_count": 477,
+      "estimated_minutes": 3,
+      "file": "content/books/sevasadan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५",
+      "block_count": 23,
+      "word_count": 1381,
+      "estimated_minutes": 8,
+      "file": "content/books/sevasadan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६",
+      "block_count": 27,
+      "word_count": 868,
+      "estimated_minutes": 5,
+      "file": "content/books/sevasadan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७",
+      "block_count": 18,
+      "word_count": 749,
+      "estimated_minutes": 4,
+      "file": "content/books/sevasadan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय ८",
+      "block_count": 16,
+      "word_count": 452,
+      "estimated_minutes": 3,
+      "file": "content/books/sevasadan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय ९",
+      "block_count": 42,
+      "word_count": 1596,
+      "estimated_minutes": 9,
+      "file": "content/books/sevasadan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अध्याय १०",
+      "block_count": 117,
+      "word_count": 4969,
+      "estimated_minutes": 28,
+      "file": "content/books/sevasadan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "अध्याय ११",
+      "block_count": 52,
+      "word_count": 1833,
+      "estimated_minutes": 10,
+      "file": "content/books/sevasadan/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "अध्याय १२",
+      "block_count": 23,
+      "word_count": 1362,
+      "estimated_minutes": 8,
+      "file": "content/books/sevasadan/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "अध्याय १३",
+      "block_count": 12,
+      "word_count": 504,
+      "estimated_minutes": 3,
+      "file": "content/books/sevasadan/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "अध्याय १४",
+      "block_count": 65,
+      "word_count": 3433,
+      "estimated_minutes": 19,
+      "file": "content/books/sevasadan/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "अध्याय १५",
+      "block_count": 47,
+      "word_count": 2223,
+      "estimated_minutes": 12,
+      "file": "content/books/sevasadan/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "अध्याय १६",
+      "block_count": 43,
+      "word_count": 1502,
+      "estimated_minutes": 8,
+      "file": "content/books/sevasadan/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "अध्याय १७",
+      "block_count": 22,
+      "word_count": 1342,
+      "estimated_minutes": 7,
+      "file": "content/books/sevasadan/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "अध्याय १८",
+      "block_count": 47,
+      "word_count": 1347,
+      "estimated_minutes": 7,
+      "file": "content/books/sevasadan/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "अध्याय १९",
+      "block_count": 31,
+      "word_count": 1193,
+      "estimated_minutes": 7,
+      "file": "content/books/sevasadan/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "अध्याय २०",
+      "block_count": 25,
+      "word_count": 1241,
+      "estimated_minutes": 7,
+      "file": "content/books/sevasadan/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "अध्याय २१",
+      "block_count": 14,
+      "word_count": 994,
+      "estimated_minutes": 6,
+      "file": "content/books/sevasadan/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "अध्याय २२",
+      "block_count": 14,
+      "word_count": 994,
+      "estimated_minutes": 6,
+      "file": "content/books/sevasadan/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "अध्याय २३",
+      "block_count": 14,
+      "word_count": 994,
+      "estimated_minutes": 6,
+      "file": "content/books/sevasadan/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "अध्याय २४",
+      "block_count": 145,
+      "word_count": 5595,
+      "estimated_minutes": 31,
+      "file": "content/books/sevasadan/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "अध्याय २५",
+      "block_count": 105,
+      "word_count": 4012,
+      "estimated_minutes": 22,
+      "file": "content/books/sevasadan/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "अध्याय २६",
+      "block_count": 147,
+      "word_count": 5402,
+      "estimated_minutes": 30,
+      "file": "content/books/sevasadan/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "अध्याय २७",
+      "block_count": 134,
+      "word_count": 5690,
+      "estimated_minutes": 32,
+      "file": "content/books/sevasadan/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "अध्याय २८",
+      "block_count": 157,
+      "word_count": 7277,
+      "estimated_minutes": 40,
+      "file": "content/books/sevasadan/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "अध्याय २९",
+      "block_count": 120,
+      "word_count": 5703,
+      "estimated_minutes": 32,
+      "file": "content/books/sevasadan/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "अध्याय ३०",
+      "block_count": 84,
+      "word_count": 4020,
+      "estimated_minutes": 22,
+      "file": "content/books/sevasadan/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "अध्याय ३१",
+      "block_count": 132,
+      "word_count": 5532,
+      "estimated_minutes": 31,
+      "file": "content/books/sevasadan/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "अध्याय ३२",
+      "block_count": 132,
+      "word_count": 5532,
+      "estimated_minutes": 31,
+      "file": "content/books/sevasadan/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "अध्याय ३३",
+      "block_count": 105,
+      "word_count": 3908,
+      "estimated_minutes": 22,
+      "file": "content/books/sevasadan/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "अध्याय ३४",
+      "block_count": 113,
+      "word_count": 5583,
+      "estimated_minutes": 31,
+      "file": "content/books/sevasadan/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "अध्याय ३५",
+      "block_count": 70,
+      "word_count": 4127,
+      "estimated_minutes": 23,
+      "file": "content/books/sevasadan/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "अध्याय ३६",
+      "block_count": 151,
+      "word_count": 5334,
+      "estimated_minutes": 30,
+      "file": "content/books/sevasadan/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "अध्याय ३७",
+      "block_count": 130,
+      "word_count": 3705,
+      "estimated_minutes": 21,
+      "file": "content/books/sevasadan/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "अध्याय ३८",
+      "block_count": 102,
+      "word_count": 2141,
+      "estimated_minutes": 12,
+      "file": "content/books/sevasadan/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "अध्याय ३९",
+      "block_count": 170,
+      "word_count": 5172,
+      "estimated_minutes": 29,
+      "file": "content/books/sevasadan/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "अध्याय ४०",
+      "block_count": 202,
+      "word_count": 8647,
+      "estimated_minutes": 48,
+      "file": "content/books/sevasadan/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "अध्याय ४१",
+      "block_count": 89,
+      "word_count": 5936,
+      "estimated_minutes": 33,
+      "file": "content/books/sevasadan/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "अध्याय ४२",
+      "block_count": 132,
+      "word_count": 7488,
+      "estimated_minutes": 42,
+      "file": "content/books/sevasadan/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "अध्याय ४३",
+      "block_count": 162,
+      "word_count": 9090,
+      "estimated_minutes": 51,
+      "file": "content/books/sevasadan/ch_43.json"
+    },
+    {
+      "id": "ch_44",
+      "number": 44,
+      "title": "अध्याय ४४",
+      "block_count": 124,
+      "word_count": 5651,
+      "estimated_minutes": 31,
+      "file": "content/books/sevasadan/ch_44.json"
+    },
+    {
+      "id": "ch_45",
+      "number": 45,
+      "title": "अध्याय ४५",
+      "block_count": 131,
+      "word_count": 5453,
+      "estimated_minutes": 30,
+      "file": "content/books/sevasadan/ch_45.json"
+    },
+    {
+      "id": "ch_46",
+      "number": 46,
+      "title": "अध्याय ४६",
+      "block_count": 100,
+      "word_count": 3825,
+      "estimated_minutes": 21,
+      "file": "content/books/sevasadan/ch_46.json"
+    },
+    {
+      "id": "ch_47",
+      "number": 47,
+      "title": "अध्याय ४७",
+      "block_count": 151,
+      "word_count": 5179,
+      "estimated_minutes": 29,
+      "file": "content/books/sevasadan/ch_47.json"
+    },
+    {
+      "id": "ch_48",
+      "number": 48,
+      "title": "अध्याय ४८",
+      "block_count": 158,
+      "word_count": 7000,
+      "estimated_minutes": 39,
+      "file": "content/books/sevasadan/ch_48.json"
+    },
+    {
+      "id": "ch_49",
+      "number": 49,
+      "title": "अध्याय ४९",
+      "block_count": 125,
+      "word_count": 5538,
+      "estimated_minutes": 31,
+      "file": "content/books/sevasadan/ch_49.json"
+    },
+    {
+      "id": "ch_50",
+      "number": 50,
+      "title": "अध्याय ५०",
+      "block_count": 140,
+      "word_count": 7055,
+      "estimated_minutes": 39,
+      "file": "content/books/sevasadan/ch_50.json"
+    },
+    {
+      "id": "ch_51",
+      "number": 51,
+      "title": "अध्याय ५१",
+      "block_count": 104,
+      "word_count": 5561,
+      "estimated_minutes": 31,
+      "file": "content/books/sevasadan/ch_51.json"
+    },
+    {
+      "id": "ch_52",
+      "number": 52,
+      "title": "अध्याय ५२",
+      "block_count": 149,
+      "word_count": 7149,
+      "estimated_minutes": 40,
+      "file": "content/books/sevasadan/ch_52.json"
+    },
+    {
+      "id": "ch_53",
+      "number": 53,
+      "title": "अध्याय ५३",
+      "block_count": 123,
+      "word_count": 5494,
+      "estimated_minutes": 31,
+      "file": "content/books/sevasadan/ch_53.json"
+    },
+    {
+      "id": "ch_54",
+      "number": 54,
+      "title": "अध्याय ५४",
+      "block_count": 168,
+      "word_count": 7081,
+      "estimated_minutes": 39,
+      "file": "content/books/sevasadan/ch_54.json"
+    },
+    {
+      "id": "ch_55",
+      "number": 55,
+      "title": "अध्याय ५५",
+      "block_count": 125,
+      "word_count": 5896,
+      "estimated_minutes": 33,
+      "file": "content/books/sevasadan/ch_55.json"
+    },
+    {
+      "id": "ch_56",
+      "number": 56,
+      "title": "अध्याय ५६",
+      "block_count": 151,
+      "word_count": 7421,
+      "estimated_minutes": 41,
+      "file": "content/books/sevasadan/ch_56.json"
+    },
+    {
+      "id": "ch_57",
+      "number": 57,
+      "title": "अध्याय ५७",
+      "block_count": 116,
+      "word_count": 5712,
+      "estimated_minutes": 32,
+      "file": "content/books/sevasadan/ch_57.json"
+    },
+    {
+      "id": "ch_58",
+      "number": 58,
+      "title": "अध्याय ५८",
+      "block_count": 155,
+      "word_count": 5895,
+      "estimated_minutes": 33,
+      "file": "content/books/sevasadan/ch_58.json"
+    }
+  ]
+}

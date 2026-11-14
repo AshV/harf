@@ -1,0 +1,72 @@
+{
+  "id": "rahim-dohavali",
+  "title": "रहीम दोहावली",
+  "title_en": "Rahim Dohavali",
+  "author": "कविवर रहीम",
+  "author_en": "Abdul Rahim Khan-i-Khana",
+  "category": "कविता",
+  "category_en": "Poetry",
+  "description": "'रहिमन पानी राखिये, बिन पानी सब सून' तथा 'जो रहीम उत्तम प्रकृति, का करि सकत कुसंग'। कविवर रहीम (अब्दुल रहीम ख़ानख़ाना) के अमर नीति, भक्ति, लोक-व्यवहार के दोहे और मदनाष्टक का प्रामाणिक संकलन।",
+  "cover_image": "",
+  "published_year": 1620,
+  "keywords": [
+    "rahim",
+    "rahim dohavali",
+    "doha",
+    "khan-i-khana",
+    "neeti",
+    "bhakti",
+    "barvai",
+    "madanashthak"
+  ],
+  "total_words": 8957,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 50,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "रहीम दोहावली — नीति, प्रीति व आत्म-बोध के अमर दोहे",
+      "block_count": 707,
+      "word_count": 5685,
+      "estimated_minutes": 32,
+      "file": "content/books/rahim-dohavali/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "बरवै नायिका-भेद — अवधी के शृंगार व सौंदर्य बरवै",
+      "block_count": 448,
+      "word_count": 2214,
+      "estimated_minutes": 12,
+      "file": "content/books/rahim-dohavali/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "मदनाष्टक — मालती व वसंत छंद में कृष्ण-लीला",
+      "block_count": 46,
+      "word_count": 247,
+      "estimated_minutes": 1,
+      "file": "content/books/rahim-dohavali/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "नगर-शोभा — विभिन्न जातियों व शिल्पों का काव्यमय वर्णन",
+      "block_count": 44,
+      "word_count": 318,
+      "estimated_minutes": 2,
+      "file": "content/books/rahim-dohavali/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "स्फुट हिन्दी-छन्द — सवैये, कवित्त व पद",
+      "block_count": 51,
+      "word_count": 493,
+      "estimated_minutes": 3,
+      "file": "content/books/rahim-dohavali/ch_05.json"
+    }
+  ]
+}

@@ -244,6 +244,42 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#F5C563',
     badgeBg: 'bg-[#F5C563]/15 text-[#FDF0CD]',
     motif: '❖ 🏹 ❖'
+  },
+  skandagupta: {
+    bgGradient: 'from-[#1B1938] via-[#282654] to-[#121026]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#F5F4FE]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FDEECC]',
+    motif: '✦ 🛡️ ✦'
+  },
+  'rahim-dohavali': {
+    bgGradient: 'from-[#0E291E] via-[#173D2D] to-[#0A1C14]',
+    borderColor: 'border-[#E8B568]/40',
+    titleColor: 'text-[#F2FAF6]',
+    authorColor: 'text-[#E8B568]',
+    accentColor: '#E8B568',
+    badgeBg: 'bg-[#E8B568]/15 text-[#FDE7C5]',
+    motif: '❖ 💎 ❖'
+  },
+  kavitavali: {
+    bgGradient: 'from-[#4D1C0F] via-[#6B2815] to-[#361309]',
+    borderColor: 'border-[#F5C563]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F5C563]',
+    accentColor: '#F5C563',
+    badgeBg: 'bg-[#F5C563]/15 text-[#FDF0CD]',
+    motif: '✦ 🏹 ✦'
+  },
+  sevasadan: {
+    bgGradient: 'from-[#421722] via-[#5C202F] to-[#2B0E16]',
+    borderColor: 'border-[#E2A745]/40',
+    titleColor: 'text-[#FFF6F8]',
+    authorColor: 'text-[#E2A745]',
+    accentColor: '#E2A745',
+    badgeBg: 'bg-[#E2A745]/15 text-[#FDE3B5]',
+    motif: '❖ 🏠 ❖'
   }
 };
 

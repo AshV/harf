@@ -381,6 +381,30 @@
     ]
   },
   {
+    "id": "kavitavali",
+    "title": "कवितावली",
+    "title_en": "Kavitavali",
+    "author": "गोस्वामी तुलसीदास",
+    "author_en": "Goswami Tulsidas",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "कवित्त, सवैया, छप्पय और घनाक्षरी छंदों में रचित गोस्वामी तुलसीदास जी का अमर काव्य। बाललीला से लेकर 'लंका-दहन' के ओजस्वी वर्णन और तत्कालीन समाज व महामारी (कलियुग) के यथार्थ की अनुपम झांकी।",
+    "cover_image": "",
+    "published_year": 1612,
+    "total_chapters": 7,
+    "estimated_reading_minutes": 454,
+    "keywords": [
+      "kavitavali",
+      "tulsidas",
+      "ramakatha",
+      "lanka dahan",
+      "savaiya",
+      "kavitta",
+      "bhakti kavya",
+      "hanuman"
+    ]
+  },
+  {
     "id": "mamta",
     "title": "ममता",
     "title_en": "Mamta",
@@ -521,6 +545,30 @@
     ]
   },
   {
+    "id": "rahim-dohavali",
+    "title": "रहीम दोहावली",
+    "title_en": "Rahim Dohavali",
+    "author": "कविवर रहीम",
+    "author_en": "Abdul Rahim Khan-i-Khana",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "'रहिमन पानी राखिये, बिन पानी सब सून' तथा 'जो रहीम उत्तम प्रकृति, का करि सकत कुसंग'। कविवर रहीम (अब्दुल रहीम ख़ानख़ाना) के अमर नीति, भक्ति, लोक-व्यवहार के दोहे और मदनाष्टक का प्रामाणिक संकलन।",
+    "cover_image": "",
+    "published_year": 1620,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 50,
+    "keywords": [
+      "rahim",
+      "rahim dohavali",
+      "doha",
+      "khan-i-khana",
+      "neeti",
+      "bhakti",
+      "barvai",
+      "madanashthak"
+    ]
+  },
+  {
     "id": "rani-ketki-ki-kahani",
     "title": "रानी केतकी की कहानी",
     "title_en": "Rani Ketki Ki Kahani",
@@ -567,6 +615,30 @@
     ]
   },
   {
+    "id": "sevasadan",
+    "title": "सेवासदन",
+    "title_en": "Sevasadan",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "उपन्यास",
+    "category_en": "Novel",
+    "description": "मुंशी प्रेमचंद का प्रथम वृहत् सामाजिक उपन्यास जिसने हिन्दी साहित्य की दिशा बदल दी। सुमन के जीवन-संघर्ष, दहेज-प्रथा, सामाजिक पाखंड, नारी-अस्मिता और सुधारवादी 'सेवासदन' की कालजयी दास्तान।",
+    "cover_image": "",
+    "published_year": 1918,
+    "total_chapters": 58,
+    "estimated_reading_minutes": 1293,
+    "keywords": [
+      "sevasadan",
+      "munshi premchand",
+      "suman",
+      "social novel",
+      "upanyas",
+      "women reform",
+      "dowry",
+      "varanasi"
+    ]
+  },
+  {
     "id": "shivshambhu-ke-chitthe",
     "title": "शिवशम्भु के चिट्ठे",
     "title_en": "Shivshambhu Ke Chittha",
@@ -588,6 +660,30 @@
       "essays",
       "colonialism",
       "bharatmitra"
+    ]
+  },
+  {
+    "id": "skandagupta",
+    "title": "स्कंदगुप्त",
+    "title_en": "Skandagupta",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "'हिमाद्रि तुंग श्रृंग से प्रबुद्ध शुद्ध भारती, स्वयं प्रभा समुज्ज्वला स्वतंत्रता पुकारती।' हूणों के बर्बर आक्रमण से आर्यावर्त की रक्षा, राष्ट्रीय अस्मिता और देवसेना के अमर त्याग का ऐतिहासिक महानाटक।",
+    "cover_image": "",
+    "published_year": 1928,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 157,
+    "keywords": [
+      "skandagupta",
+      "jaishankar prasad",
+      "natak",
+      "drama",
+      "huna invasion",
+      "gupta dynasty",
+      "devasena",
+      "rashtriya natak"
     ]
   }
 ]

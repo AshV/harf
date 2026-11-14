@@ -1,0 +1,72 @@
+{
+  "id": "skandagupta",
+  "title": "स्कंदगुप्त",
+  "title_en": "Skandagupta",
+  "author": "जयशंकर प्रसाद",
+  "author_en": "Jaishankar Prasad",
+  "category": "नाटक",
+  "category_en": "Play / Drama",
+  "description": "'हिमाद्रि तुंग श्रृंग से प्रबुद्ध शुद्ध भारती, स्वयं प्रभा समुज्ज्वला स्वतंत्रता पुकारती।' हूणों के बर्बर आक्रमण से आर्यावर्त की रक्षा, राष्ट्रीय अस्मिता और देवसेना के अमर त्याग का ऐतिहासिक महानाटक।",
+  "cover_image": "",
+  "published_year": 1928,
+  "keywords": [
+    "skandagupta",
+    "jaishankar prasad",
+    "natak",
+    "drama",
+    "huna invasion",
+    "gupta dynasty",
+    "devasena",
+    "rashtriya natak"
+  ],
+  "total_words": 28197,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 157,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रथम अंक — उज्जयिनी का गुप्त-शिविर व अंतःपुर षड्यंत्र",
+      "block_count": 482,
+      "word_count": 7667,
+      "estimated_minutes": 43,
+      "file": "content/books/skandagupta/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "द्वितीय अंक — मालव का दुर्ग व बंधुवर्मा की निष्ठा",
+      "block_count": 402,
+      "word_count": 6817,
+      "estimated_minutes": 38,
+      "file": "content/books/skandagupta/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तृतीय अंक — रणक्षेत्र, हुण-आक्रमण व मातृगुप्त की प्रतिज्ञा",
+      "block_count": 374,
+      "word_count": 4479,
+      "estimated_minutes": 25,
+      "file": "content/books/skandagupta/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चतुर्थ अंक — विपत्ति की वेला व देवसेना का त्याग",
+      "block_count": 228,
+      "word_count": 4734,
+      "estimated_minutes": 26,
+      "file": "content/books/skandagupta/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पंचम अंक — हुणों का संहार, राष्ट्र-मुक्ति व अमर संन्यास",
+      "block_count": 287,
+      "word_count": 4500,
+      "estimated_minutes": 25,
+      "file": "content/books/skandagupta/ch_05.json"
+    }
+  ]
+}

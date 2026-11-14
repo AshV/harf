@@ -1,0 +1,90 @@
+{
+  "id": "kavitavali",
+  "title": "कवितावली",
+  "title_en": "Kavitavali",
+  "author": "गोस्वामी तुलसीदास",
+  "author_en": "Goswami Tulsidas",
+  "category": "कविता",
+  "category_en": "Poetry",
+  "description": "कवित्त, सवैया, छप्पय और घनाक्षरी छंदों में रचित गोस्वामी तुलसीदास जी का अमर काव्य। बाललीला से लेकर 'लंका-दहन' के ओजस्वी वर्णन और तत्कालीन समाज व महामारी (कलियुग) के यथार्थ की अनुपम झांकी।",
+  "cover_image": "",
+  "published_year": 1612,
+  "keywords": [
+    "kavitavali",
+    "tulsidas",
+    "ramakatha",
+    "lanka dahan",
+    "savaiya",
+    "kavitta",
+    "bhakti kavya",
+    "hanuman"
+  ],
+  "total_words": 81749,
+  "total_chapters": 7,
+  "estimated_reading_minutes": 454,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "बालकाण्ड — श्रीराम का शैशव, बाल-लीला व धनुर्भंग",
+      "block_count": 238,
+      "word_count": 3308,
+      "estimated_minutes": 18,
+      "file": "content/books/kavitavali/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अयोध्याकाण्ड — राम-वनगमन, प्रजा-शोक व निषाद-भेंट",
+      "block_count": 271,
+      "word_count": 4173,
+      "estimated_minutes": 23,
+      "file": "content/books/kavitavali/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अरण्यकाण्ड — पंचवटी-निवास, शूर्पणखा व मारीच-वध",
+      "block_count": 15,
+      "word_count": 129,
+      "estimated_minutes": 1,
+      "file": "content/books/kavitavali/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "किष्किन्धाकाण्ड — सुग्रीव-मित्रता, वालि-उद्धार व वर्षा-वर्णन",
+      "block_count": 20,
+      "word_count": 217,
+      "estimated_minutes": 1,
+      "file": "content/books/kavitavali/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "सुन्दरकाण्ड — हनुमान जी का लंका-प्रवेश व लंका-दहन",
+      "block_count": 395,
+      "word_count": 5363,
+      "estimated_minutes": 30,
+      "file": "content/books/kavitavali/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "लंकाकाण्ड — सेतु-बंधन, महासंग्राम व रावण-वध",
+      "block_count": 638,
+      "word_count": 8697,
+      "estimated_minutes": 48,
+      "file": "content/books/kavitavali/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "उत्तरकाण्ड — राम-राज्याभिषेक, कलियुग-वर्णन व आत्म-निवेदन",
+      "block_count": 4479,
+      "word_count": 59862,
+      "estimated_minutes": 333,
+      "file": "content/books/kavitavali/ch_07.json"
+    }
+  ]
+}
