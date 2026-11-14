@@ -1,0 +1,97 @@
+{
+  "id": "sapta-saroj",
+  "title": "सप्तसरोज",
+  "title_en": "Sapta Saroj",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "कहानी",
+  "category_en": "Stories",
+  "description": "१९१७ में प्रकाशित मुंशी प्रेमचंद का प्रथम ऐतिहासिक हिन्दी कहानी-संग्रह। कर्तव्य-निष्ठा और सत्य की विजय का अमर आख्यान 'नमक का दारोगा', पारिवारिक सद्भाव की 'बड़े घर की बेटी' तथा 'पंच परमेश्वर' सहित ७ अविस्मरणीय कहानियाँ।",
+  "cover_image": "",
+  "published_year": 1917,
+  "keywords": [
+    "sapta saroj",
+    "namak ka daroga",
+    "munshi premchand",
+    "bade ghar ki beti",
+    "classic hindi stories",
+    "kahani"
+  ],
+  "total_words": 23840,
+  "total_chapters": 8,
+  "estimated_reading_minutes": 132,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भूमिका — प्रथम संस्करण का वक्तव्य",
+      "block_count": 15,
+      "word_count": 277,
+      "estimated_minutes": 2,
+      "file": "content/books/sapta-saroj/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "नमक का दारोगा",
+      "block_count": 74,
+      "word_count": 3640,
+      "estimated_minutes": 20,
+      "file": "content/books/sapta-saroj/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "बड़े घर की बेटी",
+      "block_count": 175,
+      "word_count": 2798,
+      "estimated_minutes": 16,
+      "file": "content/books/sapta-saroj/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "पंच परमेश्वर",
+      "block_count": 100,
+      "word_count": 4335,
+      "estimated_minutes": 24,
+      "file": "content/books/sapta-saroj/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "उपदेश",
+      "block_count": 156,
+      "word_count": 7506,
+      "estimated_minutes": 42,
+      "file": "content/books/sapta-saroj/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "परीक्षा",
+      "block_count": 25,
+      "word_count": 566,
+      "estimated_minutes": 3,
+      "file": "content/books/sapta-saroj/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "सज्जनता का दंड",
+      "block_count": 47,
+      "word_count": 1984,
+      "estimated_minutes": 11,
+      "file": "content/books/sapta-saroj/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "सौत",
+      "block_count": 56,
+      "word_count": 2734,
+      "estimated_minutes": 15,
+      "file": "content/books/sapta-saroj/ch_08.json"
+    }
+  ]
+}

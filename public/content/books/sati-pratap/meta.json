@@ -1,0 +1,88 @@
+{
+  "id": "sati-pratap",
+  "title": "सतीप्रताप",
+  "title_en": "Sati Pratap",
+  "author": "भारतेन्दु हरिश्चंद्र",
+  "author_en": "Bharatendu Harishchandra",
+  "category": "नाटक",
+  "category_en": "Play / Drama",
+  "description": "भारतेन्दु हरिश्चंद्र का प्रसिद्ध पौराणिक गीतिरूपक (नाटक)। सावित्री के अप्रतिम पातिव्रत्य, आत्म-बल और प्रखर बुद्धि-तर्क द्वारा यमराज से सत्यवान के प्राण और अपने कुल का खोया वैभव पुनः प्राप्त करने की अमर आख्यान-नाटिका।",
+  "cover_image": "",
+  "published_year": 1883,
+  "keywords": [
+    "sati pratap",
+    "bharatendu harishchandra",
+    "savitri satyavan",
+    "mythological drama",
+    "giti rupak",
+    "natak"
+  ],
+  "total_words": 6206,
+  "total_chapters": 7,
+  "estimated_reading_minutes": 34,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "पहला दृश्य — हिमालय का अधोभाग व सावित्री का तपोवन",
+      "block_count": 39,
+      "word_count": 206,
+      "estimated_minutes": 1,
+      "file": "content/books/sati-pratap/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "दूसरा दृश्य — राजा अश्वपति का राजभवन व नारद-संवाद",
+      "block_count": 80,
+      "word_count": 1021,
+      "estimated_minutes": 6,
+      "file": "content/books/sati-pratap/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तीसरा दृश्य — द्युमत्सेन का आश्रम व सत्यवान-मिलन",
+      "block_count": 116,
+      "word_count": 1014,
+      "estimated_minutes": 6,
+      "file": "content/books/sati-pratap/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चौथा दृश्य — विवाह व दारुण भविष्यवाणी का भय",
+      "block_count": 67,
+      "word_count": 763,
+      "estimated_minutes": 4,
+      "file": "content/books/sati-pratap/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पाँचवाँ दृश्य — वन-गमन व सत्यवान का मूर्च्छित होना",
+      "block_count": 52,
+      "word_count": 543,
+      "estimated_minutes": 3,
+      "file": "content/books/sati-pratap/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "छठा दृश्य — यमराज का आगमन व सावित्री का ज्ञान-तर्क",
+      "block_count": 46,
+      "word_count": 682,
+      "estimated_minutes": 4,
+      "file": "content/books/sati-pratap/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "सातवाँ दृश्य — यमराज से वरदान-प्राप्ति व अखंड सौभाग्य",
+      "block_count": 134,
+      "word_count": 1977,
+      "estimated_minutes": 11,
+      "file": "content/books/sati-pratap/ch_07.json"
+    }
+  ]
+}

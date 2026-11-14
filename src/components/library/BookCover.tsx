@@ -424,6 +424,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#E5A93C',
     badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
     motif: '✦ 💍 ✦'
+  },
+  'prem-dwadashi': {
+    bgGradient: 'from-[#23122D] via-[#381B47] to-[#160B1C]',
+    borderColor: 'border-[#F3C969]/40',
+    titleColor: 'text-[#FAF5FC]',
+    authorColor: 'text-[#F3C969]',
+    accentColor: '#F3C969',
+    badgeBg: 'bg-[#F3C969]/15 text-[#FDF0CD]',
+    motif: '❖ ♟️ ❖'
+  },
+  'sapta-saroj': {
+    bgGradient: 'from-[#38121D] via-[#521A2A] to-[#240A12]',
+    borderColor: 'border-[#E8B568]/40',
+    titleColor: 'text-[#FFF5F8]',
+    authorColor: 'text-[#E8B568]',
+    accentColor: '#E8B568',
+    badgeBg: 'bg-[#E8B568]/15 text-[#FCEAC5]',
+    motif: '✦ 🪷 ✦'
+  },
+  premjogini: {
+    bgGradient: 'from-[#421A12] via-[#5C2519] to-[#2B100B]',
+    borderColor: 'border-[#E5A93C]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E5A93C]',
+    accentColor: '#E5A93C',
+    badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
+    motif: '❖ 🪔 ❖'
+  },
+  'sati-pratap': {
+    bgGradient: 'from-[#0F2618] via-[#163B25] to-[#0A1A10]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#F2FAF5]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
+    motif: '✦ 👑 ✦'
+  },
+  'adbhut-aalap': {
+    bgGradient: 'from-[#091426] via-[#102342] to-[#050C17]',
+    borderColor: 'border-[#8EC5FC]/40',
+    titleColor: 'text-[#F0F6FD]',
+    authorColor: 'text-[#8EC5FC]',
+    accentColor: '#8EC5FC',
+    badgeBg: 'bg-[#8EC5FC]/15 text-[#DDF0FE]',
+    motif: '❖ 🔭 ❖'
   }
 };
 

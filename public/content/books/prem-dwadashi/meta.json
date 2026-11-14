@@ -1,0 +1,133 @@
+{
+  "id": "prem-dwadashi",
+  "title": "शतरंज के खिलाड़ी व प्रेम-द्वादशी",
+  "title_en": "Shatranj Ke Khiladi & Prem Dwadashi",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "कहानी",
+  "category_en": "Stories",
+  "description": "मुंशी प्रेमचंद का कालजयी कथा-संग्रह। नवाब वाजिद अली शाह के पतनशील लखनऊ की पृष्ठभूमि पर रचित विश्वविख्यात कहानी 'शतरंज के खिलाड़ी', ग्रामीण यथार्थ की अमर गाथा 'मुक्ति-मार्ग', 'आत्माराम' और 'सत्याग्रह' सहित १२ अमर कहानियाँ।",
+  "cover_image": "",
+  "published_year": 1926,
+  "keywords": [
+    "shatranj ke khiladi",
+    "prem dwadashi",
+    "munshi premchand",
+    "lucknow",
+    "classic stories",
+    "kahani"
+  ],
+  "total_words": 53516,
+  "total_chapters": 12,
+  "estimated_reading_minutes": 297,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "कहानी 1 — शांति",
+      "block_count": 445,
+      "word_count": 5882,
+      "estimated_minutes": 33,
+      "file": "content/books/prem-dwadashi/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "कहानी 2 — बैंक का दिवाला",
+      "block_count": 125,
+      "word_count": 8416,
+      "estimated_minutes": 47,
+      "file": "content/books/prem-dwadashi/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "कहानी 3 — आत्माराम",
+      "block_count": 50,
+      "word_count": 2573,
+      "estimated_minutes": 14,
+      "file": "content/books/prem-dwadashi/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "कहानी 4 — दुर्गा का मन्दिर",
+      "block_count": 108,
+      "word_count": 3710,
+      "estimated_minutes": 21,
+      "file": "content/books/prem-dwadashi/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "कहानी 5 — बड़े घर की बेटी",
+      "block_count": 69,
+      "word_count": 3175,
+      "estimated_minutes": 18,
+      "file": "content/books/prem-dwadashi/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "कहानी 6 — सत्याग्रह",
+      "block_count": 99,
+      "word_count": 4914,
+      "estimated_minutes": 27,
+      "file": "content/books/prem-dwadashi/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "कहानी 7 — गृह-दाह",
+      "block_count": 138,
+      "word_count": 5732,
+      "estimated_minutes": 32,
+      "file": "content/books/prem-dwadashi/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "कहानी 8 — डिक्री के रुपये",
+      "block_count": 105,
+      "word_count": 5179,
+      "estimated_minutes": 29,
+      "file": "content/books/prem-dwadashi/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "कहानी 9 — मुक्ति-मार्ग",
+      "block_count": 144,
+      "word_count": 3435,
+      "estimated_minutes": 19,
+      "file": "content/books/prem-dwadashi/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "कहानी 10 — शतरंज के खिलाड़ी",
+      "block_count": 125,
+      "word_count": 3675,
+      "estimated_minutes": 20,
+      "file": "content/books/prem-dwadashi/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "कहानी 11 — पंच परमेश्वर",
+      "block_count": 117,
+      "word_count": 4139,
+      "estimated_minutes": 23,
+      "file": "content/books/prem-dwadashi/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "कहानी 12 — शंखनाद",
+      "block_count": 221,
+      "word_count": 2686,
+      "estimated_minutes": 15,
+      "file": "content/books/prem-dwadashi/ch_12.json"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "adbhut-aalap",
+  "title": "अद्भुत आलाप",
+  "title_en": "Adbhut Aalap",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "निबंध",
+  "category_en": "Essays",
+  "description": "आचार्य महावीर प्रसाद द्विवेदी का वैज्ञानिक कौतूहल, मनोविज्ञान, खगोलशास्त्र और पुरातात्विक रहस्यों पर लिखा गया अनूठा निबंध-संग्रह। क्या जानवर सोचते हैं?, पशुओं की भाषा, मंगल ग्रह पर जीवन तथा पांपियाई नगर के उत्खनन पर २१ प्रेरक निबंध।",
+  "cover_image": "",
+  "published_year": 1924,
+  "keywords": [
+    "adbhut aalap",
+    "mahavir prasad dwivedi",
+    "science essays",
+    "animal psychology",
+    "astronomy",
+    "nibandh"
+  ],
+  "total_words": 34309,
+  "total_chapters": 21,
+  "estimated_reading_minutes": 191,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "निबंध 1 — अंतःसाक्षित्व-विद्या",
+      "block_count": 51,
+      "word_count": 2036,
+      "estimated_minutes": 11,
+      "file": "content/books/adbhut-aalap/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "निबंध 2 — आकाश में निराधार स्थिति",
+      "block_count": 88,
+      "word_count": 3488,
+      "estimated_minutes": 19,
+      "file": "content/books/adbhut-aalap/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "निबंध 3 — एक योगी की साप्ताहिक समाधि",
+      "block_count": 38,
+      "word_count": 2100,
+      "estimated_minutes": 12,
+      "file": "content/books/adbhut-aalap/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "निबंध 4 — एक ही शरीर में अनेक आत्माएँ",
+      "block_count": 101,
+      "word_count": 3411,
+      "estimated_minutes": 19,
+      "file": "content/books/adbhut-aalap/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "निबंध 5 — क्या जानवर भी सोचते हैं?",
+      "block_count": 24,
+      "word_count": 1078,
+      "estimated_minutes": 6,
+      "file": "content/books/adbhut-aalap/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "निबंध 6 — दिव्य दृष्टि",
+      "block_count": 20,
+      "word_count": 943,
+      "estimated_minutes": 5,
+      "file": "content/books/adbhut-aalap/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "निबंध 7 — परलोक से प्राप्त हुए पत्र",
+      "block_count": 57,
+      "word_count": 1893,
+      "estimated_minutes": 11,
+      "file": "content/books/adbhut-aalap/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "निबंध 8 — परिचित्त-विज्ञान-विद्या",
+      "block_count": 42,
+      "word_count": 2484,
+      "estimated_minutes": 14,
+      "file": "content/books/adbhut-aalap/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "निबंध 9 — मनुष्येतर जीवों का अंतर्ज्ञान",
+      "block_count": 30,
+      "word_count": 1486,
+      "estimated_minutes": 8,
+      "file": "content/books/adbhut-aalap/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "निबंध 10 — क्या चिड़ियाँ भी सूँघती हैं?",
+      "block_count": 13,
+      "word_count": 697,
+      "estimated_minutes": 4,
+      "file": "content/books/adbhut-aalap/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "निबंध 11 — पशुओं में बोलने की शक्ति",
+      "block_count": 34,
+      "word_count": 1072,
+      "estimated_minutes": 6,
+      "file": "content/books/adbhut-aalap/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "निबंध 12 — विद्वान् घोड़े",
+      "block_count": 22,
+      "word_count": 1464,
+      "estimated_minutes": 8,
+      "file": "content/books/adbhut-aalap/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "निबंध 13 — एक हिसाबी कुत्ता",
+      "block_count": 23,
+      "word_count": 829,
+      "estimated_minutes": 5,
+      "file": "content/books/adbhut-aalap/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "निबंध 14 — बंदरों की भाषा",
+      "block_count": 19,
+      "word_count": 663,
+      "estimated_minutes": 4,
+      "file": "content/books/adbhut-aalap/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "निबंध 15 — ग्रहों पर जीवनधारियों के होने का अनुमान",
+      "block_count": 20,
+      "word_count": 944,
+      "estimated_minutes": 5,
+      "file": "content/books/adbhut-aalap/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "निबंध 16 — मंगल ग्रह तक तार",
+      "block_count": 15,
+      "word_count": 859,
+      "estimated_minutes": 5,
+      "file": "content/books/adbhut-aalap/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "निबंध 17 — पाताल-प्रविष्ट पांपियाई-नगर",
+      "block_count": 23,
+      "word_count": 1053,
+      "estimated_minutes": 6,
+      "file": "content/books/adbhut-aalap/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "निबंध 18 — अंध-लिपि",
+      "block_count": 38,
+      "word_count": 2190,
+      "estimated_minutes": 12,
+      "file": "content/books/adbhut-aalap/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "निबंध 19 — भयंकर भूत-लीला",
+      "block_count": 45,
+      "word_count": 2112,
+      "estimated_minutes": 12,
+      "file": "content/books/adbhut-aalap/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "निबंध 20 — अद्भुत इंद्रजाल",
+      "block_count": 57,
+      "word_count": 2134,
+      "estimated_minutes": 12,
+      "file": "content/books/adbhut-aalap/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "निबंध 21 — प्राचीन मेक्सिको में नरमेध-यज्ञ",
+      "block_count": 46,
+      "word_count": 1373,
+      "estimated_minutes": 8,
+      "file": "content/books/adbhut-aalap/ch_21.json"
+    }
+  ]
+}

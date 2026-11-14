@@ -1,0 +1,62 @@
+{
+  "id": "premjogini",
+  "title": "प्रेमजोगिनी",
+  "title_en": "Premjogini",
+  "author": "भारतेन्दु हरिश्चंद्र",
+  "author_en": "Bharatendu Harishchandra",
+  "category": "नाटक",
+  "category_en": "Play / Drama",
+  "description": "भारतेन्दु हरिश्चंद्र का काशी की धार्मिक विडंबना, पाखंडी मठाधीशों और सामाजिक ढोंग पर लिखा गया सर्वाधिक प्रखर चार अंकों का व्यंग्य-नाटक (नाटिका)। आधुनिक हिन्दी नाटक में यथार्थवादी व्यंग्य का प्रथम युगांतरकारी स्तम्भ।",
+  "cover_image": "",
+  "published_year": 1875,
+  "keywords": [
+    "premjogini",
+    "bharatendu harishchandra",
+    "kashi",
+    "satire",
+    "social drama",
+    "varanasi",
+    "natak"
+  ],
+  "total_words": 6301,
+  "total_chapters": 4,
+  "estimated_reading_minutes": 35,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "पहिला अंक (पहिला गर्भांक) — मंदिर का चौक व पाखंड-चित्र",
+      "block_count": 111,
+      "word_count": 1432,
+      "estimated_minutes": 8,
+      "file": "content/books/premjogini/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "दूसरा गर्भांक — गंगा-तट व पंडे-पुजारियों का प्रपंच",
+      "block_count": 133,
+      "word_count": 1195,
+      "estimated_minutes": 7,
+      "file": "content/books/premjogini/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तीसरा गर्भांक — काशी के रईसों का समाज व खोखलापन",
+      "block_count": 63,
+      "word_count": 1999,
+      "estimated_minutes": 11,
+      "file": "content/books/premjogini/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चौथा गर्भांक — प्रेमजोगिनी का रहस्य व यथार्थ-बोध",
+      "block_count": 104,
+      "word_count": 1675,
+      "estimated_minutes": 9,
+      "file": "content/books/premjogini/ch_04.json"
+    }
+  ]
+}

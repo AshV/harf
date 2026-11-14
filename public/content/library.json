@@ -24,6 +24,28 @@
     ]
   },
   {
+    "id": "adbhut-aalap",
+    "title": "अद्भुत आलाप",
+    "title_en": "Adbhut Aalap",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "निबंध",
+    "category_en": "Essays",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी का वैज्ञानिक कौतूहल, मनोविज्ञान, खगोलशास्त्र और पुरातात्विक रहस्यों पर लिखा गया अनूठा निबंध-संग्रह। क्या जानवर सोचते हैं?, पशुओं की भाषा, मंगल ग्रह पर जीवन तथा पांपियाई नगर के उत्खनन पर २१ प्रेरक निबंध।",
+    "cover_image": "",
+    "published_year": 1924,
+    "total_chapters": 21,
+    "estimated_reading_minutes": 191,
+    "keywords": [
+      "adbhut aalap",
+      "mahavir prasad dwivedi",
+      "science essays",
+      "animal psychology",
+      "astronomy",
+      "nibandh"
+    ]
+  },
+  {
     "id": "akhrawat-aakhiri-kalam",
     "title": "अखरावट एवं आखिरी कलाम",
     "title_en": "Akhrawat & Aakhiri Kalam",
@@ -754,6 +776,51 @@
     ]
   },
   {
+    "id": "prem-dwadashi",
+    "title": "शतरंज के खिलाड़ी व प्रेम-द्वादशी",
+    "title_en": "Shatranj Ke Khiladi & Prem Dwadashi",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी",
+    "category_en": "Stories",
+    "description": "मुंशी प्रेमचंद का कालजयी कथा-संग्रह। नवाब वाजिद अली शाह के पतनशील लखनऊ की पृष्ठभूमि पर रचित विश्वविख्यात कहानी 'शतरंज के खिलाड़ी', ग्रामीण यथार्थ की अमर गाथा 'मुक्ति-मार्ग', 'आत्माराम' और 'सत्याग्रह' सहित १२ अमर कहानियाँ।",
+    "cover_image": "",
+    "published_year": 1926,
+    "total_chapters": 12,
+    "estimated_reading_minutes": 297,
+    "keywords": [
+      "shatranj ke khiladi",
+      "prem dwadashi",
+      "munshi premchand",
+      "lucknow",
+      "classic stories",
+      "kahani"
+    ]
+  },
+  {
+    "id": "premjogini",
+    "title": "प्रेमजोगिनी",
+    "title_en": "Premjogini",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "भारतेन्दु हरिश्चंद्र का काशी की धार्मिक विडंबना, पाखंडी मठाधीशों और सामाजिक ढोंग पर लिखा गया सर्वाधिक प्रखर चार अंकों का व्यंग्य-नाटक (नाटिका)। आधुनिक हिन्दी नाटक में यथार्थवादी व्यंग्य का प्रथम युगांतरकारी स्तम्भ।",
+    "cover_image": "",
+    "published_year": 1875,
+    "total_chapters": 4,
+    "estimated_reading_minutes": 35,
+    "keywords": [
+      "premjogini",
+      "bharatendu harishchandra",
+      "kashi",
+      "satire",
+      "social drama",
+      "varanasi",
+      "natak"
+    ]
+  },
+  {
     "id": "priyapravas",
     "title": "प्रियप्रवास",
     "title_en": "Priyapravas",
@@ -892,6 +959,50 @@
       "realism",
       "essays",
       "nibandh"
+    ]
+  },
+  {
+    "id": "sapta-saroj",
+    "title": "सप्तसरोज",
+    "title_en": "Sapta Saroj",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी",
+    "category_en": "Stories",
+    "description": "१९१७ में प्रकाशित मुंशी प्रेमचंद का प्रथम ऐतिहासिक हिन्दी कहानी-संग्रह। कर्तव्य-निष्ठा और सत्य की विजय का अमर आख्यान 'नमक का दारोगा', पारिवारिक सद्भाव की 'बड़े घर की बेटी' तथा 'पंच परमेश्वर' सहित ७ अविस्मरणीय कहानियाँ।",
+    "cover_image": "",
+    "published_year": 1917,
+    "total_chapters": 8,
+    "estimated_reading_minutes": 132,
+    "keywords": [
+      "sapta saroj",
+      "namak ka daroga",
+      "munshi premchand",
+      "bade ghar ki beti",
+      "classic hindi stories",
+      "kahani"
+    ]
+  },
+  {
+    "id": "sati-pratap",
+    "title": "सतीप्रताप",
+    "title_en": "Sati Pratap",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "भारतेन्दु हरिश्चंद्र का प्रसिद्ध पौराणिक गीतिरूपक (नाटक)। सावित्री के अप्रतिम पातिव्रत्य, आत्म-बल और प्रखर बुद्धि-तर्क द्वारा यमराज से सत्यवान के प्राण और अपने कुल का खोया वैभव पुनः प्राप्त करने की अमर आख्यान-नाटिका।",
+    "cover_image": "",
+    "published_year": 1883,
+    "total_chapters": 7,
+    "estimated_reading_minutes": 34,
+    "keywords": [
+      "sati pratap",
+      "bharatendu harishchandra",
+      "savitri satyavan",
+      "mythological drama",
+      "giti rupak",
+      "natak"
     ]
   },
   {
