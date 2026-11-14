@@ -784,6 +784,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#F0C35B',
     badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
     motif: '❖ 🗝️ ❖'
+  },
+  'vaishali-ki-nagarvadhu': {
+    bgGradient: 'from-[#301224] via-[#4A1B38] to-[#200A18]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#FFF5FB]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
+    motif: '❖ 👑 ❖'
+  },
+  'aadarsh-hindu': {
+    bgGradient: 'from-[#26150A] via-[#3B2110] to-[#1A0E06]',
+    borderColor: 'border-[#E5A93C]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E5A93C]',
+    accentColor: '#E5A93C',
+    badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
+    motif: '✦ 🪔 ✦'
+  },
+  'chandrakanta-santati-4': {
+    bgGradient: 'from-[#1B1226] via-[#2A1C3B] to-[#120B1A]',
+    borderColor: 'border-[#C39BD3]/40',
+    titleColor: 'text-[#FAF5FD]',
+    authorColor: 'text-[#C39BD3]',
+    accentColor: '#C39BD3',
+    badgeBg: 'bg-[#C39BD3]/15 text-[#EEDBF5]',
+    motif: '❖ 🗝️ ❖'
+  },
+  natyasambhav: {
+    bgGradient: 'from-[#0A242B] via-[#113742] to-[#06181C]',
+    borderColor: 'border-[#76D7C4]/40',
+    titleColor: 'text-[#F0FDFB]',
+    authorColor: 'text-[#76D7C4]',
+    accentColor: '#76D7C4',
+    badgeBg: 'bg-[#76D7C4]/15 text-[#C8F7DC]',
+    motif: '✦ 🎭 ✦'
+  },
+  'kavita-kaumudi-1': {
+    bgGradient: 'from-[#291A08] via-[#3D270D] to-[#1A1105]',
+    borderColor: 'border-[#F3C969]/40',
+    titleColor: 'text-[#FFF9EE]',
+    authorColor: 'text-[#F3C969]',
+    accentColor: '#F3C969',
+    badgeBg: 'bg-[#F3C969]/15 text-[#FDF0CD]',
+    motif: '❖ 📜 ❖'
   }
 };
 

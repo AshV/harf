@@ -1,0 +1,80 @@
+{
+  "id": "kavita-kaumudi-1",
+  "title": "कविता-कौमुदी (भाग १)",
+  "title_en": "Kavita Kaumudi Part 1",
+  "author": "रामनरेश त्रिपाठी",
+  "author_en": "Ramnaresh Tripathi",
+  "category": "कविता",
+  "category_en": "Poetry / Anthology & History",
+  "description": "हिन्दी पद्य-साहित्य का अमर संकलन ग्रंथ। रामनरेश त्रिपाठी द्वारा सम्पादित इस प्रथम भाग में हिन्दी भाषा के उद्भव का प्रामाणिक इतिहास तथा चन्द बरदाई, विद्यापति, कबीरदास, रैदास और धर्मदास के जीवन-परिचय व कालजयी पदों का अनूठा संग्रह है।",
+  "cover_image": "",
+  "published_year": 1918,
+  "keywords": [
+    "kavita kaumudi",
+    "ramnaresh tripathi",
+    "chand bardai",
+    "vidyapati",
+    "kabir",
+    "raidas",
+    "poetry anthology"
+  ],
+  "total_words": 18456,
+  "total_chapters": 6,
+  "estimated_reading_minutes": 103,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "हिन्दी भाषा का संक्षिप्त इतिहास",
+      "block_count": 360,
+      "word_count": 7647,
+      "estimated_minutes": 42,
+      "file": "content/books/kavita-kaumudi-1/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "महाकवि चन्द बरदाई (पृथ्वीराज रासो)",
+      "block_count": 308,
+      "word_count": 2612,
+      "estimated_minutes": 15,
+      "file": "content/books/kavita-kaumudi-1/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "मैथिल कोकिल विद्यापति",
+      "block_count": 146,
+      "word_count": 1455,
+      "estimated_minutes": 8,
+      "file": "content/books/kavita-kaumudi-1/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "सन्त कबीर साहब",
+      "block_count": 580,
+      "word_count": 5651,
+      "estimated_minutes": 31,
+      "file": "content/books/kavita-kaumudi-1/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "सन्त रैदास (रविदास)",
+      "block_count": 64,
+      "word_count": 635,
+      "estimated_minutes": 4,
+      "file": "content/books/kavita-kaumudi-1/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "सन्त धर्मदास",
+      "block_count": 42,
+      "word_count": 456,
+      "estimated_minutes": 3,
+      "file": "content/books/kavita-kaumudi-1/ch_06.json"
+    }
+  ]
+}

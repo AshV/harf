@@ -1,0 +1,655 @@
+{
+  "id": "aadarsh-hindu",
+  "title": "आदर्श हिंदू",
+  "title_en": "Aadarsh Hindu",
+  "author": "पं. लज्जाराम शर्मा",
+  "author_en": "Pt. Lajjaram Sharma",
+  "category": "उपन्यास",
+  "category_en": "Novel / Social Reform",
+  "description": "बीसवीं सदी के आरंभिक दौर का सर्वाधिक लोकप्रिय सामाजिक-सुधारक उपन्यास (१९१४)। काशी, प्रयाग और ब्रज की सांस्कृतिक पृष्ठभूमि पर आदर्श गृहस्थ-धर्म, सदाचार, नारी-शिक्षा, तीर्थ-महिमा और सामाजिक रूढ़ियों के परिष्कार का सम्पूर्ण ७० अध्यायों में विस्तृत आख्यान।",
+  "cover_image": "",
+  "published_year": 1914,
+  "keywords": [
+    "aadarsh hindu",
+    "lajjaram sharma",
+    "lajjaram mehta",
+    "social novel",
+    "kashi",
+    "upanyas"
+  ],
+  "total_words": 152948,
+  "total_chapters": 70,
+  "estimated_reading_minutes": 850,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१ दंपती की पहाड़ी सैर",
+      "block_count": 169,
+      "word_count": 2145,
+      "estimated_minutes": 12,
+      "file": "content/books/aadarsh-hindu/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "१० बंदर चौबे और उनकी गृहिणी",
+      "block_count": 237,
+      "word_count": 2376,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "११ सुखदा—नहीं दुःखदा",
+      "block_count": 186,
+      "word_count": 2006,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "१२ सुखदा की सहेली",
+      "block_count": 144,
+      "word_count": 1577,
+      "estimated_minutes": 9,
+      "file": "content/books/aadarsh-hindu/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "१३ गृहचरित्र",
+      "block_count": 194,
+      "word_count": 2044,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "१४ ब्रजयात्रा की झलक और कृष्णचरित्र",
+      "block_count": 321,
+      "word_count": 3211,
+      "estimated_minutes": 18,
+      "file": "content/books/aadarsh-hindu/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "१५ बूढ़े की घबड़ाहट",
+      "block_count": 240,
+      "word_count": 2882,
+      "estimated_minutes": 16,
+      "file": "content/books/aadarsh-hindu/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "१६ घबड़ाहट का अंत",
+      "block_count": 92,
+      "word_count": 1005,
+      "estimated_minutes": 6,
+      "file": "content/books/aadarsh-hindu/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "१७ स्टेशन का सीन",
+      "block_count": 285,
+      "word_count": 3137,
+      "estimated_minutes": 17,
+      "file": "content/books/aadarsh-hindu/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१८ प्रियंवदा से छेड़छाड़",
+      "block_count": 202,
+      "word_count": 2196,
+      "estimated_minutes": 12,
+      "file": "content/books/aadarsh-hindu/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "१९ प्रयागी पंडे",
+      "block_count": 187,
+      "word_count": 2074,
+      "estimated_minutes": 12,
+      "file": "content/books/aadarsh-hindu/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "२ पुत्रकामना",
+      "block_count": 172,
+      "word_count": 1744,
+      "estimated_minutes": 10,
+      "file": "content/books/aadarsh-hindu/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "२० प्रयाग प्रशंसा",
+      "block_count": 209,
+      "word_count": 1784,
+      "estimated_minutes": 10,
+      "file": "content/books/aadarsh-hindu/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "२१ त्रिवेणी संगम",
+      "block_count": 297,
+      "word_count": 3011,
+      "estimated_minutes": 17,
+      "file": "content/books/aadarsh-hindu/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "२२ व्यभिचार में प्रवृत्ति",
+      "block_count": 187,
+      "word_count": 2015,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "२३ बच गई",
+      "block_count": 243,
+      "word_count": 2632,
+      "estimated_minutes": 15,
+      "file": "content/books/aadarsh-hindu/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "३ बूढ़े का गृहराज्य",
+      "block_count": 184,
+      "word_count": 2023,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "४ प्रियंवदा की सुशिक्षा",
+      "block_count": 209,
+      "word_count": 2219,
+      "estimated_minutes": 12,
+      "file": "content/books/aadarsh-hindu/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "५ भूत की लीला",
+      "block_count": 183,
+      "word_count": 1921,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "६ कर्कशा सुखदा",
+      "block_count": 183,
+      "word_count": 1990,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "७ रेल की हड़ताल",
+      "block_count": 181,
+      "word_count": 2003,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "८ आलसी भोला",
+      "block_count": 193,
+      "word_count": 2061,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "९ निरक्षर पंडा",
+      "block_count": 274,
+      "word_count": 2905,
+      "estimated_minutes": 16,
+      "file": "content/books/aadarsh-hindu/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "प्रकरण-३१ काशी की छटा",
+      "block_count": 251,
+      "word_count": 2480,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "प्रकरण-३२ देवदर्शन का आनंद",
+      "block_count": 239,
+      "word_count": 2381,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "प्रकरण-३३ भक्तिरस की अमृत-वृष्टि",
+      "block_count": 237,
+      "word_count": 2316,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "प्रकरण-३४ प्रियंवदा को पकड़ ले गए",
+      "block_count": 246,
+      "word_count": 2467,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "प्रकरण-३५ प्रियंवदा या नसीरन",
+      "block_count": 133,
+      "word_count": 1247,
+      "estimated_minutes": 7,
+      "file": "content/books/aadarsh-hindu/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "प्रकरण-३६ प्रियंवदा का सतीत्व",
+      "block_count": 181,
+      "word_count": 1804,
+      "estimated_minutes": 10,
+      "file": "content/books/aadarsh-hindu/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "प्रकरण-३७ घुरहू का प्रपंच",
+      "block_count": 246,
+      "word_count": 2358,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "प्रकरण-३८ भक्ति की प्रतिमूर्ति",
+      "block_count": 240,
+      "word_count": 2267,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "प्रकरण-३९ काशी की भलाई और बुराई",
+      "block_count": 194,
+      "word_count": 1906,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "प्रकरण-४० महात्माओं के दर्शन",
+      "block_count": 244,
+      "word_count": 2470,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "प्रकरण-४१ व्यापार पर प्रकाश",
+      "block_count": 198,
+      "word_count": 2018,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "प्रकरण-४२ चरित्र की दरिद्रता",
+      "block_count": 209,
+      "word_count": 2146,
+      "estimated_minutes": 12,
+      "file": "content/books/aadarsh-hindu/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "प्रकरण-४३ गयाश्राद्ध में चमत्कार",
+      "block_count": 254,
+      "word_count": 2544,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "प्रकरण-४४ श्राद्ध पर शास्त्रार्थ",
+      "block_count": 297,
+      "word_count": 2773,
+      "estimated_minutes": 15,
+      "file": "content/books/aadarsh-hindu/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "प्रकरण-४५ मातृस्नेह की महिमा",
+      "block_count": 90,
+      "word_count": 2056,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "प्रकरण-४६ कर्म-फल का खाता",
+      "block_count": 267,
+      "word_count": 2444,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "२४ प्रयाग के भिखारी",
+      "block_count": 96,
+      "word_count": 2481,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "२५ मांस भक्षण",
+      "block_count": 88,
+      "word_count": 1666,
+      "estimated_minutes": 9,
+      "file": "content/books/aadarsh-hindu/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "२६ पौराणिक प्रयाग",
+      "block_count": 78,
+      "word_count": 2474,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "२७ सतयुग का समा",
+      "block_count": 54,
+      "word_count": 1975,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_43.json"
+    },
+    {
+      "id": "ch_44",
+      "number": 44,
+      "title": "२८ कांतानाथ के घरेलू धंधे",
+      "block_count": 68,
+      "word_count": 2020,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_44.json"
+    },
+    {
+      "id": "ch_45",
+      "number": 45,
+      "title": "२९ घर की फूट",
+      "block_count": 123,
+      "word_count": 2137,
+      "estimated_minutes": 12,
+      "file": "content/books/aadarsh-hindu/ch_45.json"
+    },
+    {
+      "id": "ch_46",
+      "number": 46,
+      "title": "३० हिंदी और बलिदान",
+      "block_count": 191,
+      "word_count": 1867,
+      "estimated_minutes": 10,
+      "file": "content/books/aadarsh-hindu/ch_46.json"
+    },
+    {
+      "id": "ch_47",
+      "number": 47,
+      "title": "४७ विराट स्वरूप का चित्रपट",
+      "block_count": 99,
+      "word_count": 3172,
+      "estimated_minutes": 18,
+      "file": "content/books/aadarsh-hindu/ch_47.json"
+    },
+    {
+      "id": "ch_48",
+      "number": 48,
+      "title": "४८ श्री जगदीश का प्रसाद और अश्लील मूर्तियाँ",
+      "block_count": 44,
+      "word_count": 2386,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_48.json"
+    },
+    {
+      "id": "ch_49",
+      "number": 49,
+      "title": "४९ समुद्र स्नान की छटा",
+      "block_count": 18,
+      "word_count": 2022,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_49.json"
+    },
+    {
+      "id": "ch_50",
+      "number": 50,
+      "title": "५० भगवान में लौ",
+      "block_count": 19,
+      "word_count": 2094,
+      "estimated_minutes": 12,
+      "file": "content/books/aadarsh-hindu/ch_50.json"
+    },
+    {
+      "id": "ch_51",
+      "number": 51,
+      "title": "५१ कांता पर कलंक",
+      "block_count": 30,
+      "word_count": 2650,
+      "estimated_minutes": 15,
+      "file": "content/books/aadarsh-hindu/ch_51.json"
+    },
+    {
+      "id": "ch_52",
+      "number": 52,
+      "title": "५२ अपकार के बदले उपकार",
+      "block_count": 22,
+      "word_count": 2136,
+      "estimated_minutes": 12,
+      "file": "content/books/aadarsh-hindu/ch_52.json"
+    },
+    {
+      "id": "ch_53",
+      "number": 53,
+      "title": "५३ दीनबंधु के दर्शन",
+      "block_count": 15,
+      "word_count": 1051,
+      "estimated_minutes": 6,
+      "file": "content/books/aadarsh-hindu/ch_53.json"
+    },
+    {
+      "id": "ch_54",
+      "number": 54,
+      "title": "५४ जनानी गाड़ी",
+      "block_count": 51,
+      "word_count": 3648,
+      "estimated_minutes": 20,
+      "file": "content/books/aadarsh-hindu/ch_54.json"
+    },
+    {
+      "id": "ch_55",
+      "number": 55,
+      "title": "५५ संयोग का सौभाग्य",
+      "block_count": 28,
+      "word_count": 2415,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_55.json"
+    },
+    {
+      "id": "ch_56",
+      "number": 56,
+      "title": "५६ पुष्कर में बालक साधु",
+      "block_count": 22,
+      "word_count": 2459,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_56.json"
+    },
+    {
+      "id": "ch_57",
+      "number": 57,
+      "title": "५७ घुरहू की कुकर्म कहानी",
+      "block_count": 53,
+      "word_count": 2023,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_57.json"
+    },
+    {
+      "id": "ch_58",
+      "number": 58,
+      "title": "५८ राग में विराग",
+      "block_count": 22,
+      "word_count": 2111,
+      "estimated_minutes": 12,
+      "file": "content/books/aadarsh-hindu/ch_58.json"
+    },
+    {
+      "id": "ch_59",
+      "number": 59,
+      "title": "५९ ब्राह्मणों की जीविका",
+      "block_count": 31,
+      "word_count": 2449,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_59.json"
+    },
+    {
+      "id": "ch_60",
+      "number": 60,
+      "title": "६० घर चौपट हो गया",
+      "block_count": 17,
+      "word_count": 2339,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_60.json"
+    },
+    {
+      "id": "ch_61",
+      "number": 61,
+      "title": "६१ मठाधीश साधु",
+      "block_count": 20,
+      "word_count": 2583,
+      "estimated_minutes": 14,
+      "file": "content/books/aadarsh-hindu/ch_61.json"
+    },
+    {
+      "id": "ch_62",
+      "number": 62,
+      "title": "६२ गोरक्षा का नमूना",
+      "block_count": 22,
+      "word_count": 2066,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_62.json"
+    },
+    {
+      "id": "ch_63",
+      "number": 63,
+      "title": "६३ नौकरी का इस्तीफा",
+      "block_count": 15,
+      "word_count": 1445,
+      "estimated_minutes": 8,
+      "file": "content/books/aadarsh-hindu/ch_63.json"
+    },
+    {
+      "id": "ch_64",
+      "number": 64,
+      "title": "६४ व्यापार में सत्यनिष्ठा",
+      "block_count": 30,
+      "word_count": 2261,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_64.json"
+    },
+    {
+      "id": "ch_65",
+      "number": 65,
+      "title": "६५ प्रेत का मोक्ष",
+      "block_count": 37,
+      "word_count": 1822,
+      "estimated_minutes": 10,
+      "file": "content/books/aadarsh-hindu/ch_65.json"
+    },
+    {
+      "id": "ch_66",
+      "number": 66,
+      "title": "६६ बालशिक्षा और परोपकार व्रत",
+      "block_count": 18,
+      "word_count": 1962,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_66.json"
+    },
+    {
+      "id": "ch_67",
+      "number": 67,
+      "title": "६७ होली का त्योहार",
+      "block_count": 32,
+      "word_count": 2273,
+      "estimated_minutes": 13,
+      "file": "content/books/aadarsh-hindu/ch_67.json"
+    },
+    {
+      "id": "ch_68",
+      "number": 68,
+      "title": "६८ कुलटा का पछतावा",
+      "block_count": 16,
+      "word_count": 668,
+      "estimated_minutes": 4,
+      "file": "content/books/aadarsh-hindu/ch_68.json"
+    },
+    {
+      "id": "ch_69",
+      "number": 69,
+      "title": "६९ प्यारा सिंगारदान",
+      "block_count": 48,
+      "word_count": 1601,
+      "estimated_minutes": 9,
+      "file": "content/books/aadarsh-hindu/ch_69.json"
+    },
+    {
+      "id": "ch_70",
+      "number": 70,
+      "title": "७० उपसंंहार",
+      "block_count": 28,
+      "word_count": 2054,
+      "estimated_minutes": 11,
+      "file": "content/books/aadarsh-hindu/ch_70.json"
+    }
+  ]
+}

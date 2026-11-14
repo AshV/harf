@@ -1,5 +1,27 @@
 [
   {
+    "id": "aadarsh-hindu",
+    "title": "आदर्श हिंदू",
+    "title_en": "Aadarsh Hindu",
+    "author": "पं. लज्जाराम शर्मा",
+    "author_en": "Pt. Lajjaram Sharma",
+    "category": "उपन्यास",
+    "category_en": "Novel / Social Reform",
+    "description": "बीसवीं सदी के आरंभिक दौर का सर्वाधिक लोकप्रिय सामाजिक-सुधारक उपन्यास (१९१४)। काशी, प्रयाग और ब्रज की सांस्कृतिक पृष्ठभूमि पर आदर्श गृहस्थ-धर्म, सदाचार, नारी-शिक्षा, तीर्थ-महिमा और सामाजिक रूढ़ियों के परिष्कार का सम्पूर्ण ७० अध्यायों में विस्तृत आख्यान।",
+    "cover_image": "",
+    "published_year": 1914,
+    "total_chapters": 70,
+    "estimated_reading_minutes": 850,
+    "keywords": [
+      "aadarsh hindu",
+      "lajjaram sharma",
+      "lajjaram mehta",
+      "social novel",
+      "kashi",
+      "upanyas"
+    ]
+  },
+  {
     "id": "aag-aur-dhuan",
     "title": "आग और धुआं",
     "title_en": "Aag Aur Dhuan",
@@ -479,6 +501,29 @@
     ]
   },
   {
+    "id": "chandrakanta-santati-4",
+    "title": "चंद्रकांता संतति (भाग ४)",
+    "title_en": "Chandrakanta Santati Part 4",
+    "author": "देवकीनंदन खत्री",
+    "author_en": "Devaki Nandan Khatri",
+    "category": "उपन्यास",
+    "category_en": "Novel / Mystery & Fantasy",
+    "description": "हिन्दी के प्रथम तिलिस्मी-ऐयारी महा-उपन्यास की चौथी कड़ी। रोहतासगढ़, भूतनाथ की रहस्यमयी गतिविधियाँ, तिलिस्मी तहखाने, ऐयारों की अद्भुत चालाकियाँ और जादुई षड्यंत्रों से भरपूर बयान १३ से १६ तक का सम्पूर्ण रोमांचक आख्यान।",
+    "cover_image": "",
+    "published_year": 1896,
+    "total_chapters": 48,
+    "estimated_reading_minutes": 621,
+    "keywords": [
+      "chandrakanta santati",
+      "devaki nandan khatri",
+      "bhootnath",
+      "tilasm",
+      "aiyari",
+      "fantasy novel",
+      "part 4"
+    ]
+  },
+  {
     "id": "chaturi-chamar",
     "title": "चतुरी चमार",
     "title_en": "Chaturi Chamar",
@@ -893,6 +938,29 @@
     ]
   },
   {
+    "id": "kavita-kaumudi-1",
+    "title": "कविता-कौमुदी (भाग १)",
+    "title_en": "Kavita Kaumudi Part 1",
+    "author": "रामनरेश त्रिपाठी",
+    "author_en": "Ramnaresh Tripathi",
+    "category": "कविता",
+    "category_en": "Poetry / Anthology & History",
+    "description": "हिन्दी पद्य-साहित्य का अमर संकलन ग्रंथ। रामनरेश त्रिपाठी द्वारा सम्पादित इस प्रथम भाग में हिन्दी भाषा के उद्भव का प्रामाणिक इतिहास तथा चन्द बरदाई, विद्यापति, कबीरदास, रैदास और धर्मदास के जीवन-परिचय व कालजयी पदों का अनूठा संग्रह है।",
+    "cover_image": "",
+    "published_year": 1918,
+    "total_chapters": 6,
+    "estimated_reading_minutes": 103,
+    "keywords": [
+      "kavita kaumudi",
+      "ramnaresh tripathi",
+      "chand bardai",
+      "vidyapati",
+      "kabir",
+      "raidas",
+      "poetry anthology"
+    ]
+  },
+  {
     "id": "kavitavali",
     "title": "कवितावली",
     "title_en": "Kavitavali",
@@ -1118,6 +1186,27 @@
       "political drama",
       "visakhadatta",
       "natak"
+    ]
+  },
+  {
+    "id": "natyasambhav",
+    "title": "नाट्यसंभव",
+    "title_en": "Natyasambhav",
+    "author": "पं. किशोरीलाल गोस्वामी",
+    "author_en": "Pt. Kishorilal Goswami",
+    "category": "नाटक",
+    "category_en": "Play / Classical Drama",
+    "description": "भारतेन्दु युगीन वरिष्ठ साहित्यकार पं. किशोरीलाल गोस्वामी द्वारा रचित देवलोक की पृष्ठभूमि पर आधारित पौराणिक-काव्य नाटक। नन्दनवन, अप्सराओं, गन्धर्वों और नाट्य-उत्पत्ति की शास्त्रीय परम्परा का रोचक नाट्य-निरूपण।",
+    "cover_image": "",
+    "published_year": 1904,
+    "total_chapters": 10,
+    "estimated_reading_minutes": 85,
+    "keywords": [
+      "natyasambhav",
+      "kishorilal goswami",
+      "classical play",
+      "natak",
+      "mythological drama"
     ]
   },
   {
@@ -1918,6 +2007,28 @@
       "khadi boli mahakavya",
       "karun ras",
       "kavita"
+    ]
+  },
+  {
+    "id": "vaishali-ki-nagarvadhu",
+    "title": "वैशाली की नगरवधू",
+    "title_en": "Vaishali Ki Nagarvadhu",
+    "author": "आचार्य चतुरसेन शास्त्री",
+    "author_en": "Acharya Chatursen Shastri",
+    "category": "उपन्यास",
+    "category_en": "Novel / Historical Masterpiece",
+    "description": "हिन्दी ऐतिहासिक उपन्यास का शिखर गौरव। भगवान बुद्ध, मगधराज बिम्बिसार, अजातशत्रु और वज्जि संघ (वैशाली गणतन्त्र) के युगीन परिवेश में रूपगर्विता नगरवधू आम्रपाली के आत्मगौरव, बौद्ध धम्म और सत्ता-संघर्ष का अमर महाकाव्यात्मक आख्यान।",
+    "cover_image": "",
+    "published_year": 1949,
+    "total_chapters": 52,
+    "estimated_reading_minutes": 403,
+    "keywords": [
+      "vaishali ki nagarvadhu",
+      "acharya chatursen shastri",
+      "amrapali",
+      "gautam buddha",
+      "historical novel",
+      "upanyas"
     ]
   },
   {

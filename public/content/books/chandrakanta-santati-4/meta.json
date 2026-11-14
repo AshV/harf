@@ -1,0 +1,458 @@
+{
+  "id": "chandrakanta-santati-4",
+  "title": "चंद्रकांता संतति (भाग ४)",
+  "title_en": "Chandrakanta Santati Part 4",
+  "author": "देवकीनंदन खत्री",
+  "author_en": "Devaki Nandan Khatri",
+  "category": "उपन्यास",
+  "category_en": "Novel / Mystery & Fantasy",
+  "description": "हिन्दी के प्रथम तिलिस्मी-ऐयारी महा-उपन्यास की चौथी कड़ी। रोहतासगढ़, भूतनाथ की रहस्यमयी गतिविधियाँ, तिलिस्मी तहखाने, ऐयारों की अद्भुत चालाकियाँ और जादुई षड्यंत्रों से भरपूर बयान १३ से १६ तक का सम्पूर्ण रोमांचक आख्यान।",
+  "cover_image": "",
+  "published_year": 1896,
+  "keywords": [
+    "chandrakanta santati",
+    "devaki nandan khatri",
+    "bhootnath",
+    "tilasm",
+    "aiyari",
+    "fantasy novel",
+    "part 4"
+  ],
+  "total_words": 111799,
+  "total_chapters": 48,
+  "estimated_reading_minutes": 621,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "बयान 13.1",
+      "block_count": 67,
+      "word_count": 2296,
+      "estimated_minutes": 13,
+      "file": "content/books/chandrakanta-santati-4/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "बयान 13.11",
+      "block_count": 564,
+      "word_count": 7383,
+      "estimated_minutes": 41,
+      "file": "content/books/chandrakanta-santati-4/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "बयान 13.12",
+      "block_count": 94,
+      "word_count": 1292,
+      "estimated_minutes": 7,
+      "file": "content/books/chandrakanta-santati-4/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "बयान 13.13",
+      "block_count": 466,
+      "word_count": 5957,
+      "estimated_minutes": 33,
+      "file": "content/books/chandrakanta-santati-4/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "बयान 13.2",
+      "block_count": 21,
+      "word_count": 466,
+      "estimated_minutes": 3,
+      "file": "content/books/chandrakanta-santati-4/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "बयान 13.3",
+      "block_count": 132,
+      "word_count": 1584,
+      "estimated_minutes": 9,
+      "file": "content/books/chandrakanta-santati-4/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "बयान 13.4",
+      "block_count": 79,
+      "word_count": 1015,
+      "estimated_minutes": 6,
+      "file": "content/books/chandrakanta-santati-4/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "बयान 13.5",
+      "block_count": 157,
+      "word_count": 1955,
+      "estimated_minutes": 11,
+      "file": "content/books/chandrakanta-santati-4/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "बयान 13.6",
+      "block_count": 138,
+      "word_count": 1607,
+      "estimated_minutes": 9,
+      "file": "content/books/chandrakanta-santati-4/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "बयान 13.7",
+      "block_count": 165,
+      "word_count": 2504,
+      "estimated_minutes": 14,
+      "file": "content/books/chandrakanta-santati-4/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "बयान 13.8",
+      "block_count": 239,
+      "word_count": 3314,
+      "estimated_minutes": 18,
+      "file": "content/books/chandrakanta-santati-4/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "बयान 13.9",
+      "block_count": 169,
+      "word_count": 2133,
+      "estimated_minutes": 12,
+      "file": "content/books/chandrakanta-santati-4/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "बयान 14.10",
+      "block_count": 23,
+      "word_count": 822,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-4/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "बयान 14.11",
+      "block_count": 77,
+      "word_count": 2920,
+      "estimated_minutes": 16,
+      "file": "content/books/chandrakanta-santati-4/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "बयान 14.12",
+      "block_count": 121,
+      "word_count": 7784,
+      "estimated_minutes": 43,
+      "file": "content/books/chandrakanta-santati-4/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "बयान 14.3",
+      "block_count": 161,
+      "word_count": 2151,
+      "estimated_minutes": 12,
+      "file": "content/books/chandrakanta-santati-4/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "बयान 14.4",
+      "block_count": 225,
+      "word_count": 3199,
+      "estimated_minutes": 18,
+      "file": "content/books/chandrakanta-santati-4/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "बयान 14.5",
+      "block_count": 132,
+      "word_count": 1830,
+      "estimated_minutes": 10,
+      "file": "content/books/chandrakanta-santati-4/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "बयान 14.6",
+      "block_count": 444,
+      "word_count": 3484,
+      "estimated_minutes": 19,
+      "file": "content/books/chandrakanta-santati-4/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "बयान 14.7",
+      "block_count": 46,
+      "word_count": 1026,
+      "estimated_minutes": 6,
+      "file": "content/books/chandrakanta-santati-4/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "बयान 14.8",
+      "block_count": 22,
+      "word_count": 1068,
+      "estimated_minutes": 6,
+      "file": "content/books/chandrakanta-santati-4/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "बयान 14.9",
+      "block_count": 86,
+      "word_count": 3899,
+      "estimated_minutes": 22,
+      "file": "content/books/chandrakanta-santati-4/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "बयान 15.1",
+      "block_count": 68,
+      "word_count": 6415,
+      "estimated_minutes": 36,
+      "file": "content/books/chandrakanta-santati-4/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "बयान 15.10",
+      "block_count": 62,
+      "word_count": 2730,
+      "estimated_minutes": 15,
+      "file": "content/books/chandrakanta-santati-4/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "बयान 15.11",
+      "block_count": 24,
+      "word_count": 855,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-4/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "बयान 15.12",
+      "block_count": 53,
+      "word_count": 2032,
+      "estimated_minutes": 11,
+      "file": "content/books/chandrakanta-santati-4/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "बयान 15.2",
+      "block_count": 63,
+      "word_count": 3801,
+      "estimated_minutes": 21,
+      "file": "content/books/chandrakanta-santati-4/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "बयान 15.3",
+      "block_count": 30,
+      "word_count": 1560,
+      "estimated_minutes": 9,
+      "file": "content/books/chandrakanta-santati-4/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "बयान 15.4",
+      "block_count": 28,
+      "word_count": 733,
+      "estimated_minutes": 4,
+      "file": "content/books/chandrakanta-santati-4/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "बयान 15.5",
+      "block_count": 37,
+      "word_count": 2028,
+      "estimated_minutes": 11,
+      "file": "content/books/chandrakanta-santati-4/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "बयान 15.6",
+      "block_count": 12,
+      "word_count": 869,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-4/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "बयान 15.7",
+      "block_count": 5,
+      "word_count": 616,
+      "estimated_minutes": 3,
+      "file": "content/books/chandrakanta-santati-4/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "बयान 15.8",
+      "block_count": 28,
+      "word_count": 1136,
+      "estimated_minutes": 6,
+      "file": "content/books/chandrakanta-santati-4/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "बयान 15.9",
+      "block_count": 53,
+      "word_count": 1516,
+      "estimated_minutes": 8,
+      "file": "content/books/chandrakanta-santati-4/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "बयान 16.1",
+      "block_count": 103,
+      "word_count": 5482,
+      "estimated_minutes": 30,
+      "file": "content/books/chandrakanta-santati-4/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "बयान 16.10",
+      "block_count": 112,
+      "word_count": 1568,
+      "estimated_minutes": 9,
+      "file": "content/books/chandrakanta-santati-4/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "बयान 16.11",
+      "block_count": 90,
+      "word_count": 1200,
+      "estimated_minutes": 7,
+      "file": "content/books/chandrakanta-santati-4/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "बयान 16.12",
+      "block_count": 66,
+      "word_count": 935,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-4/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "बयान 16.13",
+      "block_count": 152,
+      "word_count": 1991,
+      "estimated_minutes": 11,
+      "file": "content/books/chandrakanta-santati-4/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "बयान 16.14",
+      "block_count": 127,
+      "word_count": 2182,
+      "estimated_minutes": 12,
+      "file": "content/books/chandrakanta-santati-4/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "बयान 16.2",
+      "block_count": 10,
+      "word_count": 620,
+      "estimated_minutes": 3,
+      "file": "content/books/chandrakanta-santati-4/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "बयान 16.3",
+      "block_count": 133,
+      "word_count": 1991,
+      "estimated_minutes": 11,
+      "file": "content/books/chandrakanta-santati-4/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "बयान 16.4",
+      "block_count": 98,
+      "word_count": 1413,
+      "estimated_minutes": 8,
+      "file": "content/books/chandrakanta-santati-4/ch_43.json"
+    },
+    {
+      "id": "ch_44",
+      "number": 44,
+      "title": "बयान 16.5",
+      "block_count": 86,
+      "word_count": 1128,
+      "estimated_minutes": 6,
+      "file": "content/books/chandrakanta-santati-4/ch_44.json"
+    },
+    {
+      "id": "ch_45",
+      "number": 45,
+      "title": "बयान 16.6",
+      "block_count": 331,
+      "word_count": 4738,
+      "estimated_minutes": 26,
+      "file": "content/books/chandrakanta-santati-4/ch_45.json"
+    },
+    {
+      "id": "ch_46",
+      "number": 46,
+      "title": "बयान 16.7",
+      "block_count": 63,
+      "word_count": 885,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-4/ch_46.json"
+    },
+    {
+      "id": "ch_47",
+      "number": 47,
+      "title": "बयान 16.8",
+      "block_count": 180,
+      "word_count": 2523,
+      "estimated_minutes": 14,
+      "file": "content/books/chandrakanta-santati-4/ch_47.json"
+    },
+    {
+      "id": "ch_48",
+      "number": 48,
+      "title": "बयान 16.9",
+      "block_count": 77,
+      "word_count": 1163,
+      "estimated_minutes": 6,
+      "file": "content/books/chandrakanta-santati-4/ch_48.json"
+    }
+  ]
+}

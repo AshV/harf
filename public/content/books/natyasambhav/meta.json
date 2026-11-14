@@ -1,0 +1,114 @@
+{
+  "id": "natyasambhav",
+  "title": "नाट्यसंभव",
+  "title_en": "Natyasambhav",
+  "author": "पं. किशोरीलाल गोस्वामी",
+  "author_en": "Pt. Kishorilal Goswami",
+  "category": "नाटक",
+  "category_en": "Play / Classical Drama",
+  "description": "भारतेन्दु युगीन वरिष्ठ साहित्यकार पं. किशोरीलाल गोस्वामी द्वारा रचित देवलोक की पृष्ठभूमि पर आधारित पौराणिक-काव्य नाटक। नन्दनवन, अप्सराओं, गन्धर्वों और नाट्य-उत्पत्ति की शास्त्रीय परम्परा का रोचक नाट्य-निरूपण।",
+  "cover_image": "",
+  "published_year": 1904,
+  "keywords": [
+    "natyasambhav",
+    "kishorilal goswami",
+    "classical play",
+    "natak",
+    "mythological drama"
+  ],
+  "total_words": 15280,
+  "total_chapters": 10,
+  "estimated_reading_minutes": 85,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रस्तावना",
+      "block_count": 37,
+      "word_count": 587,
+      "estimated_minutes": 3,
+      "file": "content/books/natyasambhav/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "विष्कम्भक",
+      "block_count": 80,
+      "word_count": 562,
+      "estimated_minutes": 3,
+      "file": "content/books/natyasambhav/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "पहिला दृश्य: नन्दनवन-माधवीकुंज",
+      "block_count": 124,
+      "word_count": 1745,
+      "estimated_minutes": 10,
+      "file": "content/books/natyasambhav/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "दूसरा दृश्य: इंद्रसभा",
+      "block_count": 124,
+      "word_count": 1745,
+      "estimated_minutes": 10,
+      "file": "content/books/natyasambhav/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "तीसरा दृश्य: सुरपुर-प्रासाद",
+      "block_count": 105,
+      "word_count": 1666,
+      "estimated_minutes": 9,
+      "file": "content/books/natyasambhav/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "चौथा दृश्य: देवसरोवर तट",
+      "block_count": 149,
+      "word_count": 2034,
+      "estimated_minutes": 11,
+      "file": "content/books/natyasambhav/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "पांचवां दृश्य: कल्पतरु वाटिका",
+      "block_count": 156,
+      "word_count": 2089,
+      "estimated_minutes": 12,
+      "file": "content/books/natyasambhav/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "छठवां दृश्य: विरह-विलास",
+      "block_count": 101,
+      "word_count": 1860,
+      "estimated_minutes": 10,
+      "file": "content/books/natyasambhav/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "सातवां दृश्य: कल्पवृक्षवाटिका (पूर्णाहुति)",
+      "block_count": 71,
+      "word_count": 756,
+      "estimated_minutes": 4,
+      "file": "content/books/natyasambhav/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अङ्कावतार",
+      "block_count": 161,
+      "word_count": 2236,
+      "estimated_minutes": 12,
+      "file": "content/books/natyasambhav/ch_10.json"
+    }
+  ]
+}

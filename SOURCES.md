@@ -1024,3 +1024,63 @@
 
 ---
 
+### 86. वैशाली की नगरवधू (Vaishali Ki Nagarvadhu)
+- **रचनाकार (Author):** आचार्य चतुरसेन शास्त्री (Acharya Chatursen Shastri)
+- **विधा (Category):** उपन्यास (Novel / Historical Masterpiece)
+- **मूल प्रकाशन वर्ष (Published Year):** 1949
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/वैशाली_की_नगरवधू)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 52 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९४९ अमर-ग्रन्थ-प्रकाशन से प्रकाशित आचार्य चतुरसेन शास्त्री (१८९१–१९६०) का कालजयी ऐतिहासिक महा-उपन्यास।
+
+---
+
+### 87. आदर्श हिंदू (Aadarsh Hindu)
+- **रचनाकार (Author):** पं. लज्जाराम शर्मा (Pt. Lajjaram Sharma)
+- **विधा (Category):** उपन्यास (Novel / Social Reform)
+- **मूल प्रकाशन वर्ष (Published Year):** 1914
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/आदर्श_हिंदू_१)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 70 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९१४ श्री वेंकटेश्वर प्रेस, बम्बई से प्रकाशित पं. लज्जाराम शर्मा (१८६३–१९३१) का सम्पूर्ण ३ भागों व ७० अध्यायों का कालजयी सामाजिक उपन्यास।
+
+---
+
+### 88. चंद्रकांता संतति (भाग ४) (Chandrakanta Santati Part 4)
+- **रचनाकार (Author):** देवकीनंदन खत्री (Devaki Nandan Khatri)
+- **विधा (Category):** उपन्यास (Novel / Mystery & Fantasy)
+- **मूल प्रकाशन वर्ष (Published Year):** 1896
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/चन्द्रकांता_सन्तति_4)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 48 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १८९६ लहरी प्रेस, बनारस से सत्यापित बाबू देवकीनन्दन खत्री का तिलिस्मी-ऐयारी उपन्यास चंद्रकांता संतति (बयान १३ से १६)।
+
+---
+
+### 89. नाट्यसंभव (Natyasambhav)
+- **रचनाकार (Author):** पं. किशोरीलाल गोस्वामी (Pt. Kishorilal Goswami)
+- **विधा (Category):** नाटक (Play / Classical Drama)
+- **मूल प्रकाशन वर्ष (Published Year):** 1904
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/नाट्यसंभव)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 10 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९०४ सुदर्शन प्रेस, वृन्दावन से प्रकाशित पं. किशोरीलाल गोस्वामी (१८६५–१९३२) का पौराणिक-काव्य नाटक।
+
+---
+
+### 90. कविता-कौमुदी (भाग १) (Kavita Kaumudi Part 1)
+- **रचनाकार (Author):** रामनरेश त्रिपाठी (Ramnaresh Tripathi)
+- **विधा (Category):** कविता (Poetry / Anthology & History)
+- **मूल प्रकाशन वर्ष (Published Year):** 1918
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/कविता-कौमुदी_१)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 6 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९१८ हिन्दी मन्दिर, प्रयाग से प्रकाशित रामनरेश त्रिपाठी (१८८९–१९६२) का भाषा-इतिहास व प्राचीन संत-कवियों का प्रतिनिधि काव्य-संग्रह।
+
+---
+
