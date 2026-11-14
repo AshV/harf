@@ -1,0 +1,87 @@
+{
+  "id": "bharatendu-jivan-charitra",
+  "title": "भारतेन्दु बाबू हरिश्चंद्र का जीवन चरित्र",
+  "title_en": "Bharatendu Babu Harishchandra Ka Jivan Charitra",
+  "author": "बाबू राधाकृष्ण दास",
+  "author_en": "Babu Radhakrishna Das",
+  "category": "जीवनी",
+  "category_en": "Biography / Memoir",
+  "description": "आधुनिक हिन्दी के जनक भारतेन्दु हरिश्चंद्र की प्रथम प्रामाणिक एवं विस्तृत जीवनी। नागरी प्रचारिणी सभा के संस्थापक सदस्य बाबू राधाकृष्ण दास द्वारा रचित ऐतिहासिक जीवनी, जिसमें भारतेन्दु युगीन पुनर्जागरण का सजीव इतिहास समाहित है।",
+  "cover_image": "",
+  "published_year": 1904,
+  "keywords": [
+    "bharatendu harishchandra",
+    "radhakrishna das",
+    "jivan charitra",
+    "biography",
+    "nagari pracharini sabha"
+  ],
+  "total_words": 36158,
+  "total_chapters": 7,
+  "estimated_reading_minutes": 201,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १: वंश-परिचय एवं बाल्यावस्था",
+      "block_count": 133,
+      "word_count": 4346,
+      "estimated_minutes": 24,
+      "file": "content/books/bharatendu-jivan-charitra/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २: विद्याभ्यास, यात्रा एवं साहित्यिक अभिरुचि",
+      "block_count": 95,
+      "word_count": 4746,
+      "estimated_minutes": 26,
+      "file": "content/books/bharatendu-jivan-charitra/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३: रचनाएँ, नाटक एवं पत्र-पत्रिकाएँ",
+      "block_count": 533,
+      "word_count": 7131,
+      "estimated_minutes": 40,
+      "file": "content/books/bharatendu-jivan-charitra/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४: साहित्य-सेवा, मित्रता एवं दानशीलता",
+      "block_count": 393,
+      "word_count": 5308,
+      "estimated_minutes": 29,
+      "file": "content/books/bharatendu-jivan-charitra/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५: जीवन की अंतिम अवस्था एवं देहावसान",
+      "block_count": 530,
+      "word_count": 6060,
+      "estimated_minutes": 34,
+      "file": "content/books/bharatendu-jivan-charitra/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६: भारतेन्दु जी का व्यक्तित्व एवं हिन्दी साहित्य पर प्रभाव",
+      "block_count": 360,
+      "word_count": 3828,
+      "estimated_minutes": 21,
+      "file": "content/books/bharatendu-jivan-charitra/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७: ग्रन्थों की प्रामाणिक सूची",
+      "block_count": 422,
+      "word_count": 4739,
+      "estimated_minutes": 26,
+      "file": "content/books/bharatendu-jivan-charitra/ch_07.json"
+    }
+  ]
+}

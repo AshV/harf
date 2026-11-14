@@ -1,0 +1,312 @@
+{
+  "id": "dewangana",
+  "title": "देवांगना",
+  "title_en": "Dewangana",
+  "author": "आचार्य चतुरसेन शास्त्री",
+  "author_en": "Acharya Chatursen Shastri",
+  "category": "उपन्यास",
+  "category_en": "Novel / Historical Fiction",
+  "description": "प्राचीन भारत की सांस्कृतिक राजधानी वाराणसी और बौद्ध विहारों की पृष्ठभूमि पर आधारित आचार्य चतुरसेन शास्त्री का कालजयी ऐतिहासिक उपन्यास। धर्म, तांत्रिक रहस्यवाद, प्रेम और मानवीय नियति का सजीव चित्रण।",
+  "cover_image": "",
+  "published_year": 1920,
+  "keywords": [
+    "dewangana",
+    "acharya chatursen shastri",
+    "varanasi",
+    "historical novel",
+    "upanyas"
+  ],
+  "total_words": 32145,
+  "total_chapters": 32,
+  "estimated_reading_minutes": 179,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अँधेरी रात में",
+      "block_count": 78,
+      "word_count": 837,
+      "estimated_minutes": 5,
+      "file": "content/books/dewangana/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अभिसन्धि",
+      "block_count": 104,
+      "word_count": 1043,
+      "estimated_minutes": 6,
+      "file": "content/books/dewangana/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "आमुख",
+      "block_count": 36,
+      "word_count": 3395,
+      "estimated_minutes": 19,
+      "file": "content/books/dewangana/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "एकान्त मिलन",
+      "block_count": 79,
+      "word_count": 923,
+      "estimated_minutes": 5,
+      "file": "content/books/dewangana/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "कापालिक के चंगुल में",
+      "block_count": 105,
+      "word_count": 1205,
+      "estimated_minutes": 7,
+      "file": "content/books/dewangana/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "गुरु-शिष्य",
+      "block_count": 73,
+      "word_count": 746,
+      "estimated_minutes": 4,
+      "file": "content/books/dewangana/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "गुरु के सम्मुख",
+      "block_count": 104,
+      "word_count": 848,
+      "estimated_minutes": 5,
+      "file": "content/books/dewangana/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "गूढ़ योजना",
+      "block_count": 103,
+      "word_count": 970,
+      "estimated_minutes": 5,
+      "file": "content/books/dewangana/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "टेढ़ी चाल",
+      "block_count": 68,
+      "word_count": 613,
+      "estimated_minutes": 3,
+      "file": "content/books/dewangana/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "तलवार",
+      "block_count": 31,
+      "word_count": 378,
+      "estimated_minutes": 2,
+      "file": "content/books/dewangana/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "दुस्सह सम्वाद",
+      "block_count": 51,
+      "word_count": 455,
+      "estimated_minutes": 3,
+      "file": "content/books/dewangana/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "द्वार प्रवेश",
+      "block_count": 74,
+      "word_count": 827,
+      "estimated_minutes": 5,
+      "file": "content/books/dewangana/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "धनंजय श्रेष्ठि का परिवार",
+      "block_count": 19,
+      "word_count": 130,
+      "estimated_minutes": 1,
+      "file": "content/books/dewangana/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "प्रतिमा",
+      "block_count": 180,
+      "word_count": 2251,
+      "estimated_minutes": 13,
+      "file": "content/books/dewangana/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "प्रव्रज्या",
+      "block_count": 49,
+      "word_count": 528,
+      "estimated_minutes": 3,
+      "file": "content/books/dewangana/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "प्रसव",
+      "block_count": 58,
+      "word_count": 719,
+      "estimated_minutes": 4,
+      "file": "content/books/dewangana/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "प्रेमोन्माद",
+      "block_count": 57,
+      "word_count": 651,
+      "estimated_minutes": 4,
+      "file": "content/books/dewangana/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "बन्दीगृह में",
+      "block_count": 82,
+      "word_count": 749,
+      "estimated_minutes": 4,
+      "file": "content/books/dewangana/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "मनोहर प्रभात",
+      "block_count": 113,
+      "word_count": 1079,
+      "estimated_minutes": 6,
+      "file": "content/books/dewangana/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "मन्दिर में",
+      "block_count": 165,
+      "word_count": 1816,
+      "estimated_minutes": 10,
+      "file": "content/books/dewangana/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "महातामस",
+      "block_count": 25,
+      "word_count": 352,
+      "estimated_minutes": 2,
+      "file": "content/books/dewangana/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "रंग में भंग",
+      "block_count": 107,
+      "word_count": 1215,
+      "estimated_minutes": 7,
+      "file": "content/books/dewangana/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "रहस्योद्घाटन",
+      "block_count": 70,
+      "word_count": 609,
+      "estimated_minutes": 3,
+      "file": "content/books/dewangana/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "राजा का साला",
+      "block_count": 184,
+      "word_count": 2023,
+      "estimated_minutes": 11,
+      "file": "content/books/dewangana/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "वज्रगुरु",
+      "block_count": 53,
+      "word_count": 781,
+      "estimated_minutes": 4,
+      "file": "content/books/dewangana/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "वज्रतारा का मन्दिर",
+      "block_count": 85,
+      "word_count": 1042,
+      "estimated_minutes": 6,
+      "file": "content/books/dewangana/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "वाराणसी",
+      "block_count": 58,
+      "word_count": 743,
+      "estimated_minutes": 4,
+      "file": "content/books/dewangana/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "विहार",
+      "block_count": 108,
+      "word_count": 1505,
+      "estimated_minutes": 8,
+      "file": "content/books/dewangana/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "समारोह",
+      "block_count": 123,
+      "word_count": 1499,
+      "estimated_minutes": 8,
+      "file": "content/books/dewangana/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "सिद्धेश्वर का कोप",
+      "block_count": 70,
+      "word_count": 720,
+      "estimated_minutes": 4,
+      "file": "content/books/dewangana/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "सुखानन्द",
+      "block_count": 75,
+      "word_count": 869,
+      "estimated_minutes": 5,
+      "file": "content/books/dewangana/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "सुखानन्द का आगमन",
+      "block_count": 67,
+      "word_count": 624,
+      "estimated_minutes": 3,
+      "file": "content/books/dewangana/ch_32.json"
+    }
+  ]
+}

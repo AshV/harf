@@ -1,0 +1,61 @@
+{
+  "id": "anand-math",
+  "title": "आनन्द मठ",
+  "title_en": "Anand Math",
+  "author": "बंकिमचंद्र चट्टोपाध्याय",
+  "author_en": "Bankim Chandra Chattopadhyay",
+  "category": "उपन्यास",
+  "category_en": "Novel / Patriotic Classic",
+  "description": "भारत के राष्ट्रीय गीत 'वन्दे मातरम्' का उद्गम स्थल — अमर देशभक्ति उपन्यास। संन्यासी विद्रोह (१७७३) और अकाल की त्रासदी की पृष्ठभूमि में राष्ट्र-मुक्ति के लिए सर्वस्व अर्पण करने वाली संतान सेना का ओजस्वी आख्यान।",
+  "cover_image": "",
+  "published_year": 1922,
+  "keywords": [
+    "anand math",
+    "bankim chandra",
+    "vande mataram",
+    "ishwari prasad sharma",
+    "sanyasi vidroh",
+    "upanyas"
+  ],
+  "total_words": 47259,
+  "total_chapters": 4,
+  "estimated_reading_minutes": 263,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रथम खंड (कथा मुख एवं परिच्छेद १ से १८)",
+      "block_count": 737,
+      "word_count": 22809,
+      "estimated_minutes": 127,
+      "file": "content/books/anand-math/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "द्वितीय खंड (परिच्छेद १ से ८)",
+      "block_count": 318,
+      "word_count": 6742,
+      "estimated_minutes": 37,
+      "file": "content/books/anand-math/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तृतीय खंड (परिच्छेद १ से १२)",
+      "block_count": 438,
+      "word_count": 10784,
+      "estimated_minutes": 60,
+      "file": "content/books/anand-math/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चतुर्थ खंड (परिच्छेद १ से ८ एवं उपसंहार)",
+      "block_count": 248,
+      "word_count": 6924,
+      "estimated_minutes": 38,
+      "file": "content/books/anand-math/ch_04.json"
+    }
+  ]
+}

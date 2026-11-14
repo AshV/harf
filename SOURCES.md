@@ -784,3 +784,63 @@
 
 ---
 
+### 66. माधवराव सप्रे की कहानियाँ (Madhavrao Sapre Ki Kahaniyan)
+- **रचनाकार (Author):** पं. माधवराव सप्रे (Pt. Madhavrao Sapre)
+- **विधा (Category):** कहानी संग्रह (Short Stories)
+- **मूल प्रकाशन वर्ष (Published Year):** 1901
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/माधवराव_सप्रे_की_कहानियाँ)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 9 भाग / अध्याय
+- **सत्यापन टिप्पणी:** पं. माधवराव सप्रे (१८७१–१९२६) द्वारा रचित हिन्दी की प्रथम मौलिक कहानी एक टोकरी भर मिट्‌टी (छत्तीसगढ़ मित्र, १९०१) व अन्य प्रतिनिधि कहानियों का संग्रह।
+
+---
+
+### 67. देवांगना (Dewangana)
+- **रचनाकार (Author):** आचार्य चतुरसेन शास्त्री (Acharya Chatursen Shastri)
+- **विधा (Category):** उपन्यास (Novel / Historical Fiction)
+- **मूल प्रकाशन वर्ष (Published Year):** 1920
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/देवांगना)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 32 भाग / अध्याय
+- **सत्यापन टिप्पणी:** आचार्य चतुरसेन शास्त्री (१८९१–१९६०) का प्राचीन काशी की पृष्ठभूमि पर रचित ऐतिहासिक उपन्यास, भारतीय कॉपीराइट अधिनियम १९५७ के तहत सार्वजनिक डोमेन।
+
+---
+
+### 68. कुछ विचार (Kuch Vichar)
+- **रचनाकार (Author):** मुंशी प्रेमचंद (Munshi Premchand)
+- **विधा (Category):** निबन्ध (Essays / Literary Criticism)
+- **मूल प्रकाशन वर्ष (Published Year):** 1939
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/कुछ_विचार)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 11 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९३९ सरस्वती प्रेस, बनारस से सत्यापित मुंशी प्रेमचंद के ११ प्रतिनिधि आलोचनात्मक व वैचारिक निबन्ध।
+
+---
+
+### 69. भारतेन्दु बाबू हरिश्चंद्र का जीवन चरित्र (Bharatendu Babu Harishchandra Ka Jivan Charitra)
+- **रचनाकार (Author):** बाबू राधाकृष्ण दास (Babu Radhakrishna Das)
+- **विधा (Category):** जीवनी (Biography / Memoir)
+- **मूल प्रकाशन वर्ष (Published Year):** 1904
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/भारतेन्दु_बाबू_हरिश्चंद्र_का_जीवन_चरित्र)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 7 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९०४ काशी नागरीप्रचारिणी सभा ग्रन्थमाला (संख्या ६) से सत्यापित भारतेन्दु हरिश्चंद्र की प्रथम प्रामाणिक जीवनी।
+
+---
+
+### 70. आनन्द मठ (Anand Math)
+- **रचनाकार (Author):** बंकिमचंद्र चट्टोपाध्याय (Bankim Chandra Chattopadhyay)
+- **विधा (Category):** उपन्यास (Novel / Patriotic Classic)
+- **मूल प्रकाशन वर्ष (Published Year):** 1922
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/आनन्द_मठ)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 4 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२२ पं. ईश्वरीप्रसाद शर्मा द्वारा अनूदित व हिन्दी पुस्तक एजेंसी से प्रकाशित प्रामाणिक संस्करण, वन्दे मातरम् राष्ट्रगीत का मूल स्रोत।
+
+---
+

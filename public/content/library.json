@@ -92,6 +92,28 @@
     ]
   },
   {
+    "id": "anand-math",
+    "title": "आनन्द मठ",
+    "title_en": "Anand Math",
+    "author": "बंकिमचंद्र चट्टोपाध्याय",
+    "author_en": "Bankim Chandra Chattopadhyay",
+    "category": "उपन्यास",
+    "category_en": "Novel / Patriotic Classic",
+    "description": "भारत के राष्ट्रीय गीत 'वन्दे मातरम्' का उद्गम स्थल — अमर देशभक्ति उपन्यास। संन्यासी विद्रोह (१७७३) और अकाल की त्रासदी की पृष्ठभूमि में राष्ट्र-मुक्ति के लिए सर्वस्व अर्पण करने वाली संतान सेना का ओजस्वी आख्यान।",
+    "cover_image": "",
+    "published_year": 1922,
+    "total_chapters": 4,
+    "estimated_reading_minutes": 263,
+    "keywords": [
+      "anand math",
+      "bankim chandra",
+      "vande mataram",
+      "ishwari prasad sharma",
+      "sanyasi vidroh",
+      "upanyas"
+    ]
+  },
+  {
     "id": "andher-nagari",
     "title": "अंधेर नगरी",
     "title_en": "Andher Nagari",
@@ -180,6 +202,27 @@
       "rashtriya",
       "satire",
       "drama"
+    ]
+  },
+  {
+    "id": "bharatendu-jivan-charitra",
+    "title": "भारतेन्दु बाबू हरिश्चंद्र का जीवन चरित्र",
+    "title_en": "Bharatendu Babu Harishchandra Ka Jivan Charitra",
+    "author": "बाबू राधाकृष्ण दास",
+    "author_en": "Babu Radhakrishna Das",
+    "category": "जीवनी",
+    "category_en": "Biography / Memoir",
+    "description": "आधुनिक हिन्दी के जनक भारतेन्दु हरिश्चंद्र की प्रथम प्रामाणिक एवं विस्तृत जीवनी। नागरी प्रचारिणी सभा के संस्थापक सदस्य बाबू राधाकृष्ण दास द्वारा रचित ऐतिहासिक जीवनी, जिसमें भारतेन्दु युगीन पुनर्जागरण का सजीव इतिहास समाहित है।",
+    "cover_image": "",
+    "published_year": 1904,
+    "total_chapters": 7,
+    "estimated_reading_minutes": 201,
+    "keywords": [
+      "bharatendu harishchandra",
+      "radhakrishna das",
+      "jivan charitra",
+      "biography",
+      "nagari pracharini sabha"
     ]
   },
   {
@@ -415,6 +458,27 @@
       "theth hindi",
       "kavita",
       "chaupade"
+    ]
+  },
+  {
+    "id": "dewangana",
+    "title": "देवांगना",
+    "title_en": "Dewangana",
+    "author": "आचार्य चतुरसेन शास्त्री",
+    "author_en": "Acharya Chatursen Shastri",
+    "category": "उपन्यास",
+    "category_en": "Novel / Historical Fiction",
+    "description": "प्राचीन भारत की सांस्कृतिक राजधानी वाराणसी और बौद्ध विहारों की पृष्ठभूमि पर आधारित आचार्य चतुरसेन शास्त्री का कालजयी ऐतिहासिक उपन्यास। धर्म, तांत्रिक रहस्यवाद, प्रेम और मानवीय नियति का सजीव चित्रण।",
+    "cover_image": "",
+    "published_year": 1920,
+    "total_chapters": 32,
+    "estimated_reading_minutes": 179,
+    "keywords": [
+      "dewangana",
+      "acharya chatursen shastri",
+      "varanasi",
+      "historical novel",
+      "upanyas"
     ]
   },
   {
@@ -764,6 +828,28 @@
       "reincarnation",
       "social novel",
       "upanyas"
+    ]
+  },
+  {
+    "id": "kuch-vichar",
+    "title": "कुछ विचार",
+    "title_en": "Kuch Vichar",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "निबन्ध",
+    "category_en": "Essays / Literary Criticism",
+    "description": "मुंशी प्रेमचंद के अमर साहित्यिक एवं आलोचनात्मक निबन्धों का प्रामाणिक संकलन। साहित्य की परिभाषा, कहानी व उपन्यास की रचना-प्रक्रिया, राष्ट्रभाषा की समस्या और प्रगतिशील सौन्दर्यशास्त्र पर कालजयी विचार।",
+    "cover_image": "",
+    "published_year": 1939,
+    "total_chapters": 11,
+    "estimated_reading_minutes": 235,
+    "keywords": [
+      "kuch vichar",
+      "munshi premchand",
+      "sahitya ka uddeshya",
+      "kahani kala",
+      "nibandh",
+      "literary criticism"
     ]
   },
   {
@@ -1268,6 +1354,27 @@
       "social drama",
       "kisan andolan",
       "natak"
+    ]
+  },
+  {
+    "id": "sapre-kahaniyan",
+    "title": "माधवराव सप्रे की कहानियाँ",
+    "title_en": "Madhavrao Sapre Ki Kahaniyan",
+    "author": "पं. माधवराव सप्रे",
+    "author_en": "Pt. Madhavrao Sapre",
+    "category": "कहानी संग्रह",
+    "category_en": "Short Stories",
+    "description": "हिन्दी कहानी के जनक पं. माधवराव सप्रे की अमर कहानियों का संकलन, जिसमें हिन्दी की प्रथम मौलिक आधुनिक कहानी 'एक टोकरी भर मिट्‌टी' (१९०१) तथा अन्य विचारोत्तेजक कथाएँ समाहित हैं।",
+    "cover_image": "",
+    "published_year": 1901,
+    "total_chapters": 9,
+    "estimated_reading_minutes": 91,
+    "keywords": [
+      "madhavrao sapre",
+      "ek tokri bhar mitti",
+      "first hindi story",
+      "hindi kahaniya",
+      "sapre"
     ]
   },
   {
