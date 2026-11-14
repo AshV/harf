@@ -283,6 +283,30 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://harf.pages.dev/#/book/chandrakanta-santati-5</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/chandrakanta-santati-5/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/book/chandrakanta-santati-6</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/chandrakanta-santati-6/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://harf.pages.dev/#/book/chaturi-chamar</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -499,6 +523,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://harf.pages.dev/#/book/katora-bhar-khoon</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/katora-bhar-khoon/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://harf.pages.dev/#/book/kavita-kaumudi-1</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -638,6 +674,18 @@
   </url>
   <url>
     <loc>https://harf.pages.dev/#/read/natyasambhav/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/book/nav-nidhi</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/nav-nidhi/ch_01</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -818,6 +866,18 @@
   </url>
   <url>
     <loc>https://harf.pages.dev/#/read/rahim-dohavali/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/book/raksha-bandhan</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/raksha-bandhan/ch_01</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

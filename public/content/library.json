@@ -524,6 +524,53 @@
     ]
   },
   {
+    "id": "chandrakanta-santati-5",
+    "title": "चंद्रकांता संतति (भाग ५)",
+    "title_en": "Chandrakanta Santati Part 5",
+    "author": "देवकीनंदन खत्री",
+    "author_en": "Devaki Nandan Khatri",
+    "category": "उपन्यास",
+    "category_en": "Novel / Mystery & Fantasy",
+    "description": "हिन्दी के प्रथम तिलिस्मी-ऐयारी महा-उपन्यास की पाँचवीं कड़ी। रोहतासगढ़, चुनार, खोह के रहस्य, भूतनाथ और ऐयारों की अद्भुत चालों और तिलिस्मी तहखानों से भरपूर बयान १७ से २० तक का सम्पूर्ण रोमांचक आख्यान।",
+    "cover_image": "",
+    "published_year": 1896,
+    "total_chapters": 59,
+    "estimated_reading_minutes": 611,
+    "keywords": [
+      "chandrakanta santati",
+      "devaki nandan khatri",
+      "bhootnath",
+      "tilasm",
+      "aiyari",
+      "fantasy novel",
+      "part 5"
+    ]
+  },
+  {
+    "id": "chandrakanta-santati-6",
+    "title": "चंद्रकांता संतति (भाग ६)",
+    "title_en": "Chandrakanta Santati Part 6",
+    "author": "देवकीनंदन खत्री",
+    "author_en": "Devaki Nandan Khatri",
+    "category": "उपन्यास",
+    "category_en": "Novel / Mystery & Fantasy",
+    "description": "हिन्दी साहित्य के सर्वश्रेष्ठ तिलिस्मी-ऐयारी महाकाव्यात्मक उपन्यास की अन्तिम एवं निर्णायक कड़ी। तिलिस्म का रहस्योद्घाटन, रोहतासगढ़ के रहस्यों का पटाक्षेप, मायारानी व दुश्मनों का अन्त और सभी ऐयारों का भव्य संगम। बयान २१ से २४ का सम्पूर्ण चरम रोमांच।",
+    "cover_image": "",
+    "published_year": 1896,
+    "total_chapters": 45,
+    "estimated_reading_minutes": 610,
+    "keywords": [
+      "chandrakanta santati",
+      "devaki nandan khatri",
+      "bhootnath",
+      "tilasm",
+      "aiyari",
+      "fantasy novel",
+      "part 6",
+      "finale"
+    ]
+  },
+  {
     "id": "chaturi-chamar",
     "title": "चतुरी चमार",
     "title_en": "Chaturi Chamar",
@@ -938,6 +985,28 @@
     ]
   },
   {
+    "id": "katora-bhar-khoon",
+    "title": "कटोरा भर खून",
+    "title_en": "Katora Bhar Khoon",
+    "author": "देवकीनंदन खत्री",
+    "author_en": "Devaki Nandan Khatri",
+    "category": "उपन्यास",
+    "category_en": "Novel / Detective & Mystery",
+    "description": "बाबू देवकीनन्दन खत्री द्वारा रचित ऐतिहासिक रहस्य-रोमांच और जासूसी उपन्यास। राजमहल के षड्यंत्र, भयानक हत्या, कटोरा भर ताज़ा ख़ून का रहस्य और निर्दोषों को बचाने की जासूसी खोज का १६ अध्यायों में फैला अत्यंत रोमांचक आख्यान।",
+    "cover_image": "",
+    "published_year": 1901,
+    "total_chapters": 16,
+    "estimated_reading_minutes": 158,
+    "keywords": [
+      "katora bhar khoon",
+      "devaki nandan khatri",
+      "detective novel",
+      "mystery",
+      "crime fiction",
+      "hindi classic"
+    ]
+  },
+  {
     "id": "kavita-kaumudi-1",
     "title": "कविता-कौमुदी (भाग १)",
     "title_en": "Kavita Kaumudi Part 1",
@@ -1207,6 +1276,28 @@
       "classical play",
       "natak",
       "mythological drama"
+    ]
+  },
+  {
+    "id": "nav-nidhi",
+    "title": "नव-निधि",
+    "title_en": "Nav-Nidhi",
+    "author": "प्रेमचंद",
+    "author_en": "Premchand",
+    "category": "कहानी",
+    "category_en": "Short Stories / Classical Fiction",
+    "description": "मुंशी प्रेमचंद के कालजयी नौ ऐतिहासिक व सामाजिक कथा-रत्नों का प्रसिद्ध संग्रह—राजा हरदौल, रानी-सारन्धा, मर्यादा की वेदी, पाप का अग्निकुण्ड, धोखा, अमावस्या की रात्रि, ममता, पछतावा और जुगुनू की चमक। भारतीय त्याग, शौर्य और मानवीय संवेदनाओं का अमिट दस्तावेज।",
+    "cover_image": "",
+    "published_year": 1917,
+    "total_chapters": 9,
+    "estimated_reading_minutes": 218,
+    "keywords": [
+      "nav nidhi",
+      "premchand",
+      "raja hardaul",
+      "rani sarandha",
+      "hindi kahani",
+      "classic stories"
     ]
   },
   {
@@ -1549,6 +1640,28 @@
       "bhakti",
       "barvai",
       "madanashthak"
+    ]
+  },
+  {
+    "id": "raksha-bandhan",
+    "title": "रक्षा बंधन",
+    "title_en": "Raksha Bandhan",
+    "author": "विश्वम्भरनाथ शर्मा 'कौशिक'",
+    "author_en": "Pt. Vishwambharnath Sharma 'Kaushik'",
+    "category": "कहानी",
+    "category_en": "Short Stories / Social Realism",
+    "description": "पं. विश्वम्भरनाथ शर्मा 'कौशिक' का सुप्रसिद्ध २४ कहानियों का प्रतिनिधि संग्रह। शीर्षक कहानी 'रक्षा-बन्धन' के साथ-साथ तत्कालीन समाज, मानवीय संबंधों, हास्य-व्यंग्य और मध्यमवर्गीय जीवन की विसंगतियों का मार्मिक एवं जीवंत चित्रण।",
+    "cover_image": "",
+    "published_year": 1920,
+    "total_chapters": 24,
+    "estimated_reading_minutes": 246,
+    "keywords": [
+      "raksha bandhan",
+      "vishwambharnath sharma kaushik",
+      "kaushik ji",
+      "short stories",
+      "social realism",
+      "hindi literature"
     ]
   },
   {

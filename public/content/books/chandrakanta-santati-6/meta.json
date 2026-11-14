@@ -1,0 +1,432 @@
+{
+  "id": "chandrakanta-santati-6",
+  "title": "चंद्रकांता संतति (भाग ६)",
+  "title_en": "Chandrakanta Santati Part 6",
+  "author": "देवकीनंदन खत्री",
+  "author_en": "Devaki Nandan Khatri",
+  "category": "उपन्यास",
+  "category_en": "Novel / Mystery & Fantasy",
+  "description": "हिन्दी साहित्य के सर्वश्रेष्ठ तिलिस्मी-ऐयारी महाकाव्यात्मक उपन्यास की अन्तिम एवं निर्णायक कड़ी। तिलिस्म का रहस्योद्घाटन, रोहतासगढ़ के रहस्यों का पटाक्षेप, मायारानी व दुश्मनों का अन्त और सभी ऐयारों का भव्य संगम। बयान २१ से २४ का सम्पूर्ण चरम रोमांच।",
+  "cover_image": "",
+  "published_year": 1896,
+  "keywords": [
+    "chandrakanta santati",
+    "devaki nandan khatri",
+    "bhootnath",
+    "tilasm",
+    "aiyari",
+    "fantasy novel",
+    "part 6",
+    "finale"
+  ],
+  "total_words": 109774,
+  "total_chapters": 45,
+  "estimated_reading_minutes": 610,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "बयान 21 - भाग 1",
+      "block_count": 9,
+      "word_count": 329,
+      "estimated_minutes": 2,
+      "file": "content/books/chandrakanta-santati-6/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "बयान 21 - भाग 2",
+      "block_count": 307,
+      "word_count": 8366,
+      "estimated_minutes": 46,
+      "file": "content/books/chandrakanta-santati-6/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "बयान 21 - भाग 3",
+      "block_count": 15,
+      "word_count": 411,
+      "estimated_minutes": 2,
+      "file": "content/books/chandrakanta-santati-6/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "बयान 21 - भाग 4",
+      "block_count": 167,
+      "word_count": 4730,
+      "estimated_minutes": 26,
+      "file": "content/books/chandrakanta-santati-6/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "बयान 21 - भाग 5",
+      "block_count": 93,
+      "word_count": 3187,
+      "estimated_minutes": 18,
+      "file": "content/books/chandrakanta-santati-6/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "बयान 21 - भाग 6",
+      "block_count": 16,
+      "word_count": 959,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-6/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "बयान 21 - भाग 7",
+      "block_count": 105,
+      "word_count": 1481,
+      "estimated_minutes": 8,
+      "file": "content/books/chandrakanta-santati-6/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "बयान 21 - भाग 8",
+      "block_count": 30,
+      "word_count": 814,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-6/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "बयान 21 - भाग 9",
+      "block_count": 41,
+      "word_count": 2332,
+      "estimated_minutes": 13,
+      "file": "content/books/chandrakanta-santati-6/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "बयान 21 - भाग 10",
+      "block_count": 46,
+      "word_count": 1998,
+      "estimated_minutes": 11,
+      "file": "content/books/chandrakanta-santati-6/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "बयान 21 - भाग 11",
+      "block_count": 41,
+      "word_count": 1883,
+      "estimated_minutes": 10,
+      "file": "content/books/chandrakanta-santati-6/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "बयान 21 - भाग 12",
+      "block_count": 52,
+      "word_count": 1477,
+      "estimated_minutes": 8,
+      "file": "content/books/chandrakanta-santati-6/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "बयान 22 - भाग 1",
+      "block_count": 73,
+      "word_count": 3442,
+      "estimated_minutes": 19,
+      "file": "content/books/chandrakanta-santati-6/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "बयान 22 - भाग 2",
+      "block_count": 25,
+      "word_count": 936,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-6/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "बयान 22 - भाग 3",
+      "block_count": 54,
+      "word_count": 2855,
+      "estimated_minutes": 16,
+      "file": "content/books/chandrakanta-santati-6/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "बयान 22 - भाग 4",
+      "block_count": 201,
+      "word_count": 4465,
+      "estimated_minutes": 25,
+      "file": "content/books/chandrakanta-santati-6/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "बयान 22 - भाग 5",
+      "block_count": 23,
+      "word_count": 564,
+      "estimated_minutes": 3,
+      "file": "content/books/chandrakanta-santati-6/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "बयान 22 - भाग 6",
+      "block_count": 135,
+      "word_count": 3695,
+      "estimated_minutes": 21,
+      "file": "content/books/chandrakanta-santati-6/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "बयान 22 - भाग 7",
+      "block_count": 96,
+      "word_count": 1857,
+      "estimated_minutes": 10,
+      "file": "content/books/chandrakanta-santati-6/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "बयान 22 - भाग 8",
+      "block_count": 125,
+      "word_count": 1556,
+      "estimated_minutes": 9,
+      "file": "content/books/chandrakanta-santati-6/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "बयान 22 - भाग 9",
+      "block_count": 136,
+      "word_count": 1894,
+      "estimated_minutes": 11,
+      "file": "content/books/chandrakanta-santati-6/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "बयान 22 - भाग 10",
+      "block_count": 267,
+      "word_count": 3146,
+      "estimated_minutes": 17,
+      "file": "content/books/chandrakanta-santati-6/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "बयान 22 - भाग 12",
+      "block_count": 62,
+      "word_count": 950,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-6/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "बयान 22 - भाग 13",
+      "block_count": 99,
+      "word_count": 1370,
+      "estimated_minutes": 8,
+      "file": "content/books/chandrakanta-santati-6/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "बयान 22 - भाग 14",
+      "block_count": 132,
+      "word_count": 1795,
+      "estimated_minutes": 10,
+      "file": "content/books/chandrakanta-santati-6/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "बयान 23 - भाग 1",
+      "block_count": 148,
+      "word_count": 2700,
+      "estimated_minutes": 15,
+      "file": "content/books/chandrakanta-santati-6/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "बयान 23 - भाग 2",
+      "block_count": 34,
+      "word_count": 1437,
+      "estimated_minutes": 8,
+      "file": "content/books/chandrakanta-santati-6/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "बयान 23 - भाग 3",
+      "block_count": 177,
+      "word_count": 2368,
+      "estimated_minutes": 13,
+      "file": "content/books/chandrakanta-santati-6/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "बयान 23 - भाग 4",
+      "block_count": 102,
+      "word_count": 1265,
+      "estimated_minutes": 7,
+      "file": "content/books/chandrakanta-santati-6/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "बयान 23 - भाग 5",
+      "block_count": 66,
+      "word_count": 810,
+      "estimated_minutes": 5,
+      "file": "content/books/chandrakanta-santati-6/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "बयान 23 - भाग 6",
+      "block_count": 66,
+      "word_count": 1012,
+      "estimated_minutes": 6,
+      "file": "content/books/chandrakanta-santati-6/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "बयान 23 - भाग 7",
+      "block_count": 201,
+      "word_count": 3044,
+      "estimated_minutes": 17,
+      "file": "content/books/chandrakanta-santati-6/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "बयान 23 - भाग 8",
+      "block_count": 29,
+      "word_count": 1125,
+      "estimated_minutes": 6,
+      "file": "content/books/chandrakanta-santati-6/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "बयान 23 - भाग 9",
+      "block_count": 258,
+      "word_count": 6050,
+      "estimated_minutes": 34,
+      "file": "content/books/chandrakanta-santati-6/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "बयान 23 - भाग 10",
+      "block_count": 155,
+      "word_count": 3098,
+      "estimated_minutes": 17,
+      "file": "content/books/chandrakanta-santati-6/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "बयान 23 - भाग 11",
+      "block_count": 290,
+      "word_count": 3840,
+      "estimated_minutes": 21,
+      "file": "content/books/chandrakanta-santati-6/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "बयान 23 - भाग 12",
+      "block_count": 113,
+      "word_count": 1493,
+      "estimated_minutes": 8,
+      "file": "content/books/chandrakanta-santati-6/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "बयान 24 - भाग 1",
+      "block_count": 448,
+      "word_count": 8408,
+      "estimated_minutes": 47,
+      "file": "content/books/chandrakanta-santati-6/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "बयान 24 - भाग 2",
+      "block_count": 105,
+      "word_count": 3849,
+      "estimated_minutes": 21,
+      "file": "content/books/chandrakanta-santati-6/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "बयान 24 - भाग 3",
+      "block_count": 115,
+      "word_count": 3549,
+      "estimated_minutes": 20,
+      "file": "content/books/chandrakanta-santati-6/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "बयान 24 - भाग 4",
+      "block_count": 24,
+      "word_count": 555,
+      "estimated_minutes": 3,
+      "file": "content/books/chandrakanta-santati-6/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "बयान 24 - भाग 5",
+      "block_count": 75,
+      "word_count": 1757,
+      "estimated_minutes": 10,
+      "file": "content/books/chandrakanta-santati-6/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "बयान 24 - भाग 6",
+      "block_count": 32,
+      "word_count": 1060,
+      "estimated_minutes": 6,
+      "file": "content/books/chandrakanta-santati-6/ch_43.json"
+    },
+    {
+      "id": "ch_44",
+      "number": 44,
+      "title": "बयान 24 - भाग 7",
+      "block_count": 158,
+      "word_count": 3597,
+      "estimated_minutes": 20,
+      "file": "content/books/chandrakanta-santati-6/ch_44.json"
+    },
+    {
+      "id": "ch_45",
+      "number": 45,
+      "title": "बयान 24 - भाग 8",
+      "block_count": 61,
+      "word_count": 2265,
+      "estimated_minutes": 13,
+      "file": "content/books/chandrakanta-santati-6/ch_45.json"
+    }
+  ]
+}

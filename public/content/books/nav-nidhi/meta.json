@@ -1,0 +1,106 @@
+{
+  "id": "nav-nidhi",
+  "title": "नव-निधि",
+  "title_en": "Nav-Nidhi",
+  "author": "प्रेमचंद",
+  "author_en": "Premchand",
+  "category": "कहानी",
+  "category_en": "Short Stories / Classical Fiction",
+  "description": "मुंशी प्रेमचंद के कालजयी नौ ऐतिहासिक व सामाजिक कथा-रत्नों का प्रसिद्ध संग्रह—राजा हरदौल, रानी-सारन्धा, मर्यादा की वेदी, पाप का अग्निकुण्ड, धोखा, अमावस्या की रात्रि, ममता, पछतावा और जुगुनू की चमक। भारतीय त्याग, शौर्य और मानवीय संवेदनाओं का अमिट दस्तावेज।",
+  "cover_image": "",
+  "published_year": 1917,
+  "keywords": [
+    "nav nidhi",
+    "premchand",
+    "raja hardaul",
+    "rani sarandha",
+    "hindi kahani",
+    "classic stories"
+  ],
+  "total_words": 39240,
+  "total_chapters": 9,
+  "estimated_reading_minutes": 218,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "राजा हरदौल",
+      "block_count": 67,
+      "word_count": 5007,
+      "estimated_minutes": 28,
+      "file": "content/books/nav-nidhi/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "रानी-सारन्धा",
+      "block_count": 181,
+      "word_count": 5551,
+      "estimated_minutes": 31,
+      "file": "content/books/nav-nidhi/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "मर्यादा की वेदी",
+      "block_count": 170,
+      "word_count": 5604,
+      "estimated_minutes": 31,
+      "file": "content/books/nav-nidhi/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "पाप का अग्निकुण्ड",
+      "block_count": 116,
+      "word_count": 3626,
+      "estimated_minutes": 20,
+      "file": "content/books/nav-nidhi/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "धोखा",
+      "block_count": 147,
+      "word_count": 2961,
+      "estimated_minutes": 16,
+      "file": "content/books/nav-nidhi/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अमावस्या की रात्रि",
+      "block_count": 194,
+      "word_count": 3545,
+      "estimated_minutes": 20,
+      "file": "content/books/nav-nidhi/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "ममता",
+      "block_count": 96,
+      "word_count": 4952,
+      "estimated_minutes": 28,
+      "file": "content/books/nav-nidhi/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "पछतावा",
+      "block_count": 104,
+      "word_count": 4407,
+      "estimated_minutes": 24,
+      "file": "content/books/nav-nidhi/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "जुगुनू की चमक",
+      "block_count": 122,
+      "word_count": 3587,
+      "estimated_minutes": 20,
+      "file": "content/books/nav-nidhi/ch_09.json"
+    }
+  ]
+}

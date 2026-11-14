@@ -1,0 +1,169 @@
+{
+  "id": "katora-bhar-khoon",
+  "title": "कटोरा भर खून",
+  "title_en": "Katora Bhar Khoon",
+  "author": "देवकीनंदन खत्री",
+  "author_en": "Devaki Nandan Khatri",
+  "category": "उपन्यास",
+  "category_en": "Novel / Detective & Mystery",
+  "description": "बाबू देवकीनन्दन खत्री द्वारा रचित ऐतिहासिक रहस्य-रोमांच और जासूसी उपन्यास। राजमहल के षड्यंत्र, भयानक हत्या, कटोरा भर ताज़ा ख़ून का रहस्य और निर्दोषों को बचाने की जासूसी खोज का १६ अध्यायों में फैला अत्यंत रोमांचक आख्यान।",
+  "cover_image": "",
+  "published_year": 1901,
+  "keywords": [
+    "katora bhar khoon",
+    "devaki nandan khatri",
+    "detective novel",
+    "mystery",
+    "crime fiction",
+    "hindi classic"
+  ],
+  "total_words": 28507,
+  "total_chapters": 16,
+  "estimated_reading_minutes": 158,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १",
+      "block_count": 58,
+      "word_count": 1925,
+      "estimated_minutes": 11,
+      "file": "content/books/katora-bhar-khoon/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २",
+      "block_count": 71,
+      "word_count": 2465,
+      "estimated_minutes": 14,
+      "file": "content/books/katora-bhar-khoon/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३",
+      "block_count": 46,
+      "word_count": 1230,
+      "estimated_minutes": 7,
+      "file": "content/books/katora-bhar-khoon/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४",
+      "block_count": 40,
+      "word_count": 1466,
+      "estimated_minutes": 8,
+      "file": "content/books/katora-bhar-khoon/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५",
+      "block_count": 89,
+      "word_count": 2172,
+      "estimated_minutes": 12,
+      "file": "content/books/katora-bhar-khoon/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६",
+      "block_count": 35,
+      "word_count": 801,
+      "estimated_minutes": 4,
+      "file": "content/books/katora-bhar-khoon/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७",
+      "block_count": 45,
+      "word_count": 1807,
+      "estimated_minutes": 10,
+      "file": "content/books/katora-bhar-khoon/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय ८",
+      "block_count": 116,
+      "word_count": 3651,
+      "estimated_minutes": 20,
+      "file": "content/books/katora-bhar-khoon/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय ९",
+      "block_count": 53,
+      "word_count": 2215,
+      "estimated_minutes": 12,
+      "file": "content/books/katora-bhar-khoon/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अध्याय १०",
+      "block_count": 17,
+      "word_count": 635,
+      "estimated_minutes": 4,
+      "file": "content/books/katora-bhar-khoon/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "अध्याय ११",
+      "block_count": 64,
+      "word_count": 2716,
+      "estimated_minutes": 15,
+      "file": "content/books/katora-bhar-khoon/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "अध्याय १२",
+      "block_count": 86,
+      "word_count": 3443,
+      "estimated_minutes": 19,
+      "file": "content/books/katora-bhar-khoon/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "अध्याय १३",
+      "block_count": 55,
+      "word_count": 1473,
+      "estimated_minutes": 8,
+      "file": "content/books/katora-bhar-khoon/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "अध्याय १४",
+      "block_count": 38,
+      "word_count": 977,
+      "estimated_minutes": 5,
+      "file": "content/books/katora-bhar-khoon/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "अध्याय १५",
+      "block_count": 12,
+      "word_count": 1026,
+      "estimated_minutes": 6,
+      "file": "content/books/katora-bhar-khoon/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "अध्याय १६",
+      "block_count": 6,
+      "word_count": 505,
+      "estimated_minutes": 3,
+      "file": "content/books/katora-bhar-khoon/ch_16.json"
+    }
+  ]
+}

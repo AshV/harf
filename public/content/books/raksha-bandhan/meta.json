@@ -1,0 +1,241 @@
+{
+  "id": "raksha-bandhan",
+  "title": "रक्षा बंधन",
+  "title_en": "Raksha Bandhan",
+  "author": "विश्वम्भरनाथ शर्मा 'कौशिक'",
+  "author_en": "Pt. Vishwambharnath Sharma 'Kaushik'",
+  "category": "कहानी",
+  "category_en": "Short Stories / Social Realism",
+  "description": "पं. विश्वम्भरनाथ शर्मा 'कौशिक' का सुप्रसिद्ध २४ कहानियों का प्रतिनिधि संग्रह। शीर्षक कहानी 'रक्षा-बन्धन' के साथ-साथ तत्कालीन समाज, मानवीय संबंधों, हास्य-व्यंग्य और मध्यमवर्गीय जीवन की विसंगतियों का मार्मिक एवं जीवंत चित्रण।",
+  "cover_image": "",
+  "published_year": 1920,
+  "keywords": [
+    "raksha bandhan",
+    "vishwambharnath sharma kaushik",
+    "kaushik ji",
+    "short stories",
+    "social realism",
+    "hindi literature"
+  ],
+  "total_words": 44226,
+  "total_chapters": 24,
+  "estimated_reading_minutes": 246,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१-भक्त की टेर",
+      "block_count": 94,
+      "word_count": 1826,
+      "estimated_minutes": 10,
+      "file": "content/books/raksha-bandhan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "२-पत्रकार",
+      "block_count": 144,
+      "word_count": 1637,
+      "estimated_minutes": 9,
+      "file": "content/books/raksha-bandhan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "३-प्रतिहिंसा",
+      "block_count": 93,
+      "word_count": 1565,
+      "estimated_minutes": 9,
+      "file": "content/books/raksha-bandhan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "४-सहचर",
+      "block_count": 86,
+      "word_count": 1969,
+      "estimated_minutes": 11,
+      "file": "content/books/raksha-bandhan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "५-हवा",
+      "block_count": 170,
+      "word_count": 2328,
+      "estimated_minutes": 13,
+      "file": "content/books/raksha-bandhan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "६-आविष्कार",
+      "block_count": 134,
+      "word_count": 2038,
+      "estimated_minutes": 11,
+      "file": "content/books/raksha-bandhan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "७-कथा",
+      "block_count": 192,
+      "word_count": 1756,
+      "estimated_minutes": 10,
+      "file": "content/books/raksha-bandhan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "८-कार्य कुशलता",
+      "block_count": 125,
+      "word_count": 1577,
+      "estimated_minutes": 9,
+      "file": "content/books/raksha-bandhan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "९-वोटर",
+      "block_count": 121,
+      "word_count": 1601,
+      "estimated_minutes": 9,
+      "file": "content/books/raksha-bandhan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१०-मद",
+      "block_count": 147,
+      "word_count": 1646,
+      "estimated_minutes": 9,
+      "file": "content/books/raksha-bandhan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "११—हिसाब-किताब",
+      "block_count": 164,
+      "word_count": 2140,
+      "estimated_minutes": 12,
+      "file": "content/books/raksha-bandhan/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "१२—प्रमेला",
+      "block_count": 164,
+      "word_count": 1832,
+      "estimated_minutes": 10,
+      "file": "content/books/raksha-bandhan/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "१३—वशीकरण",
+      "block_count": 171,
+      "word_count": 2140,
+      "estimated_minutes": 12,
+      "file": "content/books/raksha-bandhan/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "१४—कम्यूनिस्ट सभा",
+      "block_count": 123,
+      "word_count": 1508,
+      "estimated_minutes": 8,
+      "file": "content/books/raksha-bandhan/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "१५—वैषम्य",
+      "block_count": 258,
+      "word_count": 2743,
+      "estimated_minutes": 15,
+      "file": "content/books/raksha-bandhan/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "१६—भक्षक-रक्षक",
+      "block_count": 122,
+      "word_count": 1573,
+      "estimated_minutes": 9,
+      "file": "content/books/raksha-bandhan/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "१७—चलते-फिरते",
+      "block_count": 158,
+      "word_count": 1557,
+      "estimated_minutes": 9,
+      "file": "content/books/raksha-bandhan/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "१८—वाह री होली",
+      "block_count": 124,
+      "word_count": 1327,
+      "estimated_minutes": 7,
+      "file": "content/books/raksha-bandhan/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "१९—अवसरवाद",
+      "block_count": 129,
+      "word_count": 1589,
+      "estimated_minutes": 9,
+      "file": "content/books/raksha-bandhan/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "२०—रक्षा-बन्धन",
+      "block_count": 145,
+      "word_count": 2589,
+      "estimated_minutes": 14,
+      "file": "content/books/raksha-bandhan/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "२१—मनुष्य",
+      "block_count": 134,
+      "word_count": 2282,
+      "estimated_minutes": 13,
+      "file": "content/books/raksha-bandhan/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "२२-स्वयं सेवक",
+      "block_count": 91,
+      "word_count": 1450,
+      "estimated_minutes": 8,
+      "file": "content/books/raksha-bandhan/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "२३—मूंछें",
+      "block_count": 96,
+      "word_count": 1519,
+      "estimated_minutes": 8,
+      "file": "content/books/raksha-bandhan/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "२४—विजय दशमी",
+      "block_count": 188,
+      "word_count": 2034,
+      "estimated_minutes": 11,
+      "file": "content/books/raksha-bandhan/ch_24.json"
+    }
+  ]
+}
