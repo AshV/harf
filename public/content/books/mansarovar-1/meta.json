@@ -1,0 +1,269 @@
+{
+  "id": "mansarovar-1",
+  "title": "मानसरोवर (भाग १)",
+  "title_en": "Mansarovar Part 1",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "कहानी संग्रह",
+  "category_en": "Short Stories",
+  "description": "मुंशी प्रेमचंद के अमर कथा-साहित्य का पहला व सर्वाधिक लोकप्रिय खण्ड। इसमें 'पूस की रात', 'ठाकुर का कुआँ', 'गुल्ली-डण्डा', 'अलग्योझा', 'घासवाली', 'नशा', 'माँ', 'झाँकी', 'तावान', 'बेटोंवाली विधवा' और 'सुभागी' जैसी हिन्दी की २७ कालजयी कहानियाँ संकलित हैं।",
+  "cover_image": "",
+  "published_year": 1936,
+  "keywords": [
+    "mansarovar",
+    "munshi premchand",
+    "poos ki raat",
+    "thakur ka kuan",
+    "gulli danda",
+    "alagyoojha",
+    "hindi kahaniya"
+  ],
+  "total_words": 103737,
+  "total_chapters": 27,
+  "estimated_reading_minutes": 576,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "घर जमाई",
+      "block_count": 240,
+      "word_count": 3301,
+      "estimated_minutes": 18,
+      "file": "content/books/mansarovar-1/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अनुभव",
+      "block_count": 175,
+      "word_count": 2292,
+      "estimated_minutes": 13,
+      "file": "content/books/mansarovar-1/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अलग्योझा",
+      "block_count": 166,
+      "word_count": 5695,
+      "estimated_minutes": 32,
+      "file": "content/books/mansarovar-1/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "आखिरी हीला",
+      "block_count": 184,
+      "word_count": 2550,
+      "estimated_minutes": 14,
+      "file": "content/books/mansarovar-1/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "ईदगाह",
+      "block_count": 107,
+      "word_count": 5047,
+      "estimated_minutes": 28,
+      "file": "content/books/mansarovar-1/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "कायर",
+      "block_count": 283,
+      "word_count": 3859,
+      "estimated_minutes": 21,
+      "file": "content/books/mansarovar-1/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "गिला",
+      "block_count": 349,
+      "word_count": 5080,
+      "estimated_minutes": 28,
+      "file": "content/books/mansarovar-1/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "गुल्ली-डण्डा",
+      "block_count": 167,
+      "word_count": 2340,
+      "estimated_minutes": 13,
+      "file": "content/books/mansarovar-1/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "घासवाली",
+      "block_count": 334,
+      "word_count": 4211,
+      "estimated_minutes": 23,
+      "file": "content/books/mansarovar-1/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "ज्योति",
+      "block_count": 300,
+      "word_count": 3609,
+      "estimated_minutes": 20,
+      "file": "content/books/mansarovar-1/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "झाँकी",
+      "block_count": 47,
+      "word_count": 2495,
+      "estimated_minutes": 14,
+      "file": "content/books/mansarovar-1/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "ठाकुर का कुआँ",
+      "block_count": 52,
+      "word_count": 1128,
+      "estimated_minutes": 6,
+      "file": "content/books/mansarovar-1/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "तावान",
+      "block_count": 192,
+      "word_count": 2336,
+      "estimated_minutes": 13,
+      "file": "content/books/mansarovar-1/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "दिल की रानी",
+      "block_count": 512,
+      "word_count": 6791,
+      "estimated_minutes": 38,
+      "file": "content/books/mansarovar-1/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "धिक्कार",
+      "block_count": 453,
+      "word_count": 5991,
+      "estimated_minutes": 33,
+      "file": "content/books/mansarovar-1/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "नशा",
+      "block_count": 205,
+      "word_count": 2755,
+      "estimated_minutes": 15,
+      "file": "content/books/mansarovar-1/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "पूस की रात",
+      "block_count": 147,
+      "word_count": 2141,
+      "estimated_minutes": 12,
+      "file": "content/books/mansarovar-1/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "बड़े भाई साहब",
+      "block_count": 183,
+      "word_count": 3678,
+      "estimated_minutes": 20,
+      "file": "content/books/mansarovar-1/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "बेटोंवाली विधवा",
+      "block_count": 448,
+      "word_count": 7055,
+      "estimated_minutes": 39,
+      "file": "content/books/mansarovar-1/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "मनोवृत्ति",
+      "block_count": 193,
+      "word_count": 2037,
+      "estimated_minutes": 11,
+      "file": "content/books/mansarovar-1/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "माँ",
+      "block_count": 139,
+      "word_count": 6153,
+      "estimated_minutes": 34,
+      "file": "content/books/mansarovar-1/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "रसिक सम्पादक",
+      "block_count": 183,
+      "word_count": 2407,
+      "estimated_minutes": 13,
+      "file": "content/books/mansarovar-1/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "लांछन",
+      "block_count": 255,
+      "word_count": 3132,
+      "estimated_minutes": 17,
+      "file": "content/books/mansarovar-1/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "शांति",
+      "block_count": 343,
+      "word_count": 5303,
+      "estimated_minutes": 29,
+      "file": "content/books/mansarovar-1/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "शिकार",
+      "block_count": 328,
+      "word_count": 4380,
+      "estimated_minutes": 24,
+      "file": "content/books/mansarovar-1/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "सुभागी",
+      "block_count": 161,
+      "word_count": 2238,
+      "estimated_minutes": 12,
+      "file": "content/books/mansarovar-1/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "स्वामिनी",
+      "block_count": 416,
+      "word_count": 5733,
+      "estimated_minutes": 32,
+      "file": "content/books/mansarovar-1/ch_27.json"
+    }
+  ]
+}

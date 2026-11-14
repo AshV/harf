@@ -1,0 +1,240 @@
+{
+  "id": "sau-ajaan-aur-ek-sujaan",
+  "title": "सौ अजान और एक सुजान",
+  "title_en": "Sau Ajaan Aur Ek Sujaan",
+  "author": "पं. बालकृष्ण भट्ट",
+  "author_en": "Pt. Balkrishna Bhatt",
+  "category": "उपन्यास",
+  "category_en": "Novel / Early Hindi Fiction",
+  "description": "भारतेन्दु मण्डल के प्रमुख स्तम्भ व हिन्दी प्रदीप के सम्पादक पं. बालकृष्ण भट्ट द्वारा रचित हिन्दी का अग्रदूत उपन्यास (१८९२)। कुसंगति के दुष्परिणाम, नीति, सद्विवेक और एक बुद्धिमान मित्र के प्रभाव से बिगड़े हुए युवक के उद्धार की रोचक सामाजिक आख्यायिका।",
+  "cover_image": "",
+  "published_year": 1892,
+  "keywords": [
+    "sau ajaan aur ek sujaan",
+    "balkrishna bhatt",
+    "hindi pradeep",
+    "early novel",
+    "upanyas"
+  ],
+  "total_words": 27717,
+  "total_chapters": 24,
+  "estimated_reading_minutes": 154,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रस्ताव १",
+      "block_count": 8,
+      "word_count": 454,
+      "estimated_minutes": 3,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "प्रस्ताव २",
+      "block_count": 28,
+      "word_count": 1126,
+      "estimated_minutes": 6,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "प्रस्ताव ३",
+      "block_count": 13,
+      "word_count": 847,
+      "estimated_minutes": 5,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "प्रस्ताव ४",
+      "block_count": 31,
+      "word_count": 1301,
+      "estimated_minutes": 7,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "प्रस्ताव ५",
+      "block_count": 19,
+      "word_count": 1007,
+      "estimated_minutes": 6,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "प्रस्ताव ६",
+      "block_count": 117,
+      "word_count": 1206,
+      "estimated_minutes": 7,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "प्रस्ताव ७",
+      "block_count": 121,
+      "word_count": 1303,
+      "estimated_minutes": 7,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "प्रस्ताव ८",
+      "block_count": 166,
+      "word_count": 2032,
+      "estimated_minutes": 11,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "प्रस्ताव ९",
+      "block_count": 60,
+      "word_count": 798,
+      "estimated_minutes": 4,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "प्रस्ताव १०",
+      "block_count": 149,
+      "word_count": 1798,
+      "estimated_minutes": 10,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "प्रस्ताव ११",
+      "block_count": 57,
+      "word_count": 935,
+      "estimated_minutes": 5,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "प्रस्ताव १२",
+      "block_count": 34,
+      "word_count": 1946,
+      "estimated_minutes": 11,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "प्रस्ताव १३",
+      "block_count": 75,
+      "word_count": 958,
+      "estimated_minutes": 5,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "प्रस्ताव १४",
+      "block_count": 156,
+      "word_count": 1799,
+      "estimated_minutes": 10,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "प्रस्ताव १५",
+      "block_count": 216,
+      "word_count": 2353,
+      "estimated_minutes": 13,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "प्रस्ताव १६",
+      "block_count": 54,
+      "word_count": 890,
+      "estimated_minutes": 5,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "प्रस्ताव १७",
+      "block_count": 82,
+      "word_count": 1163,
+      "estimated_minutes": 6,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "प्रस्ताव १८",
+      "block_count": 78,
+      "word_count": 866,
+      "estimated_minutes": 5,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "प्रस्ताव १९",
+      "block_count": 46,
+      "word_count": 568,
+      "estimated_minutes": 3,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "प्रस्ताव २०",
+      "block_count": 76,
+      "word_count": 1034,
+      "estimated_minutes": 6,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "प्रस्ताव २१",
+      "block_count": 44,
+      "word_count": 436,
+      "estimated_minutes": 2,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "प्रस्ताव २२",
+      "block_count": 51,
+      "word_count": 510,
+      "estimated_minutes": 3,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "प्रस्ताव २३",
+      "block_count": 42,
+      "word_count": 421,
+      "estimated_minutes": 2,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "शब्दार्थ-सूची",
+      "block_count": 349,
+      "word_count": 1966,
+      "estimated_minutes": 11,
+      "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_24.json"
+    }
+  ]
+}

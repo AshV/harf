@@ -739,6 +739,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#8EC5FC',
     badgeBg: 'bg-[#8EC5FC]/15 text-[#DDF0FE]',
     motif: '❖ ⚙️ ❖'
+  },
+  'sau-ajaan-aur-ek-sujaan': {
+    bgGradient: 'from-[#2E1809] via-[#45240E] to-[#1F1006]',
+    borderColor: 'border-[#E5A93C]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E5A93C]',
+    accentColor: '#E5A93C',
+    badgeBg: 'bg-[#E5A93C]/15 text-[#FDE7BE]',
+    motif: '❖ 💎 ❖'
+  },
+  'pratap-peeyush': {
+    bgGradient: 'from-[#1F2113] via-[#31361E] to-[#14170C]',
+    borderColor: 'border-[#E2C068]/40',
+    titleColor: 'text-[#F6F8F0]',
+    authorColor: 'text-[#E2C068]',
+    accentColor: '#E2C068',
+    badgeBg: 'bg-[#E2C068]/15 text-[#FDF0CD]',
+    motif: '✦ 🎭 ✦'
+  },
+  'mansarovar-1': {
+    bgGradient: 'from-[#0A2230] via-[#10344A] to-[#061721]',
+    borderColor: 'border-[#76D7C4]/40',
+    titleColor: 'text-[#F0FDF9]',
+    authorColor: 'text-[#76D7C4]',
+    accentColor: '#76D7C4',
+    badgeBg: 'bg-[#76D7C4]/15 text-[#C8F7DC]',
+    motif: '❖ 🌊 ❖'
+  },
+  'aag-aur-dhuan': {
+    bgGradient: 'from-[#360F0C] via-[#521712] to-[#240A08]',
+    borderColor: 'border-[#F39C12]/40',
+    titleColor: 'text-[#FFF5F5]',
+    authorColor: 'text-[#F39C12]',
+    accentColor: '#F39C12',
+    badgeBg: 'bg-[#F39C12]/15 text-[#FDE5BD]',
+    motif: '✦ 🔥 ✦'
+  },
+  'chandrakanta-santati-3': {
+    bgGradient: 'from-[#162B1E] via-[#21422E] to-[#0E1C13]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#F2FAF5]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
+    motif: '❖ 🗝️ ❖'
   }
 };
 

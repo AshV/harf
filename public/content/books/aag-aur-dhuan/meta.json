@@ -1,0 +1,195 @@
+{
+  "id": "aag-aur-dhuan",
+  "title": "आग और धुआं",
+  "title_en": "Aag Aur Dhuan",
+  "author": "आचार्य चतुरसेन शास्त्री",
+  "author_en": "Acharya Chatursen Shastri",
+  "category": "कहानी संग्रह",
+  "category_en": "Short Stories / Historical Fiction",
+  "description": "ऐतिहासिक शौर्य और सामाजिक यथार्थ के सिद्धहस्त लेखक आचार्य चतुरसेन शास्त्री का १९ रोचक एवं विचारोत्तेजक कहानियों का संकलन। ईस्ट इंडिया कम्पनी के आरम्भ, अवध के नवाबों, मुगलों के अवसान और मानवीय मनोभावों का अद्भुत आख्यान।",
+  "cover_image": "",
+  "published_year": 1935,
+  "keywords": [
+    "aag aur dhuan",
+    "acharya chatursen shastri",
+    "historical stories",
+    "east india company",
+    "hindi kahaniya"
+  ],
+  "total_words": 54118,
+  "total_chapters": 19,
+  "estimated_reading_minutes": 301,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १",
+      "block_count": 11,
+      "word_count": 1217,
+      "estimated_minutes": 7,
+      "file": "content/books/aag-aur-dhuan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २",
+      "block_count": 77,
+      "word_count": 4517,
+      "estimated_minutes": 25,
+      "file": "content/books/aag-aur-dhuan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३",
+      "block_count": 147,
+      "word_count": 7509,
+      "estimated_minutes": 42,
+      "file": "content/books/aag-aur-dhuan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४",
+      "block_count": 24,
+      "word_count": 1157,
+      "estimated_minutes": 6,
+      "file": "content/books/aag-aur-dhuan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५",
+      "block_count": 40,
+      "word_count": 1516,
+      "estimated_minutes": 8,
+      "file": "content/books/aag-aur-dhuan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६",
+      "block_count": 23,
+      "word_count": 1251,
+      "estimated_minutes": 7,
+      "file": "content/books/aag-aur-dhuan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७",
+      "block_count": 53,
+      "word_count": 3925,
+      "estimated_minutes": 22,
+      "file": "content/books/aag-aur-dhuan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय ८",
+      "block_count": 222,
+      "word_count": 5970,
+      "estimated_minutes": 33,
+      "file": "content/books/aag-aur-dhuan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय ९",
+      "block_count": 42,
+      "word_count": 2254,
+      "estimated_minutes": 13,
+      "file": "content/books/aag-aur-dhuan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अध्याय १०",
+      "block_count": 40,
+      "word_count": 1390,
+      "estimated_minutes": 8,
+      "file": "content/books/aag-aur-dhuan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "अध्याय ११",
+      "block_count": 53,
+      "word_count": 2674,
+      "estimated_minutes": 15,
+      "file": "content/books/aag-aur-dhuan/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "अध्याय १२",
+      "block_count": 11,
+      "word_count": 380,
+      "estimated_minutes": 2,
+      "file": "content/books/aag-aur-dhuan/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "अध्याय १३",
+      "block_count": 83,
+      "word_count": 3393,
+      "estimated_minutes": 19,
+      "file": "content/books/aag-aur-dhuan/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "अध्याय १४",
+      "block_count": 12,
+      "word_count": 531,
+      "estimated_minutes": 3,
+      "file": "content/books/aag-aur-dhuan/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "अध्याय १५",
+      "block_count": 68,
+      "word_count": 3496,
+      "estimated_minutes": 19,
+      "file": "content/books/aag-aur-dhuan/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "अध्याय १६",
+      "block_count": 46,
+      "word_count": 1883,
+      "estimated_minutes": 10,
+      "file": "content/books/aag-aur-dhuan/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "अध्याय १७",
+      "block_count": 112,
+      "word_count": 4171,
+      "estimated_minutes": 23,
+      "file": "content/books/aag-aur-dhuan/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "अध्याय १८",
+      "block_count": 19,
+      "word_count": 1708,
+      "estimated_minutes": 9,
+      "file": "content/books/aag-aur-dhuan/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "अध्याय १९",
+      "block_count": 172,
+      "word_count": 5176,
+      "estimated_minutes": 29,
+      "file": "content/books/aag-aur-dhuan/ch_19.json"
+    }
+  ]
+}

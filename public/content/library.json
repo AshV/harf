@@ -1,5 +1,26 @@
 [
   {
+    "id": "aag-aur-dhuan",
+    "title": "आग और धुआं",
+    "title_en": "Aag Aur Dhuan",
+    "author": "आचार्य चतुरसेन शास्त्री",
+    "author_en": "Acharya Chatursen Shastri",
+    "category": "कहानी संग्रह",
+    "category_en": "Short Stories / Historical Fiction",
+    "description": "ऐतिहासिक शौर्य और सामाजिक यथार्थ के सिद्धहस्त लेखक आचार्य चतुरसेन शास्त्री का १९ रोचक एवं विचारोत्तेजक कहानियों का संकलन। ईस्ट इंडिया कम्पनी के आरम्भ, अवध के नवाबों, मुगलों के अवसान और मानवीय मनोभावों का अद्भुत आख्यान।",
+    "cover_image": "",
+    "published_year": 1935,
+    "total_chapters": 19,
+    "estimated_reading_minutes": 301,
+    "keywords": [
+      "aag aur dhuan",
+      "acharya chatursen shastri",
+      "historical stories",
+      "east india company",
+      "hindi kahaniya"
+    ]
+  },
+  {
     "id": "aakashdeep",
     "title": "आकाशदीप व अन्य कहानियाँ",
     "title_en": "Aakashdeep & Other Stories",
@@ -433,6 +454,28 @@
       "tilism",
       "devaki nandan khatri",
       "fantasy"
+    ]
+  },
+  {
+    "id": "chandrakanta-santati-3",
+    "title": "चंद्रकांता संतति (भाग ३)",
+    "title_en": "Chandrakanta Santati Part 3",
+    "author": "देवकीनंदन खत्री",
+    "author_en": "Devaki Nandan Khatri",
+    "category": "उपन्यास",
+    "category_en": "Novel / Mystery & Fantasy",
+    "description": "हिन्दी के प्रथम तिलिस्मी-ऐयारी महा-उपन्यास की तीसरी कड़ी। रोहतासगढ़ का रहस्य, तिलिस्मी बाग, गुप्त सुरंगे, जादुई षड्यंत्र और ऐयारों की अद्भुत करामातों से भरपूर बयान ९ से १२ तक का सम्पूर्ण रोमांचक आख्यान।",
+    "cover_image": "",
+    "published_year": 1896,
+    "total_chapters": 43,
+    "estimated_reading_minutes": 622,
+    "keywords": [
+      "chandrakanta santati",
+      "devaki nandan khatri",
+      "tilasm",
+      "aiyari",
+      "fantasy novel",
+      "part 3"
     ]
   },
   {
@@ -988,6 +1031,29 @@
     ]
   },
   {
+    "id": "mansarovar-1",
+    "title": "मानसरोवर (भाग १)",
+    "title_en": "Mansarovar Part 1",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "कहानी संग्रह",
+    "category_en": "Short Stories",
+    "description": "मुंशी प्रेमचंद के अमर कथा-साहित्य का पहला व सर्वाधिक लोकप्रिय खण्ड। इसमें 'पूस की रात', 'ठाकुर का कुआँ', 'गुल्ली-डण्डा', 'अलग्योझा', 'घासवाली', 'नशा', 'माँ', 'झाँकी', 'तावान', 'बेटोंवाली विधवा' और 'सुभागी' जैसी हिन्दी की २७ कालजयी कहानियाँ संकलित हैं।",
+    "cover_image": "",
+    "published_year": 1936,
+    "total_chapters": 27,
+    "estimated_reading_minutes": 576,
+    "keywords": [
+      "mansarovar",
+      "munshi premchand",
+      "poos ki raat",
+      "thakur ka kuan",
+      "gulli danda",
+      "alagyoojha",
+      "hindi kahaniya"
+    ]
+  },
+  {
     "id": "mansarovar-2",
     "title": "मानसरोवर (भाग २)",
     "title_en": "Mansarovar Part 2",
@@ -1191,6 +1257,28 @@
       "brajkishore",
       "delhi",
       "social novel"
+    ]
+  },
+  {
+    "id": "pratap-peeyush",
+    "title": "प्रताप पीयूष",
+    "title_en": "Pratap Peeyush",
+    "author": "पं. प्रतापनारायण मिश्र",
+    "author_en": "Pt. Pratap Narayan Mishra",
+    "category": "निबन्ध",
+    "category_en": "Essays & Satire",
+    "description": "भारतेन्दु युग के मूर्धन्य हास्य-व्यंग्यकार एवं 'ब्राह्मण' पत्र के संपादक पं. प्रतापनारायण मिश्र के प्रतिनिधि निबन्धों का प्रामाणिक संकलन। 'धोखा', 'दांत', 'भौं', 'खुशामद', 'युवावस्था', 'बुढ़ापा' और 'शिव मूर्ति' जैसे अनूठे, चुटीले व विचारोत्तेजक निबन्ध।",
+    "cover_image": "",
+    "published_year": 1933,
+    "total_chapters": 53,
+    "estimated_reading_minutes": 326,
+    "keywords": [
+      "pratap peeyush",
+      "pratap narayan mishra",
+      "satire",
+      "brahman patrika",
+      "hindi nibandh",
+      "humour"
     ]
   },
   {
@@ -1645,6 +1733,27 @@
       "vishwamitra",
       "natak",
       "play"
+    ]
+  },
+  {
+    "id": "sau-ajaan-aur-ek-sujaan",
+    "title": "सौ अजान और एक सुजान",
+    "title_en": "Sau Ajaan Aur Ek Sujaan",
+    "author": "पं. बालकृष्ण भट्ट",
+    "author_en": "Pt. Balkrishna Bhatt",
+    "category": "उपन्यास",
+    "category_en": "Novel / Early Hindi Fiction",
+    "description": "भारतेन्दु मण्डल के प्रमुख स्तम्भ व हिन्दी प्रदीप के सम्पादक पं. बालकृष्ण भट्ट द्वारा रचित हिन्दी का अग्रदूत उपन्यास (१८९२)। कुसंगति के दुष्परिणाम, नीति, सद्विवेक और एक बुद्धिमान मित्र के प्रभाव से बिगड़े हुए युवक के उद्धार की रोचक सामाजिक आख्यायिका।",
+    "cover_image": "",
+    "published_year": 1892,
+    "total_chapters": 24,
+    "estimated_reading_minutes": 154,
+    "keywords": [
+      "sau ajaan aur ek sujaan",
+      "balkrishna bhatt",
+      "hindi pradeep",
+      "early novel",
+      "upanyas"
     ]
   },
   {
