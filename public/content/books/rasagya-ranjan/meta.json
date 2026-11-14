@@ -1,0 +1,117 @@
+{
+  "id": "rasagya-ranjan",
+  "title": "रसज्ञ-रंजन",
+  "title_en": "Rasagya Ranjan",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahaveer Prasad Dwivedi",
+  "category": "व्यंग्य व निबंध",
+  "category_en": "Satire & Essays",
+  "description": "आधुनिक हिन्दी के युग-निर्माता आचार्य महावीर प्रसाद द्विवेदी का अमर आलोचना ग्रंथ। 'कवियों की ऊर्म्मिला-विषयक उदासीनता' (जिसने 'साकेत' को जन्म दिया) और 'कवि-कर्त्तव्य' समेत कालजयी निबंध।",
+  "cover_image": "",
+  "published_year": 1920,
+  "keywords": [
+    "rasagya ranjan",
+    "mahaveer prasad dwivedi",
+    "dwivedi yug",
+    "urmila",
+    "kavi kartavya",
+    "alochana",
+    "saraswati",
+    "essays"
+  ],
+  "total_words": 30153,
+  "total_chapters": 10,
+  "estimated_reading_minutes": 168,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "कवि-कर्त्तव्य (भाग १) — भाषा, व्याकरण व छंद का दायित्व",
+      "block_count": 52,
+      "word_count": 3572,
+      "estimated_minutes": 20,
+      "file": "content/books/rasagya-ranjan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "कवि-कर्त्तव्य (भाग २) — विषय-चयन, प्रकृति व भाव-गांभीर्य",
+      "block_count": 15,
+      "word_count": 1342,
+      "estimated_minutes": 7,
+      "file": "content/books/rasagya-ranjan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "कवि बनने के लिए सापेक्ष साधन — प्रतिभा, व्युत्पत्ति व अभ्यास",
+      "block_count": 57,
+      "word_count": 2497,
+      "estimated_minutes": 14,
+      "file": "content/books/rasagya-ranjan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "कवि और कविता — आत्मा की अनुभूति व काव्य-सौंदर्य",
+      "block_count": 64,
+      "word_count": 5510,
+      "estimated_minutes": 31,
+      "file": "content/books/rasagya-ranjan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "कविता — भावुकता, विचार और शब्द-शिल्प का समन्वय",
+      "block_count": 89,
+      "word_count": 1591,
+      "estimated_minutes": 9,
+      "file": "content/books/rasagya-ranjan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "नायिका-भेद — रूढ़ियों का परिहार व नवीन दृष्टि",
+      "block_count": 22,
+      "word_count": 1750,
+      "estimated_minutes": 10,
+      "file": "content/books/rasagya-ranjan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "हंस-सन्देश — कालिदास के मेघदूत की परंपरा का नवोन्मेष",
+      "block_count": 33,
+      "word_count": 2696,
+      "estimated_minutes": 15,
+      "file": "content/books/rasagya-ranjan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "हंस का नीर-क्षीर-विवेक — आलोचना का यथार्थ धर्म",
+      "block_count": 40,
+      "word_count": 1721,
+      "estimated_minutes": 10,
+      "file": "content/books/rasagya-ranjan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "कवियों की ऊर्म्मिला-विषयक उदासीनता — उपेक्षिता उर्मिला पर युगान्तकारी निबंध",
+      "block_count": 18,
+      "word_count": 1156,
+      "estimated_minutes": 6,
+      "file": "content/books/rasagya-ranjan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "नल का दुस्तर दूत-कार्य — नैषधीयचरित की दूत-कला",
+      "block_count": 69,
+      "word_count": 8318,
+      "estimated_minutes": 46,
+      "file": "content/books/rasagya-ranjan/ch_10.json"
+    }
+  ]
+}

@@ -404,6 +404,30 @@
     ]
   },
   {
+    "id": "karmabhoomi",
+    "title": "कर्मभूमि",
+    "title_en": "Karmabhoomi",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "उपन्यास",
+    "category_en": "Novel",
+    "description": "स्वाधीनता संग्राम, अछूतोद्धार, मंदिर-प्रवेश और लगान-बंदी के जनांदोलन की अमर राष्ट्रीय महागाथा। अमरकांत, सुखदा, मुंशी समरकांत और डॉ. शांतिकुमार के त्याग और नैतिक संघर्ष का महाकाव्यात्मक उपन्यास।",
+    "cover_image": "",
+    "published_year": 1932,
+    "total_chapters": 54,
+    "estimated_reading_minutes": 741,
+    "keywords": [
+      "karmabhoomi",
+      "munshi premchand",
+      "amarkant",
+      "sukhada",
+      "peasant movement",
+      "temple entry",
+      "national struggle",
+      "upanyas"
+    ]
+  },
+  {
     "id": "kavitavali",
     "title": "कवितावली",
     "title_en": "Kavitavali",
@@ -494,6 +518,30 @@
       "novel",
       "dowry",
       "totaram"
+    ]
+  },
+  {
+    "id": "padmavat",
+    "title": "पदमावत",
+    "title_en": "Padmavat",
+    "author": "मलिक मोहम्मद जायसी",
+    "author_en": "Malik Muhammad Jayasi",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "मध्यकालीन सूफ़ी प्रेमाख्यानक काव्य की सर्वोपरि कृति। आचार्य रामचंद्र शुक्ल द्वारा संपादित प्रामाणिक 'जायसी ग्रंथावली' से पदमावती, रत्नसेन और हीरामन तोते के प्रेम, विरह, सात समुद्रों की रहस्यमयी यात्रा और साधना का अमर महाकाव्य।",
+    "cover_image": "",
+    "published_year": 1540,
+    "total_chapters": 10,
+    "estimated_reading_minutes": 88,
+    "keywords": [
+      "padmavat",
+      "jayasi",
+      "malik muhammad jayasi",
+      "sufi kavya",
+      "singhaldeep",
+      "ratnasen",
+      "padmavati",
+      "shukla"
     ]
   },
   {
@@ -635,6 +683,30 @@
       "udaybhan",
       "kahani",
       "early prose"
+    ]
+  },
+  {
+    "id": "rasagya-ranjan",
+    "title": "रसज्ञ-रंजन",
+    "title_en": "Rasagya Ranjan",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahaveer Prasad Dwivedi",
+    "category": "व्यंग्य व निबंध",
+    "category_en": "Satire & Essays",
+    "description": "आधुनिक हिन्दी के युग-निर्माता आचार्य महावीर प्रसाद द्विवेदी का अमर आलोचना ग्रंथ। 'कवियों की ऊर्म्मिला-विषयक उदासीनता' (जिसने 'साकेत' को जन्म दिया) और 'कवि-कर्त्तव्य' समेत कालजयी निबंध।",
+    "cover_image": "",
+    "published_year": 1920,
+    "total_chapters": 10,
+    "estimated_reading_minutes": 168,
+    "keywords": [
+      "rasagya ranjan",
+      "mahaveer prasad dwivedi",
+      "dwivedi yug",
+      "urmila",
+      "kavi kartavya",
+      "alochana",
+      "saraswati",
+      "essays"
     ]
   },
   {

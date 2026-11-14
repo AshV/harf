@@ -211,6 +211,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://harf.pages.dev/#/book/karmabhoomi</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/karmabhoomi/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://harf.pages.dev/#/book/kavitavali</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,6 +266,18 @@
   </url>
   <url>
     <loc>https://harf.pages.dev/#/read/nirmala/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/book/padmavat</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/padmavat/ch_01</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -326,6 +350,18 @@
   </url>
   <url>
     <loc>https://harf.pages.dev/#/read/rani-ketki-ki-kahani/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/book/rasagya-ranjan</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/rasagya-ranjan/ch_01</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

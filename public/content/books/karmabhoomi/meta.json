@@ -1,0 +1,513 @@
+{
+  "id": "karmabhoomi",
+  "title": "कर्मभूमि",
+  "title_en": "Karmabhoomi",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "उपन्यास",
+  "category_en": "Novel",
+  "description": "स्वाधीनता संग्राम, अछूतोद्धार, मंदिर-प्रवेश और लगान-बंदी के जनांदोलन की अमर राष्ट्रीय महागाथा। अमरकांत, सुखदा, मुंशी समरकांत और डॉ. शांतिकुमार के त्याग और नैतिक संघर्ष का महाकाव्यात्मक उपन्यास।",
+  "cover_image": "",
+  "published_year": 1932,
+  "keywords": [
+    "karmabhoomi",
+    "munshi premchand",
+    "amarkant",
+    "sukhada",
+    "peasant movement",
+    "temple entry",
+    "national struggle",
+    "upanyas"
+  ],
+  "total_words": 133424,
+  "total_chapters": 54,
+  "estimated_reading_minutes": 741,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "पहला भाग — अध्याय १",
+      "block_count": 51,
+      "word_count": 1321,
+      "estimated_minutes": 7,
+      "file": "content/books/karmabhoomi/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "पहला भाग — अध्याय २",
+      "block_count": 11,
+      "word_count": 1069,
+      "estimated_minutes": 6,
+      "file": "content/books/karmabhoomi/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "पहला भाग — अध्याय ३",
+      "block_count": 63,
+      "word_count": 2533,
+      "estimated_minutes": 14,
+      "file": "content/books/karmabhoomi/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "पहला भाग — अध्याय ४",
+      "block_count": 47,
+      "word_count": 1910,
+      "estimated_minutes": 11,
+      "file": "content/books/karmabhoomi/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पहला भाग — अध्याय ५",
+      "block_count": 33,
+      "word_count": 1920,
+      "estimated_minutes": 11,
+      "file": "content/books/karmabhoomi/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "पहला भाग — अध्याय ६",
+      "block_count": 38,
+      "word_count": 1336,
+      "estimated_minutes": 7,
+      "file": "content/books/karmabhoomi/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "पहला भाग — अध्याय ७",
+      "block_count": 175,
+      "word_count": 6107,
+      "estimated_minutes": 34,
+      "file": "content/books/karmabhoomi/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "पहला भाग — अध्याय ८",
+      "block_count": 51,
+      "word_count": 2124,
+      "estimated_minutes": 12,
+      "file": "content/books/karmabhoomi/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "पहला भाग — अध्याय ९",
+      "block_count": 63,
+      "word_count": 2155,
+      "estimated_minutes": 12,
+      "file": "content/books/karmabhoomi/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "पहला भाग — अध्याय १०",
+      "block_count": 85,
+      "word_count": 2398,
+      "estimated_minutes": 13,
+      "file": "content/books/karmabhoomi/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "पहला भाग — अध्याय ११",
+      "block_count": 84,
+      "word_count": 3249,
+      "estimated_minutes": 18,
+      "file": "content/books/karmabhoomi/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "पहला भाग — अध्याय १२",
+      "block_count": 124,
+      "word_count": 3345,
+      "estimated_minutes": 19,
+      "file": "content/books/karmabhoomi/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "पहला भाग — अध्याय १३",
+      "block_count": 110,
+      "word_count": 4006,
+      "estimated_minutes": 22,
+      "file": "content/books/karmabhoomi/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "पहला भाग — अध्याय १४",
+      "block_count": 43,
+      "word_count": 2132,
+      "estimated_minutes": 12,
+      "file": "content/books/karmabhoomi/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "पहला भाग — अध्याय १५",
+      "block_count": 111,
+      "word_count": 4292,
+      "estimated_minutes": 24,
+      "file": "content/books/karmabhoomi/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "पहला भाग — अध्याय १६",
+      "block_count": 89,
+      "word_count": 3426,
+      "estimated_minutes": 19,
+      "file": "content/books/karmabhoomi/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "पहला भाग — अध्याय १७",
+      "block_count": 63,
+      "word_count": 2375,
+      "estimated_minutes": 13,
+      "file": "content/books/karmabhoomi/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "दूसरा भाग — अध्याय १",
+      "block_count": 128,
+      "word_count": 2886,
+      "estimated_minutes": 16,
+      "file": "content/books/karmabhoomi/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "दूसरा भाग — अध्याय २",
+      "block_count": 49,
+      "word_count": 1409,
+      "estimated_minutes": 8,
+      "file": "content/books/karmabhoomi/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "दूसरा भाग — अध्याय ३",
+      "block_count": 60,
+      "word_count": 1585,
+      "estimated_minutes": 9,
+      "file": "content/books/karmabhoomi/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "दूसरा भाग — अध्याय ४",
+      "block_count": 19,
+      "word_count": 1510,
+      "estimated_minutes": 8,
+      "file": "content/books/karmabhoomi/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "दूसरा भाग — अध्याय ५",
+      "block_count": 49,
+      "word_count": 890,
+      "estimated_minutes": 5,
+      "file": "content/books/karmabhoomi/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "दूसरा भाग — अध्याय ६",
+      "block_count": 90,
+      "word_count": 2217,
+      "estimated_minutes": 12,
+      "file": "content/books/karmabhoomi/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "दूसरा भाग — अध्याय ७",
+      "block_count": 106,
+      "word_count": 4941,
+      "estimated_minutes": 27,
+      "file": "content/books/karmabhoomi/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "तीसरा भाग — अध्याय १",
+      "block_count": 37,
+      "word_count": 1297,
+      "estimated_minutes": 7,
+      "file": "content/books/karmabhoomi/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "तीसरा भाग — अध्याय २",
+      "block_count": 40,
+      "word_count": 1624,
+      "estimated_minutes": 9,
+      "file": "content/books/karmabhoomi/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "तीसरा भाग — अध्याय ३",
+      "block_count": 38,
+      "word_count": 1364,
+      "estimated_minutes": 8,
+      "file": "content/books/karmabhoomi/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "तीसरा भाग — अध्याय ४",
+      "block_count": 54,
+      "word_count": 2074,
+      "estimated_minutes": 12,
+      "file": "content/books/karmabhoomi/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "तीसरा भाग — अध्याय ५",
+      "block_count": 49,
+      "word_count": 1821,
+      "estimated_minutes": 10,
+      "file": "content/books/karmabhoomi/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "तीसरा भाग — अध्याय ६",
+      "block_count": 63,
+      "word_count": 3338,
+      "estimated_minutes": 19,
+      "file": "content/books/karmabhoomi/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "तीसरा भाग — अध्याय ७",
+      "block_count": 79,
+      "word_count": 3519,
+      "estimated_minutes": 20,
+      "file": "content/books/karmabhoomi/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "तीसरा भाग — अध्याय ८",
+      "block_count": 63,
+      "word_count": 2710,
+      "estimated_minutes": 15,
+      "file": "content/books/karmabhoomi/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "तीसरा भाग — अध्याय ९",
+      "block_count": 26,
+      "word_count": 1941,
+      "estimated_minutes": 11,
+      "file": "content/books/karmabhoomi/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "तीसरा भाग — अध्याय १०",
+      "block_count": 56,
+      "word_count": 2142,
+      "estimated_minutes": 12,
+      "file": "content/books/karmabhoomi/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "तीसरा भाग — अध्याय ११",
+      "block_count": 59,
+      "word_count": 1888,
+      "estimated_minutes": 10,
+      "file": "content/books/karmabhoomi/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "तीसरा भाग — अध्याय १२",
+      "block_count": 42,
+      "word_count": 2163,
+      "estimated_minutes": 12,
+      "file": "content/books/karmabhoomi/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "तीसरा भाग — अध्याय १३",
+      "block_count": 110,
+      "word_count": 3986,
+      "estimated_minutes": 22,
+      "file": "content/books/karmabhoomi/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "चौथा भाग — अध्याय १",
+      "block_count": 51,
+      "word_count": 2047,
+      "estimated_minutes": 11,
+      "file": "content/books/karmabhoomi/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "चौथा भाग — अध्याय २",
+      "block_count": 36,
+      "word_count": 1167,
+      "estimated_minutes": 6,
+      "file": "content/books/karmabhoomi/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "चौथा भाग — अध्याय ३",
+      "block_count": 39,
+      "word_count": 1584,
+      "estimated_minutes": 9,
+      "file": "content/books/karmabhoomi/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "चौथा भाग — अध्याय ४",
+      "block_count": 34,
+      "word_count": 1361,
+      "estimated_minutes": 8,
+      "file": "content/books/karmabhoomi/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "चौथा भाग — अध्याय ५",
+      "block_count": 120,
+      "word_count": 4646,
+      "estimated_minutes": 26,
+      "file": "content/books/karmabhoomi/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "चौथा भाग — अध्याय ६",
+      "block_count": 57,
+      "word_count": 1989,
+      "estimated_minutes": 11,
+      "file": "content/books/karmabhoomi/ch_43.json"
+    },
+    {
+      "id": "ch_44",
+      "number": 44,
+      "title": "चौथा भाग — अध्याय ७",
+      "block_count": 78,
+      "word_count": 2146,
+      "estimated_minutes": 12,
+      "file": "content/books/karmabhoomi/ch_44.json"
+    },
+    {
+      "id": "ch_45",
+      "number": 45,
+      "title": "पाँचवाँ भाग — अध्याय १",
+      "block_count": 35,
+      "word_count": 2004,
+      "estimated_minutes": 11,
+      "file": "content/books/karmabhoomi/ch_45.json"
+    },
+    {
+      "id": "ch_46",
+      "number": 46,
+      "title": "पाँचवाँ भाग — अध्याय २",
+      "block_count": 60,
+      "word_count": 1515,
+      "estimated_minutes": 8,
+      "file": "content/books/karmabhoomi/ch_46.json"
+    },
+    {
+      "id": "ch_47",
+      "number": 47,
+      "title": "पाँचवाँ भाग — अध्याय ३",
+      "block_count": 75,
+      "word_count": 3165,
+      "estimated_minutes": 18,
+      "file": "content/books/karmabhoomi/ch_47.json"
+    },
+    {
+      "id": "ch_48",
+      "number": 48,
+      "title": "पाँचवाँ भाग — अध्याय ४",
+      "block_count": 38,
+      "word_count": 1168,
+      "estimated_minutes": 6,
+      "file": "content/books/karmabhoomi/ch_48.json"
+    },
+    {
+      "id": "ch_49",
+      "number": 49,
+      "title": "पाँचवाँ भाग — अध्याय ५",
+      "block_count": 26,
+      "word_count": 1048,
+      "estimated_minutes": 6,
+      "file": "content/books/karmabhoomi/ch_49.json"
+    },
+    {
+      "id": "ch_50",
+      "number": 50,
+      "title": "पाँचवाँ भाग — अध्याय ६",
+      "block_count": 60,
+      "word_count": 2815,
+      "estimated_minutes": 16,
+      "file": "content/books/karmabhoomi/ch_50.json"
+    },
+    {
+      "id": "ch_51",
+      "number": 51,
+      "title": "पाँचवाँ भाग — अध्याय ७",
+      "block_count": 66,
+      "word_count": 2830,
+      "estimated_minutes": 16,
+      "file": "content/books/karmabhoomi/ch_51.json"
+    },
+    {
+      "id": "ch_52",
+      "number": 52,
+      "title": "पाँचवाँ भाग — अध्याय ८",
+      "block_count": 41,
+      "word_count": 2170,
+      "estimated_minutes": 12,
+      "file": "content/books/karmabhoomi/ch_52.json"
+    },
+    {
+      "id": "ch_53",
+      "number": 53,
+      "title": "पाँचवाँ भाग — अध्याय ९",
+      "block_count": 96,
+      "word_count": 5554,
+      "estimated_minutes": 31,
+      "file": "content/books/karmabhoomi/ch_53.json"
+    },
+    {
+      "id": "ch_54",
+      "number": 54,
+      "title": "पाँचवाँ भाग — अध्याय १०",
+      "block_count": 151,
+      "word_count": 5212,
+      "estimated_minutes": 29,
+      "file": "content/books/karmabhoomi/ch_54.json"
+    }
+  ]
+}

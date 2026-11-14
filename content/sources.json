@@ -510,5 +510,53 @@
     "ingested_at": "2026-11-14",
     "chapter_count": 50,
     "verification_notes": "१९२४-१९२५ के मूल गंगा-पुस्तक-माला संस्करण से विकिस्रोत पर सत्यापित पूर्ण ५० अध्याय।"
+  },
+  {
+    "id": "rasagya-ranjan",
+    "title_hi": "रसज्ञ-रंजन",
+    "title_en": "Rasagya Ranjan",
+    "author_hi": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahaveer Prasad Dwivedi",
+    "category_hi": "व्यंग्य व निबंध",
+    "category_en": "Satire & Essays",
+    "published_year": 1920,
+    "copyright_status": "सार्वजनिक डोमेन (Public Domain)",
+    "repository": "Hindi Wikisource",
+    "source_url": "https://hi.wikisource.org/wiki/रसज्ञ-रञ्जन",
+    "ingested_at": "2026-11-14",
+    "chapter_count": 10,
+    "verification_notes": "१९२० के प्रथम संस्करण से हिन्दी विकिस्रोत पर सत्यापित पूर्ण दस निबंध।"
+  },
+  {
+    "id": "padmavat",
+    "title_hi": "पदमावत",
+    "title_en": "Padmavat",
+    "author_hi": "मलिक मोहम्मद जायसी",
+    "author_en": "Malik Muhammad Jayasi",
+    "category_hi": "कविता",
+    "category_en": "Poetry",
+    "published_year": 1540,
+    "copyright_status": "सार्वजनिक डोमेन (Public Domain)",
+    "repository": "Hindi Wikisource / नागरीप्रचारिणी सभा (आचार्य शुक्ल संस्करण)",
+    "source_url": "https://hi.wikisource.org/wiki/जायसी_ग्रंथावली/पदमावत",
+    "ingested_at": "2026-11-14",
+    "chapter_count": 10,
+    "verification_notes": "नागरीप्रचारिणी सभा द्वारा प्रकाशित आचार्य रामचंद्र शुक्ल संपादित जायसी ग्रंथावली से सत्यापित।"
+  },
+  {
+    "id": "karmabhoomi",
+    "title_hi": "कर्मभूमि",
+    "title_en": "Karmabhoomi",
+    "author_hi": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category_hi": "उपन्यास",
+    "category_en": "Novel",
+    "published_year": 1932,
+    "copyright_status": "सार्वजनिक डोमेन (Public Domain)",
+    "repository": "Hindi Wikisource",
+    "source_url": "https://hi.wikisource.org/wiki/कर्मभूमि",
+    "ingested_at": "2026-11-14",
+    "chapter_count": 54,
+    "verification_notes": "१९३२ के मूल प्रकाशन से हिन्दी विकिस्रोत पर सत्यापित पूर्ण ५४ अध्याय।"
   }
 ]

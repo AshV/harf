@@ -1,0 +1,117 @@
+{
+  "id": "padmavat",
+  "title": "पदमावत",
+  "title_en": "Padmavat",
+  "author": "मलिक मोहम्मद जायसी",
+  "author_en": "Malik Muhammad Jayasi",
+  "category": "कविता",
+  "category_en": "Poetry",
+  "description": "मध्यकालीन सूफ़ी प्रेमाख्यानक काव्य की सर्वोपरि कृति। आचार्य रामचंद्र शुक्ल द्वारा संपादित प्रामाणिक 'जायसी ग्रंथावली' से पदमावती, रत्नसेन और हीरामन तोते के प्रेम, विरह, सात समुद्रों की रहस्यमयी यात्रा और साधना का अमर महाकाव्य।",
+  "cover_image": "",
+  "published_year": 1540,
+  "keywords": [
+    "padmavat",
+    "jayasi",
+    "malik muhammad jayasi",
+    "sufi kavya",
+    "singhaldeep",
+    "ratnasen",
+    "padmavati",
+    "shukla"
+  ],
+  "total_words": 15758,
+  "total_chapters": 10,
+  "estimated_reading_minutes": 88,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "स्तुति खंड — करतार की वंदना व सृष्टि-वर्णन",
+      "block_count": 237,
+      "word_count": 2593,
+      "estimated_minutes": 14,
+      "file": "content/books/padmavat/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "सिंहलदीप वर्णन खंड — मानसरोवर, अमराई व सुआ (हीरामन)",
+      "block_count": 248,
+      "word_count": 2678,
+      "estimated_minutes": 15,
+      "file": "content/books/padmavat/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "नखशिख खंड — पदमावती के अलौकिक सौंदर्य का चित्र",
+      "block_count": 193,
+      "word_count": 2392,
+      "estimated_minutes": 13,
+      "file": "content/books/padmavat/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "प्रेम खंड — राजा रत्नसेन का प्रेम-मूर्छा व विरह-संकल्प",
+      "block_count": 87,
+      "word_count": 1012,
+      "estimated_minutes": 6,
+      "file": "content/books/padmavat/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "जोगी खंड — रत्नसेन का जोगी वेश धारण व प्रस्थान",
+      "block_count": 140,
+      "word_count": 1682,
+      "estimated_minutes": 9,
+      "file": "content/books/padmavat/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "राजा गजपति संवाद खंड — कलिंग-नरेश से भेंट",
+      "block_count": 61,
+      "word_count": 721,
+      "estimated_minutes": 4,
+      "file": "content/books/padmavat/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "सात समुद्र खंड — खारे से अमृत समुद्र की आध्यात्मिक यात्रा",
+      "block_count": 101,
+      "word_count": 1223,
+      "estimated_minutes": 7,
+      "file": "content/books/padmavat/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "सिंहलदीप खंड — गंधर्वसेन के दुर्ग में प्रवेश",
+      "block_count": 60,
+      "word_count": 644,
+      "estimated_minutes": 4,
+      "file": "content/books/padmavat/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "पदमावती वियोग खंड — प्रेम-प्रतीक्षा व विरह की ज्वाला",
+      "block_count": 71,
+      "word_count": 971,
+      "estimated_minutes": 5,
+      "file": "content/books/padmavat/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "वसंत खंड — ऋतुराज का आनंद व सखियों का नृत्य",
+      "block_count": 171,
+      "word_count": 1842,
+      "estimated_minutes": 10,
+      "file": "content/books/padmavat/ch_10.json"
+    }
+  ]
+}
