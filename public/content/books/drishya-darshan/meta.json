@@ -1,0 +1,142 @@
+{
+  "id": "drishya-darshan",
+  "title": "दृश्य-दर्शन",
+  "title_en": "Drishya-Darshan",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "इतिहास व जीवन-चरित्र",
+  "category_en": "Travelogues, Architecture & Cultural Landscapes",
+  "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा भारत के ऐतिहासिक स्थलों, स्थापत्य कला और प्राकृतिक दृश्यों पर रचित यात्रा-वृत्त एवं पुरातात्त्विक संस्मरण। औरंगाबाद, दौलताबाद, ग्वालियर दुर्ग, चरखारी-राज्य और विंध्याचल के दर्शनीय स्थलों का १३ अध्यायों में सजीव रेखांकन।",
+  "cover_image": "",
+  "published_year": 1924,
+  "keywords": [
+    "drishya darshan",
+    "mahavir prasad dwivedi",
+    "travelogue",
+    "historical monuments",
+    "gwalior fort",
+    "daulatabad"
+  ],
+  "total_words": 34521,
+  "total_chapters": 13,
+  "estimated_reading_minutes": 192,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "औरङ्गाबाद, दौलताबाद और रौज़ा",
+      "block_count": 38,
+      "word_count": 1904,
+      "estimated_minutes": 11,
+      "file": "content/books/drishya-darshan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "ग्वालियर।",
+      "block_count": 150,
+      "word_count": 4554,
+      "estimated_minutes": 25,
+      "file": "content/books/drishya-darshan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "चरखारी-राज्य।",
+      "block_count": 105,
+      "word_count": 2890,
+      "estimated_minutes": 16,
+      "file": "content/books/drishya-darshan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चिदम्बर",
+      "block_count": 40,
+      "word_count": 941,
+      "estimated_minutes": 5,
+      "file": "content/books/drishya-darshan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "जयपुर।",
+      "block_count": 11,
+      "word_count": 1151,
+      "estimated_minutes": 6,
+      "file": "content/books/drishya-darshan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "तिबत।",
+      "block_count": 61,
+      "word_count": 1839,
+      "estimated_minutes": 10,
+      "file": "content/books/drishya-darshan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "देहली।",
+      "block_count": 30,
+      "word_count": 2377,
+      "estimated_minutes": 13,
+      "file": "content/books/drishya-darshan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "नेपाल।",
+      "block_count": 132,
+      "word_count": 4214,
+      "estimated_minutes": 23,
+      "file": "content/books/drishya-darshan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "पटना।",
+      "block_count": 65,
+      "word_count": 1568,
+      "estimated_minutes": 9,
+      "file": "content/books/drishya-darshan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "बनारस।",
+      "block_count": 196,
+      "word_count": 5534,
+      "estimated_minutes": 31,
+      "file": "content/books/drishya-darshan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "बलगारिया।",
+      "block_count": 64,
+      "word_count": 1184,
+      "estimated_minutes": 7,
+      "file": "content/books/drishya-darshan/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "मलाबार।",
+      "block_count": 46,
+      "word_count": 1402,
+      "estimated_minutes": 8,
+      "file": "content/books/drishya-darshan/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "मुरशिदाबाद",
+      "block_count": 201,
+      "word_count": 4963,
+      "estimated_minutes": 28,
+      "file": "content/books/drishya-darshan/ch_13.json"
+    }
+  ]
+}

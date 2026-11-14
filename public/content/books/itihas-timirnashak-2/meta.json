@@ -1,0 +1,142 @@
+{
+  "id": "itihas-timirnashak-2",
+  "title": "इतिहास तिमिरनाशक (भाग २)",
+  "title_en": "Itihas Timirnashak (Part 2)",
+  "author": "राजा शिवप्रसाद 'सितारेहिन्द'",
+  "author_en": "Raja Shivprasad 'Sitarehind'",
+  "category": "इतिहास व जीवन-चरित्र",
+  "category_en": "Modern Indian History & Historiography",
+  "description": "भारतेन्दु-पूर्व युग के मूर्धन्य इतिहासकार राजा शिवप्रसाद सितारेहिन्द (१८२३–१८९५) द्वारा विरचित आधुनिक भारत का ऐतिहासिक ग्रंथ। १८वीं व १९वीं शताब्दी में मराठों, मुग़लों के पतन, अर्ल ऑफ़ माइरा, लॉर्ड ऑकलैंड और ईस्ट इंडिया कंपनी के भारत में विस्तार का १३ अध्यायों में प्रामाणिक विवरण।",
+  "cover_image": "",
+  "published_year": 1873,
+  "keywords": [
+    "itihas timirnashak",
+    "sitarehind",
+    "indian history",
+    "maratha",
+    "mughal",
+    "19th century india"
+  ],
+  "total_words": 27693,
+  "total_chapters": 13,
+  "estimated_reading_minutes": 154,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अर्ल आफ़ माइरा",
+      "block_count": 261,
+      "word_count": 2595,
+      "estimated_minutes": 14,
+      "file": "content/books/itihas-timirnashak-2/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "इतिहास तिमिरनाशक",
+      "block_count": 366,
+      "word_count": 3908,
+      "estimated_minutes": 22,
+      "file": "content/books/itihas-timirnashak-2/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "लार्ड अकलैंड",
+      "block_count": 262,
+      "word_count": 2970,
+      "estimated_minutes": 17,
+      "file": "content/books/itihas-timirnashak-2/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "लार्ड एम्हर्स्ट",
+      "block_count": 58,
+      "word_count": 753,
+      "estimated_minutes": 4,
+      "file": "content/books/itihas-timirnashak-2/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "लार्ड ऐलनबरा",
+      "block_count": 127,
+      "word_count": 1209,
+      "estimated_minutes": 7,
+      "file": "content/books/itihas-timirnashak-2/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "लार्ड कार्नवालिस",
+      "block_count": 260,
+      "word_count": 2877,
+      "estimated_minutes": 16,
+      "file": "content/books/itihas-timirnashak-2/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "लार्ड केनिंग",
+      "block_count": 381,
+      "word_count": 3864,
+      "estimated_minutes": 21,
+      "file": "content/books/itihas-timirnashak-2/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "लार्ड क्लाइव",
+      "block_count": 79,
+      "word_count": 794,
+      "estimated_minutes": 4,
+      "file": "content/books/itihas-timirnashak-2/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "लार्ड डलहौसी",
+      "block_count": 223,
+      "word_count": 2399,
+      "estimated_minutes": 13,
+      "file": "content/books/itihas-timirnashak-2/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "लार्ड बेंटिंक",
+      "block_count": 8,
+      "word_count": 164,
+      "estimated_minutes": 1,
+      "file": "content/books/itihas-timirnashak-2/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "लार्ड मिन्टो",
+      "block_count": 55,
+      "word_count": 477,
+      "estimated_minutes": 3,
+      "file": "content/books/itihas-timirnashak-2/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "वारन् हेस्टिंग्ज़् पहला गवर्नर जेनरल",
+      "block_count": 213,
+      "word_count": 2286,
+      "estimated_minutes": 13,
+      "file": "content/books/itihas-timirnashak-2/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "सर हेनरी हार्डिंग (लार्ड हार्डिंग)",
+      "block_count": 346,
+      "word_count": 3397,
+      "estimated_minutes": 19,
+      "file": "content/books/itihas-timirnashak-2/ch_13.json"
+    }
+  ]
+}

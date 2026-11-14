@@ -1,0 +1,259 @@
+{
+  "id": "sankalan",
+  "title": "सङ्कलन",
+  "title_en": "Sankalan",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "निबंध व विमर्श",
+  "category_en": "Essays, Science & Literary Observations",
+  "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा विरचित विविध ज्ञान-विज्ञान, भाषा, समाज और पुरातात्त्विक विषयों पर २५ अमर निबंधों का संकलन। वैज्ञानिक शोध, सामाजिक कुरीतियाँ, ऐतिहासिक चरित्र और कला-साहित्य का सुगम खड़ी बोली में गंभीर विवेचन।",
+  "cover_image": "",
+  "published_year": 1924,
+  "keywords": [
+    "sankalan",
+    "mahavir prasad dwivedi",
+    "essays",
+    "science",
+    "literature",
+    "social critique"
+  ],
+  "total_words": 37358,
+  "total_chapters": 26,
+  "estimated_reading_minutes": 208,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१ तारीख से दिन निकालने की रीति",
+      "block_count": 22,
+      "word_count": 363,
+      "estimated_minutes": 2,
+      "file": "content/books/sankalan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "१० एक तरुणी का नीलाम",
+      "block_count": 64,
+      "word_count": 773,
+      "estimated_minutes": 4,
+      "file": "content/books/sankalan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "११ गूँगों और बहरों के लिए स्कूल",
+      "block_count": 110,
+      "word_count": 1202,
+      "estimated_minutes": 7,
+      "file": "content/books/sankalan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "१२ लोभ",
+      "block_count": 108,
+      "word_count": 1297,
+      "estimated_minutes": 7,
+      "file": "content/books/sankalan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "१३ चीन के विश्व-विद्यालयों की परीक्षा-प्रणाली",
+      "block_count": 73,
+      "word_count": 1342,
+      "estimated_minutes": 7,
+      "file": "content/books/sankalan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "१४ अमेरिका के गाँव",
+      "block_count": 177,
+      "word_count": 1902,
+      "estimated_minutes": 11,
+      "file": "content/books/sankalan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "१५ पानी के भीतर चलनेवाले धूम्रपोत",
+      "block_count": 113,
+      "word_count": 1467,
+      "estimated_minutes": 8,
+      "file": "content/books/sankalan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "१६ विलायत में उपाधियों का क्रय-विक्रय",
+      "block_count": 108,
+      "word_count": 1274,
+      "estimated_minutes": 7,
+      "file": "content/books/sankalan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "१७ व्योमयान द्वारा मुसाफिरी",
+      "block_count": 120,
+      "word_count": 1252,
+      "estimated_minutes": 7,
+      "file": "content/books/sankalan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१८ तुर्कों का उत्थान और पतन",
+      "block_count": 200,
+      "word_count": 2444,
+      "estimated_minutes": 14,
+      "file": "content/books/sankalan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "१९ भारत में शिक्षा-प्रचार",
+      "block_count": 124,
+      "word_count": 1839,
+      "estimated_minutes": 10,
+      "file": "content/books/sankalan/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "२ प्राण-घातक माला",
+      "block_count": 79,
+      "word_count": 789,
+      "estimated_minutes": 4,
+      "file": "content/books/sankalan/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "२० स्वेज़ नहर",
+      "block_count": 100,
+      "word_count": 1299,
+      "estimated_minutes": 7,
+      "file": "content/books/sankalan/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "२१ माइसोर में सोने की खानें",
+      "block_count": 139,
+      "word_count": 1575,
+      "estimated_minutes": 9,
+      "file": "content/books/sankalan/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "२२ निष्क्रिय प्रतिरोध का परिणाम",
+      "block_count": 191,
+      "word_count": 2303,
+      "estimated_minutes": 13,
+      "file": "content/books/sankalan/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "२३ भारतवर्ष में नशेबाज़ी",
+      "block_count": 103,
+      "word_count": 1081,
+      "estimated_minutes": 6,
+      "file": "content/books/sankalan/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "२४ समुद्र के भीतर तार डालना",
+      "block_count": 169,
+      "word_count": 1818,
+      "estimated_minutes": 10,
+      "file": "content/books/sankalan/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "२५ मक्खियों से हानि",
+      "block_count": 70,
+      "word_count": 818,
+      "estimated_minutes": 5,
+      "file": "content/books/sankalan/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "२६ भारत के पहलवानों का विदेश में यशोविस्तार",
+      "block_count": 132,
+      "word_count": 1396,
+      "estimated_minutes": 8,
+      "file": "content/books/sankalan/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "३ कोरिया और कोरिया-नरेश",
+      "block_count": 173,
+      "word_count": 1757,
+      "estimated_minutes": 10,
+      "file": "content/books/sankalan/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "४ कांग्रेस के कर्ता",
+      "block_count": 152,
+      "word_count": 1545,
+      "estimated_minutes": 9,
+      "file": "content/books/sankalan/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "५ क्रोध",
+      "block_count": 88,
+      "word_count": 919,
+      "estimated_minutes": 5,
+      "file": "content/books/sankalan/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "६ स्वाधीनता",
+      "block_count": 434,
+      "word_count": 4455,
+      "estimated_minutes": 25,
+      "file": "content/books/sankalan/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "७ सबसे बड़ा हीरा",
+      "block_count": 124,
+      "word_count": 1317,
+      "estimated_minutes": 7,
+      "file": "content/books/sankalan/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "८ जापान की शिक्षा-प्रणाली",
+      "block_count": 51,
+      "word_count": 681,
+      "estimated_minutes": 4,
+      "file": "content/books/sankalan/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "९ जापान के स्कूलों में जीवन-चरित शिक्षा",
+      "block_count": 47,
+      "word_count": 450,
+      "estimated_minutes": 3,
+      "file": "content/books/sankalan/ch_26.json"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "vishwa-prapanch",
+  "title": "विश्व प्रपंच",
+  "title_en": "Vishwa Prapanch",
+  "author": "बाबू श्यामसुन्दर दास",
+  "author_en": "Babu Shyam Sundar Das",
+  "category": "निबंध व विमर्श",
+  "category_en": "Cosmology, Natural Philosophy & Science",
+  "description": "काशी नागरी प्रचारिणी सभा के संस्थापक बाबू श्यामसुन्दर दास (१८७५–१९४५) द्वारा विरचित सृष्टि-विज्ञान, ब्रह्मांड, जीव-विकास और चेतना का दार्शनिक महाग्रंथ। अर्न्स्ट हेकल के 'रिडल ऑफ़ द यूनिवर्स' का हिन्दी में १९ अध्यायों में उच्चस्तरीय वैज्ञानिक एवं तात्विक रूपान्तर।",
+  "cover_image": "",
+  "published_year": 1920,
+  "keywords": [
+    "vishwa prapanch",
+    "shyam sundar das",
+    "cosmology",
+    "science",
+    "philosophy",
+    "evolution",
+    "universe"
+  ],
+  "total_words": 69870,
+  "total_chapters": 19,
+  "estimated_reading_minutes": 388,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "आठवाँ प्रकरण",
+      "block_count": 27,
+      "word_count": 2287,
+      "estimated_minutes": 13,
+      "file": "content/books/vishwa-prapanch/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "चौथा प्रकरण",
+      "block_count": 49,
+      "word_count": 3135,
+      "estimated_minutes": 17,
+      "file": "content/books/vishwa-prapanch/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "छठा प्रकरण",
+      "block_count": 66,
+      "word_count": 4631,
+      "estimated_minutes": 26,
+      "file": "content/books/vishwa-prapanch/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "तीसरा प्रकरण",
+      "block_count": 26,
+      "word_count": 1930,
+      "estimated_minutes": 11,
+      "file": "content/books/vishwa-prapanch/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "दसवाँ प्रकरण",
+      "block_count": 47,
+      "word_count": 2733,
+      "estimated_minutes": 15,
+      "file": "content/books/vishwa-prapanch/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "दूसरा प्रकरण",
+      "block_count": 43,
+      "word_count": 2763,
+      "estimated_minutes": 15,
+      "file": "content/books/vishwa-prapanch/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "नवाँ प्रकरण",
+      "block_count": 56,
+      "word_count": 4356,
+      "estimated_minutes": 24,
+      "file": "content/books/vishwa-prapanch/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "पहला प्रकरण",
+      "block_count": 63,
+      "word_count": 3556,
+      "estimated_minutes": 20,
+      "file": "content/books/vishwa-prapanch/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "पांचवाँ प्रकरण",
+      "block_count": 40,
+      "word_count": 2963,
+      "estimated_minutes": 16,
+      "file": "content/books/vishwa-prapanch/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "भूमिका",
+      "block_count": 1,
+      "word_count": 5,
+      "estimated_minutes": 1,
+      "file": "content/books/vishwa-prapanch/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "भूमिका/१",
+      "block_count": 102,
+      "word_count": 6050,
+      "estimated_minutes": 34,
+      "file": "content/books/vishwa-prapanch/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "भूमिका/२",
+      "block_count": 53,
+      "word_count": 5138,
+      "estimated_minutes": 29,
+      "file": "content/books/vishwa-prapanch/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "भूमिका/३",
+      "block_count": 57,
+      "word_count": 5792,
+      "estimated_minutes": 32,
+      "file": "content/books/vishwa-prapanch/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "भूमिका/४",
+      "block_count": 65,
+      "word_count": 5217,
+      "estimated_minutes": 29,
+      "file": "content/books/vishwa-prapanch/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "भूमिका/५",
+      "block_count": 41,
+      "word_count": 3312,
+      "estimated_minutes": 18,
+      "file": "content/books/vishwa-prapanch/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "भूमिका/६",
+      "block_count": 43,
+      "word_count": 3115,
+      "estimated_minutes": 17,
+      "file": "content/books/vishwa-prapanch/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "भूमिका/७",
+      "block_count": 46,
+      "word_count": 3784,
+      "estimated_minutes": 21,
+      "file": "content/books/vishwa-prapanch/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "भूमिका/८",
+      "block_count": 40,
+      "word_count": 3408,
+      "estimated_minutes": 19,
+      "file": "content/books/vishwa-prapanch/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "सातवाँ प्रकरण",
+      "block_count": 85,
+      "word_count": 5695,
+      "estimated_minutes": 32,
+      "file": "content/books/vishwa-prapanch/ch_19.json"
+    }
+  ]
+}

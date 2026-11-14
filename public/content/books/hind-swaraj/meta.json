@@ -1,0 +1,115 @@
+{
+  "id": "hind-swaraj",
+  "title": "हिन्द स्वराज",
+  "title_en": "Hind Swaraj",
+  "author": "महात्मा गांधी",
+  "author_en": "Mahatma Gandhi",
+  "category": "निबंध व विमर्श",
+  "category_en": "Political Philosophy & Manifesto",
+  "description": "राष्ट्रपिता महात्मा गांधी (१८६९–१९४८) का युगांतरकारी दार्शनिक व वैचारिक घोषणापत्र। स्वदेशी, सत्याग्रह, आधुनिक सभ्यता की समालोचना, स्वराज का वास्तविक अर्थ और अहिंसा के मूल सिद्धांतों का सम्पूर्ण २० अध्यायों में पाठकीय संवाद के रूप में शाश्वत विवेचन।",
+  "cover_image": "",
+  "published_year": 1909,
+  "keywords": [
+    "hind swaraj",
+    "mahatma gandhi",
+    "swaraj",
+    "satyagraha",
+    "indian independence",
+    "political philosophy"
+  ],
+  "total_words": 33359,
+  "total_chapters": 10,
+  "estimated_reading_minutes": 185,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "निवेदन",
+      "block_count": 7,
+      "word_count": 141,
+      "estimated_minutes": 1,
+      "file": "content/books/hind-swaraj/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "१",
+      "block_count": 74,
+      "word_count": 3164,
+      "estimated_minutes": 18,
+      "file": "content/books/hind-swaraj/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "२",
+      "block_count": 109,
+      "word_count": 2177,
+      "estimated_minutes": 12,
+      "file": "content/books/hind-swaraj/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "३",
+      "block_count": 85,
+      "word_count": 3427,
+      "estimated_minutes": 19,
+      "file": "content/books/hind-swaraj/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "४",
+      "block_count": 79,
+      "word_count": 3310,
+      "estimated_minutes": 18,
+      "file": "content/books/hind-swaraj/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "५",
+      "block_count": 136,
+      "word_count": 5396,
+      "estimated_minutes": 30,
+      "file": "content/books/hind-swaraj/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "६",
+      "block_count": 138,
+      "word_count": 5204,
+      "estimated_minutes": 29,
+      "file": "content/books/hind-swaraj/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "७",
+      "block_count": 142,
+      "word_count": 6220,
+      "estimated_minutes": 35,
+      "file": "content/books/hind-swaraj/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "८",
+      "block_count": 93,
+      "word_count": 2592,
+      "estimated_minutes": 14,
+      "file": "content/books/hind-swaraj/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "⁠दो शब्द",
+      "block_count": 40,
+      "word_count": 1728,
+      "estimated_minutes": 10,
+      "file": "content/books/hind-swaraj/ch_10.json"
+    }
+  ]
+}

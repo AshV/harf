@@ -1,0 +1,97 @@
+{
+  "id": "upayogitavad",
+  "title": "उपयोगितावाद",
+  "title_en": "Upayogitavad",
+  "author": "लाला सीताराम",
+  "author_en": "Lala Sitaram",
+  "category": "निबंध व विमर्श",
+  "category_en": "Ethics & Utilitarian Philosophy",
+  "description": "जॉन स्टुअर्ट मिल के नैतिक दर्शन 'यूटिलिटेरियनिज्म' (Utilitarianism) का लाला सीताराम 'भूप' द्वारा किया गया प्रामाणिक अनुवाद। अधिकतम व्यक्तियों के अधिकतम कल्याण का सिद्धांत, सुख व दुःख की गुणवत्ता, न्याय और उपयोगिता के संबंध का ८ अध्यायों में तात्विक विवेचन।",
+  "cover_image": "",
+  "published_year": 1918,
+  "keywords": [
+    "upayogitavad",
+    "lala sitaram",
+    "john stuart mill",
+    "utilitarianism",
+    "ethics",
+    "moral philosophy"
+  ],
+  "total_words": 35484,
+  "total_chapters": 8,
+  "estimated_reading_minutes": 197,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "चौथा अध्याय",
+      "block_count": 39,
+      "word_count": 3201,
+      "estimated_minutes": 18,
+      "file": "content/books/upayogitavad/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "जान स्टुअर्ट मिल",
+      "block_count": 43,
+      "word_count": 2961,
+      "estimated_minutes": 16,
+      "file": "content/books/upayogitavad/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तीसरा अध्याय",
+      "block_count": 30,
+      "word_count": 3620,
+      "estimated_minutes": 20,
+      "file": "content/books/upayogitavad/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "दूसरा अध्याय",
+      "block_count": 69,
+      "word_count": 8939,
+      "estimated_minutes": 50,
+      "file": "content/books/upayogitavad/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पहिला अध्याय",
+      "block_count": 31,
+      "word_count": 2139,
+      "estimated_minutes": 12,
+      "file": "content/books/upayogitavad/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "पांचवां अध्याय",
+      "block_count": 265,
+      "word_count": 13290,
+      "estimated_minutes": 74,
+      "file": "content/books/upayogitavad/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "भूमिका",
+      "block_count": 12,
+      "word_count": 902,
+      "estimated_minutes": 5,
+      "file": "content/books/upayogitavad/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "मुखपृष्ठ",
+      "block_count": 67,
+      "word_count": 432,
+      "estimated_minutes": 2,
+      "file": "content/books/upayogitavad/ch_08.json"
+    }
+  ]
+}

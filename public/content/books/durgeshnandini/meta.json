@@ -1,0 +1,412 @@
+{
+  "id": "durgeshnandini",
+  "title": "दुर्गेशनन्दिनी",
+  "title_en": "Durgeshnandini",
+  "author": "बंकिमचन्द्र चट्टोपाध्याय",
+  "author_en": "Bankim Chandra Chattopadhyay",
+  "category": "उपन्यास",
+  "category_en": "First Historical Novel of Modern India",
+  "description": "आधुनिक भारतीय साहित्य का प्रथम ऐतिहासिक उपन्यास। १६वीं शताब्दी के मुग़ल-पठान संघर्ष के ऐतिहासिक धरातल पर राजकुमार जगतसिंह, मान्दारन के दुर्गपति की कन्या तिलोत्तमा और पठान-सुंदरी आयशा के त्रिकोणीय उदात्त प्रेम, शौर्य और त्याग का सम्पूर्ण दो भागों व ४३ अध्यायों में सजीव चित्रण।",
+  "cover_image": "",
+  "published_year": 1865,
+  "keywords": [
+    "durgeshnandini",
+    "bankim chandra",
+    "historical novel",
+    "jagatsingh",
+    "ayesha",
+    "tilottama"
+  ],
+  "total_words": 42039,
+  "total_chapters": 43,
+  "estimated_reading_minutes": 234,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/अठारहवां परिच्छेद",
+      "block_count": 25,
+      "word_count": 806,
+      "estimated_minutes": 4,
+      "file": "content/books/durgeshnandini/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/आठवां परिच्छेद",
+      "block_count": 49,
+      "word_count": 1280,
+      "estimated_minutes": 7,
+      "file": "content/books/durgeshnandini/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/उन्नीसवां परिच्छेद",
+      "block_count": 44,
+      "word_count": 1037,
+      "estimated_minutes": 6,
+      "file": "content/books/durgeshnandini/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/ग्यारहवां परिच्छेद",
+      "block_count": 41,
+      "word_count": 603,
+      "estimated_minutes": 3,
+      "file": "content/books/durgeshnandini/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/चौथा परिच्छेद",
+      "block_count": 15,
+      "word_count": 833,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/चौदहवां परिच्छेद",
+      "block_count": 43,
+      "word_count": 1079,
+      "estimated_minutes": 6,
+      "file": "content/books/durgeshnandini/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/छठवां परिच्छेद",
+      "block_count": 19,
+      "word_count": 815,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/तृतीय परिच्छेद",
+      "block_count": 20,
+      "word_count": 686,
+      "estimated_minutes": 4,
+      "file": "content/books/durgeshnandini/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/तेरहवां परिच्छेद",
+      "block_count": 66,
+      "word_count": 1172,
+      "estimated_minutes": 7,
+      "file": "content/books/durgeshnandini/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/दसवां परिच्छेद",
+      "block_count": 34,
+      "word_count": 752,
+      "estimated_minutes": 4,
+      "file": "content/books/durgeshnandini/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/द्वितीय परिच्छेद",
+      "block_count": 20,
+      "word_count": 839,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/नौवां परिच्छेद",
+      "block_count": 31,
+      "word_count": 670,
+      "estimated_minutes": 4,
+      "file": "content/books/durgeshnandini/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/पन्द्रहवां परिच्छेद",
+      "block_count": 48,
+      "word_count": 1244,
+      "estimated_minutes": 7,
+      "file": "content/books/durgeshnandini/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/परिशिष्ट",
+      "block_count": 11,
+      "word_count": 183,
+      "estimated_minutes": 1,
+      "file": "content/books/durgeshnandini/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/पांचवां परिच्छेद",
+      "block_count": 28,
+      "word_count": 847,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/प्रथम परिच्छेद",
+      "block_count": 46,
+      "word_count": 2321,
+      "estimated_minutes": 13,
+      "file": "content/books/durgeshnandini/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/बारहवां परिच्छेद",
+      "block_count": 46,
+      "word_count": 620,
+      "estimated_minutes": 3,
+      "file": "content/books/durgeshnandini/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/सत्रहवां परिच्छेद",
+      "block_count": 52,
+      "word_count": 712,
+      "estimated_minutes": 4,
+      "file": "content/books/durgeshnandini/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/सातवां परिच्छेद",
+      "block_count": 25,
+      "word_count": 481,
+      "estimated_minutes": 3,
+      "file": "content/books/durgeshnandini/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "दुर्गेशनन्दिनी प्रथम भाग/सोलहवां परिच्छेद",
+      "block_count": 49,
+      "word_count": 1062,
+      "estimated_minutes": 6,
+      "file": "content/books/durgeshnandini/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ अट्ठारहवां परिच्छेद",
+      "block_count": 46,
+      "word_count": 1160,
+      "estimated_minutes": 6,
+      "file": "content/books/durgeshnandini/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ आठवां परिच्छेद",
+      "block_count": 42,
+      "word_count": 869,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ इक्कीसवां परिच्छेद",
+      "block_count": 21,
+      "word_count": 723,
+      "estimated_minutes": 4,
+      "file": "content/books/durgeshnandini/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ उन्नीसवां परिच्छेद",
+      "block_count": 24,
+      "word_count": 748,
+      "estimated_minutes": 4,
+      "file": "content/books/durgeshnandini/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ ग्यारहवां परिच्छेद",
+      "block_count": 63,
+      "word_count": 1568,
+      "estimated_minutes": 9,
+      "file": "content/books/durgeshnandini/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ चौथा परिच्छेद",
+      "block_count": 53,
+      "word_count": 1164,
+      "estimated_minutes": 6,
+      "file": "content/books/durgeshnandini/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ चौदहवां परिच्छेद",
+      "block_count": 39,
+      "word_count": 910,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ छठवां परिच्छेद",
+      "block_count": 40,
+      "word_count": 1233,
+      "estimated_minutes": 7,
+      "file": "content/books/durgeshnandini/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ तीसरा परिच्छेद",
+      "block_count": 38,
+      "word_count": 658,
+      "estimated_minutes": 4,
+      "file": "content/books/durgeshnandini/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ तेरहवां परिच्छेद",
+      "block_count": 42,
+      "word_count": 1179,
+      "estimated_minutes": 7,
+      "file": "content/books/durgeshnandini/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ दसवां परिच्छेद",
+      "block_count": 28,
+      "word_count": 934,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ दुसरा परिच्छेद",
+      "block_count": 1,
+      "word_count": 8,
+      "estimated_minutes": 1,
+      "file": "content/books/durgeshnandini/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ दूसरा परिच्छेद",
+      "block_count": 35,
+      "word_count": 933,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ नवां परिच्छेद",
+      "block_count": 68,
+      "word_count": 999,
+      "estimated_minutes": 6,
+      "file": "content/books/durgeshnandini/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ पन्द्रहवां परिच्छेद",
+      "block_count": 60,
+      "word_count": 1410,
+      "estimated_minutes": 8,
+      "file": "content/books/durgeshnandini/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ पांचवां परिच्छेद",
+      "block_count": 46,
+      "word_count": 1157,
+      "estimated_minutes": 6,
+      "file": "content/books/durgeshnandini/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ प्रथम परिच्छेद",
+      "block_count": 30,
+      "word_count": 894,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ बाईसवां परिच्छेद",
+      "block_count": 55,
+      "word_count": 1283,
+      "estimated_minutes": 7,
+      "file": "content/books/durgeshnandini/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ बारहवां परिच्छेद",
+      "block_count": 54,
+      "word_count": 1406,
+      "estimated_minutes": 8,
+      "file": "content/books/durgeshnandini/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ बीसवां परिच्छेद",
+      "block_count": 29,
+      "word_count": 942,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ सतरहवां परिच्छेद",
+      "block_count": 56,
+      "word_count": 834,
+      "estimated_minutes": 5,
+      "file": "content/books/durgeshnandini/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ सातवां परिच्छेद",
+      "block_count": 53,
+      "word_count": 1762,
+      "estimated_minutes": 10,
+      "file": "content/books/durgeshnandini/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "दुर्गेशनन्दिनी द्वितीय भाग/ सोलहवां परिच्छेद",
+      "block_count": 34,
+      "word_count": 1223,
+      "estimated_minutes": 7,
+      "file": "content/books/durgeshnandini/ch_43.json"
+    }
+  ]
+}

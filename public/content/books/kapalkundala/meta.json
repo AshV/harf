@@ -1,0 +1,303 @@
+{
+  "id": "kapalkundala",
+  "title": "कपालकुण्डला",
+  "title_en": "Kapalkundala",
+  "author": "बंकिमचन्द्र चट्टोपाध्याय",
+  "author_en": "Bankim Chandra Chattopadhyay",
+  "category": "उपन्यास",
+  "category_en": "Romantic & Historical Classic Novel",
+  "description": "भारतीय उपन्यास-साहित्य के जनक बंकिमचन्द्र चट्टोपाध्याय (१८३८–१८९४) का अमर प्रेमाख्यान उपन्यास। समुद्रतट के भयानक वन में कापालिक के चंगुल से नवकुमार का उद्धार, प्रकृति-कन्या कपालकुण्डला का रहस्यमयी अंतःकरण और मानव-नियति का ३२ अध्यायों में भव्य चित्रण।",
+  "cover_image": "",
+  "published_year": 1866,
+  "keywords": [
+    "kapalkundala",
+    "bankim chandra chattopadhyay",
+    "classic novel",
+    "bengali hindi translation",
+    "historical romance"
+  ],
+  "total_words": 25098,
+  "total_chapters": 31,
+  "estimated_reading_minutes": 139,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "चौथा खण्ड/१",
+      "block_count": 43,
+      "word_count": 898,
+      "estimated_minutes": 5,
+      "file": "content/books/kapalkundala/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "चौथा खण्ड/२",
+      "block_count": 36,
+      "word_count": 1334,
+      "estimated_minutes": 7,
+      "file": "content/books/kapalkundala/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "चौथा खण्ड/३",
+      "block_count": 13,
+      "word_count": 423,
+      "estimated_minutes": 2,
+      "file": "content/books/kapalkundala/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चौथा खण्ड/४",
+      "block_count": 10,
+      "word_count": 441,
+      "estimated_minutes": 2,
+      "file": "content/books/kapalkundala/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "चौथा खण्ड/५",
+      "block_count": 30,
+      "word_count": 712,
+      "estimated_minutes": 4,
+      "file": "content/books/kapalkundala/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "चौथा खण्ड/६",
+      "block_count": 17,
+      "word_count": 488,
+      "estimated_minutes": 3,
+      "file": "content/books/kapalkundala/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "चौथा खण्ड/७",
+      "block_count": 36,
+      "word_count": 1121,
+      "estimated_minutes": 6,
+      "file": "content/books/kapalkundala/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "चौथा खण्ड/८",
+      "block_count": 24,
+      "word_count": 698,
+      "estimated_minutes": 4,
+      "file": "content/books/kapalkundala/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "चौथा खण्ड/९",
+      "block_count": 27,
+      "word_count": 684,
+      "estimated_minutes": 4,
+      "file": "content/books/kapalkundala/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "तृतीय खण्ड/१",
+      "block_count": 21,
+      "word_count": 1156,
+      "estimated_minutes": 6,
+      "file": "content/books/kapalkundala/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "तृतीय खण्ड/२",
+      "block_count": 45,
+      "word_count": 709,
+      "estimated_minutes": 4,
+      "file": "content/books/kapalkundala/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "तृतीय खण्ड/३",
+      "block_count": 36,
+      "word_count": 561,
+      "estimated_minutes": 3,
+      "file": "content/books/kapalkundala/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "तृतीय खण्ड/४",
+      "block_count": 36,
+      "word_count": 561,
+      "estimated_minutes": 3,
+      "file": "content/books/kapalkundala/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "तृतीय खण्ड/५",
+      "block_count": 56,
+      "word_count": 909,
+      "estimated_minutes": 5,
+      "file": "content/books/kapalkundala/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "तृतीय खण्ड/६",
+      "block_count": 27,
+      "word_count": 1122,
+      "estimated_minutes": 6,
+      "file": "content/books/kapalkundala/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "तृतीय खण्ड/७",
+      "block_count": 20,
+      "word_count": 351,
+      "estimated_minutes": 2,
+      "file": "content/books/kapalkundala/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "द्वितीय खण्ड/१",
+      "block_count": 25,
+      "word_count": 591,
+      "estimated_minutes": 3,
+      "file": "content/books/kapalkundala/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "द्वितीय खण्ड/२",
+      "block_count": 29,
+      "word_count": 823,
+      "estimated_minutes": 5,
+      "file": "content/books/kapalkundala/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "द्वितीय खण्ड/३",
+      "block_count": 41,
+      "word_count": 784,
+      "estimated_minutes": 4,
+      "file": "content/books/kapalkundala/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "द्वितीय खण्ड/४",
+      "block_count": 23,
+      "word_count": 279,
+      "estimated_minutes": 2,
+      "file": "content/books/kapalkundala/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "द्वितीय खण्ड/५",
+      "block_count": 20,
+      "word_count": 620,
+      "estimated_minutes": 3,
+      "file": "content/books/kapalkundala/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "द्वितीय खण्ड/६",
+      "block_count": 75,
+      "word_count": 1218,
+      "estimated_minutes": 7,
+      "file": "content/books/kapalkundala/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "प्रथम खण्ड/१",
+      "block_count": 35,
+      "word_count": 1010,
+      "estimated_minutes": 6,
+      "file": "content/books/kapalkundala/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "प्रथम खण्ड/२",
+      "block_count": 20,
+      "word_count": 853,
+      "estimated_minutes": 5,
+      "file": "content/books/kapalkundala/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "प्रथम खण्ड/३",
+      "block_count": 30,
+      "word_count": 900,
+      "estimated_minutes": 5,
+      "file": "content/books/kapalkundala/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "प्रथम खण्ड/४",
+      "block_count": 20,
+      "word_count": 792,
+      "estimated_minutes": 4,
+      "file": "content/books/kapalkundala/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "प्रथम खण्ड/५",
+      "block_count": 24,
+      "word_count": 1106,
+      "estimated_minutes": 6,
+      "file": "content/books/kapalkundala/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "प्रथम खण्ड/६",
+      "block_count": 38,
+      "word_count": 1342,
+      "estimated_minutes": 7,
+      "file": "content/books/kapalkundala/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "प्रथम खण्ड/७",
+      "block_count": 17,
+      "word_count": 243,
+      "estimated_minutes": 1,
+      "file": "content/books/kapalkundala/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "प्रथम खण्ड/८",
+      "block_count": 74,
+      "word_count": 1938,
+      "estimated_minutes": 11,
+      "file": "content/books/kapalkundala/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "प्रथम खण्ड/९",
+      "block_count": 18,
+      "word_count": 431,
+      "estimated_minutes": 2,
+      "file": "content/books/kapalkundala/ch_31.json"
+    }
+  ]
+}

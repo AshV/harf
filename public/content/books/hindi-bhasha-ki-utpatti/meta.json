@@ -1,0 +1,79 @@
+{
+  "id": "hindi-bhasha-ki-utpatti",
+  "title": "हिन्दी भाषा की उत्पत्ति",
+  "title_en": "Hindi Bhasha ki Utpatti",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "भाषा व व्याकरण",
+  "category_en": "Philology, Linguistics & Origin of Hindi",
+  "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) का हिन्दी भाषा के ऐतिहासिक उद्भव और विकास पर लिखा गया प्रथम मानक भाषा-वैज्ञानिक ग्रंथ। वैदिक काल, संस्कृत, पालि, प्राकृत, अपभ्रंश तथा मध्यकालीन बोलियों से आधुनिक खड़ी बोली के प्रादुर्भाव का ६ अध्यायों में वैज्ञानिक विश्लेषण।",
+  "cover_image": "",
+  "published_year": 1907,
+  "keywords": [
+    "hindi bhasha ki utpatti",
+    "mahavir prasad dwivedi",
+    "linguistics",
+    "philology",
+    "origin of hindi",
+    "prakrit"
+  ],
+  "total_words": 15437,
+  "total_chapters": 6,
+  "estimated_reading_minutes": 86,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१-पूर्ववर्ती काल",
+      "block_count": 126,
+      "word_count": 3537,
+      "estimated_minutes": 20,
+      "file": "content/books/hindi-bhasha-ki-utpatti/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "२-परवर्ती काल",
+      "block_count": 246,
+      "word_count": 2318,
+      "estimated_minutes": 13,
+      "file": "content/books/hindi-bhasha-ki-utpatti/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "३-प्राकृत-काल",
+      "block_count": 145,
+      "word_count": 1583,
+      "estimated_minutes": 9,
+      "file": "content/books/hindi-bhasha-ki-utpatti/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "४-अपभ्रंश-काल",
+      "block_count": 146,
+      "word_count": 1474,
+      "estimated_minutes": 8,
+      "file": "content/books/hindi-bhasha-ki-utpatti/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "५-आधुनिक काल",
+      "block_count": 246,
+      "word_count": 2948,
+      "estimated_minutes": 16,
+      "file": "content/books/hindi-bhasha-ki-utpatti/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "६-उपसंहार",
+      "block_count": 85,
+      "word_count": 3577,
+      "estimated_minutes": 20,
+      "file": "content/books/hindi-bhasha-ki-utpatti/ch_06.json"
+    }
+  ]
+}

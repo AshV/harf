@@ -1444,3 +1444,171 @@
 
 ---
 
+### 121. कामना (Kamna)
+- **रचनाकार (Author):** जयशंकर प्रसाद (Jaishankar Prasad)
+- **विधा (Category):** नाटक (Allegorical & Philosophical Play)
+- **मूल प्रकाशन वर्ष (Published Year):** 1927
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/कामना)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 23 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२७ (भारती भण्डार, प्रयाग) जयशंकर प्रसाद (१८८९–१९३७) का २३ दृश्यों का सुप्रसिद्ध रूपक-नाटक।
+
+---
+
+### 122. हिन्द स्वराज (Hind Swaraj)
+- **रचनाकार (Author):** महात्मा गांधी (Mahatma Gandhi)
+- **विधा (Category):** निबंध व विमर्श (Political Philosophy & Manifesto)
+- **मूल प्रकाशन वर्ष (Published Year):** 1909
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/हिन्द_स्वराज)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 10 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९०९ (नवजीवन ट्रस्ट) महात्मा गांधी (१८६९–१९४८) का प्रामाणिक एवं मूल वैचारिक ग्रंथ।
+
+---
+
+### 123. कपालकुण्डला (Kapalkundala)
+- **रचनाकार (Author):** बंकिमचन्द्र चट्टोपाध्याय (Bankim Chandra Chattopadhyay)
+- **विधा (Category):** उपन्यास (Romantic & Historical Classic Novel)
+- **मूल प्रकाशन वर्ष (Published Year):** 1866
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/कपालकुण्डला)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 31 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १८६६ बंकिमचन्द्र चट्टोपाध्याय (१८३८–१८९४) का सम्पूर्ण ३२ अध्यायों का सुप्रसिद्ध शास्त्रीय उपन्यास।
+
+---
+
+### 124. दुर्गेशनन्दिनी (Durgeshnandini)
+- **रचनाकार (Author):** बंकिमचन्द्र चट्टोपाध्याय (Bankim Chandra Chattopadhyay)
+- **विधा (Category):** उपन्यास (First Historical Novel of Modern India)
+- **मूल प्रकाशन वर्ष (Published Year):** 1865
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/दुर्गेशनन्दिनी_प्रथम_भाग)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 43 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १८६५ बंकिमचन्द्र चट्टोपाध्याय (१८३८–१८९४) का सम्पूर्ण दो भागों (४३ परिच्छेदों) का प्रथम ऐतिहासिक उपन्यास।
+
+---
+
+### 125. सङ्कलन (Sankalan)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** निबंध व विमर्श (Essays, Science & Literary Observations)
+- **मूल प्रकाशन वर्ष (Published Year):** 1924
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/सङ्कलन)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 26 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२४ आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) के २५ निबंधों का मानक संग्रह।
+
+---
+
+### 126. दृश्य-दर्शन (Drishya-Darshan)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** इतिहास व जीवन-चरित्र (Travelogues, Architecture & Cultural Landscapes)
+- **मूल प्रकाशन वर्ष (Published Year):** 1924
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/दृश्य-दर्शन)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 13 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२४ आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) का १३ अध्यायों का ऐतिहासिक यात्रा-वृत्त ग्रंथ।
+
+---
+
+### 127. हिन्दी भाषा की उत्पत्ति (Hindi Bhasha ki Utpatti)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** भाषा व व्याकरण (Philology, Linguistics & Origin of Hindi)
+- **मूल प्रकाशन वर्ष (Published Year):** 1907
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/हिन्दी_भाषा_की_उत्पत्ति)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 6 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९०७ (इंडियन प्रेस, प्रयाग) आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) का ६ अध्यायों का भाषा-वैज्ञानिक ग्रंथ।
+
+---
+
+### 128. आल्हखण्ड (Aalha-Khand)
+- **रचनाकार (Author):** महाकवि जगनिक (Jagnik)
+- **विधा (Category):** कविता (Classical Heroic Ballad & Epic Poetry)
+- **मूल प्रकाशन वर्ष (Published Year):** 1182
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/आल्हखण्ड)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 23 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १२वीं शताब्दी के महाकवि जगनिक द्वारा रचित वीर-रस का सम्पूर्ण २३ अध्यायों का लोक-महाकाव्य।
+
+---
+
+### 129. विश्व प्रपंच (Vishwa Prapanch)
+- **रचनाकार (Author):** बाबू श्यामसुन्दर दास (Babu Shyam Sundar Das)
+- **विधा (Category):** निबंध व विमर्श (Cosmology, Natural Philosophy & Science)
+- **मूल प्रकाशन वर्ष (Published Year):** 1920
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/विश्व_प्रपंच)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 19 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२० (इंडियन प्रेस, प्रयाग) बाबू श्यामसुन्दर दास (१८७५–१९४५) का १९ अध्यायों का वैज्ञानिक-दार्शनिक ग्रंथ।
+
+---
+
+### 130. इतिहास तिमिरनाशक (भाग २) (Itihas Timirnashak (Part 2))
+- **रचनाकार (Author):** राजा शिवप्रसाद 'सितारेहिन्द' (Raja Shivprasad 'Sitarehind')
+- **विधा (Category):** इतिहास व जीवन-चरित्र (Modern Indian History & Historiography)
+- **मूल प्रकाशन वर्ष (Published Year):** 1873
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/इतिहास_तिमिरनाशक_2)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 13 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १८७३ राजा शिवप्रसाद सितारेहिन्द (१८२३–१८९५) का १३ अध्यायों का ऐतिहासिक ग्रंथ।
+
+---
+
+### 131. पंचतन्त्र (Panchatantra)
+- **रचनाकार (Author):** विष्णुशर्मा (Vishnusharma)
+- **विधा (Category):** कहानी (Timeless Classical Fables & Ethics)
+- **मूल प्रकाशन वर्ष (Published Year):** 300
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/पंचतन्त्र)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 5 भाग / अध्याय
+- **सत्यापन टिप्पणी:** आचार्य विष्णुशर्मा द्वारा विरचित सम्पूर्ण ५ तन्त्रों का प्रामाणिक शास्त्रीय पाठ।
+
+---
+
+### 132. सत्यार्थ प्रकाश (Satyarth Prakash)
+- **रचनाकार (Author):** स्वामी दयानंद सरस्वती (Swami Dayanand Saraswati)
+- **विधा (Category):** निबंध व विमर्श (Vedic Philosophy & Social Reform)
+- **मूल प्रकाशन वर्ष (Published Year):** 1875
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/सत्यार्थ_प्रकाश)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 5 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १८७५ स्वामी दयानंद सरस्वती (१८२४–१८८३) का प्रामाणिक दार्शनिक ग्रंथ।
+
+---
+
+### 133. स्त्रियों की पराधीनता (Striyon ki Paradhinata)
+- **रचनाकार (Author):** लाला सीताराम (Lala Sitaram)
+- **विधा (Category):** निबंध व विमर्श (Feminist Philosophy & Human Rights)
+- **मूल प्रकाशन वर्ष (Published Year):** 1918
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/स्त्रियों_की_पराधीनता)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 5 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९१८ लाला सीताराम (१८५८–१९३७) द्वारा अनूदित जॉन स्टुअर्ट मिल का अमर ग्रंथ।
+
+---
+
+### 134. उपयोगितावाद (Upayogitavad)
+- **रचनाकार (Author):** लाला सीताराम (Lala Sitaram)
+- **विधा (Category):** निबंध व विमर्श (Ethics & Utilitarian Philosophy)
+- **मूल प्रकाशन वर्ष (Published Year):** 1918
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/उपयोगितावाद)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 8 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९१८ लाला सीताराम (१८५८–१९३७) द्वारा अनूदित नैतिक दर्शन का प्रामाणिक ग्रंथ।
+
+---
+

@@ -1,0 +1,70 @@
+{
+  "id": "satyarth-prakash",
+  "title": "सत्यार्थ प्रकाश",
+  "title_en": "Satyarth Prakash",
+  "author": "स्वामी दयानंद सरस्वती",
+  "author_en": "Swami Dayanand Saraswati",
+  "category": "निबंध व विमर्श",
+  "category_en": "Vedic Philosophy & Social Reform",
+  "description": "आर्य समाज के संस्थापक महर्षि स्वामी दयानंद सरस्वती (१८२४–१८८३) का अमर दार्शनिक एवं वैचारिक महाग्रंथ। ईश्वर के स्वरूप, बाल-शिक्षा, ब्रह्मचर्य, वेदाध्ययन, वर्ण-व्यवस्था, राजधर्म, मोक्ष और सामाजिक सुधारों का प्रामाणिक वैदिक सिद्धांतों के आधार पर ओजस्वी प्रतिपादन।",
+  "cover_image": "",
+  "published_year": 1875,
+  "keywords": [
+    "satyarth prakash",
+    "dayanand saraswati",
+    "arya samaj",
+    "vedic philosophy",
+    "dharma",
+    "social reform"
+  ],
+  "total_words": 25790,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 143,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भूमिका व निवेदन",
+      "block_count": 127,
+      "word_count": 2117,
+      "estimated_minutes": 12,
+      "file": "content/books/satyarth-prakash/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "प्रथम समुल्लास: ओंकार व ईश्वर के नाम",
+      "block_count": 6,
+      "word_count": 46,
+      "estimated_minutes": 1,
+      "file": "content/books/satyarth-prakash/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "प्रथम समुल्लास: ईश्वर-स्वरूप विवेचन",
+      "block_count": 121,
+      "word_count": 6856,
+      "estimated_minutes": 38,
+      "file": "content/books/satyarth-prakash/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "द्वितीय समुल्लास: बाल-शिक्षा व संस्कार",
+      "block_count": 172,
+      "word_count": 3242,
+      "estimated_minutes": 18,
+      "file": "content/books/satyarth-prakash/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "तृतीय समुल्लास: अध्ययन-अध्यापन व ब्रह्मचर्य",
+      "block_count": 1373,
+      "word_count": 13529,
+      "estimated_minutes": 75,
+      "file": "content/books/satyarth-prakash/ch_05.json"
+    }
+  ]
+}

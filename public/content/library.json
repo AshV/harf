@@ -67,6 +67,29 @@
     ]
   },
   {
+    "id": "aalha-khand",
+    "title": "आल्हखण्ड",
+    "title_en": "Aalha-Khand",
+    "author": "महाकवि जगनिक",
+    "author_en": "Jagnik",
+    "category": "कविता",
+    "category_en": "Classical Heroic Ballad & Epic Poetry",
+    "description": "आदिकाल के महाकवि जगनिक द्वारा १२वीं शताब्दी में रचित बुन्देलखंड का अमर वीर-काव्य। महोबा के वीर योद्धाओं आल्हा और ऊदल के अदम्य शौर्य, ५२ लड़ाइयों, पृथ्वीराज चौहान व जयचंद के साथ ऐतिहासिक संघर्षों का २३ अध्यायों में ओजस्वी आल्हा छंद में गायन।",
+    "cover_image": "",
+    "published_year": 1182,
+    "total_chapters": 23,
+    "estimated_reading_minutes": 664,
+    "keywords": [
+      "aalha khand",
+      "jagnik",
+      "alha udal",
+      "heroic poetry",
+      "bundelkhand",
+      "chandel",
+      "veer rasa"
+    ]
+  },
+  {
     "id": "aandhi",
     "title": "आँधी",
     "title_en": "Aandhi",
@@ -842,6 +865,28 @@
     ]
   },
   {
+    "id": "drishya-darshan",
+    "title": "दृश्य-दर्शन",
+    "title_en": "Drishya-Darshan",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "इतिहास व जीवन-चरित्र",
+    "category_en": "Travelogues, Architecture & Cultural Landscapes",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा भारत के ऐतिहासिक स्थलों, स्थापत्य कला और प्राकृतिक दृश्यों पर रचित यात्रा-वृत्त एवं पुरातात्त्विक संस्मरण। औरंगाबाद, दौलताबाद, ग्वालियर दुर्ग, चरखारी-राज्य और विंध्याचल के दर्शनीय स्थलों का १३ अध्यायों में सजीव रेखांकन।",
+    "cover_image": "",
+    "published_year": 1924,
+    "total_chapters": 13,
+    "estimated_reading_minutes": 192,
+    "keywords": [
+      "drishya darshan",
+      "mahavir prasad dwivedi",
+      "travelogue",
+      "historical monuments",
+      "gwalior fort",
+      "daulatabad"
+    ]
+  },
+  {
     "id": "dukhi-bharat",
     "title": "दुखी भारत",
     "title_en": "Dukhi Bharat (Unhappy India)",
@@ -862,6 +907,28 @@
       "indian history",
       "nationalism",
       "indian freedom struggle"
+    ]
+  },
+  {
+    "id": "durgeshnandini",
+    "title": "दुर्गेशनन्दिनी",
+    "title_en": "Durgeshnandini",
+    "author": "बंकिमचन्द्र चट्टोपाध्याय",
+    "author_en": "Bankim Chandra Chattopadhyay",
+    "category": "उपन्यास",
+    "category_en": "First Historical Novel of Modern India",
+    "description": "आधुनिक भारतीय साहित्य का प्रथम ऐतिहासिक उपन्यास। १६वीं शताब्दी के मुग़ल-पठान संघर्ष के ऐतिहासिक धरातल पर राजकुमार जगतसिंह, मान्दारन के दुर्गपति की कन्या तिलोत्तमा और पठान-सुंदरी आयशा के त्रिकोणीय उदात्त प्रेम, शौर्य और त्याग का सम्पूर्ण दो भागों व ४३ अध्यायों में सजीव चित्रण।",
+    "cover_image": "",
+    "published_year": 1865,
+    "total_chapters": 43,
+    "estimated_reading_minutes": 234,
+    "keywords": [
+      "durgeshnandini",
+      "bankim chandra",
+      "historical novel",
+      "jagatsingh",
+      "ayesha",
+      "tilottama"
     ]
   },
   {
@@ -955,6 +1022,28 @@
     ]
   },
   {
+    "id": "hind-swaraj",
+    "title": "हिन्द स्वराज",
+    "title_en": "Hind Swaraj",
+    "author": "महात्मा गांधी",
+    "author_en": "Mahatma Gandhi",
+    "category": "निबंध व विमर्श",
+    "category_en": "Political Philosophy & Manifesto",
+    "description": "राष्ट्रपिता महात्मा गांधी (१८६९–१९४८) का युगांतरकारी दार्शनिक व वैचारिक घोषणापत्र। स्वदेशी, सत्याग्रह, आधुनिक सभ्यता की समालोचना, स्वराज का वास्तविक अर्थ और अहिंसा के मूल सिद्धांतों का सम्पूर्ण २० अध्यायों में पाठकीय संवाद के रूप में शाश्वत विवेचन।",
+    "cover_image": "",
+    "published_year": 1909,
+    "total_chapters": 10,
+    "estimated_reading_minutes": 185,
+    "keywords": [
+      "hind swaraj",
+      "mahatma gandhi",
+      "swaraj",
+      "satyagraha",
+      "indian independence",
+      "political philosophy"
+    ]
+  },
+  {
     "id": "hindi-bhasha-aur-sahitya-ka-vikas",
     "title": "हिंदी भाषा और उसके साहित्य का विकास",
     "title_en": "Hindi Bhasha aur Uske Sahitya ka Vikas",
@@ -974,6 +1063,28 @@
       "hindi linguistics",
       "history of hindi literature",
       "philology"
+    ]
+  },
+  {
+    "id": "hindi-bhasha-ki-utpatti",
+    "title": "हिन्दी भाषा की उत्पत्ति",
+    "title_en": "Hindi Bhasha ki Utpatti",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "भाषा व व्याकरण",
+    "category_en": "Philology, Linguistics & Origin of Hindi",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) का हिन्दी भाषा के ऐतिहासिक उद्भव और विकास पर लिखा गया प्रथम मानक भाषा-वैज्ञानिक ग्रंथ। वैदिक काल, संस्कृत, पालि, प्राकृत, अपभ्रंश तथा मध्यकालीन बोलियों से आधुनिक खड़ी बोली के प्रादुर्भाव का ६ अध्यायों में वैज्ञानिक विश्लेषण।",
+    "cover_image": "",
+    "published_year": 1907,
+    "total_chapters": 6,
+    "estimated_reading_minutes": 86,
+    "keywords": [
+      "hindi bhasha ki utpatti",
+      "mahavir prasad dwivedi",
+      "linguistics",
+      "philology",
+      "origin of hindi",
+      "prakrit"
     ]
   },
   {
@@ -1069,6 +1180,28 @@
     ]
   },
   {
+    "id": "itihas-timirnashak-2",
+    "title": "इतिहास तिमिरनाशक (भाग २)",
+    "title_en": "Itihas Timirnashak (Part 2)",
+    "author": "राजा शिवप्रसाद 'सितारेहिन्द'",
+    "author_en": "Raja Shivprasad 'Sitarehind'",
+    "category": "इतिहास व जीवन-चरित्र",
+    "category_en": "Modern Indian History & Historiography",
+    "description": "भारतेन्दु-पूर्व युग के मूर्धन्य इतिहासकार राजा शिवप्रसाद सितारेहिन्द (१८२३–१८९५) द्वारा विरचित आधुनिक भारत का ऐतिहासिक ग्रंथ। १८वीं व १९वीं शताब्दी में मराठों, मुग़लों के पतन, अर्ल ऑफ़ माइरा, लॉर्ड ऑकलैंड और ईस्ट इंडिया कंपनी के भारत में विस्तार का १३ अध्यायों में प्रामाणिक विवरण।",
+    "cover_image": "",
+    "published_year": 1873,
+    "total_chapters": 13,
+    "estimated_reading_minutes": 154,
+    "keywords": [
+      "itihas timirnashak",
+      "sitarehind",
+      "indian history",
+      "maratha",
+      "mughal",
+      "19th century india"
+    ]
+  },
+  {
     "id": "kabir-granthavali",
     "title": "कबीर ग्रंथावली",
     "title_en": "Kabir Granthavali",
@@ -1160,6 +1293,48 @@
       "kavita",
       "poetry",
       "epic"
+    ]
+  },
+  {
+    "id": "kamna",
+    "title": "कामना",
+    "title_en": "Kamna",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "नाटक",
+    "category_en": "Allegorical & Philosophical Play",
+    "description": "छायावाद के युगप्रवर्तक जयशंकर प्रसाद (१८८९–१९३७) द्वारा विरचित सुप्रसिद्ध रूपक एवं प्रतीकात्मक नाटक। मनुष्य के अंतःकरण की प्रवृत्तियों—कामना, संतोष, विवेक, शांति, विनोद और दंभ के द्वंद्व तथा स्वर्ण-लोभ व सभ्यता के संकट का २३ दृश्यों में अलौकिक काव्यात्मक नाट्य-रूपांतरण।",
+    "cover_image": "",
+    "published_year": 1927,
+    "total_chapters": 23,
+    "estimated_reading_minutes": 125,
+    "keywords": [
+      "kamna",
+      "jaishankar prasad",
+      "allegorical play",
+      "hindi natak",
+      "chhayavad"
+    ]
+  },
+  {
+    "id": "kapalkundala",
+    "title": "कपालकुण्डला",
+    "title_en": "Kapalkundala",
+    "author": "बंकिमचन्द्र चट्टोपाध्याय",
+    "author_en": "Bankim Chandra Chattopadhyay",
+    "category": "उपन्यास",
+    "category_en": "Romantic & Historical Classic Novel",
+    "description": "भारतीय उपन्यास-साहित्य के जनक बंकिमचन्द्र चट्टोपाध्याय (१८३८–१८९४) का अमर प्रेमाख्यान उपन्यास। समुद्रतट के भयानक वन में कापालिक के चंगुल से नवकुमार का उद्धार, प्रकृति-कन्या कपालकुण्डला का रहस्यमयी अंतःकरण और मानव-नियति का ३२ अध्यायों में भव्य चित्रण।",
+    "cover_image": "",
+    "published_year": 1866,
+    "total_chapters": 31,
+    "estimated_reading_minutes": 139,
+    "keywords": [
+      "kapalkundala",
+      "bankim chandra chattopadhyay",
+      "classic novel",
+      "bengali hindi translation",
+      "historical romance"
     ]
   },
   {
@@ -1793,6 +1968,28 @@
     ]
   },
   {
+    "id": "panchatantra",
+    "title": "पंचतन्त्र",
+    "title_en": "Panchatantra",
+    "author": "विष्णुशर्मा",
+    "author_en": "Vishnusharma",
+    "category": "कहानी",
+    "category_en": "Timeless Classical Fables & Ethics",
+    "description": "आचार्य विष्णुशर्मा द्वारा रचित विश्व-साहित्य की अमर नीति-कथाओं का सर्वकालिक महाग्रंथ। मित्रभेद, मित्रप्राप्ति, काकोलूकीयम्, लब्धप्रणाश और अपरीक्षितकारकम्—सम्पूर्ण ५ तन्त्रों में पशु-पक्षियों के रोचक प्रतीकों द्वारा राजनीति, व्यवहार-नीति और जीवन-मूल्यों का अप्रतिम शिक्षण।",
+    "cover_image": "",
+    "published_year": 300,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 265,
+    "keywords": [
+      "panchatantra",
+      "vishnusharma",
+      "fables",
+      "morality",
+      "niti shastra",
+      "ancient indian tales"
+    ]
+  },
+  {
     "id": "pariksha-guru",
     "title": "परीक्षा गुरु",
     "title_en": "Pariksha Guru",
@@ -2295,6 +2492,28 @@
     ]
   },
   {
+    "id": "sankalan",
+    "title": "सङ्कलन",
+    "title_en": "Sankalan",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "निबंध व विमर्श",
+    "category_en": "Essays, Science & Literary Observations",
+    "description": "आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा विरचित विविध ज्ञान-विज्ञान, भाषा, समाज और पुरातात्त्विक विषयों पर २५ अमर निबंधों का संकलन। वैज्ञानिक शोध, सामाजिक कुरीतियाँ, ऐतिहासिक चरित्र और कला-साहित्य का सुगम खड़ी बोली में गंभीर विवेचन।",
+    "cover_image": "",
+    "published_year": 1924,
+    "total_chapters": 26,
+    "estimated_reading_minutes": 208,
+    "keywords": [
+      "sankalan",
+      "mahavir prasad dwivedi",
+      "essays",
+      "science",
+      "literature",
+      "social critique"
+    ]
+  },
+  {
     "id": "sapre-kahaniyan",
     "title": "माधवराव सप्रे की कहानियाँ",
     "title_en": "Madhavrao Sapre Ki Kahaniyan",
@@ -2382,6 +2601,28 @@
       "vishwamitra",
       "natak",
       "play"
+    ]
+  },
+  {
+    "id": "satyarth-prakash",
+    "title": "सत्यार्थ प्रकाश",
+    "title_en": "Satyarth Prakash",
+    "author": "स्वामी दयानंद सरस्वती",
+    "author_en": "Swami Dayanand Saraswati",
+    "category": "निबंध व विमर्श",
+    "category_en": "Vedic Philosophy & Social Reform",
+    "description": "आर्य समाज के संस्थापक महर्षि स्वामी दयानंद सरस्वती (१८२४–१८८३) का अमर दार्शनिक एवं वैचारिक महाग्रंथ। ईश्वर के स्वरूप, बाल-शिक्षा, ब्रह्मचर्य, वेदाध्ययन, वर्ण-व्यवस्था, राजधर्म, मोक्ष और सामाजिक सुधारों का प्रामाणिक वैदिक सिद्धांतों के आधार पर ओजस्वी प्रतिपादन।",
+    "cover_image": "",
+    "published_year": 1875,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 143,
+    "keywords": [
+      "satyarth prakash",
+      "dayanand saraswati",
+      "arya samaj",
+      "vedic philosophy",
+      "dharma",
+      "social reform"
     ]
   },
   {
@@ -2501,6 +2742,28 @@
     ]
   },
   {
+    "id": "striyon-ki-paradhinata",
+    "title": "स्त्रियों की पराधीनता",
+    "title_en": "Striyon ki Paradhinata",
+    "author": "लाला सीताराम",
+    "author_en": "Lala Sitaram",
+    "category": "निबंध व विमर्श",
+    "category_en": "Feminist Philosophy & Human Rights",
+    "description": "जॉन स्टुअर्ट मिल के प्रसिद्ध ग्रंथ 'द सब्जेक्शन ऑफ़ विमेन' (The Subjection of Women) का लाला सीताराम 'भूप' (१८५८–१९३७) द्वारा किया गया ऐतिहासिक हिन्दी अनुवाद। स्त्री-पुरुष समानता, नारी-शिक्षा, वैवाहिक अधिकार और सामाजिक न्याय का ५ अध्यायों में अकाट्य तार्किक प्रतिपादन।",
+    "cover_image": "",
+    "published_year": 1918,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 381,
+    "keywords": [
+      "striyon ki paradhinata",
+      "lala sitaram",
+      "john stuart mill",
+      "subjection of women",
+      "women rights",
+      "gender equality"
+    ]
+  },
+  {
     "id": "sukhasharvari",
     "title": "सुखशर्वरी",
     "title_en": "Sukhasharvari",
@@ -2587,6 +2850,28 @@
       "shail",
       "rural reform",
       "chhayavad novel"
+    ]
+  },
+  {
+    "id": "upayogitavad",
+    "title": "उपयोगितावाद",
+    "title_en": "Upayogitavad",
+    "author": "लाला सीताराम",
+    "author_en": "Lala Sitaram",
+    "category": "निबंध व विमर्श",
+    "category_en": "Ethics & Utilitarian Philosophy",
+    "description": "जॉन स्टुअर्ट मिल के नैतिक दर्शन 'यूटिलिटेरियनिज्म' (Utilitarianism) का लाला सीताराम 'भूप' द्वारा किया गया प्रामाणिक अनुवाद। अधिकतम व्यक्तियों के अधिकतम कल्याण का सिद्धांत, सुख व दुःख की गुणवत्ता, न्याय और उपयोगिता के संबंध का ८ अध्यायों में तात्विक विवेचन।",
+    "cover_image": "",
+    "published_year": 1918,
+    "total_chapters": 8,
+    "estimated_reading_minutes": 197,
+    "keywords": [
+      "upayogitavad",
+      "lala sitaram",
+      "john stuart mill",
+      "utilitarianism",
+      "ethics",
+      "moral philosophy"
     ]
   },
   {
@@ -2701,6 +2986,29 @@
       "newton",
       "max muller",
       "alberuni"
+    ]
+  },
+  {
+    "id": "vishwa-prapanch",
+    "title": "विश्व प्रपंच",
+    "title_en": "Vishwa Prapanch",
+    "author": "बाबू श्यामसुन्दर दास",
+    "author_en": "Babu Shyam Sundar Das",
+    "category": "निबंध व विमर्श",
+    "category_en": "Cosmology, Natural Philosophy & Science",
+    "description": "काशी नागरी प्रचारिणी सभा के संस्थापक बाबू श्यामसुन्दर दास (१८७५–१९४५) द्वारा विरचित सृष्टि-विज्ञान, ब्रह्मांड, जीव-विकास और चेतना का दार्शनिक महाग्रंथ। अर्न्स्ट हेकल के 'रिडल ऑफ़ द यूनिवर्स' का हिन्दी में १९ अध्यायों में उच्चस्तरीय वैज्ञानिक एवं तात्विक रूपान्तर।",
+    "cover_image": "",
+    "published_year": 1920,
+    "total_chapters": 19,
+    "estimated_reading_minutes": 388,
+    "keywords": [
+      "vishwa prapanch",
+      "shyam sundar das",
+      "cosmology",
+      "science",
+      "philosophy",
+      "evolution",
+      "universe"
     ]
   },
   {

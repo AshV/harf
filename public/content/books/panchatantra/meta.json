@@ -1,0 +1,70 @@
+{
+  "id": "panchatantra",
+  "title": "पंचतन्त्र",
+  "title_en": "Panchatantra",
+  "author": "विष्णुशर्मा",
+  "author_en": "Vishnusharma",
+  "category": "कहानी",
+  "category_en": "Timeless Classical Fables & Ethics",
+  "description": "आचार्य विष्णुशर्मा द्वारा रचित विश्व-साहित्य की अमर नीति-कथाओं का सर्वकालिक महाग्रंथ। मित्रभेद, मित्रप्राप्ति, काकोलूकीयम्, लब्धप्रणाश और अपरीक्षितकारकम्—सम्पूर्ण ५ तन्त्रों में पशु-पक्षियों के रोचक प्रतीकों द्वारा राजनीति, व्यवहार-नीति और जीवन-मूल्यों का अप्रतिम शिक्षण।",
+  "cover_image": "",
+  "published_year": 300,
+  "keywords": [
+    "panchatantra",
+    "vishnusharma",
+    "fables",
+    "morality",
+    "niti shastra",
+    "ancient indian tales"
+  ],
+  "total_words": 47719,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 265,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रथम तन्त्र: मित्रभेद",
+      "block_count": 541,
+      "word_count": 14998,
+      "estimated_minutes": 83,
+      "file": "content/books/panchatantra/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "द्वितीय तन्त्र: मित्रलाभ (मित्रप्राप्ति)",
+      "block_count": 201,
+      "word_count": 6485,
+      "estimated_minutes": 36,
+      "file": "content/books/panchatantra/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "तृतीय तन्त्र: काकोलूकीयम् (संधि-विग्रह)",
+      "block_count": 323,
+      "word_count": 9536,
+      "estimated_minutes": 53,
+      "file": "content/books/panchatantra/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "चतुर्थ तन्त्र: लब्धप्रणाश",
+      "block_count": 272,
+      "word_count": 7508,
+      "estimated_minutes": 42,
+      "file": "content/books/panchatantra/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पंचम तन्त्र: अपरीक्षितकारकम्",
+      "block_count": 284,
+      "word_count": 9192,
+      "estimated_minutes": 51,
+      "file": "content/books/panchatantra/ch_05.json"
+    }
+  ]
+}

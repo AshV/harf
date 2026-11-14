@@ -1,0 +1,70 @@
+{
+  "id": "striyon-ki-paradhinata",
+  "title": "स्त्रियों की पराधीनता",
+  "title_en": "Striyon ki Paradhinata",
+  "author": "लाला सीताराम",
+  "author_en": "Lala Sitaram",
+  "category": "निबंध व विमर्श",
+  "category_en": "Feminist Philosophy & Human Rights",
+  "description": "जॉन स्टुअर्ट मिल के प्रसिद्ध ग्रंथ 'द सब्जेक्शन ऑफ़ विमेन' (The Subjection of Women) का लाला सीताराम 'भूप' (१८५८–१९३७) द्वारा किया गया ऐतिहासिक हिन्दी अनुवाद। स्त्री-पुरुष समानता, नारी-शिक्षा, वैवाहिक अधिकार और सामाजिक न्याय का ५ अध्यायों में अकाट्य तार्किक प्रतिपादन।",
+  "cover_image": "",
+  "published_year": 1918,
+  "keywords": [
+    "striyon ki paradhinata",
+    "lala sitaram",
+    "john stuart mill",
+    "subjection of women",
+    "women rights",
+    "gender equality"
+  ],
+  "total_words": 68611,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 381,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भूमिका",
+      "block_count": 211,
+      "word_count": 5085,
+      "estimated_minutes": 28,
+      "file": "content/books/striyon-ki-paradhinata/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "१",
+      "block_count": 196,
+      "word_count": 18180,
+      "estimated_minutes": 101,
+      "file": "content/books/striyon-ki-paradhinata/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "२",
+      "block_count": 148,
+      "word_count": 13658,
+      "estimated_minutes": 76,
+      "file": "content/books/striyon-ki-paradhinata/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "३",
+      "block_count": 228,
+      "word_count": 18694,
+      "estimated_minutes": 104,
+      "file": "content/books/striyon-ki-paradhinata/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "४",
+      "block_count": 145,
+      "word_count": 12994,
+      "estimated_minutes": 72,
+      "file": "content/books/striyon-ki-paradhinata/ch_05.json"
+    }
+  ]
+}

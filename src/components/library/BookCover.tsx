@@ -1099,6 +1099,141 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#85C1E9',
     badgeBg: 'bg-[#85C1E9]/15 text-[#D4E6F1]',
     motif: '❖ 🌐 ❖'
+  },
+  kamna: {
+    bgGradient: 'from-[#2B1B36] via-[#3C244B] to-[#1D1124]',
+    borderColor: 'border-[#BB8FCE]/40',
+    titleColor: 'text-[#F5EEF8]',
+    authorColor: 'text-[#BB8FCE]',
+    accentColor: '#BB8FCE',
+    badgeBg: 'bg-[#BB8FCE]/15 text-[#EBDEF0]',
+    motif: '✦ 🎭 ✦'
+  },
+  'satya-ke-prayog': {
+    bgGradient: 'from-[#2C3E50] via-[#34495E] to-[#1A252F]',
+    borderColor: 'border-[#F7DC6F]/40',
+    titleColor: 'text-[#FEF9E7]',
+    authorColor: 'text-[#F7DC6F]',
+    accentColor: '#F7DC6F',
+    badgeBg: 'bg-[#F7DC6F]/15 text-[#FCF3CF]',
+    motif: '❖ 🕊️ ❖'
+  },
+  'hind-swaraj': {
+    bgGradient: 'from-[#3E2723] via-[#4E342E] to-[#261714]',
+    borderColor: 'border-[#E59866]/40',
+    titleColor: 'text-[#FBEEE6]',
+    authorColor: 'text-[#E59866]',
+    accentColor: '#E59866',
+    badgeBg: 'bg-[#E59866]/15 text-[#EDBB99]',
+    motif: '✦ 🇮🇳 ✦'
+  },
+  kapalkundala: {
+    bgGradient: 'from-[#1B2631] via-[#283747] to-[#11171E]',
+    borderColor: 'border-[#85C1E9]/40',
+    titleColor: 'text-[#EBF5FB]',
+    authorColor: 'text-[#85C1E9]',
+    accentColor: '#85C1E9',
+    badgeBg: 'bg-[#85C1E9]/15 text-[#D4E6F1]',
+    motif: '❖ 🌊 ❖'
+  },
+  durgeshnandini: {
+    bgGradient: 'from-[#4A235A] via-[#5B2C6F] to-[#2E1538]',
+    borderColor: 'border-[#D2B4DE]/40',
+    titleColor: 'text-[#F5EEF8]',
+    authorColor: 'text-[#D2B4DE]',
+    accentColor: '#D2B4DE',
+    badgeBg: 'bg-[#D2B4DE]/15 text-[#EBDEF0]',
+    motif: '✦ 🏰 ✦'
+  },
+  sankalan: {
+    bgGradient: 'from-[#1E3A2F] via-[#2A4D3F] to-[#142820]',
+    borderColor: 'border-[#7DCEA0]/40',
+    titleColor: 'text-[#E8F8F0]',
+    authorColor: 'text-[#7DCEA0]',
+    accentColor: '#7DCEA0',
+    badgeBg: 'bg-[#7DCEA0]/15 text-[#D4EFDF]',
+    motif: '❖ 📚 ❖'
+  },
+  'drishya-darshan': {
+    bgGradient: 'from-[#1B365D] via-[#254A7B] to-[#12243E]',
+    borderColor: 'border-[#A9CCE3]/40',
+    titleColor: 'text-[#EBF5FB]',
+    authorColor: 'text-[#A9CCE3]',
+    accentColor: '#A9CCE3',
+    badgeBg: 'bg-[#A9CCE3]/15 text-[#D4E6F1]',
+    motif: '✦ 🏞️ ✦'
+  },
+  'hindi-bhasha-ki-utpatti': {
+    bgGradient: 'from-[#2C3E50] via-[#3E556E] to-[#1B2631]',
+    borderColor: 'border-[#F8C471]/40',
+    titleColor: 'text-[#FEF9E7]',
+    authorColor: 'text-[#F8C471]',
+    accentColor: '#F8C471',
+    badgeBg: 'bg-[#F8C471]/15 text-[#FDEBD0]',
+    motif: '❖ 🪶 ❖'
+  },
+  'aalha-khand': {
+    bgGradient: 'from-[#4D1515] via-[#661D1D] to-[#360D0D]',
+    borderColor: 'border-[#F1948A]/40',
+    titleColor: 'text-[#FDEDEC]',
+    authorColor: 'text-[#F1948A]',
+    accentColor: '#F1948A',
+    badgeBg: 'bg-[#F1948A]/15 text-[#FADBD8]',
+    motif: '✦ ⚔️ ✦'
+  },
+  'vishwa-prapanch': {
+    bgGradient: 'from-[#0B172A] via-[#122644] to-[#07101E]',
+    borderColor: 'border-[#7FB3D5]/40',
+    titleColor: 'text-[#EBF5FB]',
+    authorColor: 'text-[#7FB3D5]',
+    accentColor: '#7FB3D5',
+    badgeBg: 'bg-[#7FB3D5]/15 text-[#D4E6F1]',
+    motif: '❖ 🌌 ❖'
+  },
+  'itihas-timirnashak-2': {
+    bgGradient: 'from-[#331C13] via-[#48281B] to-[#21120C]',
+    borderColor: 'border-[#EDBB99]/40',
+    titleColor: 'text-[#FBEEE6]',
+    authorColor: 'text-[#EDBB99]',
+    accentColor: '#EDBB99',
+    badgeBg: 'bg-[#EDBB99]/15 text-[#F5CBA7]',
+    motif: '✦ 📜 ✦'
+  },
+  panchatantra: {
+    bgGradient: 'from-[#1E3F20] via-[#2A572D] to-[#142C16]',
+    borderColor: 'border-[#A9DFBF]/40',
+    titleColor: 'text-[#EAFaf1]',
+    authorColor: 'text-[#A9DFBF]',
+    accentColor: '#A9DFBF',
+    badgeBg: 'bg-[#A9DFBF]/15 text-[#D5F5E3]',
+    motif: '❖ 🦁 ❖'
+  },
+  'satyarth-prakash': {
+    bgGradient: 'from-[#4A2711] via-[#663517] to-[#2E180A]',
+    borderColor: 'border-[#F5B041]/40',
+    titleColor: 'text-[#FEF9E7]',
+    authorColor: 'text-[#F5B041]',
+    accentColor: '#F5B041',
+    badgeBg: 'bg-[#F5B041]/15 text-[#FDEBD0]',
+    motif: '✦ ☀️ ✦'
+  },
+  'striyon-ki-paradhinata': {
+    bgGradient: 'from-[#3B1728] via-[#522038] to-[#240E19]',
+    borderColor: 'border-[#F1948A]/40',
+    titleColor: 'text-[#FDEDEC]',
+    authorColor: 'text-[#F1948A]',
+    accentColor: '#F1948A',
+    badgeBg: 'bg-[#F1948A]/15 text-[#FADBD8]',
+    motif: '❖ ⚖️ ❖'
+  },
+  upayogitavad: {
+    bgGradient: 'from-[#1A2E40] via-[#243F57] to-[#111E2A]',
+    borderColor: 'border-[#85C1E9]/40',
+    titleColor: 'text-[#EBF5FB]',
+    authorColor: 'text-[#85C1E9]',
+    accentColor: '#85C1E9',
+    badgeBg: 'bg-[#85C1E9]/15 text-[#D4E6F1]',
+    motif: '✦ 💡 ✦'
   }
 };
 

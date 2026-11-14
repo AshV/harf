@@ -1,0 +1,231 @@
+{
+  "id": "kamna",
+  "title": "कामना",
+  "title_en": "Kamna",
+  "author": "जयशंकर प्रसाद",
+  "author_en": "Jaishankar Prasad",
+  "category": "नाटक",
+  "category_en": "Allegorical & Philosophical Play",
+  "description": "छायावाद के युगप्रवर्तक जयशंकर प्रसाद (१८८९–१९३७) द्वारा विरचित सुप्रसिद्ध रूपक एवं प्रतीकात्मक नाटक। मनुष्य के अंतःकरण की प्रवृत्तियों—कामना, संतोष, विवेक, शांति, विनोद और दंभ के द्वंद्व तथा स्वर्ण-लोभ व सभ्यता के संकट का २३ दृश्यों में अलौकिक काव्यात्मक नाट्य-रूपांतरण।",
+  "cover_image": "",
+  "published_year": 1927,
+  "keywords": [
+    "kamna",
+    "jaishankar prasad",
+    "allegorical play",
+    "hindi natak",
+    "chhayavad"
+  ],
+  "total_words": 22540,
+  "total_chapters": 23,
+  "estimated_reading_minutes": 125,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "1.1",
+      "block_count": 139,
+      "word_count": 1096,
+      "estimated_minutes": 6,
+      "file": "content/books/kamna/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "1.2",
+      "block_count": 68,
+      "word_count": 459,
+      "estimated_minutes": 3,
+      "file": "content/books/kamna/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "1.3",
+      "block_count": 119,
+      "word_count": 955,
+      "estimated_minutes": 5,
+      "file": "content/books/kamna/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "1.4",
+      "block_count": 149,
+      "word_count": 1465,
+      "estimated_minutes": 8,
+      "file": "content/books/kamna/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "1.5",
+      "block_count": 101,
+      "word_count": 1104,
+      "estimated_minutes": 6,
+      "file": "content/books/kamna/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "1.6",
+      "block_count": 143,
+      "word_count": 992,
+      "estimated_minutes": 6,
+      "file": "content/books/kamna/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "2.1",
+      "block_count": 74,
+      "word_count": 796,
+      "estimated_minutes": 4,
+      "file": "content/books/kamna/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "2.2",
+      "block_count": 77,
+      "word_count": 549,
+      "estimated_minutes": 3,
+      "file": "content/books/kamna/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "2.3",
+      "block_count": 83,
+      "word_count": 497,
+      "estimated_minutes": 3,
+      "file": "content/books/kamna/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "2.4",
+      "block_count": 129,
+      "word_count": 937,
+      "estimated_minutes": 5,
+      "file": "content/books/kamna/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "2.5",
+      "block_count": 136,
+      "word_count": 896,
+      "estimated_minutes": 5,
+      "file": "content/books/kamna/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "2.6",
+      "block_count": 130,
+      "word_count": 891,
+      "estimated_minutes": 5,
+      "file": "content/books/kamna/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "2.7",
+      "block_count": 69,
+      "word_count": 610,
+      "estimated_minutes": 3,
+      "file": "content/books/kamna/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "2.8",
+      "block_count": 74,
+      "word_count": 776,
+      "estimated_minutes": 4,
+      "file": "content/books/kamna/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "3.1",
+      "block_count": 38,
+      "word_count": 926,
+      "estimated_minutes": 5,
+      "file": "content/books/kamna/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "3.2",
+      "block_count": 115,
+      "word_count": 1534,
+      "estimated_minutes": 9,
+      "file": "content/books/kamna/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "3.3",
+      "block_count": 41,
+      "word_count": 656,
+      "estimated_minutes": 4,
+      "file": "content/books/kamna/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "3.4",
+      "block_count": 36,
+      "word_count": 588,
+      "estimated_minutes": 3,
+      "file": "content/books/kamna/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "3.5",
+      "block_count": 25,
+      "word_count": 398,
+      "estimated_minutes": 2,
+      "file": "content/books/kamna/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "3.6",
+      "block_count": 69,
+      "word_count": 975,
+      "estimated_minutes": 5,
+      "file": "content/books/kamna/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "3.7",
+      "block_count": 34,
+      "word_count": 485,
+      "estimated_minutes": 3,
+      "file": "content/books/kamna/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "3.8",
+      "block_count": 71,
+      "word_count": 1254,
+      "estimated_minutes": 7,
+      "file": "content/books/kamna/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "पुस्तक विज्ञापन",
+      "block_count": 111,
+      "word_count": 3701,
+      "estimated_minutes": 21,
+      "file": "content/books/kamna/ch_23.json"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": "aalha-khand",
+  "title": "आल्हखण्ड",
+  "title_en": "Aalha-Khand",
+  "author": "महाकवि जगनिक",
+  "author_en": "Jagnik",
+  "category": "कविता",
+  "category_en": "Classical Heroic Ballad & Epic Poetry",
+  "description": "आदिकाल के महाकवि जगनिक द्वारा १२वीं शताब्दी में रचित बुन्देलखंड का अमर वीर-काव्य। महोबा के वीर योद्धाओं आल्हा और ऊदल के अदम्य शौर्य, ५२ लड़ाइयों, पृथ्वीराज चौहान व जयचंद के साथ ऐतिहासिक संघर्षों का २३ अध्यायों में ओजस्वी आल्हा छंद में गायन।",
+  "cover_image": "",
+  "published_year": 1182,
+  "keywords": [
+    "aalha khand",
+    "jagnik",
+    "alha udal",
+    "heroic poetry",
+    "bundelkhand",
+    "chandel",
+    "veer rasa"
+  ],
+  "total_words": 119479,
+  "total_chapters": 23,
+  "estimated_reading_minutes": 664,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१ संयोगिनि स्वयम्बर पृथीराज जयचंद युद्ध",
+      "block_count": 826,
+      "word_count": 6943,
+      "estimated_minutes": 39,
+      "file": "content/books/aalha-khand/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "१० आल्हा निकासी",
+      "block_count": 267,
+      "word_count": 2137,
+      "estimated_minutes": 12,
+      "file": "content/books/aalha-khand/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "११ लाखनि का विवाह",
+      "block_count": 565,
+      "word_count": 4542,
+      "estimated_minutes": 25,
+      "file": "content/books/aalha-khand/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "१२ गाँजर की लड़ाई",
+      "block_count": 440,
+      "word_count": 3688,
+      "estimated_minutes": 20,
+      "file": "content/books/aalha-khand/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "१३ सिरसा समर मलखे मरण",
+      "block_count": 327,
+      "word_count": 2760,
+      "estimated_minutes": 15,
+      "file": "content/books/aalha-khand/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "१४ कीरतिसागर का मैदान",
+      "block_count": 897,
+      "word_count": 7688,
+      "estimated_minutes": 43,
+      "file": "content/books/aalha-khand/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "१५ आल्हा का मनावन",
+      "block_count": 685,
+      "word_count": 5690,
+      "estimated_minutes": 32,
+      "file": "content/books/aalha-khand/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "१६ नदी बेतवा का समर",
+      "block_count": 524,
+      "word_count": 4386,
+      "estimated_minutes": 24,
+      "file": "content/books/aalha-khand/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "१७ ठाकुर उदयसिंह का हरण",
+      "block_count": 277,
+      "word_count": 2474,
+      "estimated_minutes": 14,
+      "file": "content/books/aalha-khand/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१८ बेलाके गौनेका प्रथम युद्ध",
+      "block_count": 315,
+      "word_count": 2844,
+      "estimated_minutes": 16,
+      "file": "content/books/aalha-khand/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "१९ बेलाके गौनेका द्वितीय युद्ध",
+      "block_count": 503,
+      "word_count": 4573,
+      "estimated_minutes": 25,
+      "file": "content/books/aalha-khand/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "२ करिया करके देशराज बच्छराज मरण, महोबे का प्रथम युद्ध",
+      "block_count": 261,
+      "word_count": 2129,
+      "estimated_minutes": 12,
+      "file": "content/books/aalha-khand/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "२० बेला ताहर का मैदान",
+      "block_count": 430,
+      "word_count": 3946,
+      "estimated_minutes": 22,
+      "file": "content/books/aalha-khand/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "२१ चन्दनबागकेर मैदान",
+      "block_count": 232,
+      "word_count": 2105,
+      "estimated_minutes": 12,
+      "file": "content/books/aalha-khand/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "२२ चन्दन खम्भा का मैदान",
+      "block_count": 203,
+      "word_count": 1730,
+      "estimated_minutes": 10,
+      "file": "content/books/aalha-khand/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "२३ बेलासती अन्त मैदान",
+      "block_count": 298,
+      "word_count": 2393,
+      "estimated_minutes": 13,
+      "file": "content/books/aalha-khand/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "३ माड़ो में आल्हादिकों का चढ़ाई करके माड़ो नृपति को कोल्हू में पिराना",
+      "block_count": 1594,
+      "word_count": 13600,
+      "estimated_minutes": 76,
+      "file": "content/books/aalha-khand/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "४ आल्हा का विवाह",
+      "block_count": 954,
+      "word_count": 8005,
+      "estimated_minutes": 44,
+      "file": "content/books/aalha-khand/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "५ मलखान का विवाह",
+      "block_count": 950,
+      "word_count": 8082,
+      "estimated_minutes": 45,
+      "file": "content/books/aalha-khand/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "६ ब्रह्मा का विवाह",
+      "block_count": 874,
+      "word_count": 7506,
+      "estimated_minutes": 42,
+      "file": "content/books/aalha-khand/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "७ उदयसिंह का विवाह",
+      "block_count": 1024,
+      "word_count": 8682,
+      "estimated_minutes": 48,
+      "file": "content/books/aalha-khand/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "८ चन्द्रावलि चौथि",
+      "block_count": 774,
+      "word_count": 6549,
+      "estimated_minutes": 36,
+      "file": "content/books/aalha-khand/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "९ इन्दलहरणब्याहताहीमा",
+      "block_count": 840,
+      "word_count": 7027,
+      "estimated_minutes": 39,
+      "file": "content/books/aalha-khand/ch_23.json"
+    }
+  ]
+}
