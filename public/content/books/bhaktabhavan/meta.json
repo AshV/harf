@@ -1,0 +1,133 @@
+{
+  "id": "bhaktabhavan",
+  "title": "भक्तभावन",
+  "title_en": "Bhakta-Bhavan",
+  "author": "कवि ग्वाल",
+  "author_en": "Kavi Gwal",
+  "category": "कविता",
+  "category_en": "Classical Braj Bhasha Devotional Poetry",
+  "description": "रीतिकाल के प्रसिद्ध महाकवि ग्वाल (१७९१–१८६७) का भक्ति एवं शृंगार-रस से परिपूर्ण कालजयी ग्रंथ। यमुना लहरी, गोपी पचीसी, कृष्ण-नखशिख, षट्ऋतु वर्णन, कृष्णाष्टक, राधाष्टक व अन्योक्ति सहित सम्पूर्ण १२ अध्यायों का वृहत् काव्य-संग्रह।",
+  "cover_image": "",
+  "published_year": 1860,
+  "keywords": [
+    "bhaktabhavan",
+    "gwal kavi",
+    "braj bhasha",
+    "yamuna lahari",
+    "riti kavya",
+    "krishna bhakti"
+  ],
+  "total_words": 36679,
+  "total_chapters": 12,
+  "estimated_reading_minutes": 204,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भूमिका व मंगलाचरण",
+      "block_count": 269,
+      "word_count": 6716,
+      "estimated_minutes": 37,
+      "file": "content/books/bhaktabhavan/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "यमुना लहरी",
+      "block_count": 596,
+      "word_count": 6459,
+      "estimated_minutes": 36,
+      "file": "content/books/bhaktabhavan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "कृष्णचंद्रजू के नखशिख",
+      "block_count": 311,
+      "word_count": 3396,
+      "estimated_minutes": 19,
+      "file": "content/books/bhaktabhavan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "गोपी पचीसी",
+      "block_count": 90,
+      "word_count": 937,
+      "estimated_minutes": 5,
+      "file": "content/books/bhaktabhavan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "कृष्ण प्रति गोपिन को पत्री",
+      "block_count": 46,
+      "word_count": 480,
+      "estimated_minutes": 3,
+      "file": "content/books/bhaktabhavan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "षट्ऋतु वर्णन",
+      "block_count": 566,
+      "word_count": 6151,
+      "estimated_minutes": 34,
+      "file": "content/books/bhaktabhavan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "कृष्णाष्टक",
+      "block_count": 162,
+      "word_count": 1788,
+      "estimated_minutes": 10,
+      "file": "content/books/bhaktabhavan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "राधाष्टक",
+      "block_count": 45,
+      "word_count": 450,
+      "estimated_minutes": 3,
+      "file": "content/books/bhaktabhavan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "दशमहाविज्ञान की स्तुति",
+      "block_count": 66,
+      "word_count": 692,
+      "estimated_minutes": 4,
+      "file": "content/books/bhaktabhavan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "ज्वालाष्टक",
+      "block_count": 305,
+      "word_count": 3282,
+      "estimated_minutes": 18,
+      "file": "content/books/bhaktabhavan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "अन्योक्ति",
+      "block_count": 73,
+      "word_count": 825,
+      "estimated_minutes": 5,
+      "file": "content/books/bhaktabhavan/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "प्रस्तावक नीति",
+      "block_count": 544,
+      "word_count": 5503,
+      "estimated_minutes": 31,
+      "file": "content/books/bhaktabhavan/ch_12.json"
+    }
+  ]
+}

@@ -180,6 +180,28 @@
     ]
   },
   {
+    "id": "anima",
+    "title": "अणिमा",
+    "title_en": "Anima",
+    "author": "सूर्यकांत त्रिपाठी 'निराला'",
+    "author_en": "Suryakant Tripathi 'Nirala'",
+    "category": "कविता",
+    "category_en": "Poetry / Chhayavadi & Progressive Verse",
+    "description": "महाप्राण सूर्यकान्त त्रिपाठी 'निराला' का सुप्रसिद्ध काव्य-संग्रह। 'स्नेह निर्झर बह गया है', 'मैं अकेला', महादेवी वर्मा व प्रसाद जी के प्रति श्रद्धा-कविताएँ तथा रहस्यवादी, प्रगतिशील व मानवीय संवेदनाओं से ओत-प्रोत ४५ कालजयी रचनाओं का संकलन।",
+    "cover_image": "",
+    "published_year": 1943,
+    "total_chapters": 45,
+    "estimated_reading_minutes": 49,
+    "keywords": [
+      "anima",
+      "nirala",
+      "suryakant tripathi nirala",
+      "hindi kavita",
+      "chhayavad",
+      "geeti kavya"
+    ]
+  },
+  {
     "id": "apsara",
     "title": "अप्सरा",
     "title_en": "Apsara",
@@ -287,6 +309,28 @@
       "kahani",
       "education",
       "humor"
+    ]
+  },
+  {
+    "id": "bhaktabhavan",
+    "title": "भक्तभावन",
+    "title_en": "Bhakta-Bhavan",
+    "author": "कवि ग्वाल",
+    "author_en": "Kavi Gwal",
+    "category": "कविता",
+    "category_en": "Classical Braj Bhasha Devotional Poetry",
+    "description": "रीतिकाल के प्रसिद्ध महाकवि ग्वाल (१७९१–१८६७) का भक्ति एवं शृंगार-रस से परिपूर्ण कालजयी ग्रंथ। यमुना लहरी, गोपी पचीसी, कृष्ण-नखशिख, षट्ऋतु वर्णन, कृष्णाष्टक, राधाष्टक व अन्योक्ति सहित सम्पूर्ण १२ अध्यायों का वृहत् काव्य-संग्रह।",
+    "cover_image": "",
+    "published_year": 1860,
+    "total_chapters": 12,
+    "estimated_reading_minutes": 204,
+    "keywords": [
+      "bhaktabhavan",
+      "gwal kavi",
+      "braj bhasha",
+      "yamuna lahari",
+      "riti kavya",
+      "krishna bhakti"
     ]
   },
   {
@@ -1143,6 +1187,28 @@
     ]
   },
   {
+    "id": "kavivachansudha",
+    "title": "कविवचनसुधा",
+    "title_en": "Kavi Vachan Sudha",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "कविता",
+    "category_en": "Poetry / Classical & Patriotic Anthology",
+    "description": "भारतेन्दु हरिश्चंद्र द्वारा संस्थापित युगान्तकारी पत्रिका 'कविवचनसुधा' से संकलित ऐतिहासिक काव्य-संग्रह। भारतेन्दु युग के भक्ति, वीर-रस, शृंगार, नीति, पावस-कवित्त, अलिफनामा तथा दोहावली का ५ विस्तृत खंडों में ८०,००० से अधिक अक्षरों का वृहत् काव्यात्मक संकलन।",
+    "cover_image": "",
+    "published_year": 1906,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 95,
+    "keywords": [
+      "kavivachansudha",
+      "bharatendu harishchandra",
+      "kavi vachan sudha",
+      "hindi poetry",
+      "braj bhasha",
+      "bharatendu yug"
+    ]
+  },
+  {
     "id": "kavya-aur-kala",
     "title": "काव्य और कला तथा अन्य निबन्ध",
     "title_en": "Kavya Aur Kala Tatha Anya Nibandh",
@@ -1234,6 +1300,27 @@
     ]
   },
   {
+    "id": "lekhanjali",
+    "title": "लेखाञ्जलि",
+    "title_en": "Lekhanjali",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "निबंध व विमर्श",
+    "category_en": "Essays / Science, History & Society",
+    "description": "द्विवेदी युग के युगप्रवर्तक आचार्य महावीर प्रसाद द्विवेदी द्वारा रचित वैचारिक व ज्ञानवर्धक निबंधों का संग्रह। सौर जगत की उत्पत्ति, प्राचीन जन्तु, उत्तरी ध्रुव व एस्किमो जाति, आगरे की इमारतें तथा राष्ट्रीय-शैक्षणिक विषयों पर १९ उत्कृष्ट गद्य-रचनाएँ।",
+    "cover_image": "",
+    "published_year": 1928,
+    "total_chapters": 19,
+    "estimated_reading_minutes": 223,
+    "keywords": [
+      "lekhanjali",
+      "mahavir prasad dwivedi",
+      "hindi nibandh",
+      "scientific essays",
+      "dwivedi yug"
+    ]
+  },
+  {
     "id": "mamta",
     "title": "ममता",
     "title_en": "Mamta",
@@ -1299,6 +1386,29 @@
       "lottery",
       "doodh ka daam",
       "hindi kahaniya"
+    ]
+  },
+  {
+    "id": "meghdoot",
+    "title": "मेघदूत",
+    "title_en": "Meghaduta (Hindi Exposition)",
+    "author": "आचार्य महावीर प्रसाद द्विवेदी",
+    "author_en": "Acharya Mahavir Prasad Dwivedi",
+    "category": "कविता",
+    "category_en": "Classical Sanskrit Epic & Translation",
+    "description": "महाकवि कालिदास के विश्वविख्यात खंडकाव्य 'मेघदूत' का आचार्य महावीर प्रसाद द्विवेदी द्वारा रचित सम्पूर्ण भावार्थ-बोधक गद्यानुवाद। रामगिरि से अलकापुरी तक का मेघ-संदेश, पूर्वमेघ और उत्तरमेघ का अत्यंत सरस एवं भावपूर्ण प्रवाह।",
+    "cover_image": "",
+    "published_year": 1924,
+    "total_chapters": 3,
+    "estimated_reading_minutes": 69,
+    "keywords": [
+      "meghdoot",
+      "kalidasa",
+      "mahavir prasad dwivedi",
+      "meghaduta",
+      "sanskrit classic",
+      "alaka",
+      "yaksha"
     ]
   },
   {

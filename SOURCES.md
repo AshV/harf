@@ -1264,3 +1264,63 @@
 
 ---
 
+### 106. अणिमा (Anima)
+- **रचनाकार (Author):** सूर्यकांत त्रिपाठी 'निराला' (Suryakant Tripathi 'Nirala')
+- **विधा (Category):** कविता (Poetry / Chhayavadi & Progressive Verse)
+- **मूल प्रकाशन वर्ष (Published Year):** 1943
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/अणिमा)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 45 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९४३ युग-मन्दिर, उन्नाव / लखनऊ से प्रकाशित महाप्राण सूर्यकांत त्रिपाठी 'निराला' (१८९९–१९६१) का सम्पूर्ण ४५ कविताओं का प्रामाणिक संग्रह।
+
+---
+
+### 107. लेखाञ्जलि (Lekhanjali)
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** निबंध व विमर्श (Essays / Science, History & Society)
+- **मूल प्रकाशन वर्ष (Published Year):** 1928
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/लेखाञ्जलि)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 19 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२८ हिंदी पुस्तक एजेंसी, कलकत्ता से प्रकाशित आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) का १९ ज्ञानवर्धक एवं वैज्ञानिक निबंधों का संग्रह।
+
+---
+
+### 108. मेघदूत (Meghaduta (Hindi Exposition))
+- **रचनाकार (Author):** आचार्य महावीर प्रसाद द्विवेदी (Acharya Mahavir Prasad Dwivedi)
+- **विधा (Category):** कविता (Classical Sanskrit Epic & Translation)
+- **मूल प्रकाशन वर्ष (Published Year):** 1924
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/मेघदूत_का_हिन्दी-गद्य_में_भावार्थ-बोधक_अनुवाद)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 3 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२४ इंडियन प्रेस लिमिटेड, इलाहाबाद से प्रकाशित आचार्य महावीर प्रसाद द्विवेदी (१८६४–१९३८) द्वारा महाकवि कालिदास के मेघदूत का सम्पूर्ण भावार्थ-बोधक गद्यानुवाद।
+
+---
+
+### 109. भक्तभावन (Bhakta-Bhavan)
+- **रचनाकार (Author):** कवि ग्वाल (Kavi Gwal)
+- **विधा (Category):** कविता (Classical Braj Bhasha Devotional Poetry)
+- **मूल प्रकाशन वर्ष (Published Year):** 1860
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/भक्तभावन)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 12 भाग / अध्याय
+- **सत्यापन टिप्पणी:** रीतिकाल के महाकवि ग्वाल (१७९१–१८६७) का यमुना लहरी, गोपी पचीसी, नखशिख व षट्ऋतु वर्णन सहित सम्पूर्ण १२ अध्यायों का ब्रजभाषा भक्ति-काव्य।
+
+---
+
+### 110. कविवचनसुधा (Kavi Vachan Sudha)
+- **रचनाकार (Author):** भारतेन्दु हरिश्चंद्र (Bharatendu Harishchandra)
+- **विधा (Category):** कविता (Poetry / Classical & Patriotic Anthology)
+- **मूल प्रकाशन वर्ष (Published Year):** 1906
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/कविवचनसुधा)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 5 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९०६ (भारतजीवन प्रेस, काशी) से प्रकाशित भारतेन्दु हरिश्चंद्र (१८५०–१८८५) की सुप्रसिद्ध पत्रिका से संकलित ५ खंडों का वृहत् काव्य-संग्रह।
+
+---
+

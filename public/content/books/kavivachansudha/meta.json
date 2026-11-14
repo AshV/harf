@@ -1,0 +1,70 @@
+{
+  "id": "kavivachansudha",
+  "title": "कविवचनसुधा",
+  "title_en": "Kavi Vachan Sudha",
+  "author": "भारतेन्दु हरिश्चंद्र",
+  "author_en": "Bharatendu Harishchandra",
+  "category": "कविता",
+  "category_en": "Poetry / Classical & Patriotic Anthology",
+  "description": "भारतेन्दु हरिश्चंद्र द्वारा संस्थापित युगान्तकारी पत्रिका 'कविवचनसुधा' से संकलित ऐतिहासिक काव्य-संग्रह। भारतेन्दु युग के भक्ति, वीर-रस, शृंगार, नीति, पावस-कवित्त, अलिफनामा तथा दोहावली का ५ विस्तृत खंडों में ८०,००० से अधिक अक्षरों का वृहत् काव्यात्मक संकलन।",
+  "cover_image": "",
+  "published_year": 1906,
+  "keywords": [
+    "kavivachansudha",
+    "bharatendu harishchandra",
+    "kavi vachan sudha",
+    "hindi poetry",
+    "braj bhasha",
+    "bharatendu yug"
+  ],
+  "total_words": 17035,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 95,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "मंगलाचरण व वीर-काव्य",
+      "block_count": 285,
+      "word_count": 5283,
+      "estimated_minutes": 29,
+      "file": "content/books/kavivachansudha/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "मनहरण, सवैया व शृंगार",
+      "block_count": 337,
+      "word_count": 4283,
+      "estimated_minutes": 24,
+      "file": "content/books/kavivachansudha/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "स्तुति, पद व नीति",
+      "block_count": 244,
+      "word_count": 3752,
+      "estimated_minutes": 21,
+      "file": "content/books/kavivachansudha/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अलिफनामा (आध्यात्मिक काव्य)",
+      "block_count": 132,
+      "word_count": 1451,
+      "estimated_minutes": 8,
+      "file": "content/books/kavivachansudha/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "पावस-कवित्त, विरह व दोहावली",
+      "block_count": 223,
+      "word_count": 2266,
+      "estimated_minutes": 13,
+      "file": "content/books/kavivachansudha/ch_05.json"
+    }
+  ]
+}

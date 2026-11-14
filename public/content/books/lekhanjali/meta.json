@@ -1,0 +1,195 @@
+{
+  "id": "lekhanjali",
+  "title": "लेखाञ्जलि",
+  "title_en": "Lekhanjali",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "निबंध व विमर्श",
+  "category_en": "Essays / Science, History & Society",
+  "description": "द्विवेदी युग के युगप्रवर्तक आचार्य महावीर प्रसाद द्विवेदी द्वारा रचित वैचारिक व ज्ञानवर्धक निबंधों का संग्रह। सौर जगत की उत्पत्ति, प्राचीन जन्तु, उत्तरी ध्रुव व एस्किमो जाति, आगरे की इमारतें तथा राष्ट्रीय-शैक्षणिक विषयों पर १९ उत्कृष्ट गद्य-रचनाएँ।",
+  "cover_image": "",
+  "published_year": 1928,
+  "keywords": [
+    "lekhanjali",
+    "mahavir prasad dwivedi",
+    "hindi nibandh",
+    "scientific essays",
+    "dwivedi yug"
+  ],
+  "total_words": 40173,
+  "total_chapters": 19,
+  "estimated_reading_minutes": 223,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१—भेड़ियों की माँद में पली हुई लड़कियाँ",
+      "block_count": 16,
+      "word_count": 1578,
+      "estimated_minutes": 9,
+      "file": "content/books/lekhanjali/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "२—प्राचीन काल के भयंकर जन्तु",
+      "block_count": 30,
+      "word_count": 1343,
+      "estimated_minutes": 7,
+      "file": "content/books/lekhanjali/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "३—एक अद्भुत जीव",
+      "block_count": 36,
+      "word_count": 1684,
+      "estimated_minutes": 9,
+      "file": "content/books/lekhanjali/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "४—अद्भुत मक्खियाँ",
+      "block_count": 21,
+      "word_count": 968,
+      "estimated_minutes": 5,
+      "file": "content/books/lekhanjali/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "५—महाप्रलय",
+      "block_count": 42,
+      "word_count": 1479,
+      "estimated_minutes": 8,
+      "file": "content/books/lekhanjali/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "६—स्वयंवह-यंत्र",
+      "block_count": 41,
+      "word_count": 2459,
+      "estimated_minutes": 14,
+      "file": "content/books/lekhanjali/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "७—सौर जगत्‌ की उत्पत्ति",
+      "block_count": 22,
+      "word_count": 2263,
+      "estimated_minutes": 13,
+      "file": "content/books/lekhanjali/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "८—उत्तरी ध्रुव की यात्रा और वहाँ की स्कीमो जाति",
+      "block_count": 34,
+      "word_count": 2516,
+      "estimated_minutes": 14,
+      "file": "content/books/lekhanjali/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "९—गौतम बुद्ध का समय",
+      "block_count": 31,
+      "word_count": 2234,
+      "estimated_minutes": 12,
+      "file": "content/books/lekhanjali/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "१०—आगरे की शाही इमारतें",
+      "block_count": 100,
+      "word_count": 2373,
+      "estimated_minutes": 13,
+      "file": "content/books/lekhanjali/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "११—चित्रों द्वारा शिक्षा",
+      "block_count": 32,
+      "word_count": 1354,
+      "estimated_minutes": 8,
+      "file": "content/books/lekhanjali/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "१२—सन् १९२१ की मनुष्य-गणना",
+      "block_count": 112,
+      "word_count": 2131,
+      "estimated_minutes": 12,
+      "file": "content/books/lekhanjali/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "१३—जापान और भारत में शिक्षा का तारतम्य",
+      "block_count": 13,
+      "word_count": 1029,
+      "estimated_minutes": 6,
+      "file": "content/books/lekhanjali/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "१४—अमेरिका में कृषि-कार्य",
+      "block_count": 23,
+      "word_count": 2108,
+      "estimated_minutes": 12,
+      "file": "content/books/lekhanjali/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "१५—लीग आफ़ नेशन्स का ख़र्च और भारत",
+      "block_count": 100,
+      "word_count": 2008,
+      "estimated_minutes": 11,
+      "file": "content/books/lekhanjali/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "१६—देशी ओषधियों की परीक्षा और निर्माण",
+      "block_count": 49,
+      "word_count": 3088,
+      "estimated_minutes": 17,
+      "file": "content/books/lekhanjali/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "१७—देहाती पञ्चायतें",
+      "block_count": 96,
+      "word_count": 3262,
+      "estimated_minutes": 18,
+      "file": "content/books/lekhanjali/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "१८—किसानों का संघटन",
+      "block_count": 30,
+      "word_count": 3270,
+      "estimated_minutes": 18,
+      "file": "content/books/lekhanjali/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "१९—दण्ड-देव का आत्म-निवेदन",
+      "block_count": 35,
+      "word_count": 3026,
+      "estimated_minutes": 17,
+      "file": "content/books/lekhanjali/ch_19.json"
+    }
+  ]
+}

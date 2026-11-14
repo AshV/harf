@@ -964,6 +964,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#85C1E9',
     badgeBg: 'bg-[#85C1E9]/15 text-[#D6EAF8]',
     motif: '✦ 💎 ✦'
+  },
+  anima: {
+    bgGradient: 'from-[#2B1B4D] via-[#432A78] to-[#1C1133]',
+    borderColor: 'border-[#D2B4DE]/40',
+    titleColor: 'text-[#FAF5FF]',
+    authorColor: 'text-[#D2B4DE]',
+    accentColor: '#D2B4DE',
+    badgeBg: 'bg-[#D2B4DE]/15 text-[#F5EEF8]',
+    motif: '✦ 🌸 ✦'
+  },
+  lekhanjali: {
+    bgGradient: 'from-[#1C2833] via-[#2C3E50] to-[#121A21]',
+    borderColor: 'border-[#85929E]/40',
+    titleColor: 'text-[#F2F4F4]',
+    authorColor: 'text-[#85929E]',
+    accentColor: '#85929E',
+    badgeBg: 'bg-[#85929E]/15 text-[#EAEDED]',
+    motif: '❖ 🖋️ ❖'
+  },
+  meghdoot: {
+    bgGradient: 'from-[#0D1B2A] via-[#1B263B] to-[#0A131F]',
+    borderColor: 'border-[#5DADE2]/40',
+    titleColor: 'text-[#EBF5FB]',
+    authorColor: 'text-[#5DADE2]',
+    accentColor: '#5DADE2',
+    badgeBg: 'bg-[#5DADE2]/15 text-[#D4E6F1]',
+    motif: '✦ 🌧️ ✦'
+  },
+  kavivachansudha: {
+    bgGradient: 'from-[#4A121A] via-[#6B1B27] to-[#2E0B10]',
+    borderColor: 'border-[#F5B041]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F5B041]',
+    accentColor: '#F5B041',
+    badgeBg: 'bg-[#F5B041]/15 text-[#FEF9E7]',
+    motif: '❖ 📜 ❖'
+  },
+  bhaktabhavan: {
+    bgGradient: 'from-[#0B1E36] via-[#123158] to-[#071322]',
+    borderColor: 'border-[#F7DC6F]/40',
+    titleColor: 'text-[#FEF9E7]',
+    authorColor: 'text-[#F7DC6F]',
+    accentColor: '#F7DC6F',
+    badgeBg: 'bg-[#F7DC6F]/15 text-[#FCF3CF]',
+    motif: '✦ 🪶 ✦'
   }
 };
 

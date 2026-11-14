@@ -1,0 +1,53 @@
+{
+  "id": "meghdoot",
+  "title": "मेघदूत",
+  "title_en": "Meghaduta (Hindi Exposition)",
+  "author": "आचार्य महावीर प्रसाद द्विवेदी",
+  "author_en": "Acharya Mahavir Prasad Dwivedi",
+  "category": "कविता",
+  "category_en": "Classical Sanskrit Epic & Translation",
+  "description": "महाकवि कालिदास के विश्वविख्यात खंडकाव्य 'मेघदूत' का आचार्य महावीर प्रसाद द्विवेदी द्वारा रचित सम्पूर्ण भावार्थ-बोधक गद्यानुवाद। रामगिरि से अलकापुरी तक का मेघ-संदेश, पूर्वमेघ और उत्तरमेघ का अत्यंत सरस एवं भावपूर्ण प्रवाह।",
+  "cover_image": "",
+  "published_year": 1924,
+  "keywords": [
+    "meghdoot",
+    "kalidasa",
+    "mahavir prasad dwivedi",
+    "meghaduta",
+    "sanskrit classic",
+    "alaka",
+    "yaksha"
+  ],
+  "total_words": 12481,
+  "total_chapters": 3,
+  "estimated_reading_minutes": 69,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "पूर्वमेघ (पूर्वार्द्ध)",
+      "block_count": 70,
+      "word_count": 4344,
+      "estimated_minutes": 24,
+      "file": "content/books/meghdoot/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "उत्तरमेघ (उत्तरार्द्ध)",
+      "block_count": 42,
+      "word_count": 3452,
+      "estimated_minutes": 19,
+      "file": "content/books/meghdoot/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "उपसंहार व विमर्श",
+      "block_count": 255,
+      "word_count": 4685,
+      "estimated_minutes": 26,
+      "file": "content/books/meghdoot/ch_03.json"
+    }
+  ]
+}
