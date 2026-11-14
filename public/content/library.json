@@ -730,6 +730,29 @@
     ]
   },
   {
+    "id": "dukhi-bharat",
+    "title": "दुखी भारत",
+    "title_en": "Dukhi Bharat (Unhappy India)",
+    "author": "लाला लाजपत राय",
+    "author_en": "Lala Lajpat Rai",
+    "category": "इतिहास व संस्कृति",
+    "category_en": "History, Sociology & Nationalism",
+    "description": "पंजाब केसरी लाला लाजपत राय द्वारा रचित ऐतिहासिक एवं समाजशास्त्रीय महाग्रंथ। कैथरीन मेयो की पूर्वाग्रहपूर्ण पुस्तक 'मदर इंडिया' के तार्किक प्रत्युत्तर में भारतीय समाज, शिक्षा, नारी-सम्मान, संस्कृति, आर्थिक शोषण और राष्ट्रीय स्वाभिमान का ३५ अध्यायों में प्रामाणिक विश्लेषण।",
+    "cover_image": "",
+    "published_year": 1928,
+    "total_chapters": 35,
+    "estimated_reading_minutes": 883,
+    "keywords": [
+      "dukhi bharat",
+      "unhappy india",
+      "lala lajpat rai",
+      "mother india",
+      "indian history",
+      "nationalism",
+      "indian freedom struggle"
+    ]
+  },
+  {
     "id": "ek-ghoont",
     "title": "एक घूँट",
     "title_en": "Ek Ghoont",
@@ -1255,6 +1278,27 @@
       "political drama",
       "visakhadatta",
       "natak"
+    ]
+  },
+  {
+    "id": "natak-aur-rangmanch",
+    "title": "नाटक और रंगमंच (नाटकावली विमर्श)",
+    "title_en": "Natak Aur Rangmanch (Dramatic Criticism)",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "निबंध व विमर्श",
+    "category_en": "Literary Criticism / Dramatic Theory",
+    "description": "आधुनिक हिन्दी नाट्य-साहित्य के जनक भारतेन्दु हरिश्चंद्र का भारतीय नाट्यशास्त्र, हिन्दी रंगमंच के इतिहास तथा अपने युगान्तकारी नाटकों—अंधेर नगरी, भारत दुर्दशा, नीलदेवी, सतीप्रताप आदि की समीक्षा पर आधारित १२ अध्यायों का कालजयी विमर्श।",
+    "cover_image": "",
+    "published_year": 1883,
+    "total_chapters": 12,
+    "estimated_reading_minutes": 152,
+    "keywords": [
+      "natak aur rangmanch",
+      "bharatendu harishchandra",
+      "natyashastra",
+      "hindi drama history",
+      "literary criticism"
     ]
   },
   {
@@ -2054,6 +2098,27 @@
     ]
   },
   {
+    "id": "sukhasharvari",
+    "title": "सुखशर्वरी",
+    "title_en": "Sukhasharvari",
+    "author": "पं. किशोरीलाल गोस्वामी",
+    "author_en": "Pt. Kishorilal Goswami",
+    "category": "उपन्यास",
+    "category_en": "Novel / Classical Romantic Fiction",
+    "description": "पं. किशोरीलाल गोस्वामी द्वारा रचित शास्त्रीय सामाजिक व भावुक उपन्यास। श्मशान के रहस्य, मानवीय संवेदनाओं, प्रेम, संघर्ष और विरह-मिलन की अनूठी कथा का ६ भागों में विस्तृत परिदृश्य।",
+    "cover_image": "",
+    "published_year": 1908,
+    "total_chapters": 6,
+    "estimated_reading_minutes": 95,
+    "keywords": [
+      "sukhasharvari",
+      "kishorilal goswami",
+      "classical novel",
+      "hindi fiction",
+      "romantic drama"
+    ]
+  },
+  {
     "id": "tata-jivan-charitra",
     "title": "जमसेदजी नसरवानजी ताता का जीवन चरित्र",
     "title_en": "Jamsetji Nusserwanji Tata Ka Jivan Charitra",
@@ -2073,6 +2138,28 @@
       "industrial pioneer",
       "jamshedpur",
       "jivan charitra"
+    ]
+  },
+  {
+    "id": "tilismi-mundari",
+    "title": "तिलिस्माती मुँदरी",
+    "title_en": "Tilismi Mundari",
+    "author": "श्रीधर पाठक",
+    "author_en": "Shridhar Pathak",
+    "category": "उपन्यास",
+    "category_en": "Novel / Fantasy & Adventure",
+    "description": "आधुनिक खड़ी बोली के प्रवर्तक कवि व साहित्यकार श्रीधर पाठक द्वारा रचित रहस्य-रोमांच और तिलिस्मी आख्यान। हिमालय की सुरम्य घाटियों, गंगा के उद्गम, जादुई मुँदरी और साहसिक घटनाओं से सुसज्जित ९ अध्यायों का दुर्लभ गद्य उपन्यास।",
+    "cover_image": "",
+    "published_year": 1927,
+    "total_chapters": 9,
+    "estimated_reading_minutes": 108,
+    "keywords": [
+      "tilismi mundari",
+      "shridhar pathak",
+      "adventure novel",
+      "mystery",
+      "magic ring",
+      "early hindi novel"
     ]
   },
   {
@@ -2165,6 +2252,27 @@
       "shylock",
       "portia",
       "upanyas"
+    ]
+  },
+  {
+    "id": "yaquti-takhti",
+    "title": "याक़ूती तख़्ती",
+    "title_en": "Yaquti Takhti",
+    "author": "पं. किशोरीलाल गोस्वामी",
+    "author_en": "Pt. Kishorilal Goswami",
+    "category": "उपन्यास",
+    "category_en": "Novel / Mystery & Adventure",
+    "description": "पं. किशोरीलाल गोस्वामी का रहस्य, साहस और सीमांत पठानों की पृष्ठभूमि पर आधारित शास्त्रीय उपन्यास। लाल याक़ूत की रहस्यमयी तख़्ती, वीरता, षड्यंत्र और नाटकीय मोड़ों से भरपूर १३ परिच्छेदों का रोचक आख्यान।",
+    "cover_image": "",
+    "published_year": 1906,
+    "total_chapters": 13,
+    "estimated_reading_minutes": 144,
+    "keywords": [
+      "yaquti takhti",
+      "kishorilal goswami",
+      "historical novel",
+      "mystery",
+      "early hindi novel"
     ]
   }
 ]

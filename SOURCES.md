@@ -1144,3 +1144,63 @@
 
 ---
 
+### 96. दुखी भारत (Dukhi Bharat (Unhappy India))
+- **रचनाकार (Author):** लाला लाजपत राय (Lala Lajpat Rai)
+- **विधा (Category):** इतिहास व संस्कृति (History, Sociology & Nationalism)
+- **मूल प्रकाशन वर्ष (Published Year):** 1928
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/दुखी_भारत)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 35 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२८ इंडियन प्रेस, लिमिटेड, प्रयाग से प्रकाशित पंजाब केसरी लाला लाजपत राय (१८६५–१९२८) का ३५ अध्यायों का ऐतिहासिक समाजशास्त्रीय व राष्ट्रीय ग्रन्थ।
+
+---
+
+### 97. तिलिस्माती मुँदरी (Tilismi Mundari)
+- **रचनाकार (Author):** श्रीधर पाठक (Shridhar Pathak)
+- **विधा (Category):** उपन्यास (Novel / Fantasy & Adventure)
+- **मूल प्रकाशन वर्ष (Published Year):** 1927
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/तिलिस्माती_मुँदरी)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 9 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९२७ (पंडित गिरिधर पाठक, इलाहाबाद) से प्रकाशित खड़ी बोली के प्रमुख युगनिर्माता श्रीधर पाठक (१८५८–१९२८) का ९ अध्यायों का तिलिस्मी गद्य उपन्यास।
+
+---
+
+### 98. याक़ूती तख़्ती (Yaquti Takhti)
+- **रचनाकार (Author):** पं. किशोरीलाल गोस्वामी (Pt. Kishorilal Goswami)
+- **विधा (Category):** उपन्यास (Novel / Mystery & Adventure)
+- **मूल प्रकाशन वर्ष (Published Year):** 1906
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/याक़ूती_तख़्ती)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 13 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९०६ में प्रकाशित पं. किशोरीलाल गोस्वामी (१८६५–१९३२) का १३ अध्यायों का ऐतिहासिक-रोमांचक उपन्यास।
+
+---
+
+### 99. सुखशर्वरी (Sukhasharvari)
+- **रचनाकार (Author):** पं. किशोरीलाल गोस्वामी (Pt. Kishorilal Goswami)
+- **विधा (Category):** उपन्यास (Novel / Classical Romantic Fiction)
+- **मूल प्रकाशन वर्ष (Published Year):** 1908
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/सुखशर्वरी)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 6 भाग / अध्याय
+- **सत्यापन टिप्पणी:** १९०८ सुदर्शन प्रेस, वृन्दावन से प्रकाशित पं. किशोरीलाल गोस्वामी (१८६५–१९३२) का ६ भागों का भावुक सामाजिक उपन्यास।
+
+---
+
+### 100. नाटक और रंगमंच (नाटकावली विमर्श) (Natak Aur Rangmanch (Dramatic Criticism))
+- **रचनाकार (Author):** भारतेन्दु हरिश्चंद्र (Bharatendu Harishchandra)
+- **विधा (Category):** निबंध व विमर्श (Literary Criticism / Dramatic Theory)
+- **मूल प्रकाशन वर्ष (Published Year):** 1883
+- **सार्वजनिक डोमेन स्थिति (Copyright Status):** सार्वजनिक डोमेन (Public Domain)
+- **प्राथमिक स्रोत (Source Repository):** [Hindi Wikisource](https://hi.wikisource.org/wiki/भारतेंदु-नाटकावली/भूमिका)
+- **सत्यापन तिथि (Verified On):** 2026-11-14
+- **अध्याय / सर्ग विवरण:** 12 भाग / अध्याय
+- **सत्यापन टिप्पणी:** भारतेन्दु हरिश्चंद्र (१८५०–१८८५) का भारतीय नाट्यशास्त्र, नाटक के इतिहास व अपने प्रमुख नाटकों की आलोचना पर आधारित १२ अध्यायों का शास्त्रीय विमर्श।
+
+---
+

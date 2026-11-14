@@ -1,0 +1,78 @@
+{
+  "id": "sukhasharvari",
+  "title": "सुखशर्वरी",
+  "title_en": "Sukhasharvari",
+  "author": "पं. किशोरीलाल गोस्वामी",
+  "author_en": "Pt. Kishorilal Goswami",
+  "category": "उपन्यास",
+  "category_en": "Novel / Classical Romantic Fiction",
+  "description": "पं. किशोरीलाल गोस्वामी द्वारा रचित शास्त्रीय सामाजिक व भावुक उपन्यास। श्मशान के रहस्य, मानवीय संवेदनाओं, प्रेम, संघर्ष और विरह-मिलन की अनूठी कथा का ६ भागों में विस्तृत परिदृश्य।",
+  "cover_image": "",
+  "published_year": 1908,
+  "keywords": [
+    "sukhasharvari",
+    "kishorilal goswami",
+    "classical novel",
+    "hindi fiction",
+    "romantic drama"
+  ],
+  "total_words": 17133,
+  "total_chapters": 6,
+  "estimated_reading_minutes": 95,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भाग 1",
+      "block_count": 61,
+      "word_count": 1665,
+      "estimated_minutes": 9,
+      "file": "content/books/sukhasharvari/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "भाग 2",
+      "block_count": 88,
+      "word_count": 2566,
+      "estimated_minutes": 14,
+      "file": "content/books/sukhasharvari/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "भाग 3",
+      "block_count": 145,
+      "word_count": 3778,
+      "estimated_minutes": 21,
+      "file": "content/books/sukhasharvari/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "भाग 4",
+      "block_count": 199,
+      "word_count": 3725,
+      "estimated_minutes": 21,
+      "file": "content/books/sukhasharvari/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "भाग 5",
+      "block_count": 122,
+      "word_count": 2940,
+      "estimated_minutes": 16,
+      "file": "content/books/sukhasharvari/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "भाग 6",
+      "block_count": 87,
+      "word_count": 2459,
+      "estimated_minutes": 14,
+      "file": "content/books/sukhasharvari/ch_06.json"
+    }
+  ]
+}

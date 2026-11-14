@@ -874,6 +874,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#F8C471',
     badgeBg: 'bg-[#F8C471]/15 text-[#FEF5E7]',
     motif: '❖ 🧵 ❖'
+  },
+  'dukhi-bharat': {
+    bgGradient: 'from-[#4A1608] via-[#66200C] to-[#2B0E05]',
+    borderColor: 'border-[#F5B041]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#F5B041]',
+    accentColor: '#F5B041',
+    badgeBg: 'bg-[#F5B041]/15 text-[#FEF9E7]',
+    motif: '✦ 🇮🇳 ✦'
+  },
+  'tilismi-mundari': {
+    bgGradient: 'from-[#0B2522] via-[#143B37] to-[#071917]',
+    borderColor: 'border-[#76D7C4]/40',
+    titleColor: 'text-[#E8F8F5]',
+    authorColor: 'text-[#76D7C4]',
+    accentColor: '#76D7C4',
+    badgeBg: 'bg-[#76D7C4]/15 text-[#D1F2EB]',
+    motif: '❖ 💍 ❖'
+  },
+  'yaquti-takhti': {
+    bgGradient: 'from-[#3B0C18] via-[#5C1428] to-[#24060E]',
+    borderColor: 'border-[#E59866]/40',
+    titleColor: 'text-[#FDEDEC]',
+    authorColor: 'text-[#E59866]',
+    accentColor: '#E59866',
+    badgeBg: 'bg-[#E59866]/15 text-[#FADBD8]',
+    motif: '✦ 💎 ✦'
+  },
+  sukhasharvari: {
+    bgGradient: 'from-[#161233] via-[#241D52] to-[#0D0A1F]',
+    borderColor: 'border-[#BB8FCE]/40',
+    titleColor: 'text-[#F4ECF7]',
+    authorColor: 'text-[#BB8FCE]',
+    accentColor: '#BB8FCE',
+    badgeBg: 'bg-[#BB8FCE]/15 text-[#EBDEF0]',
+    motif: '❖ 🌙 ❖'
+  },
+  'natak-aur-rangmanch': {
+    bgGradient: 'from-[#3E1A0F] via-[#5A2617] to-[#261009]',
+    borderColor: 'border-[#E59866]/40',
+    titleColor: 'text-[#FFF9F5]',
+    authorColor: 'text-[#E59866]',
+    accentColor: '#E59866',
+    badgeBg: 'bg-[#E59866]/15 text-[#EDBB99]',
+    motif: '✦ 🎭 ✦'
   }
 };
 

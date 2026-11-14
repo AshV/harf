@@ -1,0 +1,106 @@
+{
+  "id": "tilismi-mundari",
+  "title": "तिलिस्माती मुँदरी",
+  "title_en": "Tilismi Mundari",
+  "author": "श्रीधर पाठक",
+  "author_en": "Shridhar Pathak",
+  "category": "उपन्यास",
+  "category_en": "Novel / Fantasy & Adventure",
+  "description": "आधुनिक खड़ी बोली के प्रवर्तक कवि व साहित्यकार श्रीधर पाठक द्वारा रचित रहस्य-रोमांच और तिलिस्मी आख्यान। हिमालय की सुरम्य घाटियों, गंगा के उद्गम, जादुई मुँदरी और साहसिक घटनाओं से सुसज्जित ९ अध्यायों का दुर्लभ गद्य उपन्यास।",
+  "cover_image": "",
+  "published_year": 1927,
+  "keywords": [
+    "tilismi mundari",
+    "shridhar pathak",
+    "adventure novel",
+    "mystery",
+    "magic ring",
+    "early hindi novel"
+  ],
+  "total_words": 19374,
+  "total_chapters": 9,
+  "estimated_reading_minutes": 108,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय 1",
+      "block_count": 20,
+      "word_count": 1465,
+      "estimated_minutes": 8,
+      "file": "content/books/tilismi-mundari/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय 2",
+      "block_count": 21,
+      "word_count": 2247,
+      "estimated_minutes": 12,
+      "file": "content/books/tilismi-mundari/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय 3",
+      "block_count": 22,
+      "word_count": 2282,
+      "estimated_minutes": 13,
+      "file": "content/books/tilismi-mundari/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय 4",
+      "block_count": 28,
+      "word_count": 3345,
+      "estimated_minutes": 19,
+      "file": "content/books/tilismi-mundari/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय 5",
+      "block_count": 17,
+      "word_count": 1839,
+      "estimated_minutes": 10,
+      "file": "content/books/tilismi-mundari/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय 6",
+      "block_count": 19,
+      "word_count": 2588,
+      "estimated_minutes": 14,
+      "file": "content/books/tilismi-mundari/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय 7",
+      "block_count": 19,
+      "word_count": 1794,
+      "estimated_minutes": 10,
+      "file": "content/books/tilismi-mundari/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय 8",
+      "block_count": 16,
+      "word_count": 2444,
+      "estimated_minutes": 14,
+      "file": "content/books/tilismi-mundari/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय 9",
+      "block_count": 26,
+      "word_count": 1370,
+      "estimated_minutes": 8,
+      "file": "content/books/tilismi-mundari/ch_09.json"
+    }
+  ]
+}

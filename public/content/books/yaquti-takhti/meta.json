@@ -1,0 +1,141 @@
+{
+  "id": "yaquti-takhti",
+  "title": "याक़ूती तख़्ती",
+  "title_en": "Yaquti Takhti",
+  "author": "पं. किशोरीलाल गोस्वामी",
+  "author_en": "Pt. Kishorilal Goswami",
+  "category": "उपन्यास",
+  "category_en": "Novel / Mystery & Adventure",
+  "description": "पं. किशोरीलाल गोस्वामी का रहस्य, साहस और सीमांत पठानों की पृष्ठभूमि पर आधारित शास्त्रीय उपन्यास। लाल याक़ूत की रहस्यमयी तख़्ती, वीरता, षड्यंत्र और नाटकीय मोड़ों से भरपूर १३ परिच्छेदों का रोचक आख्यान।",
+  "cover_image": "",
+  "published_year": 1906,
+  "keywords": [
+    "yaquti takhti",
+    "kishorilal goswami",
+    "historical novel",
+    "mystery",
+    "early hindi novel"
+  ],
+  "total_words": 26000,
+  "total_chapters": 13,
+  "estimated_reading_minutes": 144,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "परिच्छेद १",
+      "block_count": 38,
+      "word_count": 2865,
+      "estimated_minutes": 16,
+      "file": "content/books/yaquti-takhti/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "परिच्छेद २",
+      "block_count": 30,
+      "word_count": 1776,
+      "estimated_minutes": 10,
+      "file": "content/books/yaquti-takhti/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "परिच्छेद ३",
+      "block_count": 80,
+      "word_count": 4964,
+      "estimated_minutes": 28,
+      "file": "content/books/yaquti-takhti/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "परिच्छेद ४",
+      "block_count": 32,
+      "word_count": 2516,
+      "estimated_minutes": 14,
+      "file": "content/books/yaquti-takhti/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "परिच्छेद ५",
+      "block_count": 29,
+      "word_count": 2094,
+      "estimated_minutes": 12,
+      "file": "content/books/yaquti-takhti/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "परिच्छेद ६",
+      "block_count": 24,
+      "word_count": 1105,
+      "estimated_minutes": 6,
+      "file": "content/books/yaquti-takhti/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "परिच्छेद ७",
+      "block_count": 28,
+      "word_count": 993,
+      "estimated_minutes": 6,
+      "file": "content/books/yaquti-takhti/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "परिच्छेद ८",
+      "block_count": 49,
+      "word_count": 2704,
+      "estimated_minutes": 15,
+      "file": "content/books/yaquti-takhti/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "परिच्छेद ९",
+      "block_count": 23,
+      "word_count": 1106,
+      "estimated_minutes": 6,
+      "file": "content/books/yaquti-takhti/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "परिच्छेद १०",
+      "block_count": 27,
+      "word_count": 1383,
+      "estimated_minutes": 8,
+      "file": "content/books/yaquti-takhti/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "परिच्छेद ११",
+      "block_count": 47,
+      "word_count": 1524,
+      "estimated_minutes": 8,
+      "file": "content/books/yaquti-takhti/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "परिच्छेद १२",
+      "block_count": 45,
+      "word_count": 1446,
+      "estimated_minutes": 8,
+      "file": "content/books/yaquti-takhti/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "परिच्छेद १४",
+      "block_count": 47,
+      "word_count": 1524,
+      "estimated_minutes": 8,
+      "file": "content/books/yaquti-takhti/ch_13.json"
+    }
+  ]
+}
