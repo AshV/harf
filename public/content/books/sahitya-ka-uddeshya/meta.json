@@ -1,0 +1,377 @@
+{
+  "id": "sahitya-ka-uddeshya",
+  "title": "साहित्य का उद्देश्य",
+  "title_en": "Sahitya Ka Uddeshya",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "निबंध",
+  "category_en": "Essays",
+  "description": "मुंशी प्रेमचंद का 1936 का ऐतिहासिक प्रगतिशील लेखक संघ का अध्यक्षीय वक्तव्य एवं 38 गंभीर वैचारिक निबंध। साहित्य में यथार्थवाद, सामाजिक दायित्व, सौन्दर्य-दृष्टि की नई परिभाषा और 'सत्य, शिव और सुंदर' का प्रेरक विमर्श।",
+  "cover_image": "",
+  "published_year": 1936,
+  "keywords": [
+    "sahitya ka uddeshya",
+    "munshi premchand",
+    "progressive writers association",
+    "literary criticism",
+    "realism",
+    "essays",
+    "nibandh"
+  ],
+  "total_words": 87675,
+  "total_chapters": 39,
+  "estimated_reading_minutes": 487,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "निबंध १ — साहित्य का उद्देश्य",
+      "block_count": 883,
+      "word_count": 13096,
+      "estimated_minutes": 73,
+      "file": "content/books/sahitya-ka-uddeshya/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "निबंध २ — जीवन में साहित्य का स्थान",
+      "block_count": 237,
+      "word_count": 3026,
+      "estimated_minutes": 17,
+      "file": "content/books/sahitya-ka-uddeshya/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "निबंध ३ — साहित्य का आधार",
+      "block_count": 19,
+      "word_count": 1481,
+      "estimated_minutes": 8,
+      "file": "content/books/sahitya-ka-uddeshya/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "निबंध ४ — कहानीकला (१)",
+      "block_count": 103,
+      "word_count": 1393,
+      "estimated_minutes": 8,
+      "file": "content/books/sahitya-ka-uddeshya/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "निबंध ५ — कहानीकला (२)",
+      "block_count": 194,
+      "word_count": 2422,
+      "estimated_minutes": 13,
+      "file": "content/books/sahitya-ka-uddeshya/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "निबंध ६ — कहानीकला (३)",
+      "block_count": 137,
+      "word_count": 1800,
+      "estimated_minutes": 10,
+      "file": "content/books/sahitya-ka-uddeshya/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "निबंध ७ — उपन्यास",
+      "block_count": 303,
+      "word_count": 3696,
+      "estimated_minutes": 21,
+      "file": "content/books/sahitya-ka-uddeshya/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "निबंध ८ — उपन्यास का विषय",
+      "block_count": 109,
+      "word_count": 2478,
+      "estimated_minutes": 14,
+      "file": "content/books/sahitya-ka-uddeshya/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "निबंध ९ — साहित्य में बुद्धिवाद",
+      "block_count": 66,
+      "word_count": 934,
+      "estimated_minutes": 5,
+      "file": "content/books/sahitya-ka-uddeshya/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "निबंध १० — जड़वाद और आत्मवाद",
+      "block_count": 21,
+      "word_count": 1400,
+      "estimated_minutes": 8,
+      "file": "content/books/sahitya-ka-uddeshya/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "निबंध ११ — संग्राम में साहित्य",
+      "block_count": 95,
+      "word_count": 1350,
+      "estimated_minutes": 8,
+      "file": "content/books/sahitya-ka-uddeshya/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "निबंध १२ — साहित्य में समालोचना",
+      "block_count": 94,
+      "word_count": 1309,
+      "estimated_minutes": 7,
+      "file": "content/books/sahitya-ka-uddeshya/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "निबंध १३ — हिन्दी गल्पकला का विकास",
+      "block_count": 196,
+      "word_count": 2521,
+      "estimated_minutes": 14,
+      "file": "content/books/sahitya-ka-uddeshya/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "निबंध १४ — साहित्य और मनोविज्ञान",
+      "block_count": 46,
+      "word_count": 670,
+      "estimated_minutes": 4,
+      "file": "content/books/sahitya-ka-uddeshya/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "निबंध १५ — फिल्म और साहित्य",
+      "block_count": 314,
+      "word_count": 3872,
+      "estimated_minutes": 22,
+      "file": "content/books/sahitya-ka-uddeshya/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "निबंध १६ — सिनेमा और जीवन",
+      "block_count": 75,
+      "word_count": 1078,
+      "estimated_minutes": 6,
+      "file": "content/books/sahitya-ka-uddeshya/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "निबंध १७ — साहित्य की नयी प्रकृति",
+      "block_count": 105,
+      "word_count": 1504,
+      "estimated_minutes": 8,
+      "file": "content/books/sahitya-ka-uddeshya/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "निबंध १८ — दन्तकथाओं का महत्व",
+      "block_count": 47,
+      "word_count": 724,
+      "estimated_minutes": 4,
+      "file": "content/books/sahitya-ka-uddeshya/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "निबंध १९ — ग्राम्यगीतों में समाज का चित्र",
+      "block_count": 54,
+      "word_count": 867,
+      "estimated_minutes": 5,
+      "file": "content/books/sahitya-ka-uddeshya/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "निबंध २० — समकालीन अंग्रेजी ड्रामा",
+      "block_count": 93,
+      "word_count": 1616,
+      "estimated_minutes": 9,
+      "file": "content/books/sahitya-ka-uddeshya/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "निबंध २१ — रोमें रोलॉ की कला",
+      "block_count": 70,
+      "word_count": 967,
+      "estimated_minutes": 5,
+      "file": "content/books/sahitya-ka-uddeshya/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "निबंध २२ — राष्ट्रभाषा हिन्दी और उसकी समस्याएँ",
+      "block_count": 498,
+      "word_count": 6297,
+      "estimated_minutes": 35,
+      "file": "content/books/sahitya-ka-uddeshya/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "निबंध २३ — कौमी भाषा के विषय में कुछ विचार",
+      "block_count": 401,
+      "word_count": 5065,
+      "estimated_minutes": 28,
+      "file": "content/books/sahitya-ka-uddeshya/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "निबंध २४ — हिन्दी-उर्दू की एकता",
+      "block_count": 468,
+      "word_count": 5875,
+      "estimated_minutes": 33,
+      "file": "content/books/sahitya-ka-uddeshya/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "निबंध २५ — उर्दू हिन्दी और हिन्दुस्तानी",
+      "block_count": 303,
+      "word_count": 3881,
+      "estimated_minutes": 22,
+      "file": "content/books/sahitya-ka-uddeshya/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "निबंध २६ — अन्तरप्रान्तीय साहित्यिक आदान-प्रदान",
+      "block_count": 575,
+      "word_count": 6810,
+      "estimated_minutes": 38,
+      "file": "content/books/sahitya-ka-uddeshya/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "निबंध २७ — हंस के जन्म पर",
+      "block_count": 264,
+      "word_count": 3381,
+      "estimated_minutes": 19,
+      "file": "content/books/sahitya-ka-uddeshya/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "निबंध २८ — प्रगतिशील लेखक संघ का अभिनन्दन",
+      "block_count": 63,
+      "word_count": 816,
+      "estimated_minutes": 5,
+      "file": "content/books/sahitya-ka-uddeshya/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "निबंध २९ — उठो मेरी दुनिया के गरीबों को जगा दो",
+      "block_count": 33,
+      "word_count": 569,
+      "estimated_minutes": 3,
+      "file": "content/books/sahitya-ka-uddeshya/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "निबंध ३० — अतीत का मुर्दा बोझ",
+      "block_count": 43,
+      "word_count": 1041,
+      "estimated_minutes": 6,
+      "file": "content/books/sahitya-ka-uddeshya/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "निबंध ३१ — साहित्यिक उदासीनता",
+      "block_count": 33,
+      "word_count": 582,
+      "estimated_minutes": 3,
+      "file": "content/books/sahitya-ka-uddeshya/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "निबंध ३२ — लेखक-संघ",
+      "block_count": 50,
+      "word_count": 765,
+      "estimated_minutes": 4,
+      "file": "content/books/sahitya-ka-uddeshya/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "निबंध ३३ — एक प्रसिद्ध गल्पकार के विचार",
+      "block_count": 84,
+      "word_count": 1107,
+      "estimated_minutes": 6,
+      "file": "content/books/sahitya-ka-uddeshya/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "निबंध ३४ — समाचारपत्रों के मुफ्तखोर पाठक",
+      "block_count": 76,
+      "word_count": 1081,
+      "estimated_minutes": 6,
+      "file": "content/books/sahitya-ka-uddeshya/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "निबंध ३५ — जापान में पुस्तकों का प्रचार",
+      "block_count": 30,
+      "word_count": 513,
+      "estimated_minutes": 3,
+      "file": "content/books/sahitya-ka-uddeshya/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "निबंध ३६ — रुचि की विभिन्नता",
+      "block_count": 11,
+      "word_count": 412,
+      "estimated_minutes": 2,
+      "file": "content/books/sahitya-ka-uddeshya/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "निबंध ३७ — प्रेम-विषयक गल्पों से अरुचि",
+      "block_count": 11,
+      "word_count": 338,
+      "estimated_minutes": 2,
+      "file": "content/books/sahitya-ka-uddeshya/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "निबंध ३८ — साहित्य में ऊँचे विचार",
+      "block_count": 15,
+      "word_count": 349,
+      "estimated_minutes": 2,
+      "file": "content/books/sahitya-ka-uddeshya/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "निबंध ३९ — रूसी साहित्य और हिन्दी",
+      "block_count": 34,
+      "word_count": 589,
+      "estimated_minutes": 3,
+      "file": "content/books/sahitya-ka-uddeshya/ch_39.json"
+    }
+  ]
+}

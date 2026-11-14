@@ -52,13 +52,28 @@ export function cleanWikiHtml(html) {
     .normalize('NFC');
 }
 
-export async function fetchWikiPage(title) {
+export async function fetchWikiPage(title, retries = 4) {
   const url = `https://hi.wikisource.org/w/api.php?action=parse&page=${encodeURIComponent(title)}&prop=text&format=json`;
-  const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
-  if (!res.ok) throw new Error(`HTTP Error: ${res.status}`);
-  const data = await res.json();
-  if (data.error) throw new Error(`API Error: ${data.error.info}`);
-  return data.parse?.text?.['*'] || '';
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
+      if (res.status === 429) {
+        const waitMs = 2500 * attempt;
+        console.warn(`[HTTP 429 Rate Limit] Waiting ${waitMs}ms before retry ${attempt}/${retries}... (${title})`);
+        await new Promise((r) => setTimeout(r, waitMs));
+        continue;
+      }
+      if (!res.ok) throw new Error(`HTTP Error: ${res.status}`);
+      const data = await res.json();
+      if (data.error) throw new Error(`API Error: ${data.error.info}`);
+      return data.parse?.text?.['*'] || '';
+    } catch (err) {
+      if (attempt === retries) throw err;
+      const waitMs = 1500 * attempt;
+      console.warn(`[Fetch Retry] ${err.message} on ${title}. Retrying in ${waitMs}ms...`);
+      await new Promise((r) => setTimeout(r, waitMs));
+    }
+  }
 }
 
 export function logSourceRecord(record) {

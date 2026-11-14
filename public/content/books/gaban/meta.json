@@ -1,0 +1,494 @@
+{
+  "id": "gaban",
+  "title": "गबन",
+  "title_en": "Gaban",
+  "author": "मुंशी प्रेमचंद",
+  "author_en": "Munshi Premchand",
+  "category": "उपन्यास",
+  "category_en": "Novel",
+  "description": "मध्यमवर्गीय खोखले प्रदर्शन, सामाजिक प्रतिष्ठा के दबाव और आभूषण-प्रेम की दारुण त्रासदी। जालपा का चन्द्रहार, रमानाथ का नैतिक पतन, ग़बन का अभिशाप और कलकत्ता की गलियों में प्रायश्चित व आत्मशुद्धि का अमर सामाजिक उपन्यास।",
+  "cover_image": "",
+  "published_year": 1931,
+  "keywords": [
+    "gaban",
+    "munshi premchand",
+    "jalpa",
+    "ramanath",
+    "chandrahaar",
+    "social realism",
+    "upanyas"
+  ],
+  "total_words": 133168,
+  "total_chapters": 52,
+  "estimated_reading_minutes": 740,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "अध्याय १ (एक)",
+      "block_count": 13,
+      "word_count": 362,
+      "estimated_minutes": 2,
+      "file": "content/books/gaban/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अध्याय २ (दो)",
+      "block_count": 22,
+      "word_count": 1042,
+      "estimated_minutes": 6,
+      "file": "content/books/gaban/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३ (तीन)",
+      "block_count": 21,
+      "word_count": 1039,
+      "estimated_minutes": 6,
+      "file": "content/books/gaban/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४ (चार)",
+      "block_count": 42,
+      "word_count": 1530,
+      "estimated_minutes": 9,
+      "file": "content/books/gaban/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५ (पाँच)",
+      "block_count": 63,
+      "word_count": 2004,
+      "estimated_minutes": 11,
+      "file": "content/books/gaban/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६ (छः)",
+      "block_count": 170,
+      "word_count": 3044,
+      "estimated_minutes": 17,
+      "file": "content/books/gaban/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७ (सात)",
+      "block_count": 143,
+      "word_count": 1890,
+      "estimated_minutes": 11,
+      "file": "content/books/gaban/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय ८ (आठ)",
+      "block_count": 134,
+      "word_count": 3036,
+      "estimated_minutes": 17,
+      "file": "content/books/gaban/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय ९ (नौ)",
+      "block_count": 102,
+      "word_count": 2324,
+      "estimated_minutes": 13,
+      "file": "content/books/gaban/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अध्याय १० (दस)",
+      "block_count": 51,
+      "word_count": 1409,
+      "estimated_minutes": 8,
+      "file": "content/books/gaban/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "अध्याय ११ (ग्यारह)",
+      "block_count": 77,
+      "word_count": 3133,
+      "estimated_minutes": 17,
+      "file": "content/books/gaban/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "अध्याय १२ (बारह)",
+      "block_count": 88,
+      "word_count": 3094,
+      "estimated_minutes": 17,
+      "file": "content/books/gaban/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "अध्याय १३ (तेरह)",
+      "block_count": 58,
+      "word_count": 2029,
+      "estimated_minutes": 11,
+      "file": "content/books/gaban/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "अध्याय १४ (चौदह)",
+      "block_count": 116,
+      "word_count": 3539,
+      "estimated_minutes": 20,
+      "file": "content/books/gaban/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "अध्याय १५ (पन्द्रह)",
+      "block_count": 169,
+      "word_count": 5797,
+      "estimated_minutes": 32,
+      "file": "content/books/gaban/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "अध्याय १६ (सोलह)",
+      "block_count": 92,
+      "word_count": 3086,
+      "estimated_minutes": 17,
+      "file": "content/books/gaban/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "अध्याय १७ (सत्रह)",
+      "block_count": 51,
+      "word_count": 2061,
+      "estimated_minutes": 11,
+      "file": "content/books/gaban/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "अध्याय १८ (अठारह)",
+      "block_count": 135,
+      "word_count": 4548,
+      "estimated_minutes": 25,
+      "file": "content/books/gaban/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "अध्याय १९ (उन्नीस)",
+      "block_count": 95,
+      "word_count": 3073,
+      "estimated_minutes": 17,
+      "file": "content/books/gaban/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "अध्याय २० (बीस)",
+      "block_count": 63,
+      "word_count": 1865,
+      "estimated_minutes": 10,
+      "file": "content/books/gaban/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "अध्याय २१ (इक्कीस)",
+      "block_count": 146,
+      "word_count": 5831,
+      "estimated_minutes": 32,
+      "file": "content/books/gaban/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "अध्याय २२ (बाइस)",
+      "block_count": 78,
+      "word_count": 3091,
+      "estimated_minutes": 17,
+      "file": "content/books/gaban/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "अध्याय २३ (तेइस)",
+      "block_count": 55,
+      "word_count": 1919,
+      "estimated_minutes": 11,
+      "file": "content/books/gaban/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "अध्याय २४ (चौबीस)",
+      "block_count": 61,
+      "word_count": 2544,
+      "estimated_minutes": 14,
+      "file": "content/books/gaban/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "अध्याय २५ (पच्चीस)",
+      "block_count": 31,
+      "word_count": 2249,
+      "estimated_minutes": 12,
+      "file": "content/books/gaban/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "अध्याय २६ (छब्बीस)",
+      "block_count": 122,
+      "word_count": 4625,
+      "estimated_minutes": 26,
+      "file": "content/books/gaban/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "अध्याय २७ (सत्ताइस)",
+      "block_count": 110,
+      "word_count": 3495,
+      "estimated_minutes": 19,
+      "file": "content/books/gaban/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "अध्याय २८ (अठ्ठाइस)",
+      "block_count": 56,
+      "word_count": 2000,
+      "estimated_minutes": 11,
+      "file": "content/books/gaban/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "अध्याय २९ (उनतीस)",
+      "block_count": 87,
+      "word_count": 2893,
+      "estimated_minutes": 16,
+      "file": "content/books/gaban/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "अध्याय ३० (तीस)",
+      "block_count": 43,
+      "word_count": 2131,
+      "estimated_minutes": 12,
+      "file": "content/books/gaban/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "अध्याय ३१ (एकतीस)",
+      "block_count": 41,
+      "word_count": 1506,
+      "estimated_minutes": 8,
+      "file": "content/books/gaban/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "अध्याय ३२ (बत्तीस)",
+      "block_count": 88,
+      "word_count": 2834,
+      "estimated_minutes": 16,
+      "file": "content/books/gaban/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "अध्याय ३३ (तैंतीस)",
+      "block_count": 95,
+      "word_count": 2329,
+      "estimated_minutes": 13,
+      "file": "content/books/gaban/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "अध्याय ३४ (चौंतीस)",
+      "block_count": 187,
+      "word_count": 4425,
+      "estimated_minutes": 25,
+      "file": "content/books/gaban/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "अध्याय ३५ (पैंतीस)",
+      "block_count": 73,
+      "word_count": 2313,
+      "estimated_minutes": 13,
+      "file": "content/books/gaban/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "अध्याय ३६ (छत्तीस)",
+      "block_count": 110,
+      "word_count": 3260,
+      "estimated_minutes": 18,
+      "file": "content/books/gaban/ch_36.json"
+    },
+    {
+      "id": "ch_37",
+      "number": 37,
+      "title": "अध्याय ३७ (सैंतीस)",
+      "block_count": 42,
+      "word_count": 1378,
+      "estimated_minutes": 8,
+      "file": "content/books/gaban/ch_37.json"
+    },
+    {
+      "id": "ch_38",
+      "number": 38,
+      "title": "अध्याय ३८ (अड़तीस)",
+      "block_count": 78,
+      "word_count": 2905,
+      "estimated_minutes": 16,
+      "file": "content/books/gaban/ch_38.json"
+    },
+    {
+      "id": "ch_39",
+      "number": 39,
+      "title": "अध्याय ३९ (उनतालीस)",
+      "block_count": 56,
+      "word_count": 1875,
+      "estimated_minutes": 10,
+      "file": "content/books/gaban/ch_39.json"
+    },
+    {
+      "id": "ch_40",
+      "number": 40,
+      "title": "अध्याय ४० (चालीस)",
+      "block_count": 46,
+      "word_count": 1870,
+      "estimated_minutes": 10,
+      "file": "content/books/gaban/ch_40.json"
+    },
+    {
+      "id": "ch_41",
+      "number": 41,
+      "title": "अध्याय ४१ (इकतालीस)",
+      "block_count": 43,
+      "word_count": 2593,
+      "estimated_minutes": 14,
+      "file": "content/books/gaban/ch_41.json"
+    },
+    {
+      "id": "ch_42",
+      "number": 42,
+      "title": "अध्याय ४२ (बयालीस)",
+      "block_count": 59,
+      "word_count": 2435,
+      "estimated_minutes": 14,
+      "file": "content/books/gaban/ch_42.json"
+    },
+    {
+      "id": "ch_43",
+      "number": 43,
+      "title": "अध्याय ४३ (तेंतालीस)",
+      "block_count": 55,
+      "word_count": 2497,
+      "estimated_minutes": 14,
+      "file": "content/books/gaban/ch_43.json"
+    },
+    {
+      "id": "ch_44",
+      "number": 44,
+      "title": "अध्याय ४४ (चवालीस)",
+      "block_count": 28,
+      "word_count": 1502,
+      "estimated_minutes": 8,
+      "file": "content/books/gaban/ch_44.json"
+    },
+    {
+      "id": "ch_45",
+      "number": 45,
+      "title": "अध्याय ४५ (पैंतालीस)",
+      "block_count": 91,
+      "word_count": 1861,
+      "estimated_minutes": 10,
+      "file": "content/books/gaban/ch_45.json"
+    },
+    {
+      "id": "ch_46",
+      "number": 46,
+      "title": "अध्याय ४६ (छियालीस)",
+      "block_count": 26,
+      "word_count": 928,
+      "estimated_minutes": 5,
+      "file": "content/books/gaban/ch_46.json"
+    },
+    {
+      "id": "ch_47",
+      "number": 47,
+      "title": "अध्याय ४७ (सैंतालीस)",
+      "block_count": 70,
+      "word_count": 1933,
+      "estimated_minutes": 11,
+      "file": "content/books/gaban/ch_47.json"
+    },
+    {
+      "id": "ch_48",
+      "number": 48,
+      "title": "अध्याय ४८ (अड़तालीस)",
+      "block_count": 159,
+      "word_count": 5889,
+      "estimated_minutes": 33,
+      "file": "content/books/gaban/ch_48.json"
+    },
+    {
+      "id": "ch_49",
+      "number": 49,
+      "title": "अध्याय ४९ (उनचास)",
+      "block_count": 42,
+      "word_count": 791,
+      "estimated_minutes": 4,
+      "file": "content/books/gaban/ch_49.json"
+    },
+    {
+      "id": "ch_50",
+      "number": 50,
+      "title": "अध्याय ५० (पचास)",
+      "block_count": 24,
+      "word_count": 1013,
+      "estimated_minutes": 6,
+      "file": "content/books/gaban/ch_50.json"
+    },
+    {
+      "id": "ch_51",
+      "number": 51,
+      "title": "अध्याय ५१ (इक्यावन)",
+      "block_count": 61,
+      "word_count": 3831,
+      "estimated_minutes": 21,
+      "file": "content/books/gaban/ch_51.json"
+    },
+    {
+      "id": "ch_52",
+      "number": 52,
+      "title": "अध्याय ५२ (बावन)",
+      "block_count": 64,
+      "word_count": 2517,
+      "estimated_minutes": 14,
+      "file": "content/books/gaban/ch_52.json"
+    }
+  ]
+}

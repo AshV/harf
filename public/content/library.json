@@ -93,6 +93,30 @@
     ]
   },
   {
+    "id": "bhramargeet-saar",
+    "title": "भ्रमरगीत-सार",
+    "title_en": "Bhramargeet Saar",
+    "author": "सूरदास",
+    "author_en": "Surdas",
+    "category": "कविता",
+    "category_en": "Poetry",
+    "description": "महाकवि सूरदास की कृष्णभक्ति व वियोग-श्रृंगार का सर्वोत्कृष्ट शिखर। आचार्य रामचंद्र शुक्ल द्वारा संपादित 'भ्रमरगीत-सार' में उद्धव के निर्गुण ज्ञान-योग पर गोपियों के सहज, अनन्य सगुण प्रेम की अमर विजय का गेय महाकाव्य।",
+    "cover_image": "",
+    "published_year": 1926,
+    "total_chapters": 9,
+    "estimated_reading_minutes": 216,
+    "keywords": [
+      "bhramargeet saar",
+      "surdas",
+      "ramchandra shukla",
+      "bhakti poetry",
+      "gopi uddhav",
+      "krishna",
+      "brajbhasha",
+      "kavita"
+    ]
+  },
+  {
     "id": "bihari-satsai",
     "title": "बिहारी सतसई (रत्नाकर)",
     "title_en": "Bihari Satsai (Ratnakar)",
@@ -160,6 +184,29 @@
       "novella",
       "upanyas",
       "awadh"
+    ]
+  },
+  {
+    "id": "chandragupta",
+    "title": "चन्द्रगुप्त",
+    "title_en": "Chandragupta",
+    "author": "जयशंकर प्रसाद",
+    "author_en": "Jaishankar Prasad",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "चाणक्य की अटूट कूटनीति, चन्द्रगुप्त के राष्ट्रीय उत्थान और यूनानी आक्रमणकारियों के विरुद्ध भारत के अखण्ड राष्ट्रवाद का कालजयी ऐतिहासिक नाटक। कार्नेलिया का अमर राष्ट्रगीत 'अरुण यह मधुमय देश हमारा' और प्रसादीय नाट्य-शिल्प का चरम।",
+    "cover_image": "",
+    "published_year": 1931,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 196,
+    "keywords": [
+      "chandragupta",
+      "jaishankar prasad",
+      "chanakya",
+      "karnelia",
+      "historical drama",
+      "maurya",
+      "natak"
     ]
   },
   {
@@ -280,6 +327,29 @@
       "chandragupta",
       "chhayavad",
       "historical play"
+    ]
+  },
+  {
+    "id": "gaban",
+    "title": "गबन",
+    "title_en": "Gaban",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "उपन्यास",
+    "category_en": "Novel",
+    "description": "मध्यमवर्गीय खोखले प्रदर्शन, सामाजिक प्रतिष्ठा के दबाव और आभूषण-प्रेम की दारुण त्रासदी। जालपा का चन्द्रहार, रमानाथ का नैतिक पतन, ग़बन का अभिशाप और कलकत्ता की गलियों में प्रायश्चित व आत्मशुद्धि का अमर सामाजिक उपन्यास।",
+    "cover_image": "",
+    "published_year": 1931,
+    "total_chapters": 52,
+    "estimated_reading_minutes": 740,
+    "keywords": [
+      "gaban",
+      "munshi premchand",
+      "jalpa",
+      "ramanath",
+      "chandrahaar",
+      "social realism",
+      "upanyas"
     ]
   },
   {
@@ -710,6 +780,29 @@
     ]
   },
   {
+    "id": "sahitya-ka-uddeshya",
+    "title": "साहित्य का उद्देश्य",
+    "title_en": "Sahitya Ka Uddeshya",
+    "author": "मुंशी प्रेमचंद",
+    "author_en": "Munshi Premchand",
+    "category": "निबंध",
+    "category_en": "Essays",
+    "description": "मुंशी प्रेमचंद का 1936 का ऐतिहासिक प्रगतिशील लेखक संघ का अध्यक्षीय वक्तव्य एवं 38 गंभीर वैचारिक निबंध। साहित्य में यथार्थवाद, सामाजिक दायित्व, सौन्दर्य-दृष्टि की नई परिभाषा और 'सत्य, शिव और सुंदर' का प्रेरक विमर्श।",
+    "cover_image": "",
+    "published_year": 1936,
+    "total_chapters": 39,
+    "estimated_reading_minutes": 487,
+    "keywords": [
+      "sahitya ka uddeshya",
+      "munshi premchand",
+      "progressive writers association",
+      "literary criticism",
+      "realism",
+      "essays",
+      "nibandh"
+    ]
+  },
+  {
     "id": "satya-harishchandra",
     "title": "सत्य हरिश्चंद्र",
     "title_en": "Satya Harishchandra",
@@ -780,6 +873,29 @@
       "essays",
       "colonialism",
       "bharatmitra"
+    ]
+  },
+  {
+    "id": "shri-chandravali",
+    "title": "श्रीचंद्रावली",
+    "title_en": "Shri Chandravali",
+    "author": "भारतेन्दु हरिश्चंद्र",
+    "author_en": "Bharatendu Harishchandra",
+    "category": "नाटक",
+    "category_en": "Play / Drama",
+    "description": "भारतेन्दु हरिश्चंद्र की सर्वोत्कृष्ट भाव-प्रधान नाटिका। चंद्रावली का श्रीकृष्ण के प्रति अहैतुक, अनन्य और आत्म-समर्पणकारी मधुर-भाव का निरूपण। आधुनिक हिन्दी नाटक में प्रेमाभक्ति और ब्रजभाषा-खड़ीबोली के सौन्दर्य का अनुपम संगम।",
+    "cover_image": "",
+    "published_year": 1876,
+    "total_chapters": 6,
+    "estimated_reading_minutes": 72,
+    "keywords": [
+      "shri chandravali",
+      "bharatendu harishchandra",
+      "madhur bhakti",
+      "krishna",
+      "natika",
+      "drama",
+      "natak"
     ]
   },
   {

@@ -1,0 +1,71 @@
+{
+  "id": "chandragupta",
+  "title": "चन्द्रगुप्त",
+  "title_en": "Chandragupta",
+  "author": "जयशंकर प्रसाद",
+  "author_en": "Jaishankar Prasad",
+  "category": "नाटक",
+  "category_en": "Play / Drama",
+  "description": "चाणक्य की अटूट कूटनीति, चन्द्रगुप्त के राष्ट्रीय उत्थान और यूनानी आक्रमणकारियों के विरुद्ध भारत के अखण्ड राष्ट्रवाद का कालजयी ऐतिहासिक नाटक। कार्नेलिया का अमर राष्ट्रगीत 'अरुण यह मधुमय देश हमारा' और प्रसादीय नाट्य-शिल्प का चरम।",
+  "cover_image": "",
+  "published_year": 1931,
+  "keywords": [
+    "chandragupta",
+    "jaishankar prasad",
+    "chanakya",
+    "karnelia",
+    "historical drama",
+    "maurya",
+    "natak"
+  ],
+  "total_words": 35215,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 196,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भूमिका एवं पात्र-परिचय",
+      "block_count": 64,
+      "word_count": 139,
+      "estimated_minutes": 1,
+      "file": "content/books/chandragupta/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "प्रथम अंक",
+      "block_count": 607,
+      "word_count": 9271,
+      "estimated_minutes": 52,
+      "file": "content/books/chandragupta/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "द्वितीय अंक",
+      "block_count": 655,
+      "word_count": 8593,
+      "estimated_minutes": 48,
+      "file": "content/books/chandragupta/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "तृतीय अंक",
+      "block_count": 475,
+      "word_count": 7233,
+      "estimated_minutes": 40,
+      "file": "content/books/chandragupta/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "चतुर्थ अंक",
+      "block_count": 700,
+      "word_count": 9979,
+      "estimated_minutes": 55,
+      "file": "content/books/chandragupta/ch_05.json"
+    }
+  ]
+}

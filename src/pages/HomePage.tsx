@@ -728,6 +728,33 @@ export const HomePage: React.FC = () => {
                 </p>
               </div>
             </div>
+
+            {/* Mahakavi Surdas Card */}
+            <div
+              onClick={() => {
+                updateFilter('author', 'सूरदास');
+                scrollToCollection();
+              }}
+              className="bg-white/70 hover:bg-white rounded-2xl p-4 border border-[#231A15]/10 shadow-2xs hover:shadow-md transition-all flex items-center gap-4 cursor-pointer group active:scale-[0.99]"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-[#081F36] text-white flex items-center justify-center font-serif font-black text-xl shrink-0 shadow-sm group-hover:scale-105 transition-transform">
+                सू
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center justify-between">
+                  <h4 className="font-bold text-sm text-[#1F1916] group-hover:text-[#F0C35B] transition-colors">
+                    महाकवि सूरदास
+                  </h4>
+                  <span className="text-[11px] font-bold text-[#F0C35B] group-hover:translate-x-0.5 transition-transform">
+                    {books.filter((b) => b.author === 'सूरदास').length} कृति →
+                  </span>
+                </div>
+                <p className="text-xs text-[#081F36] font-semibold">वात्सल्य व सगुण भक्ति के सूर्य (१४७८ – १५८३)</p>
+                <p className="text-[11px] text-[#1F1916]/60 mt-0.5">
+                  भ्रमरगीत-सार, सूरसागर, साहित्य-लहरी, बाल-लीला
+                </p>
+              </div>
+            </div>
           </div>
         </section>
       </main>

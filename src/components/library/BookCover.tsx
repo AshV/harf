@@ -334,6 +334,51 @@ const PALETTES: Record<string, Palette> = {
     accentColor: '#F3C969',
     badgeBg: 'bg-[#F3C969]/15 text-[#FDF0CD]',
     motif: '❖ 🦜 ❖'
+  },
+  gaban: {
+    bgGradient: 'from-[#4D1C13] via-[#66261A] to-[#36110B]',
+    borderColor: 'border-[#E2A745]/40',
+    titleColor: 'text-[#FFF8EE]',
+    authorColor: 'text-[#E2A745]',
+    accentColor: '#E2A745',
+    badgeBg: 'bg-[#E2A745]/15 text-[#FDE7BE]',
+    motif: '✦ 💍 ✦'
+  },
+  chandragupta: {
+    bgGradient: 'from-[#141528] via-[#222442] to-[#0D0E1A]',
+    borderColor: 'border-[#E8BA60]/40',
+    titleColor: 'text-[#F3F4FB]',
+    authorColor: 'text-[#E8BA60]',
+    accentColor: '#E8BA60',
+    badgeBg: 'bg-[#E8BA60]/15 text-[#FCEAC4]',
+    motif: '❖ ⚔️ ❖'
+  },
+  'bhramargeet-saar': {
+    bgGradient: 'from-[#081F36] via-[#103357] to-[#051424]',
+    borderColor: 'border-[#F0C35B]/40',
+    titleColor: 'text-[#F2F8FC]',
+    authorColor: 'text-[#F0C35B]',
+    accentColor: '#F0C35B',
+    badgeBg: 'bg-[#F0C35B]/15 text-[#FCEBC4]',
+    motif: '✦ 🦚 ✦'
+  },
+  'sahitya-ka-uddeshya': {
+    bgGradient: 'from-[#142A1D] via-[#1F3D2B] to-[#0D1C13]',
+    borderColor: 'border-[#E0BA62]/40',
+    titleColor: 'text-[#F3FAF5]',
+    authorColor: 'text-[#E0BA62]',
+    accentColor: '#E0BA62',
+    badgeBg: 'bg-[#E0BA62]/15 text-[#FCEAC5]',
+    motif: '❖ 🖋️ ❖'
+  },
+  'shri-chandravali': {
+    bgGradient: 'from-[#421429] via-[#5C1D3A] to-[#2B0C1A]',
+    borderColor: 'border-[#F3C86A]/40',
+    titleColor: 'text-[#FFF5F8]',
+    authorColor: 'text-[#F3C86A]',
+    accentColor: '#F3C86A',
+    badgeBg: 'bg-[#F3C86A]/15 text-[#FDF0CE]',
+    motif: '✦ 🌸 ✦'
   }
 };
 

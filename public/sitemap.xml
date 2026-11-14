@@ -55,6 +55,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://harf.pages.dev/#/book/bhramargeet-saar</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/bhramargeet-saar/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://harf.pages.dev/#/book/bihari-satsai</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,6 +98,18 @@
   </url>
   <url>
     <loc>https://harf.pages.dev/#/read/billesur-bakriha/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/book/chandragupta</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/chandragupta/ch_01</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -146,6 +170,18 @@
   </url>
   <url>
     <loc>https://harf.pages.dev/#/read/dhruvaswamini/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/book/gaban</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/gaban/ch_01</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -367,6 +403,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://harf.pages.dev/#/book/sahitya-ka-uddeshya</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/sahitya-ka-uddeshya/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://harf.pages.dev/#/book/satya-harishchandra</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -398,6 +446,18 @@
   </url>
   <url>
     <loc>https://harf.pages.dev/#/read/shivshambhu-ke-chitthe/ch_01</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/book/shri-chandravali</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://harf.pages.dev/#/read/shri-chandravali/ch_01</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
