@@ -2430,6 +2430,32 @@
     ]
   },
   {
+    "id": "ramcharitmanas-sundarkand",
+    "title": "रामचरितमानस (सुन्दरकाण्ड)",
+    "title_en": "Ramcharitmanas (Sundarkand)",
+    "author": "गोस्वामी तुलसीदास",
+    "author_en": "Goswami Tulsidas",
+    "category": "कविता",
+    "category_en": "Bhakti Poetry / Devotional Epic",
+    "description": "गोस्वामी तुलसीदास कृत श्रीरामचरितमानस का अमर पञ्चम सोपान। हनुमान जी के समुद्र-लंघन, लंका-दहन, विभीषण-शरणागति और समुद्र-प्रार्थना (भय बिनु होइ न प्रीति) का कालजयी आख्यान। यूपीएससी व राज्य पीसीएस मुख्य परीक्षा के हिन्दी साहित्य का अनिवार्य पाठ।",
+    "cover_image": "",
+    "published_year": 1574,
+    "total_chapters": 6,
+    "estimated_reading_minutes": 36,
+    "keywords": [
+      "ramcharitmanas",
+      "sundarkand",
+      "tulsidas",
+      "goswami tulsidas",
+      "hanuman",
+      "upsc",
+      "uppsc",
+      "bpsc",
+      "awadhi kavita",
+      "bhakti kaal"
+    ]
+  },
+  {
     "id": "rangbhoomi",
     "title": "रंगभूमि",
     "title_en": "Rangbhoomi",

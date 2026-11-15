@@ -1,0 +1,83 @@
+{
+  "id": "ramcharitmanas-sundarkand",
+  "title": "रामचरितमानस (सुन्दरकाण्ड)",
+  "title_en": "Ramcharitmanas (Sundarkand)",
+  "author": "गोस्वामी तुलसीदास",
+  "author_en": "Goswami Tulsidas",
+  "category": "कविता",
+  "category_en": "Bhakti Poetry / Devotional Epic",
+  "description": "गोस्वामी तुलसीदास कृत श्रीरामचरितमानस का अमर पञ्चम सोपान। हनुमान जी के समुद्र-लंघन, लंका-दहन, विभीषण-शरणागति और समुद्र-प्रार्थना (भय बिनु होइ न प्रीति) का कालजयी आख्यान। यूपीएससी व राज्य पीसीएस मुख्य परीक्षा के हिन्दी साहित्य का अनिवार्य पाठ।",
+  "cover_image": "",
+  "published_year": 1574,
+  "keywords": [
+    "ramcharitmanas",
+    "sundarkand",
+    "tulsidas",
+    "goswami tulsidas",
+    "hanuman",
+    "upsc",
+    "uppsc",
+    "bpsc",
+    "awadhi kavita",
+    "bhakti kaal"
+  ],
+  "total_words": 6476,
+  "total_chapters": 6,
+  "estimated_reading_minutes": 36,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "१. मंगलाचरण, समुद्र-लंघन एवं लंका-प्रवेश (दोहा १–१०)",
+      "block_count": 135,
+      "word_count": 1201,
+      "estimated_minutes": 7,
+      "file": "content/books/ramcharitmanas-sundarkand/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "२. अशोक वाटिका एवं सीता-हनुमान संवाद (दोहा ११–२०)",
+      "block_count": 114,
+      "word_count": 1077,
+      "estimated_minutes": 6,
+      "file": "content/books/ramcharitmanas-sundarkand/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "३. रावण-सभा एवं लंका-दहन (दोहा २१–३४)",
+      "block_count": 147,
+      "word_count": 1402,
+      "estimated_minutes": 8,
+      "file": "content/books/ramcharitmanas-sundarkand/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "४. सीता-संदेश एवं प्रभु श्रीराम-मिलन (दोहा ३५–४२)",
+      "block_count": 96,
+      "word_count": 907,
+      "estimated_minutes": 5,
+      "file": "content/books/ramcharitmanas-sundarkand/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "५. विभीषण-शरणागति एवं अभयदान (दोहा ४३–५०)",
+      "block_count": 85,
+      "word_count": 809,
+      "estimated_minutes": 4,
+      "file": "content/books/ramcharitmanas-sundarkand/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "६. समुद्र-प्रार्थना, प्रभु-क्रोध एवं सेतु-परामर्श (दोहा ५१–६०)",
+      "block_count": 115,
+      "word_count": 1080,
+      "estimated_minutes": 6,
+      "file": "content/books/ramcharitmanas-sundarkand/ch_06.json"
+    }
+  ]
+}
