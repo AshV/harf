@@ -23,7 +23,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenSearch, storageUsage }) =>
                 हर्फ़
               </h1>
               <span className="text-[10px] font-bold px-1.5 py-0.2 rounded-md bg-[#C85A32]/10 text-[#C85A32] uppercase tracking-wider">
-                क्लासिक्स
+                क्लासिक्स • v0.2.0
               </span>
             </div>
             <p className="text-[11px] text-[#1F1916]/60 font-medium">हिन्दी ई-पुस्तकालय</p>

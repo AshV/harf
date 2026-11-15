@@ -19,8 +19,7 @@ export default defineConfig({
         'apple-touch-icon.png',
         'pwa-192x192.png',
         'pwa-512x512.png',
-        'pwa-maskable-512x512.png',
-        'content/**/*.json'
+        'pwa-maskable-512x512.png'
       ],
       manifest: {
         name: 'हर्फ़ (Harf) — आधुनिक हिन्दी ई-पुस्तकालय',
@@ -57,10 +56,43 @@ export default defineConfig({
         ]
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,png,svg,webp,json}'],
+        globPatterns: ['**/*.{js,css,html,ico,png,svg,webp}'],
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,
+        skipWaiting: true,
+        clientsClaim: true,
         runtimeCaching: [
+          {
+            // Master Library Catalog: Always try network first to get newly added books immediately
+            urlPattern: /.*\/content\/library\.json.*/i,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'harf-library-catalog-v2',
+              expiration: {
+                maxEntries: 1,
+                maxAgeSeconds: 60 * 60 * 24 * 7 // 7 days fallback
+              },
+              networkTimeoutSeconds: 3,
+              cacheableResponse: {
+                statuses: [0, 200]
+              }
+            }
+          },
+          {
+            // Book Metadata & Chapters: StaleWhileRevalidate for fast offline and online reading
+            urlPattern: /.*\/content\/books\/.*\.json/i,
+            handler: 'StaleWhileRevalidate',
+            options: {
+              cacheName: 'harf-books-runtime',
+              expiration: {
+                maxEntries: 500,
+                maxAgeSeconds: 60 * 60 * 24 * 30 // 30 days
+              },
+              cacheableResponse: {
+                statuses: [0, 200]
+              }
+            }
+          },
           {
             urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
             handler: 'CacheFirst',

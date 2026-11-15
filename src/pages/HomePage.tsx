@@ -13,8 +13,20 @@ import { db } from '../db';
 import { Feather, Compass, Sparkles, Filter, X, Check, HardDriveDownload } from 'lucide-react';
 
 export const HomePage: React.FC = () => {
-  const [books, setBooks] = useState<BookSummary[]>([]);
-  const [loading, setLoading] = useState(true);
+  const [books, setBooks] = useState<BookSummary[]>(() => {
+    try {
+      const saved = localStorage.getItem('harf_library_catalog_v2');
+      if (saved) return JSON.parse(saved);
+    } catch (e) {}
+    return [];
+  });
+  const [loading, setLoading] = useState<boolean>(() => {
+    try {
+      const saved = localStorage.getItem('harf_library_catalog_v2');
+      if (saved && JSON.parse(saved).length > 0) return false;
+    } catch (e) {}
+    return true;
+  });
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [storageUsage, setStorageUsage] = useState<{ usedMB: number } | null>(null);
   const [offlineBookIds, setOfflineBookIds] = useState<Set<string>>(new Set());
@@ -34,15 +46,28 @@ export const HomePage: React.FC = () => {
     requestPersistentStorage();
     getStorageUsage().then(setStorageUsage);
 
-    // Fetch library catalog
-    fetch('./content/library.json')
-      .then((res) => res.json())
+    // Fetch fresh library catalog (bust browser disk/HTTP cache with timestamp)
+    const catalogUrl = `./content/library.json?t=${Date.now()}`;
+    fetch(catalogUrl, { cache: 'no-cache' })
+      .then((res) => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      })
       .then((data: BookSummary[]) => {
         setBooks(data);
         setLoading(false);
+        try {
+          localStorage.setItem('harf_library_catalog_v2', JSON.stringify(data));
+        } catch (e) {}
       })
       .catch((err) => {
-        console.error('Failed to load library:', err);
+        console.warn('Network fetch for library catalog failed:', err);
+        try {
+          const saved = localStorage.getItem('harf_library_catalog_v2');
+          if (saved) {
+            setBooks(JSON.parse(saved));
+          }
+        } catch (e) {}
         setLoading(false);
       });
 
@@ -820,7 +845,7 @@ export const HomePage: React.FC = () => {
             हर्फ़ (Harf) — भारतीय साहित्य की अमूल्य धरोहर को सुरुचिपूर्ण और आधुनिक रूप में सहेजने का प्रयास।
           </p>
           <p className="text-[11px] opacity-70">
-            सभी प्रस्तुत कृतियाँ सार्वजनिक डोमेन (Public Domain) में हैं • 100% नि:शुल्क एवं ऑफ़लाइन समर्थित
+            सभी प्रस्तुत कृतियाँ सार्वजनिक डोमेन (Public Domain) में हैं • 100% नि:शुल्क एवं ऑफ़लाइन समर्थित • v0.2.0 ({books.length} पुस्तकें)
           </p>
         </div>
       </footer>
