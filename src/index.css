@@ -1,5 +1,21 @@
 @import "tailwindcss";
 
+@theme {
+  --font-serif: 'Noto Serif Devanagari', Georgia, serif;
+  --font-sans: 'Noto Sans Devanagari', system-ui, -apple-system, sans-serif;
+  --font-hindi-serif: 'Noto Serif Devanagari', Georgia, serif;
+  --font-hindi-sans: 'Noto Sans Devanagari', system-ui, -apple-system, sans-serif;
+}
+
+@layer utilities {
+  .font-hindi-serif {
+    font-family: 'Noto Serif Devanagari', Georgia, serif;
+  }
+  .font-hindi-sans {
+    font-family: 'Noto Sans Devanagari', system-ui, -apple-system, sans-serif;
+  }
+}
+
 @layer base {
   :root {
     --font-serif: 'Noto Serif Devanagari', Georgia, serif;

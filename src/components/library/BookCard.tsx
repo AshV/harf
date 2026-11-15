@@ -36,7 +36,7 @@ export const BookCard: React.FC<BookCardProps> = ({ book, isOffline }) => {
 
       {/* Book Info Under Cover */}
       <div className="mt-3 px-1">
-        <h3 className="font-bold text-base text-[#1F1916] group-hover:text-[#B84A2A] transition-colors leading-snug line-clamp-1 font-hindi-serif">
+        <h3 className="font-bold text-base text-[#1F1916] group-hover:text-[#B84A2A] transition-colors leading-snug line-clamp-1 font-hindi-serif pt-1 pb-0.5 px-0.5">
           {book.title}
         </h3>
         <p
@@ -45,7 +45,7 @@ export const BookCard: React.FC<BookCardProps> = ({ book, isOffline }) => {
             e.stopPropagation();
             window.location.hash = `#/?author=${encodeURIComponent(book.author)}`;
           }}
-          className="text-xs text-[#1F1916]/65 hover:text-[#C85A32] hover:underline line-clamp-1 mt-0.5 font-medium transition-colors cursor-pointer"
+          className="text-xs text-[#1F1916]/65 hover:text-[#C85A32] hover:underline line-clamp-1 mt-0.5 font-medium transition-colors cursor-pointer pt-0.5 px-0.5"
           title={`${book.author} की रचनाएँ देखें`}
         >
           {book.author}

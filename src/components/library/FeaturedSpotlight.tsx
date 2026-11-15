@@ -36,7 +36,7 @@ export const FeaturedSpotlight: React.FC<FeaturedSpotlightProps> = ({ book }) =>
               <span>आज की विशेष कृति • सम्पादक की पसंद</span>
             </div>
 
-            <h2 className="text-3xl sm:text-4xl font-black font-serif text-[#FAF5E8] leading-tight">
+            <h2 className="text-3xl sm:text-4xl font-black font-serif text-[#FAF5E8] leading-snug pt-1">
               {book.title}
             </h2>
             <p className="text-sm font-semibold text-[#D4AF37] mt-1 font-hindi-serif">

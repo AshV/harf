@@ -146,7 +146,7 @@ export const BookDetailPage: React.FC = () => {
               {book.category} • {book.category_en}
             </Link>
 
-            <h1 className="text-3xl sm:text-4xl font-black font-serif leading-tight">
+            <h1 className="text-3xl sm:text-4xl font-black font-serif leading-snug pt-1">
               {book.title}
             </h1>
             <p className="text-sm font-medium text-[#1F1916]/50 mt-0.5">

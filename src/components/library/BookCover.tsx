@@ -1313,12 +1313,12 @@ export const BookCover: React.FC<BookCoverProps> = ({
         {/* Center: Book Title in Classic Serif Typography */}
         <div className="relative z-10 text-center px-2 my-auto">
           <h3
-            className={`font-serif font-black tracking-wide leading-tight ${palette.titleColor} drop-shadow-md line-clamp-2 ${
+            className={`font-serif font-hindi-serif font-black tracking-normal leading-[1.38] ${palette.titleColor} drop-shadow-md line-clamp-2 px-1 ${
               size === 'sm'
-                ? 'text-xs'
+                ? 'text-xs pt-1.5 pb-1'
                 : size === 'hero'
-                ? 'text-2xl sm:text-3xl'
-                : 'text-lg sm:text-xl'
+                ? 'text-2xl sm:text-3xl pt-3 pb-2'
+                : 'text-lg sm:text-xl pt-2.5 pb-1.5'
             }`}
           >
             {title}
@@ -1332,8 +1332,8 @@ export const BookCover: React.FC<BookCoverProps> = ({
           </div>
 
           <p
-            className={`font-hindi-serif font-bold text-center line-clamp-1 ${palette.authorColor} ${
-              size === 'sm' ? 'text-[10px]' : 'text-xs sm:text-sm'
+            className={`font-hindi-serif font-bold text-center line-clamp-1 ${palette.authorColor} px-1 leading-snug ${
+              size === 'sm' ? 'text-[10px] pt-1 pb-0.5' : 'text-xs sm:text-sm pt-1.5 pb-1'
             }`}
           >
             {author}

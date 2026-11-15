@@ -34,7 +34,7 @@ export const HeroContinueCard: React.FC<HeroContinueCardProps> = ({ book, progre
               <span>पठन जारी रखें (Continue Reading)</span>
             </div>
 
-            <h2 className="text-xl sm:text-2xl font-bold font-serif leading-tight">
+            <h2 className="text-xl sm:text-2xl font-bold font-serif leading-snug pt-1">
               {book.title}
             </h2>
             <p className="text-xs text-[#FAF5E8]/70 mt-0.5 font-medium">
