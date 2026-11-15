@@ -1,13 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Search, HardDriveDownload } from 'lucide-react';
+import { Search, HardDriveDownload, RotateCw } from 'lucide-react';
 
 interface HeaderProps {
   onOpenSearch: () => void;
   storageUsage?: { usedMB: number } | null;
+  onForceSync?: () => void;
 }
 
-export const Header: React.FC<HeaderProps> = ({ onOpenSearch, storageUsage }) => {
+export const Header: React.FC<HeaderProps> = ({ onOpenSearch, storageUsage, onForceSync }) => {
+  const [isSyncing, setIsSyncing] = useState(false);
+
+  const handleSync = async () => {
+    if (onForceSync) {
+      setIsSyncing(true);
+      await onForceSync();
+    }
+  };
   return (
     <header className="sticky top-0 z-40 bg-[#FAF7F2]/90 backdrop-blur-md border-b border-[#231A15]/8 transition-colors">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
@@ -40,6 +49,19 @@ export const Header: React.FC<HeaderProps> = ({ onOpenSearch, storageUsage }) =>
               <HardDriveDownload className="w-3.5 h-3.5 text-emerald-600" />
               <span>{storageUsage.usedMB} MB ऑफ़लाइन</span>
             </div>
+          )}
+
+          {onForceSync && (
+            <button
+              onClick={handleSync}
+              className={`p-2 rounded-2xl bg-white hover:bg-white/90 text-[#1F1916]/70 hover:text-[#C85A32] border border-[#231A15]/10 shadow-xs transition-all active:scale-95 ${
+                isSyncing ? 'animate-spin text-[#C85A32]' : ''
+              }`}
+              title="पुस्तकालय रीफ्रेश व सिंक करें (Sync Library)"
+              aria-label="पुस्तकालय रीफ्रेश करें"
+            >
+              <RotateCw className="w-4 h-4" />
+            </button>
           )}
 
           <button

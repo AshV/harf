@@ -41,35 +41,66 @@ export const HomePage: React.FC = () => {
 
   const allProgress = useAllReadingProgress();
 
+  const handleForceClearCache = async () => {
+    setLoading(true);
+    try {
+      if ('caches' in window) {
+        const keys = await caches.keys();
+        await Promise.all(keys.map((k) => caches.delete(k)));
+      }
+      if ('serviceWorker' in navigator) {
+        const regs = await navigator.serviceWorker.getRegistrations();
+        await Promise.all(regs.map((r) => r.unregister()));
+      }
+      localStorage.removeItem('harf_library_catalog_v2');
+      localStorage.removeItem('harf_pwa_version');
+      window.location.href = window.location.pathname + '?reload=' + Date.now();
+    } catch (e) {
+      window.location.reload();
+    }
+  };
+
   useEffect(() => {
     // Request persistent storage on initial launch
     requestPersistentStorage();
     getStorageUsage().then(setStorageUsage);
 
     // Fetch fresh library catalog (bust browser disk/HTTP cache with timestamp)
-    const catalogUrl = `./content/library.json?t=${Date.now()}`;
-    fetch(catalogUrl, { cache: 'no-cache' })
-      .then((res) => {
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        return res.json();
-      })
-      .then((data: BookSummary[]) => {
-        setBooks(data);
-        setLoading(false);
-        try {
-          localStorage.setItem('harf_library_catalog_v2', JSON.stringify(data));
-        } catch (e) {}
-      })
-      .catch((err) => {
-        console.warn('Network fetch for library catalog failed:', err);
-        try {
-          const saved = localStorage.getItem('harf_library_catalog_v2');
-          if (saved) {
-            setBooks(JSON.parse(saved));
+    const loadCatalog = (forceBypass = false) => {
+      const catalogUrl = `./content/library.json?t=${Date.now()}${forceBypass ? '&force=1' : ''}`;
+      fetch(catalogUrl, { cache: 'no-cache' })
+        .then((res) => {
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          return res.json();
+        })
+        .then((data: BookSummary[]) => {
+          if (Array.isArray(data) && data.length > 0) {
+            setBooks(data);
+            try {
+              localStorage.setItem('harf_library_catalog_v2', JSON.stringify(data));
+            } catch (e) {}
+
+            // Auto-heal: If catalog returned <= 15 books (stale cache), retry with bypass
+            if (data.length <= 15 && !forceBypass) {
+              console.warn('[HARF] Stale catalog with ' + data.length + ' books detected. Auto-refreshing...');
+              setTimeout(() => loadCatalog(true), 800);
+            }
           }
-        } catch (e) {}
-        setLoading(false);
-      });
+          setLoading(false);
+        })
+        .catch((err) => {
+          console.warn('Network fetch for library catalog failed:', err);
+          try {
+            const saved = localStorage.getItem('harf_library_catalog_v2');
+            if (saved) {
+              setBooks(JSON.parse(saved));
+            }
+          } catch (e) {}
+          setLoading(false);
+        });
+    };
+
+    loadCatalog();
 
     // Check which books are offline in IndexedDB
     async function checkOffline() {
@@ -138,6 +169,7 @@ export const HomePage: React.FC = () => {
       <Header
         onOpenSearch={() => setIsSearchOpen(true)}
         storageUsage={storageUsage}
+        onForceSync={handleForceClearCache}
       />
 
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-10">
@@ -329,6 +361,29 @@ export const HomePage: React.FC = () => {
               </div>
             )}
           </div>
+
+          {/* Stale Cache Warning Banner for Older Opened Browsers */}
+          {books.length > 0 && books.length <= 15 && (
+            <div className="mb-6 p-4 rounded-2xl bg-amber-50 border border-amber-300 flex flex-col sm:flex-row items-center justify-between gap-4 shadow-sm animate-pulse">
+              <div className="flex items-center gap-3">
+                <Sparkles className="w-5 h-5 text-amber-700 shrink-0" />
+                <div className="text-center sm:text-left">
+                  <p className="font-bold text-xs sm:text-sm text-amber-950">
+                    नया पुस्तकालय संग्रह उपलब्ध है (कुल 134 पुस्तकें)
+                  </p>
+                  <p className="text-[11px] text-amber-800/80 mt-0.5">
+                    आपका ब्राउज़र अभी प्रारंभिक 10 पुस्तकों का कैशे दिखा रहा है। 134 पुस्तकें तुरंत लोड करने के लिए बटन दबाएँ।
+                  </p>
+                </div>
+              </div>
+              <button
+                onClick={handleForceClearCache}
+                className="px-4 py-2 bg-[#C85A32] hover:bg-[#A84522] text-white rounded-xl text-xs font-bold transition-all shadow-sm shrink-0 active:scale-95 cursor-pointer"
+              >
+                134 पुस्तकें लोड करें →
+              </button>
+            </div>
+          )}
 
           {/* Books Grid with 3D Tactile Presentation */}
           {loading ? (

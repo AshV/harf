@@ -25,6 +25,14 @@ if (typeof window !== 'undefined' && 'serviceWorker' in navigator) {
       window.location.reload();
     }
   });
+
+  // Actively check for service worker updates on boot and periodically
+  navigator.serviceWorker.ready.then((reg) => {
+    reg.update();
+    setInterval(() => {
+      reg.update();
+    }, 60 * 1000);
+  });
 }
 
 ReactDOM.createRoot(document.getElementById('root')!).render(

@@ -56,12 +56,24 @@ export default defineConfig({
         ]
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,png,svg,webp}'],
+        globPatterns: ['assets/**/*.{js,css}', '*.{ico,png,svg,webp}'],
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,
         skipWaiting: true,
         clientsClaim: true,
         runtimeCaching: [
+          {
+            // App Shell & Navigation: Always fetch fresh HTML from network when online, fallback to cache when offline
+            urlPattern: ({ request }) => request.mode === 'navigate',
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'harf-html-cache-v2',
+              networkTimeoutSeconds: 3,
+              cacheableResponse: {
+                statuses: [0, 200]
+              }
+            }
+          },
           {
             // Master Library Catalog: Always try network first to get newly added books immediately
             urlPattern: /.*\/content\/library\.json.*/i,
