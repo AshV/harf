@@ -6,7 +6,7 @@
   "author_en": "Munshi Premchand",
   "category": "उपन्यास",
   "category_en": "Novel",
-  "description": "किसान जीवन का महाकाव्य। होरी महतो, धनिया और गोबर के माध्यम से भारतीय ग्रामीण समाज, ऋण-ग्रस्तता और मर्यादा के संघर्ष का अमर भारतीय उपन्यास।",
+  "description": "किसान जीवन का महाकाव्य। होरी महतो, धनिया, गोबर, भोला और रायसाहब के माध्यम से भारतीय ग्रामीण समाज, ऋण-ग्रस्तता, सामंती शोषण और मर्यादा के संघर्ष का अमर भारतीय उपन्यास। हिन्दी साहित्य का कालजयी गौरव-ग्रंथ व यूपीएससी/पीसीएस पाठ्यक्रम का अनिवार्य उपन्यास।",
   "cover_image": "",
   "published_year": 1936,
   "keywords": [
@@ -14,32 +14,343 @@
     "godaan",
     "hori",
     "dhaniya",
+    "gobar",
     "premchand",
+    "munshi premchand",
     "upanyas",
     "novel",
-    "kisan"
+    "kisan",
+    "upsc",
+    "uppsc",
+    "bpsc"
   ],
-  "total_words": 377,
-  "total_chapters": 2,
-  "estimated_reading_minutes": 2,
+  "total_words": 161370,
+  "total_chapters": 36,
+  "estimated_reading_minutes": 897,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "अध्याय १",
-      "block_count": 5,
-      "word_count": 183,
-      "estimated_minutes": 1,
+      "block_count": 55,
+      "word_count": 3348,
+      "estimated_minutes": 19,
       "file": "content/books/godaan/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "अध्याय २",
-      "block_count": 7,
-      "word_count": 194,
-      "estimated_minutes": 1,
+      "block_count": 13,
+      "word_count": 2107,
+      "estimated_minutes": 12,
       "file": "content/books/godaan/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "अध्याय ३",
+      "block_count": 120,
+      "word_count": 4537,
+      "estimated_minutes": 25,
+      "file": "content/books/godaan/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "अध्याय ४",
+      "block_count": 200,
+      "word_count": 8901,
+      "estimated_minutes": 49,
+      "file": "content/books/godaan/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "अध्याय ५",
+      "block_count": 51,
+      "word_count": 2865,
+      "estimated_minutes": 16,
+      "file": "content/books/godaan/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६",
+      "block_count": 216,
+      "word_count": 10480,
+      "estimated_minutes": 58,
+      "file": "content/books/godaan/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "अध्याय ७",
+      "block_count": 369,
+      "word_count": 11141,
+      "estimated_minutes": 62,
+      "file": "content/books/godaan/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "अध्याय ८",
+      "block_count": 60,
+      "word_count": 2937,
+      "estimated_minutes": 16,
+      "file": "content/books/godaan/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अध्याय ९",
+      "block_count": 100,
+      "word_count": 3170,
+      "estimated_minutes": 18,
+      "file": "content/books/godaan/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "अध्याय १०",
+      "block_count": 73,
+      "word_count": 3402,
+      "estimated_minutes": 19,
+      "file": "content/books/godaan/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "अध्याय ११",
+      "block_count": 46,
+      "word_count": 3475,
+      "estimated_minutes": 19,
+      "file": "content/books/godaan/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "अध्याय १२",
+      "block_count": 77,
+      "word_count": 3450,
+      "estimated_minutes": 19,
+      "file": "content/books/godaan/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "अध्याय १३",
+      "block_count": 122,
+      "word_count": 4465,
+      "estimated_minutes": 25,
+      "file": "content/books/godaan/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "अध्याय १४",
+      "block_count": 86,
+      "word_count": 3320,
+      "estimated_minutes": 18,
+      "file": "content/books/godaan/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "अध्याय १५",
+      "block_count": 139,
+      "word_count": 5651,
+      "estimated_minutes": 31,
+      "file": "content/books/godaan/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "अध्याय १६",
+      "block_count": 45,
+      "word_count": 4249,
+      "estimated_minutes": 24,
+      "file": "content/books/godaan/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "अध्याय १७",
+      "block_count": 130,
+      "word_count": 4674,
+      "estimated_minutes": 26,
+      "file": "content/books/godaan/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "अध्याय १८",
+      "block_count": 100,
+      "word_count": 5309,
+      "estimated_minutes": 29,
+      "file": "content/books/godaan/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "अध्याय १९",
+      "block_count": 27,
+      "word_count": 1769,
+      "estimated_minutes": 10,
+      "file": "content/books/godaan/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "अध्याय २०",
+      "block_count": 139,
+      "word_count": 5676,
+      "estimated_minutes": 32,
+      "file": "content/books/godaan/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "अध्याय २१",
+      "block_count": 142,
+      "word_count": 5577,
+      "estimated_minutes": 31,
+      "file": "content/books/godaan/ch_21.json"
+    },
+    {
+      "id": "ch_22",
+      "number": 22,
+      "title": "अध्याय २२",
+      "block_count": 142,
+      "word_count": 6617,
+      "estimated_minutes": 37,
+      "file": "content/books/godaan/ch_22.json"
+    },
+    {
+      "id": "ch_23",
+      "number": 23,
+      "title": "अध्याय २३",
+      "block_count": 104,
+      "word_count": 4915,
+      "estimated_minutes": 27,
+      "file": "content/books/godaan/ch_23.json"
+    },
+    {
+      "id": "ch_24",
+      "number": 24,
+      "title": "अध्याय २४",
+      "block_count": 102,
+      "word_count": 4060,
+      "estimated_minutes": 23,
+      "file": "content/books/godaan/ch_24.json"
+    },
+    {
+      "id": "ch_25",
+      "number": 25,
+      "title": "अध्याय २५",
+      "block_count": 44,
+      "word_count": 2774,
+      "estimated_minutes": 15,
+      "file": "content/books/godaan/ch_25.json"
+    },
+    {
+      "id": "ch_26",
+      "number": 26,
+      "title": "अध्याय २६",
+      "block_count": 71,
+      "word_count": 2150,
+      "estimated_minutes": 12,
+      "file": "content/books/godaan/ch_26.json"
+    },
+    {
+      "id": "ch_27",
+      "number": 27,
+      "title": "अध्याय २७",
+      "block_count": 96,
+      "word_count": 5585,
+      "estimated_minutes": 31,
+      "file": "content/books/godaan/ch_27.json"
+    },
+    {
+      "id": "ch_28",
+      "number": 28,
+      "title": "अध्याय २८",
+      "block_count": 47,
+      "word_count": 3483,
+      "estimated_minutes": 19,
+      "file": "content/books/godaan/ch_28.json"
+    },
+    {
+      "id": "ch_29",
+      "number": 29,
+      "title": "अध्याय २९",
+      "block_count": 75,
+      "word_count": 5019,
+      "estimated_minutes": 28,
+      "file": "content/books/godaan/ch_29.json"
+    },
+    {
+      "id": "ch_30",
+      "number": 30,
+      "title": "अध्याय ३०",
+      "block_count": 93,
+      "word_count": 5274,
+      "estimated_minutes": 29,
+      "file": "content/books/godaan/ch_30.json"
+    },
+    {
+      "id": "ch_31",
+      "number": 31,
+      "title": "अध्याय ३१",
+      "block_count": 94,
+      "word_count": 4935,
+      "estimated_minutes": 27,
+      "file": "content/books/godaan/ch_31.json"
+    },
+    {
+      "id": "ch_32",
+      "number": 32,
+      "title": "अध्याय ३२",
+      "block_count": 27,
+      "word_count": 1601,
+      "estimated_minutes": 9,
+      "file": "content/books/godaan/ch_32.json"
+    },
+    {
+      "id": "ch_33",
+      "number": 33,
+      "title": "अध्याय ३३",
+      "block_count": 127,
+      "word_count": 5670,
+      "estimated_minutes": 32,
+      "file": "content/books/godaan/ch_33.json"
+    },
+    {
+      "id": "ch_34",
+      "number": 34,
+      "title": "अध्याय ३४",
+      "block_count": 87,
+      "word_count": 2085,
+      "estimated_minutes": 12,
+      "file": "content/books/godaan/ch_34.json"
+    },
+    {
+      "id": "ch_35",
+      "number": 35,
+      "title": "अध्याय ३५",
+      "block_count": 74,
+      "word_count": 3827,
+      "estimated_minutes": 21,
+      "file": "content/books/godaan/ch_35.json"
+    },
+    {
+      "id": "ch_36",
+      "number": 36,
+      "title": "अध्याय ३६",
+      "block_count": 62,
+      "word_count": 2872,
+      "estimated_minutes": 16,
+      "file": "content/books/godaan/ch_36.json"
     }
   ]
 }
