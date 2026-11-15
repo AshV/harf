@@ -18,9 +18,9 @@
     "drama",
     "natak"
   ],
-  "total_words": 12800,
+  "total_words": 12681,
   "total_chapters": 6,
-  "estimated_reading_minutes": 71,
+  "estimated_reading_minutes": 70,
   "chapters": [
     {
       "id": "ch_01",
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "पहिला अंक — वृन्दावन, गिरिराज दर्शन व अनुराग",
       "block_count": 112,
-      "word_count": 1663,
+      "word_count": 1646,
       "estimated_minutes": 9,
       "file": "content/books/shri-chandravali/ch_02.json"
     },
@@ -45,7 +45,7 @@
       "number": 3,
       "title": "दूसरा अंक — निकुंज, विरह-वेदना व सखी-संवाद",
       "block_count": 265,
-      "word_count": 3272,
+      "word_count": 3201,
       "estimated_minutes": 18,
       "file": "content/books/shri-chandravali/ch_03.json"
     },
@@ -54,7 +54,7 @@
       "number": 4,
       "title": "तीसरा अंक — यमुना-तट, श्रीकृष्ण-आगमन व विरह-परमोत्कर्ष",
       "block_count": 98,
-      "word_count": 2842,
+      "word_count": 2830,
       "estimated_minutes": 16,
       "file": "content/books/shri-chandravali/ch_04.json"
     },
@@ -63,8 +63,8 @@
       "number": 5,
       "title": "चौथा अंक — मिलन, आत्म-समर्पण व प्रेमाभक्ति",
       "block_count": 252,
-      "word_count": 3332,
-      "estimated_minutes": 19,
+      "word_count": 3313,
+      "estimated_minutes": 18,
       "file": "content/books/shri-chandravali/ch_05.json"
     },
     {

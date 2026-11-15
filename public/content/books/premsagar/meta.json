@@ -17,9 +17,9 @@
     "early hindi prose",
     "krishna leela"
   ],
-  "total_words": 104131,
+  "total_words": 104098,
   "total_chapters": 94,
-  "estimated_reading_minutes": 579,
+  "estimated_reading_minutes": 578,
   "chapters": [
     {
       "id": "ch_01",
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "ग्रंथकार की भूमिका",
       "block_count": 11,
-      "word_count": 240,
+      "word_count": 238,
       "estimated_minutes": 1,
       "file": "content/books/premsagar/ch_02.json"
     },
@@ -116,7 +116,7 @@
       "number": 11,
       "title": "१५ ब्रह्मास्तुति",
       "block_count": 6,
-      "word_count": 213,
+      "word_count": 211,
       "estimated_minutes": 1,
       "file": "content/books/premsagar/ch_11.json"
     },
@@ -332,7 +332,7 @@
       "number": 35,
       "title": "३७ कंस नारद संवाद",
       "block_count": 33,
-      "word_count": 1412,
+      "word_count": 1410,
       "estimated_minutes": 8,
       "file": "content/books/premsagar/ch_35.json"
     },
@@ -350,7 +350,7 @@
       "number": 37,
       "title": "३९ अक्रूर वृंदावन गमन",
       "block_count": 19,
-      "word_count": 490,
+      "word_count": 488,
       "estimated_minutes": 3,
       "file": "content/books/premsagar/ch_37.json"
     },
@@ -530,7 +530,7 @@
       "number": 57,
       "title": "५७ जाम्बन्ती-सत्यभामा-विवाह",
       "block_count": 46,
-      "word_count": 2390,
+      "word_count": 2382,
       "estimated_minutes": 13,
       "file": "content/books/premsagar/ch_57.json"
     },
@@ -539,7 +539,7 @@
       "number": 58,
       "title": "५८ शतधन्वावध",
       "block_count": 39,
-      "word_count": 2467,
+      "word_count": 2465,
       "estimated_minutes": 14,
       "file": "content/books/premsagar/ch_58.json"
     },
@@ -548,7 +548,7 @@
       "number": 59,
       "title": "५९ श्रीकृष्णपंचविवाह",
       "block_count": 58,
-      "word_count": 2521,
+      "word_count": 2519,
       "estimated_minutes": 14,
       "file": "content/books/premsagar/ch_59.json"
     },
@@ -566,7 +566,7 @@
       "number": 61,
       "title": "६० भौमासुरवध",
       "block_count": 39,
-      "word_count": 2555,
+      "word_count": 2553,
       "estimated_minutes": 14,
       "file": "content/books/premsagar/ch_61.json"
     },
@@ -575,7 +575,7 @@
       "number": 62,
       "title": "६१ श्रीरुक्मिणीमानलीला",
       "block_count": 35,
-      "word_count": 1049,
+      "word_count": 1047,
       "estimated_minutes": 6,
       "file": "content/books/premsagar/ch_62.json"
     },
@@ -593,7 +593,7 @@
       "number": 64,
       "title": "६३ ऊषास्वप्न",
       "block_count": 107,
-      "word_count": 5034,
+      "word_count": 5028,
       "estimated_minutes": 28,
       "file": "content/books/premsagar/ch_64.json"
     },
@@ -692,7 +692,7 @@
       "number": 75,
       "title": "७३ जरासंधवध",
       "block_count": 52,
-      "word_count": 2282,
+      "word_count": 2279,
       "estimated_minutes": 13,
       "file": "content/books/premsagar/ch_75.json"
     },

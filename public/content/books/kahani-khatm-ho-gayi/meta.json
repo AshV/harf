@@ -16,7 +16,7 @@
     "hindi kahaniya",
     "historical stories"
   ],
-  "total_words": 79553,
+  "total_words": 79533,
   "total_chapters": 24,
   "estimated_reading_minutes": 442,
   "chapters": [
@@ -177,8 +177,8 @@
       "id": "ch_18",
       "number": 18,
       "title": "रानी रासमणि",
-      "block_count": 123,
-      "word_count": 4005,
+      "block_count": 122,
+      "word_count": 3985,
       "estimated_minutes": 22,
       "file": "content/books/kahani-khatm-ho-gayi/ch_18.json"
     },

@@ -17,16 +17,16 @@
     "women rights",
     "gender equality"
   ],
-  "total_words": 68341,
+  "total_words": 68223,
   "total_chapters": 5,
-  "estimated_reading_minutes": 380,
+  "estimated_reading_minutes": 379,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "भूमिका",
       "block_count": 87,
-      "word_count": 5074,
+      "word_count": 5008,
       "estimated_minutes": 28,
       "file": "content/books/striyon-ki-paradhinata/ch_01.json"
     },
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "१",
       "block_count": 34,
-      "word_count": 18175,
+      "word_count": 18161,
       "estimated_minutes": 101,
       "file": "content/books/striyon-ki-paradhinata/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "२",
       "block_count": 19,
-      "word_count": 13437,
+      "word_count": 13433,
       "estimated_minutes": 75,
       "file": "content/books/striyon-ki-paradhinata/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "३",
       "block_count": 40,
-      "word_count": 18676,
+      "word_count": 18648,
       "estimated_minutes": 104,
       "file": "content/books/striyon-ki-paradhinata/ch_04.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "४",
       "block_count": 24,
-      "word_count": 12979,
+      "word_count": 12973,
       "estimated_minutes": 72,
       "file": "content/books/striyon-ki-paradhinata/ch_05.json"
     }

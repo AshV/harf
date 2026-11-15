@@ -18,7 +18,7 @@
     "raidas",
     "poetry anthology"
   ],
-  "total_words": 18359,
+  "total_words": 18351,
   "total_chapters": 6,
   "estimated_reading_minutes": 102,
   "chapters": [
@@ -27,7 +27,7 @@
       "number": 1,
       "title": "हिन्दी भाषा का संक्षिप्त इतिहास",
       "block_count": 257,
-      "word_count": 7625,
+      "word_count": 7620,
       "estimated_minutes": 42,
       "file": "content/books/kavita-kaumudi-1/ch_01.json"
     },
@@ -54,7 +54,7 @@
       "number": 4,
       "title": "सन्त कबीर साहब",
       "block_count": 574,
-      "word_count": 5638,
+      "word_count": 5635,
       "estimated_minutes": 31,
       "file": "content/books/kavita-kaumudi-1/ch_04.json"
     },

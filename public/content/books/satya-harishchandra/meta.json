@@ -20,7 +20,7 @@
     "natak",
     "play"
   ],
-  "total_words": 13669,
+  "total_words": 13647,
   "total_chapters": 4,
   "estimated_reading_minutes": 76,
   "chapters": [
@@ -38,7 +38,7 @@
       "number": 2,
       "title": "द्वितीय अंक — गंगातट (काशी-यात्रा और दान-प्रतिज्ञा)",
       "block_count": 111,
-      "word_count": 1727,
+      "word_count": 1721,
       "estimated_minutes": 10,
       "file": "content/books/satya-harishchandra/ch_02.json"
     },
@@ -47,7 +47,7 @@
       "number": 3,
       "title": "तृतीय अंक — काशी का बाज़ार (सत्य की रक्षा हेतु आत्म-विक्रय)",
       "block_count": 198,
-      "word_count": 3231,
+      "word_count": 3219,
       "estimated_minutes": 18,
       "file": "content/books/satya-harishchandra/ch_03.json"
     },
@@ -56,7 +56,7 @@
       "number": 4,
       "title": "चतुर्थ अंक — मणिकर्णिका श्मशान (कठिन परीक्षा और सत्य की विजय)",
       "block_count": 288,
-      "word_count": 6527,
+      "word_count": 6523,
       "estimated_minutes": 36,
       "file": "content/books/satya-harishchandra/ch_04.json"
     }

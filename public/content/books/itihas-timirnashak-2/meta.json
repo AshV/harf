@@ -17,7 +17,7 @@
     "mughal",
     "19th century india"
   ],
-  "total_words": 26159,
+  "total_words": 26132,
   "total_chapters": 13,
   "estimated_reading_minutes": 145,
   "chapters": [
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "लार्ड अकलैंड",
       "block_count": 19,
-      "word_count": 2953,
+      "word_count": 2951,
       "estimated_minutes": 16,
       "file": "content/books/itihas-timirnashak-2/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "लार्ड एम्हर्स्ट",
       "block_count": 8,
-      "word_count": 735,
+      "word_count": 733,
       "estimated_minutes": 4,
       "file": "content/books/itihas-timirnashak-2/ch_04.json"
     },
@@ -97,8 +97,8 @@
       "id": "ch_09",
       "number": 9,
       "title": "लार्ड डलहौसी",
-      "block_count": 24,
-      "word_count": 2379,
+      "block_count": 23,
+      "word_count": 2360,
       "estimated_minutes": 13,
       "file": "content/books/itihas-timirnashak-2/ch_09.json"
     },
@@ -107,7 +107,7 @@
       "number": 10,
       "title": "लार्ड बेंटिंक",
       "block_count": 4,
-      "word_count": 147,
+      "word_count": 145,
       "estimated_minutes": 1,
       "file": "content/books/itihas-timirnashak-2/ch_10.json"
     },
@@ -125,7 +125,7 @@
       "number": 12,
       "title": "वारन् हेस्टिंग्ज़् पहला गवर्नर जेनरल",
       "block_count": 16,
-      "word_count": 2271,
+      "word_count": 2269,
       "estimated_minutes": 13,
       "file": "content/books/itihas-timirnashak-2/ch_12.json"
     },

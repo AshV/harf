@@ -16,7 +16,7 @@
     "imam hussain",
     "natak"
   ],
-  "total_words": 54226,
+  "total_words": 54147,
   "total_chapters": 6,
   "estimated_reading_minutes": 301,
   "chapters": [
@@ -52,7 +52,7 @@
       "number": 4,
       "title": "दूसरा अंक",
       "block_count": 709,
-      "word_count": 17103,
+      "word_count": 17087,
       "estimated_minutes": 95,
       "file": "content/books/karbala/ch_04.json"
     },
@@ -61,7 +61,7 @@
       "number": 5,
       "title": "तीसरा अंक",
       "block_count": 223,
-      "word_count": 5637,
+      "word_count": 5617,
       "estimated_minutes": 31,
       "file": "content/books/karbala/ch_05.json"
     },
@@ -70,8 +70,8 @@
       "number": 6,
       "title": "चौथा अंक",
       "block_count": 705,
-      "word_count": 16863,
-      "estimated_minutes": 94,
+      "word_count": 16820,
+      "estimated_minutes": 93,
       "file": "content/books/karbala/ch_06.json"
     }
   ]

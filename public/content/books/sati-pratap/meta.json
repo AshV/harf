@@ -17,9 +17,9 @@
     "giti rupak",
     "natak"
   ],
-  "total_words": 6078,
+  "total_words": 6015,
   "total_chapters": 7,
-  "estimated_reading_minutes": 34,
+  "estimated_reading_minutes": 33,
   "chapters": [
     {
       "id": "ch_01",
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "दूसरा दृश्य — राजा अश्वपति का राजभवन व नारद-संवाद",
       "block_count": 74,
-      "word_count": 1008,
+      "word_count": 1007,
       "estimated_minutes": 6,
       "file": "content/books/sati-pratap/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "तीसरा दृश्य — द्युमत्सेन का आश्रम व सत्यवान-मिलन",
       "block_count": 82,
-      "word_count": 985,
+      "word_count": 950,
       "estimated_minutes": 5,
       "file": "content/books/sati-pratap/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "चौथा दृश्य — विवाह व दारुण भविष्यवाणी का भय",
       "block_count": 62,
-      "word_count": 750,
+      "word_count": 740,
       "estimated_minutes": 4,
       "file": "content/books/sati-pratap/ch_04.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "पाँचवाँ दृश्य — वन-गमन व सत्यवान का मूर्च्छित होना",
       "block_count": 44,
-      "word_count": 522,
+      "word_count": 511,
       "estimated_minutes": 3,
       "file": "content/books/sati-pratap/ch_05.json"
     },
@@ -71,7 +71,7 @@
       "number": 6,
       "title": "छठा दृश्य — यमराज का आगमन व सावित्री का ज्ञान-तर्क",
       "block_count": 36,
-      "word_count": 669,
+      "word_count": 663,
       "estimated_minutes": 4,
       "file": "content/books/sati-pratap/ch_06.json"
     },

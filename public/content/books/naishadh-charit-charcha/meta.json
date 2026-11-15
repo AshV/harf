@@ -17,16 +17,16 @@
     "literary criticism",
     "sanskrit classics"
   ],
-  "total_words": 19342,
+  "total_words": 19150,
   "total_chapters": 11,
-  "estimated_reading_minutes": 107,
+  "estimated_reading_minutes": 106,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "१—प्राक्कथन",
       "block_count": 14,
-      "word_count": 875,
+      "word_count": 869,
       "estimated_minutes": 5,
       "file": "content/books/naishadh-charit-charcha/ch_01.json"
     },
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "२—श्रीहर्ष नाम के तीन पुरुष",
       "block_count": 46,
-      "word_count": 2571,
+      "word_count": 2553,
       "estimated_minutes": 14,
       "file": "content/books/naishadh-charit-charcha/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "३—श्रीहर्ष-विषयक कुछ बातें",
       "block_count": 43,
-      "word_count": 1828,
+      "word_count": 1812,
       "estimated_minutes": 10,
       "file": "content/books/naishadh-charit-charcha/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "४—श्रीहर्ष का समयादि-निरूपण",
       "block_count": 41,
-      "word_count": 1558,
+      "word_count": 1550,
       "estimated_minutes": 9,
       "file": "content/books/naishadh-charit-charcha/ch_04.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "५—श्रीहर्ष के ग्रंथ",
       "block_count": 25,
-      "word_count": 383,
+      "word_count": 378,
       "estimated_minutes": 2,
       "file": "content/books/naishadh-charit-charcha/ch_05.json"
     },
@@ -71,7 +71,7 @@
       "number": 6,
       "title": "६—चिंतामणि-मंत्र की सिद्धि",
       "block_count": 31,
-      "word_count": 708,
+      "word_count": 704,
       "estimated_minutes": 4,
       "file": "content/books/naishadh-charit-charcha/ch_06.json"
     },
@@ -80,7 +80,7 @@
       "number": 7,
       "title": "७—श्रीहर्ष की गर्वोक्तियाँ",
       "block_count": 38,
-      "word_count": 675,
+      "word_count": 673,
       "estimated_minutes": 4,
       "file": "content/books/naishadh-charit-charcha/ch_07.json"
     },
@@ -98,7 +98,7 @@
       "number": 9,
       "title": "९—नैषध-चरित का पद्यात्मक अनुवाद",
       "block_count": 40,
-      "word_count": 975,
+      "word_count": 964,
       "estimated_minutes": 5,
       "file": "content/books/naishadh-charit-charcha/ch_09.json"
     },
@@ -116,8 +116,8 @@
       "number": 11,
       "title": "११—श्रीहर्ष की कविता के नमूने",
       "block_count": 441,
-      "word_count": 7333,
-      "estimated_minutes": 41,
+      "word_count": 7211,
+      "estimated_minutes": 40,
       "file": "content/books/naishadh-charit-charcha/ch_11.json"
     }
   ]

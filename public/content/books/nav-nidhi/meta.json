@@ -17,7 +17,7 @@
     "hindi kahani",
     "classic stories"
   ],
-  "total_words": 38922,
+  "total_words": 38911,
   "total_chapters": 9,
   "estimated_reading_minutes": 216,
   "chapters": [
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "रानी-सारन्धा",
       "block_count": 155,
-      "word_count": 5528,
+      "word_count": 5521,
       "estimated_minutes": 31,
       "file": "content/books/nav-nidhi/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "मर्यादा की वेदी",
       "block_count": 118,
-      "word_count": 5585,
+      "word_count": 5583,
       "estimated_minutes": 31,
       "file": "content/books/nav-nidhi/ch_03.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "धोखा",
       "block_count": 56,
-      "word_count": 2873,
+      "word_count": 2872,
       "estimated_minutes": 16,
       "file": "content/books/nav-nidhi/ch_05.json"
     },
@@ -98,7 +98,7 @@
       "number": 9,
       "title": "जुगुनू की चमक",
       "block_count": 87,
-      "word_count": 3479,
+      "word_count": 3478,
       "estimated_minutes": 19,
       "file": "content/books/nav-nidhi/ch_09.json"
     }

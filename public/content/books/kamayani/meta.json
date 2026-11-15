@@ -20,7 +20,7 @@
     "poetry",
     "epic"
   ],
-  "total_words": 23454,
+  "total_words": 23341,
   "total_chapters": 14,
   "estimated_reading_minutes": 130,
   "chapters": [
@@ -47,7 +47,7 @@
       "number": 3,
       "title": "श्रद्धा सर्ग",
       "block_count": 129,
-      "word_count": 1280,
+      "word_count": 1276,
       "estimated_minutes": 7,
       "file": "content/books/kamayani/ch_03.json"
     },
@@ -101,7 +101,7 @@
       "number": 9,
       "title": "इड़ा सर्ग",
       "block_count": 280,
-      "word_count": 2585,
+      "word_count": 2481,
       "estimated_minutes": 14,
       "file": "content/books/kamayani/ch_09.json"
     },
@@ -119,7 +119,7 @@
       "number": 11,
       "title": "संघर्ष सर्ग",
       "block_count": 244,
-      "word_count": 1914,
+      "word_count": 1911,
       "estimated_minutes": 11,
       "file": "content/books/kamayani/ch_11.json"
     },
@@ -127,8 +127,8 @@
       "id": "ch_12",
       "number": 12,
       "title": "दर्शन सर्ग",
-      "block_count": 354,
-      "word_count": 1825,
+      "block_count": 352,
+      "word_count": 1823,
       "estimated_minutes": 10,
       "file": "content/books/kamayani/ch_12.json"
     },

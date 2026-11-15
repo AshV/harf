@@ -18,9 +18,9 @@
     "nayika bhed",
     "alankara"
   ],
-  "total_words": 22953,
+  "total_words": 22876,
   "total_chapters": 12,
-  "estimated_reading_minutes": 128,
+  "estimated_reading_minutes": 127,
   "chapters": [
     {
       "id": "ch_01",
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "प्रथम विलास: स्थायी भाव",
       "block_count": 44,
-      "word_count": 515,
+      "word_count": 511,
       "estimated_minutes": 3,
       "file": "content/books/bhav-vilas/ch_02.json"
     },
@@ -72,7 +72,7 @@
       "number": 6,
       "title": "द्वितीय विलास: संचारी भाव",
       "block_count": 537,
-      "word_count": 5027,
+      "word_count": 5011,
       "estimated_minutes": 28,
       "file": "content/books/bhav-vilas/ch_06.json"
     },
@@ -81,7 +81,7 @@
       "number": 7,
       "title": "तृतीय विलास: हाव",
       "block_count": 412,
-      "word_count": 3751,
+      "word_count": 3739,
       "estimated_minutes": 21,
       "file": "content/books/bhav-vilas/ch_07.json"
     },
@@ -90,7 +90,7 @@
       "number": 8,
       "title": "तृतीय विलास: रस",
       "block_count": 74,
-      "word_count": 714,
+      "word_count": 710,
       "estimated_minutes": 4,
       "file": "content/books/bhav-vilas/ch_08.json"
     },
@@ -99,7 +99,7 @@
       "number": 9,
       "title": "चतुर्थ विलास: नायिका वर्णन",
       "block_count": 575,
-      "word_count": 4823,
+      "word_count": 4819,
       "estimated_minutes": 27,
       "file": "content/books/bhav-vilas/ch_09.json"
     },
@@ -117,7 +117,7 @@
       "number": 11,
       "title": "चतुर्थ विलास: सखी-भेद",
       "block_count": 49,
-      "word_count": 418,
+      "word_count": 414,
       "estimated_minutes": 2,
       "file": "content/books/bhav-vilas/ch_11.json"
     },
@@ -126,7 +126,7 @@
       "number": 12,
       "title": "पञ्चम विलास: अलंकार",
       "block_count": 499,
-      "word_count": 4121,
+      "word_count": 4088,
       "estimated_minutes": 23,
       "file": "content/books/bhav-vilas/ch_12.json"
     }

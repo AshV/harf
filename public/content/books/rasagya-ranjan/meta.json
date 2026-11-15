@@ -19,7 +19,7 @@
     "saraswati",
     "essays"
   ],
-  "total_words": 29803,
+  "total_words": 29797,
   "total_chapters": 10,
   "estimated_reading_minutes": 166,
   "chapters": [
@@ -28,7 +28,7 @@
       "number": 1,
       "title": "कवि-कर्त्तव्य (भाग १) — भाषा, व्याकरण व छंद का दायित्व",
       "block_count": 41,
-      "word_count": 3551,
+      "word_count": 3549,
       "estimated_minutes": 20,
       "file": "content/books/rasagya-ranjan/ch_01.json"
     },
@@ -37,7 +37,7 @@
       "number": 2,
       "title": "कवि-कर्त्तव्य (भाग २) — विषय-चयन, प्रकृति व भाव-गांभीर्य",
       "block_count": 10,
-      "word_count": 1316,
+      "word_count": 1314,
       "estimated_minutes": 7,
       "file": "content/books/rasagya-ranjan/ch_02.json"
     },
@@ -55,7 +55,7 @@
       "number": 4,
       "title": "कवि और कविता — आत्मा की अनुभूति व काव्य-सौंदर्य",
       "block_count": 58,
-      "word_count": 5488,
+      "word_count": 5486,
       "estimated_minutes": 30,
       "file": "content/books/rasagya-ranjan/ch_04.json"
     },

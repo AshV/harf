@@ -19,7 +19,7 @@
     "nirgun",
     "shyam sunder das"
   ],
-  "total_words": 27086,
+  "total_words": 26988,
   "total_chapters": 7,
   "estimated_reading_minutes": 150,
   "chapters": [
@@ -28,7 +28,7 @@
       "number": 1,
       "title": "गुरुदेव कौ अंग (सद्गुरु की महिमा)",
       "block_count": 204,
-      "word_count": 6376,
+      "word_count": 6375,
       "estimated_minutes": 35,
       "file": "content/books/kabir-granthavali/ch_01.json"
     },
@@ -73,7 +73,7 @@
       "number": 6,
       "title": "चितावणी कौ अंग (सांसारिक भ्रम व नश्वरता)",
       "block_count": 312,
-      "word_count": 5335,
+      "word_count": 5329,
       "estimated_minutes": 30,
       "file": "content/books/kabir-granthavali/ch_06.json"
     },
@@ -81,9 +81,9 @@
       "id": "ch_07",
       "number": 7,
       "title": "माया कौ अंग (माया का प्रलोभन व स्वरूप)",
-      "block_count": 164,
-      "word_count": 2611,
-      "estimated_minutes": 15,
+      "block_count": 160,
+      "word_count": 2520,
+      "estimated_minutes": 14,
       "file": "content/books/kabir-granthavali/ch_07.json"
     }
   ]

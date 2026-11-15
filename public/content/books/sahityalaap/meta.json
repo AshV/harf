@@ -18,171 +18,18 @@
     "chhayavad",
     "nibandh"
   ],
-  "total_words": 75459,
-  "total_chapters": 18,
-  "estimated_reading_minutes": 419,
+  "total_words": 1985,
+  "total_chapters": 1,
+  "estimated_reading_minutes": 11,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "देवनागरी-लिपि का उत्पत्ति-काल",
-      "block_count": 27,
-      "word_count": 2407,
-      "estimated_minutes": 13,
-      "file": "content/books/sahityalaap/ch_01.json"
-    },
-    {
-      "id": "ch_02",
-      "number": 2,
-      "title": "देवनागरी लिपि के प्रचार का प्रयत्न",
-      "block_count": 9,
-      "word_count": 934,
-      "estimated_minutes": 5,
-      "file": "content/books/sahityalaap/ch_02.json"
-    },
-    {
-      "id": "ch_03",
-      "number": 3,
-      "title": "नई रोमन-लिपि के प्रचार का प्रयत्न",
-      "block_count": 23,
-      "word_count": 2369,
-      "estimated_minutes": 13,
-      "file": "content/books/sahityalaap/ch_03.json"
-    },
-    {
-      "id": "ch_04",
-      "number": 4,
-      "title": "देशव्यापक भाषा",
-      "block_count": 87,
-      "word_count": 7625,
-      "estimated_minutes": 42,
-      "file": "content/books/sahityalaap/ch_04.json"
-    },
-    {
-      "id": "ch_05",
-      "number": 5,
-      "title": "देशव्यापक लिपि",
-      "block_count": 41,
-      "word_count": 3299,
-      "estimated_minutes": 18,
-      "file": "content/books/sahityalaap/ch_05.json"
-    },
-    {
-      "id": "ch_06",
-      "number": 6,
-      "title": "हिन्दी भाषा और उसका साहित्य",
-      "block_count": 71,
-      "word_count": 6945,
-      "estimated_minutes": 39,
-      "file": "content/books/sahityalaap/ch_06.json"
-    },
-    {
-      "id": "ch_07",
-      "number": 7,
-      "title": "हिन्दी की वर्त्तमान अवस्था",
-      "block_count": 85,
-      "word_count": 6633,
-      "estimated_minutes": 37,
-      "file": "content/books/sahityalaap/ch_07.json"
-    },
-    {
-      "id": "ch_08",
-      "number": 8,
-      "title": "कौंसिल में हिन्दी",
-      "block_count": 75,
-      "word_count": 4920,
-      "estimated_minutes": 27,
-      "file": "content/books/sahityalaap/ch_08.json"
-    },
-    {
-      "id": "ch_09",
-      "number": 9,
-      "title": "भारतीय भाषायें और अँगरेज़",
-      "block_count": 15,
-      "word_count": 1846,
-      "estimated_minutes": 10,
-      "file": "content/books/sahityalaap/ch_09.json"
-    },
-    {
-      "id": "ch_10",
-      "number": 10,
-      "title": "मर्दुमशुमारी की रिपोर्ट में हिन्दी उर्दू",
-      "block_count": 50,
-      "word_count": 2903,
-      "estimated_minutes": 16,
-      "file": "content/books/sahityalaap/ch_10.json"
-    },
-    {
-      "id": "ch_11",
-      "number": 11,
-      "title": "उर्दू और आज़ाद",
       "block_count": 33,
-      "word_count": 2482,
-      "estimated_minutes": 14,
-      "file": "content/books/sahityalaap/ch_11.json"
-    },
-    {
-      "id": "ch_12",
-      "number": 12,
-      "title": "मर्दुमशुमारी की हिन्दुस्तानी भाषा",
-      "block_count": 21,
-      "word_count": 2446,
-      "estimated_minutes": 14,
-      "file": "content/books/sahityalaap/ch_12.json"
-    },
-    {
-      "id": "ch_13",
-      "number": 13,
-      "title": "विदेशी गवर्नमेंट और स्वदेशी भाषायें",
-      "block_count": 18,
-      "word_count": 1964,
+      "word_count": 1985,
       "estimated_minutes": 11,
-      "file": "content/books/sahityalaap/ch_13.json"
-    },
-    {
-      "id": "ch_14",
-      "number": 14,
-      "title": "कवि सम्मेलन",
-      "block_count": 41,
-      "word_count": 2968,
-      "estimated_minutes": 16,
-      "file": "content/books/sahityalaap/ch_14.json"
-    },
-    {
-      "id": "ch_15",
-      "number": 15,
-      "title": "पठानी सिक्कों पर नागरी",
-      "block_count": 155,
-      "word_count": 2258,
-      "estimated_minutes": 13,
-      "file": "content/books/sahityalaap/ch_15.json"
-    },
-    {
-      "id": "ch_16",
-      "number": 16,
-      "title": "वक्तव्य",
-      "block_count": 173,
-      "word_count": 15724,
-      "estimated_minutes": 87,
-      "file": "content/books/sahityalaap/ch_16.json"
-    },
-    {
-      "id": "ch_17",
-      "number": 17,
-      "title": "विचार-विपर्य्यय",
-      "block_count": 24,
-      "word_count": 1773,
-      "estimated_minutes": 10,
-      "file": "content/books/sahityalaap/ch_17.json"
-    },
-    {
-      "id": "ch_18",
-      "number": 18,
-      "title": "आज कल के छायावादी कवि और कविता",
-      "block_count": 136,
-      "word_count": 5963,
-      "estimated_minutes": 33,
-      "file": "content/books/sahityalaap/ch_18.json"
+      "file": "content/books/sahityalaap/ch_01.json"
     }
   ]
 }

@@ -18,7 +18,7 @@
     "khajuraho",
     "ancient history"
   ],
-  "total_words": 24725,
+  "total_words": 24707,
   "total_chapters": 14,
   "estimated_reading_minutes": 137,
   "chapters": [
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "खजुराहो के प्राचीन मन्दिर",
       "block_count": 64,
-      "word_count": 3120,
+      "word_count": 3110,
       "estimated_minutes": 17,
       "file": "content/books/prachin-chihna/ch_02.json"
     },
@@ -45,8 +45,8 @@
       "number": 3,
       "title": "एलोरा के गुफा-मन्दिर",
       "block_count": 89,
-      "word_count": 4595,
-      "estimated_minutes": 26,
+      "word_count": 4587,
+      "estimated_minutes": 25,
       "file": "content/books/prachin-chihna/ch_03.json"
     },
     {

@@ -19,7 +19,7 @@
     "satire",
     "drama"
   ],
-  "total_words": 6185,
+  "total_words": 6038,
   "total_chapters": 6,
   "estimated_reading_minutes": 34,
   "chapters": [
@@ -37,8 +37,8 @@
       "number": 2,
       "title": "दूसरा अंक — श्मशान (भारत का प्रवेश व अश्रुपात)",
       "block_count": 24,
-      "word_count": 452,
-      "estimated_minutes": 3,
+      "word_count": 446,
+      "estimated_minutes": 2,
       "file": "content/books/bharat-durdasha/ch_02.json"
     },
     {
@@ -46,8 +46,8 @@
       "number": 3,
       "title": "तीसरा अंक — मैदान (भारत-दुर्देव और सत्यानाश का षड्यंत्र)",
       "block_count": 77,
-      "word_count": 1212,
-      "estimated_minutes": 7,
+      "word_count": 1162,
+      "estimated_minutes": 6,
       "file": "content/books/bharat-durdasha/ch_03.json"
     },
     {
@@ -55,7 +55,7 @@
       "number": 4,
       "title": "चौथा अंक — कमरा (रोग, आलस्य, मदिरा और अंधकार की सेना)",
       "block_count": 119,
-      "word_count": 2062,
+      "word_count": 2033,
       "estimated_minutes": 11,
       "file": "content/books/bharat-durdasha/ch_04.json"
     },
@@ -64,7 +64,7 @@
       "number": 5,
       "title": "पाँचवाँ अंक — किताबखाना (सात सभ्य पुरुषों की समिति)",
       "block_count": 35,
-      "word_count": 1050,
+      "word_count": 1048,
       "estimated_minutes": 6,
       "file": "content/books/bharat-durdasha/ch_05.json"
     },
@@ -73,8 +73,8 @@
       "number": 6,
       "title": "छठा अंक — गंभीर वन (भारत-भाग्य का विलाप और आत्मोत्सर्ग)",
       "block_count": 130,
-      "word_count": 1395,
-      "estimated_minutes": 8,
+      "word_count": 1335,
+      "estimated_minutes": 7,
       "file": "content/books/bharat-durdasha/ch_06.json"
     }
   ]

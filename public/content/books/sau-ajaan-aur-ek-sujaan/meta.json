@@ -16,7 +16,7 @@
     "early novel",
     "upanyas"
   ],
-  "total_words": 27365,
+  "total_words": 27345,
   "total_chapters": 24,
   "estimated_reading_minutes": 152,
   "chapters": [
@@ -88,7 +88,7 @@
       "number": 8,
       "title": "प्रस्ताव ८",
       "block_count": 38,
-      "word_count": 2018,
+      "word_count": 2015,
       "estimated_minutes": 11,
       "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_08.json"
     },
@@ -124,7 +124,7 @@
       "number": 12,
       "title": "प्रस्ताव १२",
       "block_count": 10,
-      "word_count": 1930,
+      "word_count": 1928,
       "estimated_minutes": 11,
       "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_12.json"
     },
@@ -133,7 +133,7 @@
       "number": 13,
       "title": "प्रस्ताव १३",
       "block_count": 6,
-      "word_count": 945,
+      "word_count": 943,
       "estimated_minutes": 5,
       "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_13.json"
     },
@@ -151,7 +151,7 @@
       "number": 15,
       "title": "प्रस्ताव १५",
       "block_count": 28,
-      "word_count": 2340,
+      "word_count": 2336,
       "estimated_minutes": 13,
       "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_15.json"
     },
@@ -160,7 +160,7 @@
       "number": 16,
       "title": "प्रस्ताव १६",
       "block_count": 13,
-      "word_count": 877,
+      "word_count": 875,
       "estimated_minutes": 5,
       "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_16.json"
     },
@@ -187,7 +187,7 @@
       "number": 19,
       "title": "प्रस्ताव १९",
       "block_count": 12,
-      "word_count": 555,
+      "word_count": 553,
       "estimated_minutes": 3,
       "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_19.json"
     },
@@ -196,7 +196,7 @@
       "number": 20,
       "title": "प्रस्ताव २०",
       "block_count": 13,
-      "word_count": 1012,
+      "word_count": 1009,
       "estimated_minutes": 6,
       "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_20.json"
     },
@@ -214,7 +214,7 @@
       "number": 22,
       "title": "प्रस्ताव २२",
       "block_count": 12,
-      "word_count": 497,
+      "word_count": 495,
       "estimated_minutes": 3,
       "file": "content/books/sau-ajaan-aur-ek-sujaan/ch_22.json"
     },

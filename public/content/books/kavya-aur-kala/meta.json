@@ -18,7 +18,7 @@
     "aesthetics",
     "nibandh"
   ],
-  "total_words": 30721,
+  "total_words": 30703,
   "total_chapters": 9,
   "estimated_reading_minutes": 171,
   "chapters": [
@@ -27,7 +27,7 @@
       "number": 1,
       "title": "निबंध — प्राक्कथन",
       "block_count": 44,
-      "word_count": 5334,
+      "word_count": 5330,
       "estimated_minutes": 30,
       "file": "content/books/kavya-aur-kala/ch_01.json"
     },
@@ -54,7 +54,7 @@
       "number": 4,
       "title": "निबंध — रहस्यवाद",
       "block_count": 152,
-      "word_count": 5607,
+      "word_count": 5598,
       "estimated_minutes": 31,
       "file": "content/books/kavya-aur-kala/ch_04.json"
     },
@@ -63,7 +63,7 @@
       "number": 5,
       "title": "निबंध — यथार्थवाद और छायावाद",
       "block_count": 47,
-      "word_count": 2464,
+      "word_count": 2461,
       "estimated_minutes": 14,
       "file": "content/books/kavya-aur-kala/ch_05.json"
     },
@@ -81,7 +81,7 @@
       "number": 7,
       "title": "निबंध — नाटकों का आरम्भ",
       "block_count": 32,
-      "word_count": 1580,
+      "word_count": 1578,
       "estimated_minutes": 9,
       "file": "content/books/kavya-aur-kala/ch_07.json"
     },

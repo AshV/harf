@@ -17,7 +17,7 @@
     "braj bhasha",
     "bharatendu yug"
   ],
-  "total_words": 17035,
+  "total_words": 17034,
   "total_chapters": 5,
   "estimated_reading_minutes": 95,
   "chapters": [
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "मनहरण, सवैया व शृंगार",
       "block_count": 116,
-      "word_count": 4283,
+      "word_count": 4282,
       "estimated_minutes": 24,
       "file": "content/books/kavivachansudha/ch_02.json"
     },

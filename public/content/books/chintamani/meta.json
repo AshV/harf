@@ -19,16 +19,16 @@
     "alochana",
     "criticism"
   ],
-  "total_words": 81651,
+  "total_words": 81482,
   "total_chapters": 17,
-  "estimated_reading_minutes": 454,
+  "estimated_reading_minutes": 453,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "१. भाव या मनोविकार",
       "block_count": 11,
-      "word_count": 1448,
+      "word_count": 1447,
       "estimated_minutes": 8,
       "file": "content/books/chintamani/ch_01.json"
     },
@@ -36,9 +36,9 @@
       "id": "ch_02",
       "number": 2,
       "title": "२. उत्साह (साहस, आनंद और कर्म-सौंदर्य)",
-      "block_count": 24,
-      "word_count": 3366,
-      "estimated_minutes": 19,
+      "block_count": 23,
+      "word_count": 3256,
+      "estimated_minutes": 18,
       "file": "content/books/chintamani/ch_02.json"
     },
     {
@@ -46,7 +46,7 @@
       "number": 3,
       "title": "३. श्रद्धा-भक्ति (आदर व पूज्य-भाव का विश्लेषण)",
       "block_count": 57,
-      "word_count": 8592,
+      "word_count": 8588,
       "estimated_minutes": 48,
       "file": "content/books/chintamani/ch_03.json"
     },
@@ -118,7 +118,7 @@
       "number": 11,
       "title": "११. कविता क्या है (काव्य-शास्त्र व रसानुभूति की आधारशिला)",
       "block_count": 218,
-      "word_count": 13443,
+      "word_count": 13429,
       "estimated_minutes": 75,
       "file": "content/books/chintamani/ch_11.json"
     },
@@ -127,7 +127,7 @@
       "number": 12,
       "title": "१२. भारतेन्दु हरिश्चन्द्र (आधुनिक युग-प्रवर्तक का मूल्यांकन)",
       "block_count": 95,
-      "word_count": 3633,
+      "word_count": 3623,
       "estimated_minutes": 20,
       "file": "content/books/chintamani/ch_12.json"
     },
@@ -154,7 +154,7 @@
       "number": 15,
       "title": "१५. काव्य में लोक-मंगल की साधनावस्था",
       "block_count": 35,
-      "word_count": 3717,
+      "word_count": 3713,
       "estimated_minutes": 21,
       "file": "content/books/chintamani/ch_15.json"
     },
@@ -163,7 +163,7 @@
       "number": 16,
       "title": "१६. साधारणीकरण और व्यक्ति-वैचित्र्यवाद",
       "block_count": 34,
-      "word_count": 4565,
+      "word_count": 4552,
       "estimated_minutes": 25,
       "file": "content/books/chintamani/ch_16.json"
     },
@@ -172,7 +172,7 @@
       "number": 17,
       "title": "१७. रसात्मक बोध के विविध रूप",
       "block_count": 96,
-      "word_count": 8962,
+      "word_count": 8949,
       "estimated_minutes": 50,
       "file": "content/books/chintamani/ch_17.json"
     }

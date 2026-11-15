@@ -18,7 +18,7 @@
     "bhagnavashesh",
     "ahuti"
   ],
-  "total_words": 9421,
+  "total_words": 9406,
   "total_chapters": 6,
   "estimated_reading_minutes": 52,
   "chapters": [
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "कहानी २ — होली",
       "block_count": 33,
-      "word_count": 712,
+      "word_count": 709,
       "estimated_minutes": 4,
       "file": "content/books/bikhare-moti/ch_02.json"
     },
@@ -45,7 +45,7 @@
       "number": 3,
       "title": "कहानी ३ — क़िस्मत",
       "block_count": 37,
-      "word_count": 1612,
+      "word_count": 1610,
       "estimated_minutes": 9,
       "file": "content/books/bikhare-moti/ch_03.json"
     },
@@ -63,7 +63,7 @@
       "number": 5,
       "title": "कहानी ५ — एकादशी",
       "block_count": 36,
-      "word_count": 1686,
+      "word_count": 1683,
       "estimated_minutes": 9,
       "file": "content/books/bikhare-moti/ch_05.json"
     },
@@ -72,7 +72,7 @@
       "number": 6,
       "title": "कहानी ६ — आहुति",
       "block_count": 38,
-      "word_count": 2832,
+      "word_count": 2825,
       "estimated_minutes": 16,
       "file": "content/books/bikhare-moti/ch_06.json"
     }

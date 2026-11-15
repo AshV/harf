@@ -17,17 +17,17 @@
     "wisdom",
     "nibandh"
   ],
-  "total_words": 34980,
+  "total_words": 34689,
   "total_chapters": 37,
-  "estimated_reading_minutes": 194,
+  "estimated_reading_minutes": 193,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "निबंध — ऐतिहासिक नामों का सूचीपत्र",
-      "block_count": 136,
-      "word_count": 304,
-      "estimated_minutes": 2,
+      "block_count": 130,
+      "word_count": 235,
+      "estimated_minutes": 1,
       "file": "content/books/bacon-vichar-ratnavali/ch_01.json"
     },
     {
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "निबंध — १ सत्य",
       "block_count": 9,
-      "word_count": 964,
+      "word_count": 958,
       "estimated_minutes": 5,
       "file": "content/books/bacon-vichar-ratnavali/ch_02.json"
     },
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "निबंध — २ विपत्ति",
-      "block_count": 11,
-      "word_count": 408,
+      "block_count": 10,
+      "word_count": 396,
       "estimated_minutes": 2,
       "file": "content/books/bacon-vichar-ratnavali/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "निबंध — ३ बदला लेना",
       "block_count": 11,
-      "word_count": 717,
+      "word_count": 709,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_04.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "निबंध — ४ व्यय",
       "block_count": 7,
-      "word_count": 557,
+      "word_count": 555,
       "estimated_minutes": 3,
       "file": "content/books/bacon-vichar-ratnavali/ch_05.json"
     },
@@ -71,7 +71,7 @@
       "number": 6,
       "title": "निबंध — ५ त्वरा",
       "block_count": 11,
-      "word_count": 787,
+      "word_count": 785,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_06.json"
     },
@@ -80,7 +80,7 @@
       "number": 7,
       "title": "निबंध — ६ विद्याध्ययन",
       "block_count": 12,
-      "word_count": 856,
+      "word_count": 854,
       "estimated_minutes": 5,
       "file": "content/books/bacon-vichar-ratnavali/ch_07.json"
     },
@@ -89,8 +89,8 @@
       "number": 8,
       "title": "निबंध — ७ मृत्यु",
       "block_count": 10,
-      "word_count": 812,
-      "estimated_minutes": 5,
+      "word_count": 806,
+      "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_08.json"
     },
     {
@@ -98,8 +98,8 @@
       "number": 9,
       "title": "निबंध — ८ विलम्ब",
       "block_count": 10,
-      "word_count": 638,
-      "estimated_minutes": 4,
+      "word_count": 628,
+      "estimated_minutes": 3,
       "file": "content/books/bacon-vichar-ratnavali/ch_09.json"
     },
     {
@@ -107,7 +107,7 @@
       "number": 10,
       "title": "निबंध — ९ भाषण",
       "block_count": 13,
-      "word_count": 707,
+      "word_count": 705,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_10.json"
     },
@@ -116,7 +116,7 @@
       "number": 11,
       "title": "निबंध — १० संशय",
       "block_count": 7,
-      "word_count": 561,
+      "word_count": 559,
       "estimated_minutes": 3,
       "file": "content/books/bacon-vichar-ratnavali/ch_11.json"
     },
@@ -125,7 +125,7 @@
       "number": 12,
       "title": "निबंध — ११ संतान",
       "block_count": 10,
-      "word_count": 794,
+      "word_count": 792,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_12.json"
     },
@@ -134,7 +134,7 @@
       "number": 13,
       "title": "निबंध — १२ स्वार्थपरता",
       "block_count": 13,
-      "word_count": 773,
+      "word_count": 765,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_13.json"
     },
@@ -143,7 +143,7 @@
       "number": 14,
       "title": "निबंध — १३ शिष्टाचार और मान",
       "block_count": 7,
-      "word_count": 738,
+      "word_count": 736,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_14.json"
     },
@@ -152,7 +152,7 @@
       "number": 15,
       "title": "निबंध — १४ आरोग्यरक्षा",
       "block_count": 9,
-      "word_count": 724,
+      "word_count": 722,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_15.json"
     },
@@ -161,7 +161,7 @@
       "number": 16,
       "title": "निबंध — १५ यौवन और जरा",
       "block_count": 11,
-      "word_count": 917,
+      "word_count": 909,
       "estimated_minutes": 5,
       "file": "content/books/bacon-vichar-ratnavali/ch_16.json"
     },
@@ -170,7 +170,7 @@
       "number": 17,
       "title": "निबंध — १६ सौन्दर्य",
       "block_count": 7,
-      "word_count": 657,
+      "word_count": 653,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_17.json"
     },
@@ -179,7 +179,7 @@
       "number": 18,
       "title": "निबंध — १७ कुरूपता",
       "block_count": 9,
-      "word_count": 658,
+      "word_count": 650,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_18.json"
     },
@@ -188,7 +188,7 @@
       "number": 19,
       "title": "निबंध — १८ प्रशंसा",
       "block_count": 9,
-      "word_count": 557,
+      "word_count": 555,
       "estimated_minutes": 3,
       "file": "content/books/bacon-vichar-ratnavali/ch_19.json"
     },
@@ -196,8 +196,8 @@
       "id": "ch_20",
       "number": 20,
       "title": "निबंध — १९ आत्मश्लाघा",
-      "block_count": 16,
-      "word_count": 939,
+      "block_count": 15,
+      "word_count": 925,
       "estimated_minutes": 5,
       "file": "content/books/bacon-vichar-ratnavali/ch_20.json"
     },
@@ -206,7 +206,7 @@
       "number": 21,
       "title": "निबंध — २० कामजन्य प्रेम",
       "block_count": 13,
-      "word_count": 888,
+      "word_count": 882,
       "estimated_minutes": 5,
       "file": "content/books/bacon-vichar-ratnavali/ch_21.json"
     },
@@ -215,7 +215,7 @@
       "number": 22,
       "title": "निबंध — २१ द्रव्य",
       "block_count": 20,
-      "word_count": 1581,
+      "word_count": 1577,
       "estimated_minutes": 9,
       "file": "content/books/bacon-vichar-ratnavali/ch_22.json"
     },
@@ -224,7 +224,7 @@
       "number": 23,
       "title": "निबंध — २२ स्वभाव",
       "block_count": 8,
-      "word_count": 660,
+      "word_count": 658,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_23.json"
     },
@@ -233,7 +233,7 @@
       "number": 24,
       "title": "निबंध — २३ रूढ़ि",
       "block_count": 5,
-      "word_count": 734,
+      "word_count": 732,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_24.json"
     },
@@ -242,7 +242,7 @@
       "number": 25,
       "title": "निबंध — २४ कार्यसाधन",
       "block_count": 10,
-      "word_count": 773,
+      "word_count": 771,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_25.json"
     },
@@ -251,7 +251,7 @@
       "number": 26,
       "title": "निबंध — २५ विवाह और अविवाहित्व",
       "block_count": 12,
-      "word_count": 967,
+      "word_count": 961,
       "estimated_minutes": 5,
       "file": "content/books/bacon-vichar-ratnavali/ch_26.json"
     },
@@ -260,7 +260,7 @@
       "number": 27,
       "title": "निबंध — २६ धृष्टता",
       "block_count": 9,
-      "word_count": 868,
+      "word_count": 864,
       "estimated_minutes": 5,
       "file": "content/books/bacon-vichar-ratnavali/ch_27.json"
     },
@@ -269,7 +269,7 @@
       "number": 28,
       "title": "निबंध — २७ क्रोध",
       "block_count": 11,
-      "word_count": 996,
+      "word_count": 994,
       "estimated_minutes": 6,
       "file": "content/books/bacon-vichar-ratnavali/ch_28.json"
     },
@@ -278,7 +278,7 @@
       "number": 29,
       "title": "निबंध — २८ भाग्योदय",
       "block_count": 11,
-      "word_count": 744,
+      "word_count": 740,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_29.json"
     },
@@ -287,7 +287,7 @@
       "number": 30,
       "title": "निबंध — २९ भ्रमात्मक धर्मभीरुता",
       "block_count": 13,
-      "word_count": 718,
+      "word_count": 712,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_30.json"
     },
@@ -296,7 +296,7 @@
       "number": 31,
       "title": "निबंध — ३० दाम्भिक बुद्धिमत्ता",
       "block_count": 12,
-      "word_count": 982,
+      "word_count": 972,
       "estimated_minutes": 5,
       "file": "content/books/bacon-vichar-ratnavali/ch_31.json"
     },
@@ -305,7 +305,7 @@
       "number": 32,
       "title": "निबंध — ३१ मैत्री",
       "block_count": 36,
-      "word_count": 3928,
+      "word_count": 3896,
       "estimated_minutes": 22,
       "file": "content/books/bacon-vichar-ratnavali/ch_32.json"
     },
@@ -313,8 +313,8 @@
       "id": "ch_33",
       "number": 33,
       "title": "निबंध — ३२ मत्सर",
-      "block_count": 20,
-      "word_count": 2270,
+      "block_count": 19,
+      "word_count": 2258,
       "estimated_minutes": 13,
       "file": "content/books/bacon-vichar-ratnavali/ch_33.json"
     },
@@ -323,7 +323,7 @@
       "number": 34,
       "title": "निबंध — ३३ प्रवास",
       "block_count": 13,
-      "word_count": 995,
+      "word_count": 993,
       "estimated_minutes": 6,
       "file": "content/books/bacon-vichar-ratnavali/ch_34.json"
     },
@@ -332,7 +332,7 @@
       "number": 35,
       "title": "निबंध — ३४ नई प्रथा",
       "block_count": 10,
-      "word_count": 777,
+      "word_count": 775,
       "estimated_minutes": 4,
       "file": "content/books/bacon-vichar-ratnavali/ch_35.json"
     },
@@ -340,8 +340,8 @@
       "id": "ch_36",
       "number": 36,
       "title": "निबंध — ३५ निरीश्वरमत",
-      "block_count": 13,
-      "word_count": 1643,
+      "block_count": 12,
+      "word_count": 1629,
       "estimated_minutes": 9,
       "file": "content/books/bacon-vichar-ratnavali/ch_36.json"
     },
@@ -350,7 +350,7 @@
       "number": 37,
       "title": "निबंध — ३६ सौजन्य और परोपकार",
       "block_count": 12,
-      "word_count": 1388,
+      "word_count": 1378,
       "estimated_minutes": 8,
       "file": "content/books/bacon-vichar-ratnavali/ch_37.json"
     }

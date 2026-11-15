@@ -19,7 +19,7 @@
     "dowry",
     "varanasi"
   ],
-  "total_words": 231850,
+  "total_words": 231832,
   "total_chapters": 58,
   "estimated_reading_minutes": 1288,
   "chapters": [
@@ -37,7 +37,7 @@
       "number": 2,
       "title": "अध्याय २",
       "block_count": 39,
-      "word_count": 1540,
+      "word_count": 1539,
       "estimated_minutes": 9,
       "file": "content/books/sevasadan/ch_02.json"
     },
@@ -298,7 +298,7 @@
       "number": 31,
       "title": "अध्याय ३१",
       "block_count": 106,
-      "word_count": 5520,
+      "word_count": 5516,
       "estimated_minutes": 31,
       "file": "content/books/sevasadan/ch_31.json"
     },
@@ -307,7 +307,7 @@
       "number": 32,
       "title": "अध्याय ३२",
       "block_count": 106,
-      "word_count": 5520,
+      "word_count": 5516,
       "estimated_minutes": 31,
       "file": "content/books/sevasadan/ch_32.json"
     },
@@ -316,7 +316,7 @@
       "number": 33,
       "title": "अध्याय ३३",
       "block_count": 85,
-      "word_count": 3896,
+      "word_count": 3892,
       "estimated_minutes": 22,
       "file": "content/books/sevasadan/ch_33.json"
     },
@@ -325,7 +325,7 @@
       "number": 34,
       "title": "अध्याय ३४",
       "block_count": 84,
-      "word_count": 5570,
+      "word_count": 5566,
       "estimated_minutes": 31,
       "file": "content/books/sevasadan/ch_34.json"
     },
@@ -541,7 +541,7 @@
       "number": 58,
       "title": "अध्याय ५८",
       "block_count": 121,
-      "word_count": 5887,
+      "word_count": 5886,
       "estimated_minutes": 33,
       "file": "content/books/sevasadan/ch_58.json"
     }

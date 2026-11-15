@@ -16,7 +16,7 @@
     "social realism",
     "kahani"
   ],
-  "total_words": 25365,
+  "total_words": 25362,
   "total_chapters": 5,
   "estimated_reading_minutes": 141,
   "chapters": [
@@ -61,7 +61,7 @@
       "number": 5,
       "title": "कहानी ५ — गृह-दाह",
       "block_count": 127,
-      "word_count": 6294,
+      "word_count": 6291,
       "estimated_minutes": 35,
       "file": "content/books/prem-panchami/ch_05.json"
     }

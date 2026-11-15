@@ -16,7 +16,7 @@
     "bengali hindi translation",
     "historical romance"
   ],
-  "total_words": 24541,
+  "total_words": 24528,
   "total_chapters": 31,
   "estimated_reading_minutes": 136,
   "chapters": [
@@ -25,7 +25,7 @@
       "number": 1,
       "title": "चौथा खण्ड/१",
       "block_count": 37,
-      "word_count": 874,
+      "word_count": 873,
       "estimated_minutes": 5,
       "file": "content/books/kapalkundala/ch_01.json"
     },
@@ -34,7 +34,7 @@
       "number": 2,
       "title": "चौथा खण्ड/२",
       "block_count": 32,
-      "word_count": 1313,
+      "word_count": 1312,
       "estimated_minutes": 7,
       "file": "content/books/kapalkundala/ch_02.json"
     },
@@ -61,7 +61,7 @@
       "number": 5,
       "title": "चौथा खण्ड/५",
       "block_count": 25,
-      "word_count": 695,
+      "word_count": 693,
       "estimated_minutes": 4,
       "file": "content/books/kapalkundala/ch_05.json"
     },
@@ -115,7 +115,7 @@
       "number": 11,
       "title": "तृतीय खण्ड/२",
       "block_count": 40,
-      "word_count": 689,
+      "word_count": 688,
       "estimated_minutes": 4,
       "file": "content/books/kapalkundala/ch_11.json"
     },
@@ -142,7 +142,7 @@
       "number": 14,
       "title": "तृतीय खण्ड/५",
       "block_count": 52,
-      "word_count": 889,
+      "word_count": 888,
       "estimated_minutes": 5,
       "file": "content/books/kapalkundala/ch_14.json"
     },
@@ -187,7 +187,7 @@
       "number": 19,
       "title": "द्वितीय खण्ड/३",
       "block_count": 36,
-      "word_count": 764,
+      "word_count": 763,
       "estimated_minutes": 4,
       "file": "content/books/kapalkundala/ch_19.json"
     },
@@ -196,7 +196,7 @@
       "number": 20,
       "title": "द्वितीय खण्ड/४",
       "block_count": 18,
-      "word_count": 257,
+      "word_count": 256,
       "estimated_minutes": 1,
       "file": "content/books/kapalkundala/ch_20.json"
     },
@@ -205,7 +205,7 @@
       "number": 21,
       "title": "द्वितीय खण्ड/५",
       "block_count": 15,
-      "word_count": 600,
+      "word_count": 599,
       "estimated_minutes": 3,
       "file": "content/books/kapalkundala/ch_21.json"
     },
@@ -241,7 +241,7 @@
       "number": 25,
       "title": "प्रथम खण्ड/३",
       "block_count": 24,
-      "word_count": 880,
+      "word_count": 878,
       "estimated_minutes": 5,
       "file": "content/books/kapalkundala/ch_25.json"
     },
@@ -277,7 +277,7 @@
       "number": 29,
       "title": "प्रथम खण्ड/७",
       "block_count": 12,
-      "word_count": 223,
+      "word_count": 222,
       "estimated_minutes": 1,
       "file": "content/books/kapalkundala/ch_29.json"
     },
@@ -286,7 +286,7 @@
       "number": 30,
       "title": "प्रथम खण्ड/८",
       "block_count": 69,
-      "word_count": 1916,
+      "word_count": 1915,
       "estimated_minutes": 11,
       "file": "content/books/kapalkundala/ch_30.json"
     },

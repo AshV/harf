@@ -17,17 +17,17 @@
     "niti shastra",
     "ancient indian tales"
   ],
-  "total_words": 47636,
+  "total_words": 47147,
   "total_chapters": 5,
-  "estimated_reading_minutes": 265,
+  "estimated_reading_minutes": 262,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "प्रथम तन्त्र: मित्रभेद",
       "block_count": 498,
-      "word_count": 14992,
-      "estimated_minutes": 83,
+      "word_count": 14834,
+      "estimated_minutes": 82,
       "file": "content/books/panchatantra/ch_01.json"
     },
     {
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "द्वितीय तन्त्र: मित्रलाभ (मित्रप्राप्ति)",
       "block_count": 188,
-      "word_count": 6465,
+      "word_count": 6430,
       "estimated_minutes": 36,
       "file": "content/books/panchatantra/ch_02.json"
     },
@@ -44,8 +44,8 @@
       "number": 3,
       "title": "तृतीय तन्त्र: काकोलूकीयम् (संधि-विग्रह)",
       "block_count": 290,
-      "word_count": 9516,
-      "estimated_minutes": 53,
+      "word_count": 9400,
+      "estimated_minutes": 52,
       "file": "content/books/panchatantra/ch_03.json"
     },
     {
@@ -53,8 +53,8 @@
       "number": 4,
       "title": "चतुर्थ तन्त्र: लब्धप्रणाश",
       "block_count": 255,
-      "word_count": 7488,
-      "estimated_minutes": 42,
+      "word_count": 7402,
+      "estimated_minutes": 41,
       "file": "content/books/panchatantra/ch_04.json"
     },
     {
@@ -62,8 +62,8 @@
       "number": 5,
       "title": "पंचम तन्त्र: अपरीक्षितकारकम्",
       "block_count": 264,
-      "word_count": 9175,
-      "estimated_minutes": 51,
+      "word_count": 9081,
+      "estimated_minutes": 50,
       "file": "content/books/panchatantra/ch_05.json"
     }
   ]

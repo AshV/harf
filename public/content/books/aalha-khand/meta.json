@@ -18,7 +18,7 @@
     "chandel",
     "veer rasa"
   ],
-  "total_words": 119425,
+  "total_words": 119421,
   "total_chapters": 23,
   "estimated_reading_minutes": 663,
   "chapters": [
@@ -45,7 +45,7 @@
       "number": 3,
       "title": "११ लाखनि का विवाह",
       "block_count": 489,
-      "word_count": 4540,
+      "word_count": 4538,
       "estimated_minutes": 25,
       "file": "content/books/aalha-khand/ch_03.json"
     },
@@ -225,7 +225,7 @@
       "number": 23,
       "title": "९ इन्दलहरणब्याहताहीमा",
       "block_count": 814,
-      "word_count": 7025,
+      "word_count": 7023,
       "estimated_minutes": 39,
       "file": "content/books/aalha-khand/ch_23.json"
     }

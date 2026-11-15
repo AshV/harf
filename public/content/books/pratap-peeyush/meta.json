@@ -17,9 +17,9 @@
     "hindi nibandh",
     "humour"
   ],
-  "total_words": 50900,
+  "total_words": 49749,
   "total_chapters": 53,
-  "estimated_reading_minutes": 283,
+  "estimated_reading_minutes": 276,
   "chapters": [
     {
       "id": "ch_01",
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "'ब्राह्मण' की अन्तिम विदा ।",
       "block_count": 10,
-      "word_count": 416,
+      "word_count": 415,
       "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "'ब्राह्मण' के उद्देश्य ।",
       "block_count": 17,
-      "word_count": 886,
+      "word_count": 884,
       "estimated_minutes": 5,
       "file": "content/books/pratap-peeyush/ch_04.json"
     },
@@ -71,8 +71,8 @@
       "number": 6,
       "title": "ककाराष्टक",
       "block_count": 63,
-      "word_count": 483,
-      "estimated_minutes": 3,
+      "word_count": 441,
+      "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_06.json"
     },
     {
@@ -98,7 +98,7 @@
       "number": 9,
       "title": "कानपुर-महिमा ।",
       "block_count": 19,
-      "word_count": 175,
+      "word_count": 166,
       "estimated_minutes": 1,
       "file": "content/books/pratap-peeyush/ch_09.json"
     },
@@ -143,7 +143,7 @@
       "number": 14,
       "title": "गज़ल",
       "block_count": 60,
-      "word_count": 420,
+      "word_count": 380,
       "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_14.json"
     },
@@ -152,7 +152,7 @@
       "number": 15,
       "title": "चार्ल्स ब्रैडला की मृत्यु पर ।",
       "block_count": 64,
-      "word_count": 500,
+      "word_count": 493,
       "estimated_minutes": 3,
       "file": "content/books/pratap-peeyush/ch_15.json"
     },
@@ -161,17 +161,17 @@
       "number": 16,
       "title": "जन्म सुफल कब होय?",
       "block_count": 94,
-      "word_count": 668,
-      "estimated_minutes": 4,
+      "word_count": 578,
+      "estimated_minutes": 3,
       "file": "content/books/pratap-peeyush/ch_16.json"
     },
     {
       "id": "ch_17",
       "number": 17,
       "title": "तृप्यन्ताम् ।",
-      "block_count": 183,
-      "word_count": 1844,
-      "estimated_minutes": 10,
+      "block_count": 147,
+      "word_count": 1612,
+      "estimated_minutes": 9,
       "file": "content/books/pratap-peeyush/ch_17.json"
     },
     {
@@ -205,9 +205,9 @@
       "id": "ch_21",
       "number": 21,
       "title": "पंच परमेश्वर ।",
-      "block_count": 26,
-      "word_count": 1778,
-      "estimated_minutes": 10,
+      "block_count": 24,
+      "word_count": 1690,
+      "estimated_minutes": 9,
       "file": "content/books/pratap-peeyush/ch_21.json"
     },
     {
@@ -232,9 +232,9 @@
       "id": "ch_24",
       "number": 24,
       "title": "प्रतापनारायण का देश-प्रेम तथा उनके सार्वजनिक भाव",
-      "block_count": 35,
-      "word_count": 874,
-      "estimated_minutes": 5,
+      "block_count": 34,
+      "word_count": 773,
+      "estimated_minutes": 4,
       "file": "content/books/pratap-peeyush/ch_24.json"
     },
     {
@@ -251,7 +251,7 @@
       "number": 26,
       "title": "प्रतापनारायण की साहित्यिक मंडली",
       "block_count": 26,
-      "word_count": 772,
+      "word_count": 756,
       "estimated_minutes": 4,
       "file": "content/books/pratap-peeyush/ch_26.json"
     },
@@ -260,7 +260,7 @@
       "number": 27,
       "title": "प्रस्तावना",
       "block_count": 90,
-      "word_count": 3541,
+      "word_count": 3516,
       "estimated_minutes": 20,
       "file": "content/books/pratap-peeyush/ch_27.json"
     },
@@ -269,7 +269,7 @@
       "number": 28,
       "title": "प्रेम सिद्धान्त ।",
       "block_count": 61,
-      "word_count": 592,
+      "word_count": 579,
       "estimated_minutes": 3,
       "file": "content/books/pratap-peeyush/ch_28.json"
     },
@@ -278,7 +278,7 @@
       "number": 29,
       "title": "बुढ़ापा-वर्णन ।",
       "block_count": 39,
-      "word_count": 234,
+      "word_count": 213,
       "estimated_minutes": 1,
       "file": "content/books/pratap-peeyush/ch_29.json"
     },
@@ -287,7 +287,7 @@
       "number": 30,
       "title": "भारतेन्दु हरिश्चंद्र के स्वास्थ्य लाभ के उपलक्ष्य में।",
       "block_count": 84,
-      "word_count": 725,
+      "word_count": 714,
       "estimated_minutes": 4,
       "file": "content/books/pratap-peeyush/ch_30.json"
     },
@@ -305,7 +305,7 @@
       "number": 32,
       "title": "मुक्ति के भागी।",
       "block_count": 14,
-      "word_count": 642,
+      "word_count": 641,
       "estimated_minutes": 4,
       "file": "content/books/pratap-peeyush/ch_32.json"
     },
@@ -314,7 +314,7 @@
       "number": 33,
       "title": "युवावस्था",
       "block_count": 9,
-      "word_count": 889,
+      "word_count": 888,
       "estimated_minutes": 5,
       "file": "content/books/pratap-peeyush/ch_33.json"
     },
@@ -323,7 +323,7 @@
       "number": 34,
       "title": "लावनियाँ।",
       "block_count": 42,
-      "word_count": 371,
+      "word_count": 334,
       "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_34.json"
     },
@@ -332,7 +332,7 @@
       "number": 35,
       "title": "विभिन्न",
       "block_count": 17,
-      "word_count": 1656,
+      "word_count": 1654,
       "estimated_minutes": 9,
       "file": "content/books/pratap-peeyush/ch_35.json"
     },
@@ -340,9 +340,9 @@
       "id": "ch_36",
       "number": 36,
       "title": "शिव मूर्ति।",
-      "block_count": 37,
-      "word_count": 3548,
-      "estimated_minutes": 20,
+      "block_count": 35,
+      "word_count": 3343,
+      "estimated_minutes": 19,
       "file": "content/books/pratap-peeyush/ch_36.json"
     },
     {
@@ -350,7 +350,7 @@
       "number": 37,
       "title": "सभा-वर्णन ।",
       "block_count": 39,
-      "word_count": 308,
+      "word_count": 291,
       "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_37.json"
     },
@@ -358,8 +358,8 @@
       "id": "ch_38",
       "number": 38,
       "title": "समस्या पूर्ति ।",
-      "block_count": 58,
-      "word_count": 416,
+      "block_count": 56,
+      "word_count": 374,
       "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_38.json"
     },
@@ -395,7 +395,7 @@
       "number": 42,
       "title": "स्फुट सवैये और कवित्त ।",
       "block_count": 42,
-      "word_count": 367,
+      "word_count": 342,
       "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_42.json"
     },
@@ -404,7 +404,7 @@
       "number": 43,
       "title": "स्वतन्त्र ।",
       "block_count": 33,
-      "word_count": 2489,
+      "word_count": 2488,
       "estimated_minutes": 14,
       "file": "content/books/pratap-peeyush/ch_43.json"
     },
@@ -413,7 +413,7 @@
       "number": 44,
       "title": "स्वामी दयानन्द की मृत्यु पर ।",
       "block_count": 38,
-      "word_count": 330,
+      "word_count": 322,
       "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_44.json"
     },
@@ -422,7 +422,7 @@
       "number": 45,
       "title": "हिंदी-गद्य और प्रतापनारायण",
       "block_count": 32,
-      "word_count": 1672,
+      "word_count": 1671,
       "estimated_minutes": 9,
       "file": "content/books/pratap-peeyush/ch_45.json"
     },
@@ -431,7 +431,7 @@
       "number": 46,
       "title": "हिंदी-प्रेम",
       "block_count": 15,
-      "word_count": 391,
+      "word_count": 388,
       "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_46.json"
     },
@@ -440,7 +440,7 @@
       "number": 47,
       "title": "होली है",
       "block_count": 41,
-      "word_count": 1954,
+      "word_count": 1952,
       "estimated_minutes": 11,
       "file": "content/books/pratap-peeyush/ch_47.json"
     },
@@ -449,7 +449,7 @@
       "number": 48,
       "title": "होली है अथवा होरी है।",
       "block_count": 116,
-      "word_count": 1096,
+      "word_count": 1092,
       "estimated_minutes": 6,
       "file": "content/books/pratap-peeyush/ch_48.json"
     },
@@ -458,7 +458,7 @@
       "number": 49,
       "title": "प्रार्थना १",
       "block_count": 20,
-      "word_count": 110,
+      "word_count": 100,
       "estimated_minutes": 1,
       "file": "content/books/pratap-peeyush/ch_49.json"
     },
@@ -467,7 +467,7 @@
       "number": 50,
       "title": "प्रार्थना २",
       "block_count": 19,
-      "word_count": 105,
+      "word_count": 95,
       "estimated_minutes": 1,
       "file": "content/books/pratap-peeyush/ch_50.json"
     },
@@ -475,8 +475,8 @@
       "id": "ch_51",
       "number": 51,
       "title": "भजन",
-      "block_count": 24,
-      "word_count": 199,
+      "block_count": 22,
+      "word_count": 179,
       "estimated_minutes": 1,
       "file": "content/books/pratap-peeyush/ch_51.json"
     },
@@ -484,8 +484,8 @@
       "id": "ch_52",
       "number": 52,
       "title": "लोकोक्तियाँ।",
-      "block_count": 50,
-      "word_count": 622,
+      "block_count": 49,
+      "word_count": 583,
       "estimated_minutes": 3,
       "file": "content/books/pratap-peeyush/ch_52.json"
     },
@@ -494,7 +494,7 @@
       "number": 53,
       "title": "हिन्दी हिन्दू हिन्दुस्तान ।",
       "block_count": 39,
-      "word_count": 355,
+      "word_count": 330,
       "estimated_minutes": 2,
       "file": "content/books/pratap-peeyush/ch_53.json"
     }

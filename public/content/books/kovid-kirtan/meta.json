@@ -17,16 +17,16 @@
     "vaman shivram apte",
     "chiplunkar"
   ],
-  "total_words": 27471,
+  "total_words": 27441,
   "total_chapters": 12,
-  "estimated_reading_minutes": 153,
+  "estimated_reading_minutes": 152,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "वामन शिवराम आपटे",
       "block_count": 24,
-      "word_count": 1922,
+      "word_count": 1920,
       "estimated_minutes": 11,
       "file": "content/books/kovid-kirtan/ch_01.json"
     },
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "विष्णु शास्त्री चिपलूणकर",
       "block_count": 55,
-      "word_count": 5832,
+      "word_count": 5822,
       "estimated_minutes": 32,
       "file": "content/books/kovid-kirtan/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "महामहोपाध्याय आदित्यराम भट्टाचार्य",
       "block_count": 37,
-      "word_count": 2210,
+      "word_count": 2206,
       "estimated_minutes": 12,
       "file": "content/books/kovid-kirtan/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "पण्डित मथुराप्रसाद मिश्र",
       "block_count": 104,
-      "word_count": 6113,
+      "word_count": 6108,
       "estimated_minutes": 34,
       "file": "content/books/kovid-kirtan/ch_04.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "पण्डित कुन्दनलाल",
       "block_count": 44,
-      "word_count": 2008,
+      "word_count": 2006,
       "estimated_minutes": 11,
       "file": "content/books/kovid-kirtan/ch_05.json"
     },
@@ -71,7 +71,7 @@
       "number": 6,
       "title": "बौद्धाचार्य शीलभद्र",
       "block_count": 12,
-      "word_count": 1445,
+      "word_count": 1444,
       "estimated_minutes": 8,
       "file": "content/books/kovid-kirtan/ch_06.json"
     },
@@ -107,7 +107,7 @@
       "number": 10,
       "title": "राय श्रीशचन्द्र बसु बहादुर",
       "block_count": 18,
-      "word_count": 1758,
+      "word_count": 1756,
       "estimated_minutes": 10,
       "file": "content/books/kovid-kirtan/ch_10.json"
     },
@@ -116,7 +116,7 @@
       "number": 11,
       "title": "रायबहादुर पण्डित परमानन्द चतुर्वेदी",
       "block_count": 32,
-      "word_count": 1690,
+      "word_count": 1686,
       "estimated_minutes": 9,
       "file": "content/books/kovid-kirtan/ch_11.json"
     },

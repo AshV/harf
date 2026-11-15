@@ -17,7 +17,7 @@
     "ethics",
     "moral philosophy"
   ],
-  "total_words": 35358,
+  "total_words": 35354,
   "total_chapters": 8,
   "estimated_reading_minutes": 196,
   "chapters": [
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "जान स्टुअर्ट मिल",
       "block_count": 33,
-      "word_count": 2956,
+      "word_count": 2955,
       "estimated_minutes": 16,
       "file": "content/books/upayogitavad/ch_02.json"
     },
@@ -80,7 +80,7 @@
       "number": 7,
       "title": "भूमिका",
       "block_count": 10,
-      "word_count": 902,
+      "word_count": 901,
       "estimated_minutes": 5,
       "file": "content/books/upayogitavad/ch_07.json"
     },
@@ -89,7 +89,7 @@
       "number": 8,
       "title": "मुखपृष्ठ",
       "block_count": 31,
-      "word_count": 419,
+      "word_count": 417,
       "estimated_minutes": 2,
       "file": "content/books/upayogitavad/ch_08.json"
     }

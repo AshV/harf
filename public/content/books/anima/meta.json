@@ -17,16 +17,16 @@
     "chhayavad",
     "geeti kavya"
   ],
-  "total_words": 7679,
+  "total_words": 7522,
   "total_chapters": 45,
-  "estimated_reading_minutes": 43,
+  "estimated_reading_minutes": 42,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "१. नूपुर के सुर मंद रहे",
       "block_count": 9,
-      "word_count": 53,
+      "word_count": 45,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_01.json"
     },
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "२. बादल छाये",
       "block_count": 13,
-      "word_count": 61,
+      "word_count": 56,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "३. जन जन के जीवन के सुंदर",
       "block_count": 11,
-      "word_count": 60,
+      "word_count": 48,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_03.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "५. सुंदर हे सुंदर",
       "block_count": 10,
-      "word_count": 41,
+      "word_count": 37,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_05.json"
     },
@@ -116,7 +116,7 @@
       "number": 11,
       "title": "११. मैं अकेला",
       "block_count": 11,
-      "word_count": 69,
+      "word_count": 52,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_11.json"
     },
@@ -134,7 +134,7 @@
       "number": 13,
       "title": "१३. तुम और मैं",
       "block_count": 34,
-      "word_count": 164,
+      "word_count": 160,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_13.json"
     },
@@ -161,7 +161,7 @@
       "number": 16,
       "title": "१६. आदरणीय प्रसादजी के प्रति",
       "block_count": 89,
-      "word_count": 626,
+      "word_count": 623,
       "estimated_minutes": 3,
       "file": "content/books/anima/ch_16.json"
     },
@@ -179,7 +179,7 @@
       "number": 18,
       "title": "१८. सहस्राब्दि",
       "block_count": 125,
-      "word_count": 798,
+      "word_count": 797,
       "estimated_minutes": 4,
       "file": "content/books/anima/ch_18.json"
     },
@@ -215,7 +215,7 @@
       "number": 22,
       "title": "२२. माननीया श्रीमती विजयलक्ष्मी पण्डित के प्रति (बँगला चतुर्दशपदी का अर्थ)",
       "block_count": 3,
-      "word_count": 108,
+      "word_count": 107,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_22.json"
     },
@@ -233,7 +233,7 @@
       "number": 24,
       "title": "२४. तुम आये",
       "block_count": 11,
-      "word_count": 67,
+      "word_count": 63,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_24.json"
     },
@@ -242,7 +242,7 @@
       "number": 25,
       "title": "२५. स्नेह निर्झर बह गया है",
       "block_count": 18,
-      "word_count": 108,
+      "word_count": 96,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_25.json"
     },
@@ -251,7 +251,7 @@
       "number": 26,
       "title": "२६. द्रुम-दल-शोभी फुल्ल नयन ये",
       "block_count": 15,
-      "word_count": 93,
+      "word_count": 81,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_26.json"
     },
@@ -260,7 +260,7 @@
       "number": 27,
       "title": "२७. मत्त हैं जो प्राण",
       "block_count": 15,
-      "word_count": 86,
+      "word_count": 77,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_27.json"
     },
@@ -269,7 +269,7 @@
       "number": 28,
       "title": "२८. मरण को जिसने वरा है",
       "block_count": 16,
-      "word_count": 75,
+      "word_count": 67,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_28.json"
     },
@@ -278,7 +278,7 @@
       "number": 29,
       "title": "२९. गया अँधेरा",
       "block_count": 15,
-      "word_count": 73,
+      "word_count": 65,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_29.json"
     },
@@ -314,7 +314,7 @@
       "number": 33,
       "title": "३३. यह है बाज़ार",
       "block_count": 18,
-      "word_count": 130,
+      "word_count": 129,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_33.json"
     },
@@ -323,7 +323,7 @@
       "number": 34,
       "title": "३४. तुम्हीं हो शक्ति समुदय की",
       "block_count": 18,
-      "word_count": 86,
+      "word_count": 77,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_34.json"
     },
@@ -332,7 +332,7 @@
       "number": 35,
       "title": "३५. गहन है यह अंध कारा",
       "block_count": 15,
-      "word_count": 80,
+      "word_count": 72,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_35.json"
     },
@@ -341,7 +341,7 @@
       "number": 36,
       "title": "३६. घेर लिया जीवों को जीवन के पाश ने",
       "block_count": 14,
-      "word_count": 105,
+      "word_count": 104,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_36.json"
     },
@@ -350,7 +350,7 @@
       "number": 37,
       "title": "३७. भारत ही जीवन-धन",
       "block_count": 15,
-      "word_count": 57,
+      "word_count": 49,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_37.json"
     },
@@ -395,7 +395,7 @@
       "number": 42,
       "title": "४२. निशा का यह स्पर्श शीतल",
       "block_count": 14,
-      "word_count": 83,
+      "word_count": 75,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_42.json"
     },
@@ -404,7 +404,7 @@
       "number": 43,
       "title": "४३. तुम चले ही गये प्रियतम",
       "block_count": 16,
-      "word_count": 81,
+      "word_count": 73,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_43.json"
     },
@@ -413,7 +413,7 @@
       "number": 44,
       "title": "४४. चूँकि यहाँ दाना है",
       "block_count": 14,
-      "word_count": 74,
+      "word_count": 68,
       "estimated_minutes": 1,
       "file": "content/books/anima/ch_44.json"
     },

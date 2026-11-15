@@ -18,9 +18,9 @@
     "epic poetry",
     "classical hindi"
   ],
-  "total_words": 116404,
+  "total_words": 116342,
   "total_chapters": 24,
-  "estimated_reading_minutes": 647,
+  "estimated_reading_minutes": 646,
   "chapters": [
     {
       "id": "ch_01",
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "भूमिका/कालिदास का समय",
       "block_count": 87,
-      "word_count": 6950,
+      "word_count": 6949,
       "estimated_minutes": 39,
       "file": "content/books/raghuvansh/ch_02.json"
     },
@@ -63,7 +63,7 @@
       "number": 5,
       "title": "भूमिका/कालिदास का शास्त्र-ज्ञान",
       "block_count": 49,
-      "word_count": 1071,
+      "word_count": 1010,
       "estimated_minutes": 6,
       "file": "content/books/raghuvansh/ch_05.json"
     },

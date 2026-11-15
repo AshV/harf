@@ -19,16 +19,16 @@
     "max muller",
     "alberuni"
   ],
-  "total_words": 25133,
+  "total_words": 24574,
   "total_chapters": 11,
-  "estimated_reading_minutes": 140,
+  "estimated_reading_minutes": 137,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "कोपर्निकस, गैलीलियो और न्यूटन",
       "block_count": 14,
-      "word_count": 1983,
+      "word_count": 1981,
       "estimated_minutes": 11,
       "file": "content/books/videshi-vidwan/ch_01.json"
     },
@@ -100,7 +100,7 @@
       "number": 9,
       "title": "प्रो. एडवर्ड हेनरी पामर",
       "block_count": 144,
-      "word_count": 3839,
+      "word_count": 3789,
       "estimated_minutes": 21,
       "file": "content/books/videshi-vidwan/ch_09.json"
     },
@@ -108,9 +108,9 @@
       "id": "ch_10",
       "number": 10,
       "title": "बुकर टी. वाशिंगटन (Booker T. Washington)",
-      "block_count": 32,
-      "word_count": 3471,
-      "estimated_minutes": 19,
+      "block_count": 31,
+      "word_count": 2964,
+      "estimated_minutes": 16,
       "file": "content/books/videshi-vidwan/ch_10.json"
     },
     {

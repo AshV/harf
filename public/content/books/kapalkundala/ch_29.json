@@ -3,7 +3,7 @@
   "chapter_id": "ch_29",
   "number": 29,
   "title": "प्रथम खण्ड/७",
-  "word_count": 223,
+  "word_count": 222,
   "blocks": [
     {
       "id": "b_1",
@@ -38,7 +38,7 @@
     {
       "id": "b_7",
       "type": "p",
-      "text": "↑    अनुवादक की भ्रान्ति। मूलमें है:"
+      "text": "↑ अनुवादक की भ्रान्ति। मूलमें है:"
     },
     {
       "id": "b_8",
@@ -63,7 +63,7 @@
     {
       "id": "b_12",
       "type": "p",
-      "text": "&#8288; Lays of Ancient Rome."
+      "text": "Lays of Ancient Rome."
     }
   ]
 }

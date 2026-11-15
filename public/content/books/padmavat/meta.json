@@ -19,16 +19,16 @@
     "padmavati",
     "shukla"
   ],
-  "total_words": 15575,
+  "total_words": 15563,
   "total_chapters": 10,
-  "estimated_reading_minutes": 87,
+  "estimated_reading_minutes": 86,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "स्तुति खंड — करतार की वंदना व सृष्टि-वर्णन",
       "block_count": 229,
-      "word_count": 2576,
+      "word_count": 2571,
       "estimated_minutes": 14,
       "file": "content/books/padmavat/ch_01.json"
     },
@@ -37,7 +37,7 @@
       "number": 2,
       "title": "सिंहलदीप वर्णन खंड — मानसरोवर, अमराई व सुआ (हीरामन)",
       "block_count": 241,
-      "word_count": 2663,
+      "word_count": 2656,
       "estimated_minutes": 15,
       "file": "content/books/padmavat/ch_02.json"
     },

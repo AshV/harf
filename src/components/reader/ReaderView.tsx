@@ -24,6 +24,18 @@ import { SelectionToolbar } from './SelectionToolbar';
 import { NotebookDrawer } from './NotebookDrawer';
 import { QuoteCardModal } from './QuoteCardModal';
 
+const sanitizeReaderText = (str: string): string => {
+  if (!str) return '';
+  return str
+    .replace(/&#8288;/g, '')
+    .replace(/&#91;/g, '[')
+    .replace(/&#93;/g, ']')
+    .replace(/&#42;/g, '*')
+    .replace(/&#8195;/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/<\/?(?:poem|noinclude|ref|reg|br|ब्र)[\s\S]*?>/gi, '');
+};
+
 interface ReaderViewProps {
   book: BookMetadata;
   chapter: ChapterContent;
@@ -216,7 +228,8 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
   };
 
   // Helper to render paragraph with highlighted spans
-  const renderHighlightedText = (text: string, blockId: string) => {
+  const renderHighlightedText = (rawText: string, blockId: string) => {
+    const text = sanitizeReaderText(rawText);
     const blockHighlights = highlights.filter((h) => h.block_id === blockId);
     if (blockHighlights.length === 0) return text;
 
@@ -308,7 +321,7 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
       blockElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
 
-    play(block.id, block.text, () => {
+    play(block.id, sanitizeReaderText(block.text), () => {
       startSpeakingBlock(index + 1);
     });
   };

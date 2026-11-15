@@ -17,9 +17,9 @@
     "philosophy",
     "anti superstition"
   ],
-  "total_words": 35734,
+  "total_words": 35726,
   "total_chapters": 10,
-  "estimated_reading_minutes": 199,
+  "estimated_reading_minutes": 198,
   "chapters": [
     {
       "id": "ch_01",
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "अध्याय ५: हत्या",
       "block_count": 61,
-      "word_count": 2879,
+      "word_count": 2873,
       "estimated_minutes": 16,
       "file": "content/books/dharm-ke-naam-par/ch_05.json"
     },
@@ -89,7 +89,7 @@
       "number": 8,
       "title": "अध्याय ८: कुरीति और रूढ़ियां",
       "block_count": 71,
-      "word_count": 6358,
+      "word_count": 6356,
       "estimated_minutes": 35,
       "file": "content/books/dharm-ke-naam-par/ch_08.json"
     },

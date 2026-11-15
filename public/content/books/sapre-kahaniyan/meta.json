@@ -16,7 +16,7 @@
     "hindi kahaniya",
     "sapre"
   ],
-  "total_words": 16158,
+  "total_words": 16146,
   "total_chapters": 9,
   "estimated_reading_minutes": 90,
   "chapters": [
@@ -43,7 +43,7 @@
       "number": 3,
       "title": "आजम",
       "block_count": 12,
-      "word_count": 1879,
+      "word_count": 1878,
       "estimated_minutes": 10,
       "file": "content/books/sapre-kahaniyan/ch_03.json"
     },
@@ -79,7 +79,7 @@
       "number": 7,
       "title": "अपनी बात (कथा-दृष्टि)",
       "block_count": 36,
-      "word_count": 3050,
+      "word_count": 3040,
       "estimated_minutes": 17,
       "file": "content/books/sapre-kahaniyan/ch_07.json"
     },
@@ -97,7 +97,7 @@
       "number": 9,
       "title": "अन्तर्भाष्य-समीक्षा",
       "block_count": 9,
-      "word_count": 2056,
+      "word_count": 2055,
       "estimated_minutes": 11,
       "file": "content/books/sapre-kahaniyan/ch_09.json"
     }

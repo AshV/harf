@@ -19,7 +19,7 @@
     "veerangana",
     "aitihasik"
   ],
-  "total_words": 5175,
+  "total_words": 5151,
   "total_chapters": 10,
   "estimated_reading_minutes": 29,
   "chapters": [
@@ -28,7 +28,7 @@
       "number": 1,
       "title": "पहिला दृश्य — मैदान (राजा सूर्यदेव का शिविर)",
       "block_count": 14,
-      "word_count": 104,
+      "word_count": 102,
       "estimated_minutes": 1,
       "file": "content/books/neeldevi/ch_01.json"
     },
@@ -64,7 +64,7 @@
       "number": 5,
       "title": "पाँचवाँ दृश्य — रणभूमि (तुर्क सेना का आक्रमण)",
       "block_count": 37,
-      "word_count": 344,
+      "word_count": 332,
       "estimated_minutes": 2,
       "file": "content/books/neeldevi/ch_05.json"
     },
@@ -91,8 +91,8 @@
       "number": 8,
       "title": "आठवाँ दृश्य — कारागार (राजा का धैर्य)",
       "block_count": 50,
-      "word_count": 1170,
-      "estimated_minutes": 7,
+      "word_count": 1167,
+      "estimated_minutes": 6,
       "file": "content/books/neeldevi/ch_08.json"
     },
     {
@@ -100,7 +100,7 @@
       "number": 9,
       "title": "नवाँ दृश्य — अमीर का शयनागार (अमीर वध)",
       "block_count": 61,
-      "word_count": 869,
+      "word_count": 866,
       "estimated_minutes": 5,
       "file": "content/books/neeldevi/ch_09.json"
     },
@@ -109,7 +109,7 @@
       "number": 10,
       "title": "दसवाँ दृश्य — चिताभूमि (सतीत्व व अमर बलिदान)",
       "block_count": 69,
-      "word_count": 895,
+      "word_count": 891,
       "estimated_minutes": 5,
       "file": "content/books/neeldevi/ch_10.json"
     }

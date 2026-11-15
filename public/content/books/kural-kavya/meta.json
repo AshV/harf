@@ -18,9 +18,9 @@
     "ethics",
     "kavita"
   ],
-  "total_words": 54033,
+  "total_words": 53871,
   "total_chapters": 200,
-  "estimated_reading_minutes": 300,
+  "estimated_reading_minutes": 299,
   "chapters": [
     {
       "id": "ch_01",
@@ -162,7 +162,7 @@
       "number": 16,
       "title": "परिच्छेद १५ परस्त्री-त्याग",
       "block_count": 34,
-      "word_count": 405,
+      "word_count": 401,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_16.json"
     },
@@ -171,7 +171,7 @@
       "number": 17,
       "title": "परिच्छेद १६ क्षमा",
       "block_count": 34,
-      "word_count": 419,
+      "word_count": 415,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_17.json"
     },
@@ -423,7 +423,7 @@
       "number": 45,
       "title": "परिच्छेद ४१ शिक्षा की उपेक्षा",
       "block_count": 33,
-      "word_count": 388,
+      "word_count": 386,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_45.json"
     },
@@ -441,7 +441,7 @@
       "number": 47,
       "title": "परिच्छेद ४३ बुद्धि",
       "block_count": 33,
-      "word_count": 407,
+      "word_count": 405,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_47.json"
     },
@@ -504,7 +504,7 @@
       "number": 54,
       "title": "परिच्छेद ५ गृहस्थाश्रम",
       "block_count": 33,
-      "word_count": 350,
+      "word_count": 348,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_54.json"
     },
@@ -513,7 +513,7 @@
       "number": 55,
       "title": "परिच्छेद ५० स्थान का विचार",
       "block_count": 33,
-      "word_count": 404,
+      "word_count": 402,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_55.json"
     },
@@ -531,7 +531,7 @@
       "number": 57,
       "title": "परिच्छेद ५२ पुरुषपरीक्षा और नियुक्ति",
       "block_count": 33,
-      "word_count": 422,
+      "word_count": 420,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_57.json"
     },
@@ -567,7 +567,7 @@
       "number": 61,
       "title": "परिच्छेद ५६ अत्याचार",
       "block_count": 33,
-      "word_count": 387,
+      "word_count": 385,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_61.json"
     },
@@ -594,7 +594,7 @@
       "number": 64,
       "title": "परिच्छेद ५९ गुप्तचर",
       "block_count": 33,
-      "word_count": 433,
+      "word_count": 431,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_64.json"
     },
@@ -612,7 +612,7 @@
       "number": 66,
       "title": "परिच्छेद ६० उत्साह",
       "block_count": 33,
-      "word_count": 429,
+      "word_count": 427,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_66.json"
     },
@@ -621,7 +621,7 @@
       "number": 67,
       "title": "परिच्छेद ६१ आलस्य-त्याग",
       "block_count": 33,
-      "word_count": 370,
+      "word_count": 368,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_67.json"
     },
@@ -639,7 +639,7 @@
       "number": 69,
       "title": "परिच्छेद ६३ संकट में धैर्य",
       "block_count": 33,
-      "word_count": 433,
+      "word_count": 431,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_69.json"
     },
@@ -657,7 +657,7 @@
       "number": 71,
       "title": "परिच्छेद ६५ वाक्-पटुता",
       "block_count": 33,
-      "word_count": 397,
+      "word_count": 395,
       "estimated_minutes": 2,
       "file": "content/books/kural-kavya/ch_71.json"
     },
@@ -783,7 +783,7 @@
       "number": 85,
       "title": "परिच्छेद ७८ वीर योद्धा का आत्मगौरव",
       "block_count": 33,
-      "word_count": 481,
+      "word_count": 479,
       "estimated_minutes": 3,
       "file": "content/books/kural-kavya/ch_85.json"
     },
@@ -882,7 +882,7 @@
       "number": 96,
       "title": "परिच्छेद ८९ घर का भेदी",
       "block_count": 33,
-      "word_count": 485,
+      "word_count": 483,
       "estimated_minutes": 3,
       "file": "content/books/kural-kavya/ch_96.json"
     },
@@ -990,7 +990,7 @@
       "number": 108,
       "title": "परिच्छेदः १ ईश्वरस्तुतिः",
       "block_count": 25,
-      "word_count": 116,
+      "word_count": 112,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_108.json"
     },
@@ -999,7 +999,7 @@
       "number": 109,
       "title": "परिच्छेदः १० मधुरभाषणम्",
       "block_count": 21,
-      "word_count": 102,
+      "word_count": 100,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_109.json"
     },
@@ -1008,7 +1008,7 @@
       "number": 110,
       "title": "परिच्छेदः १०० सभ्यता",
       "block_count": 23,
-      "word_count": 114,
+      "word_count": 108,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_110.json"
     },
@@ -1044,7 +1044,7 @@
       "number": 114,
       "title": "परिच्छेदः १०४ कृषिः",
       "block_count": 22,
-      "word_count": 108,
+      "word_count": 104,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_114.json"
     },
@@ -1053,7 +1053,7 @@
       "number": 115,
       "title": "परिच्छेदः १०५ दरिद्रता",
       "block_count": 22,
-      "word_count": 110,
+      "word_count": 106,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_115.json"
     },
@@ -1080,7 +1080,7 @@
       "number": 118,
       "title": "परिच्छेदः १०८ भ्रष्टजीवनम्",
       "block_count": 21,
-      "word_count": 107,
+      "word_count": 105,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_118.json"
     },
@@ -1107,7 +1107,7 @@
       "number": 121,
       "title": "परिच्छेदः १३ संयमः",
       "block_count": 22,
-      "word_count": 103,
+      "word_count": 99,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_121.json"
     },
@@ -1116,7 +1116,7 @@
       "number": 122,
       "title": "परिच्छेदः १४ सदाचारः",
       "block_count": 21,
-      "word_count": 97,
+      "word_count": 95,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_122.json"
     },
@@ -1134,7 +1134,7 @@
       "number": 124,
       "title": "परिच्छेदः १६ क्षमा",
       "block_count": 21,
-      "word_count": 108,
+      "word_count": 106,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_124.json"
     },
@@ -1143,7 +1143,7 @@
       "number": 125,
       "title": "परिच्छेदः १७ ईर्ष्यात्यागः",
       "block_count": 22,
-      "word_count": 102,
+      "word_count": 98,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_125.json"
     },
@@ -1161,7 +1161,7 @@
       "number": 127,
       "title": "परिच्छेदः १९ पैशुन्यपरिहारः",
       "block_count": 22,
-      "word_count": 121,
+      "word_count": 117,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_127.json"
     },
@@ -1179,7 +1179,7 @@
       "number": 129,
       "title": "परिच्छेदः २० व्यर्थभाषणम्",
       "block_count": 21,
-      "word_count": 107,
+      "word_count": 105,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_129.json"
     },
@@ -1197,7 +1197,7 @@
       "number": 131,
       "title": "परिच्छेदः २२ परोपकारः",
       "block_count": 22,
-      "word_count": 103,
+      "word_count": 99,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_131.json"
     },
@@ -1206,7 +1206,7 @@
       "number": 132,
       "title": "परिच्छेदः २३ दानम्",
       "block_count": 21,
-      "word_count": 102,
+      "word_count": 100,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_132.json"
     },
@@ -1215,7 +1215,7 @@
       "number": 133,
       "title": "परिच्छेदः २४ कीर्तिः२४ कीर्तिः",
       "block_count": 21,
-      "word_count": 108,
+      "word_count": 106,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_133.json"
     },
@@ -1251,7 +1251,7 @@
       "number": 137,
       "title": "परिच्छेदः २८ धूर्तता",
       "block_count": 23,
-      "word_count": 109,
+      "word_count": 103,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_137.json"
     },
@@ -1269,7 +1269,7 @@
       "number": 139,
       "title": "परिच्छेदः ३ मुनिमाहात्म्यम्",
       "block_count": 22,
-      "word_count": 115,
+      "word_count": 111,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_139.json"
     },
@@ -1287,7 +1287,7 @@
       "number": 141,
       "title": "परिच्छेदः ३१ क्रोधत्यागः",
       "block_count": 22,
-      "word_count": 117,
+      "word_count": 113,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_141.json"
     },
@@ -1314,7 +1314,7 @@
       "number": 144,
       "title": "परिच्छेदः ३४ संसारानित्यता",
       "block_count": 21,
-      "word_count": 121,
+      "word_count": 119,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_144.json"
     },
@@ -1476,7 +1476,7 @@
       "number": 162,
       "title": "परिच्छेदः ५० स्थानविचारः",
       "block_count": 22,
-      "word_count": 113,
+      "word_count": 109,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_162.json"
     },
@@ -1485,7 +1485,7 @@
       "number": 163,
       "title": "परिच्छेदः ५१ उपयुक्तपरीक्षा",
       "block_count": 23,
-      "word_count": 110,
+      "word_count": 104,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_163.json"
     },
@@ -1494,7 +1494,7 @@
       "number": 164,
       "title": "परिच्छेदः ५२ पुरुषपरीक्षा",
       "block_count": 21,
-      "word_count": 107,
+      "word_count": 105,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_164.json"
     },
@@ -1512,7 +1512,7 @@
       "number": 166,
       "title": "परिच्छेदः ५४ निश्विन्ततात्यागः",
       "block_count": 23,
-      "word_count": 114,
+      "word_count": 108,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_166.json"
     },
@@ -1521,7 +1521,7 @@
       "number": 167,
       "title": "परिच्छेदः ५५ न्यायशासनम्",
       "block_count": 21,
-      "word_count": 107,
+      "word_count": 105,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_167.json"
     },
@@ -1548,7 +1548,7 @@
       "number": 170,
       "title": "परिच्छेदः ५८ चारुशीलम्",
       "block_count": 21,
-      "word_count": 114,
+      "word_count": 112,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_170.json"
     },
@@ -1557,7 +1557,7 @@
       "number": 171,
       "title": "परिच्छेदः ५९ गुप्तचरः",
       "block_count": 21,
-      "word_count": 94,
+      "word_count": 92,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_171.json"
     },
@@ -1566,7 +1566,7 @@
       "number": 172,
       "title": "परिच्छेदः ६ गृहिणी",
       "block_count": 22,
-      "word_count": 111,
+      "word_count": 107,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_172.json"
     },
@@ -1593,7 +1593,7 @@
       "number": 175,
       "title": "परिच्छेदः ६२ पुरुषार्थः",
       "block_count": 21,
-      "word_count": 101,
+      "word_count": 99,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_175.json"
     },
@@ -1602,7 +1602,7 @@
       "number": 176,
       "title": "परिच्छेदः ६३ विपदि धैर्यम्",
       "block_count": 21,
-      "word_count": 116,
+      "word_count": 114,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_176.json"
     },
@@ -1611,7 +1611,7 @@
       "number": 177,
       "title": "परिच्छेदः ६४ मंत्री",
       "block_count": 21,
-      "word_count": 99,
+      "word_count": 97,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_177.json"
     },
@@ -1620,7 +1620,7 @@
       "number": 178,
       "title": "परिच्छेदः ६५ वाक्पटुता",
       "block_count": 21,
-      "word_count": 103,
+      "word_count": 101,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_178.json"
     },
@@ -1656,7 +1656,7 @@
       "number": 182,
       "title": "परिच्छेदः ६९ राजदूतः",
       "block_count": 22,
-      "word_count": 102,
+      "word_count": 98,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_182.json"
     },
@@ -1683,7 +1683,7 @@
       "number": 185,
       "title": "परिच्छेदः ७१ मुखाकृत्याभावपरीक्षणम्",
       "block_count": 22,
-      "word_count": 118,
+      "word_count": 114,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_185.json"
     },
@@ -1737,7 +1737,7 @@
       "number": 191,
       "title": "परिच्छेदः ७७ सेना",
       "block_count": 21,
-      "word_count": 103,
+      "word_count": 101,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_191.json"
     },
@@ -1764,7 +1764,7 @@
       "number": 194,
       "title": "परिच्छेदः ८ प्रेम",
       "block_count": 21,
-      "word_count": 102,
+      "word_count": 100,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_194.json"
     },
@@ -1773,7 +1773,7 @@
       "number": 195,
       "title": "परिच्छेदः ८० सख्यार्थं योग्यतापरीक्षा",
       "block_count": 23,
-      "word_count": 116,
+      "word_count": 110,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_195.json"
     },
@@ -1782,7 +1782,7 @@
       "number": 196,
       "title": "परिच्छेदः ८१ घनिष्टमित्रता",
       "block_count": 21,
-      "word_count": 102,
+      "word_count": 100,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_196.json"
     },
@@ -1791,7 +1791,7 @@
       "number": 197,
       "title": "परिच्छेदः ८२ विघातिका मैत्री",
       "block_count": 21,
-      "word_count": 110,
+      "word_count": 108,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_197.json"
     },
@@ -1800,7 +1800,7 @@
       "number": 198,
       "title": "परिच्छेदः ८३ कपटमैत्री",
       "block_count": 23,
-      "word_count": 117,
+      "word_count": 111,
       "estimated_minutes": 1,
       "file": "content/books/kural-kavya/ch_198.json"
     },

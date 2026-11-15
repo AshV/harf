@@ -16,9 +16,9 @@
     "historical novel",
     "upanyas"
   ],
-  "total_words": 31715,
+  "total_words": 31185,
   "total_chapters": 32,
-  "estimated_reading_minutes": 176,
+  "estimated_reading_minutes": 173,
   "chapters": [
     {
       "id": "ch_01",
@@ -106,7 +106,7 @@
       "number": 10,
       "title": "तलवार",
       "block_count": 5,
-      "word_count": 366,
+      "word_count": 363,
       "estimated_minutes": 2,
       "file": "content/books/dewangana/ch_10.json"
     },
@@ -114,8 +114,8 @@
       "id": "ch_11",
       "number": 11,
       "title": "दुस्सह सम्वाद",
-      "block_count": 31,
-      "word_count": 445,
+      "block_count": 30,
+      "word_count": 379,
       "estimated_minutes": 2,
       "file": "content/books/dewangana/ch_11.json"
     },
@@ -240,9 +240,9 @@
       "id": "ch_25",
       "number": 25,
       "title": "वज्रगुरु",
-      "block_count": 3,
-      "word_count": 772,
-      "estimated_minutes": 4,
+      "block_count": 1,
+      "word_count": 312,
+      "estimated_minutes": 2,
       "file": "content/books/dewangana/ch_25.json"
     },
     {
@@ -277,7 +277,7 @@
       "number": 29,
       "title": "समारोह",
       "block_count": 44,
-      "word_count": 1490,
+      "word_count": 1489,
       "estimated_minutes": 8,
       "file": "content/books/dewangana/ch_29.json"
     },

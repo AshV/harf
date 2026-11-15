@@ -17,9 +17,9 @@
     "ayesha",
     "tilottama"
   ],
-  "total_words": 41185,
+  "total_words": 41093,
   "total_chapters": 42,
-  "estimated_reading_minutes": 229,
+  "estimated_reading_minutes": 228,
   "chapters": [
     {
       "id": "ch_01",
@@ -161,7 +161,7 @@
       "number": 16,
       "title": "दुर्गेशनन्दिनी प्रथम भाग/प्रथम परिच्छेद",
       "block_count": 38,
-      "word_count": 2316,
+      "word_count": 2288,
       "estimated_minutes": 13,
       "file": "content/books/durgeshnandini/ch_16.json"
     },
@@ -323,7 +323,7 @@
       "number": 34,
       "title": "दुर्गेशनन्दिनी द्वितीय भाग/ पन्द्रहवां परिच्छेद",
       "block_count": 52,
-      "word_count": 1390,
+      "word_count": 1389,
       "estimated_minutes": 8,
       "file": "content/books/durgeshnandini/ch_34.json"
     },
@@ -350,7 +350,7 @@
       "number": 37,
       "title": "दुर्गेशनन्दिनी द्वितीय भाग/ बाईसवां परिच्छेद",
       "block_count": 49,
-      "word_count": 1264,
+      "word_count": 1263,
       "estimated_minutes": 7,
       "file": "content/books/durgeshnandini/ch_37.json"
     },
@@ -358,9 +358,9 @@
       "id": "ch_38",
       "number": 38,
       "title": "दुर्गेशनन्दिनी द्वितीय भाग/ बारहवां परिच्छेद",
-      "block_count": 49,
-      "word_count": 1386,
-      "estimated_minutes": 8,
+      "block_count": 45,
+      "word_count": 1324,
+      "estimated_minutes": 7,
       "file": "content/books/durgeshnandini/ch_38.json"
     },
     {

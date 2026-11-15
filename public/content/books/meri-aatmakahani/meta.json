@@ -17,9 +17,9 @@
     "autobiography",
     "memoir"
   ],
-  "total_words": 62807,
+  "total_words": 62363,
   "total_chapters": 12,
-  "estimated_reading_minutes": 349,
+  "estimated_reading_minutes": 346,
   "chapters": [
     {
       "id": "ch_01",
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "अध्याय २ — नागरी-प्रचारिणी सभा की स्थापना",
       "block_count": 24,
-      "word_count": 3281,
+      "word_count": 3279,
       "estimated_minutes": 18,
       "file": "content/books/meri-aatmakahani/ch_02.json"
     },
@@ -43,9 +43,9 @@
       "id": "ch_03",
       "number": 3,
       "title": "अध्याय ३ — अदालतों में नागरी लिपि का प्रवेश",
-      "block_count": 9,
-      "word_count": 2983,
-      "estimated_minutes": 17,
+      "block_count": 8,
+      "word_count": 2780,
+      "estimated_minutes": 15,
       "file": "content/books/meri-aatmakahani/ch_03.json"
     },
     {
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "अध्याय ४ — हिंदी-वैज्ञानिक कोष का निर्माण",
       "block_count": 14,
-      "word_count": 3529,
+      "word_count": 3527,
       "estimated_minutes": 20,
       "file": "content/books/meri-aatmakahani/ch_04.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "अध्याय ५ — हिंदी की लेख तथा लिपि-प्रणाली",
       "block_count": 26,
-      "word_count": 3858,
+      "word_count": 3857,
       "estimated_minutes": 21,
       "file": "content/books/meri-aatmakahani/ch_05.json"
     },
@@ -71,7 +71,7 @@
       "number": 6,
       "title": "अध्याय ६ — हस्तलिखित हिंदी-पुस्तकों की ऐतिहासिक खोज",
       "block_count": 72,
-      "word_count": 5437,
+      "word_count": 5430,
       "estimated_minutes": 30,
       "file": "content/books/meri-aatmakahani/ch_06.json"
     },
@@ -80,7 +80,7 @@
       "number": 7,
       "title": "अध्याय ७ — कुछ अन्य महत्वपूर्ण साहित्यिक कार्य",
       "block_count": 80,
-      "word_count": 5163,
+      "word_count": 5157,
       "estimated_minutes": 29,
       "file": "content/books/meri-aatmakahani/ch_07.json"
     },
@@ -97,9 +97,9 @@
       "id": "ch_09",
       "number": 9,
       "title": "अध्याय ९ — हिंदी-शब्दसागर का ऐतिहासिक महायज्ञ",
-      "block_count": 61,
-      "word_count": 10332,
-      "estimated_minutes": 57,
+      "block_count": 60,
+      "word_count": 10146,
+      "estimated_minutes": 56,
       "file": "content/books/meri-aatmakahani/ch_09.json"
     },
     {
@@ -107,7 +107,7 @@
       "number": 10,
       "title": "अध्याय १० — लखनऊ का प्रवास व सेवाएँ",
       "block_count": 75,
-      "word_count": 4910,
+      "word_count": 4903,
       "estimated_minutes": 27,
       "file": "content/books/meri-aatmakahani/ch_10.json"
     },
@@ -116,7 +116,7 @@
       "number": 11,
       "title": "अध्याय ११ — काशी हिन्दू विश्वविद्यालय में हिन्दी विभाग",
       "block_count": 73,
-      "word_count": 6087,
+      "word_count": 6083,
       "estimated_minutes": 34,
       "file": "content/books/meri-aatmakahani/ch_11.json"
     },
@@ -125,7 +125,7 @@
       "number": 12,
       "title": "अध्याय १२ — कुछ व्यक्तिगत संस्मरण व जीवन-सत्य",
       "block_count": 54,
-      "word_count": 10644,
+      "word_count": 10618,
       "estimated_minutes": 59,
       "file": "content/books/meri-aatmakahani/ch_12.json"
     }

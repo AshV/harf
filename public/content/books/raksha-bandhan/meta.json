@@ -17,7 +17,7 @@
     "social realism",
     "hindi literature"
   ],
-  "total_words": 43829,
+  "total_words": 43799,
   "total_chapters": 24,
   "estimated_reading_minutes": 243,
   "chapters": [
@@ -26,7 +26,7 @@
       "number": 1,
       "title": "१-भक्त की टेर",
       "block_count": 90,
-      "word_count": 1820,
+      "word_count": 1816,
       "estimated_minutes": 10,
       "file": "content/books/raksha-bandhan/ch_01.json"
     },
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "२-पत्रकार",
       "block_count": 114,
-      "word_count": 1619,
+      "word_count": 1609,
       "estimated_minutes": 9,
       "file": "content/books/raksha-bandhan/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "३-प्रतिहिंसा",
       "block_count": 77,
-      "word_count": 1550,
+      "word_count": 1547,
       "estimated_minutes": 9,
       "file": "content/books/raksha-bandhan/ch_03.json"
     },
@@ -179,7 +179,7 @@
       "number": 18,
       "title": "१८—वाह री होली",
       "block_count": 87,
-      "word_count": 1311,
+      "word_count": 1307,
       "estimated_minutes": 7,
       "file": "content/books/raksha-bandhan/ch_18.json"
     },
@@ -197,7 +197,7 @@
       "number": 20,
       "title": "२०—रक्षा-बन्धन",
       "block_count": 126,
-      "word_count": 2571,
+      "word_count": 2565,
       "estimated_minutes": 14,
       "file": "content/books/raksha-bandhan/ch_20.json"
     },
@@ -206,7 +206,7 @@
       "number": 21,
       "title": "२१—मनुष्य",
       "block_count": 84,
-      "word_count": 2267,
+      "word_count": 2264,
       "estimated_minutes": 13,
       "file": "content/books/raksha-bandhan/ch_21.json"
     },

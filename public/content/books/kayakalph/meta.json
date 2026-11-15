@@ -18,7 +18,7 @@
     "social novel",
     "upanyas"
   ],
-  "total_words": 155286,
+  "total_words": 155272,
   "total_chapters": 57,
   "estimated_reading_minutes": 863,
   "chapters": [
@@ -387,7 +387,7 @@
       "number": 41,
       "title": "अध्याय ४१",
       "block_count": 63,
-      "word_count": 1784,
+      "word_count": 1772,
       "estimated_minutes": 10,
       "file": "content/books/kayakalph/ch_41.json"
     },
@@ -486,7 +486,7 @@
       "number": 52,
       "title": "अध्याय ५२",
       "block_count": 26,
-      "word_count": 1308,
+      "word_count": 1306,
       "estimated_minutes": 7,
       "file": "content/books/kayakalph/ch_52.json"
     },

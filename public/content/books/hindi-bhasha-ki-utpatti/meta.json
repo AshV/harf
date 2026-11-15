@@ -17,25 +17,25 @@
     "origin of hindi",
     "prakrit"
   ],
-  "total_words": 15309,
+  "total_words": 15181,
   "total_chapters": 6,
-  "estimated_reading_minutes": 85,
+  "estimated_reading_minutes": 84,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "१-पूर्ववर्ती काल",
       "block_count": 99,
-      "word_count": 3524,
-      "estimated_minutes": 20,
+      "word_count": 3430,
+      "estimated_minutes": 19,
       "file": "content/books/hindi-bhasha-ki-utpatti/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
       "title": "२-परवर्ती काल",
-      "block_count": 79,
-      "word_count": 2290,
+      "block_count": 78,
+      "word_count": 2270,
       "estimated_minutes": 13,
       "file": "content/books/hindi-bhasha-ki-utpatti/ch_02.json"
     },
@@ -71,7 +71,7 @@
       "number": 6,
       "title": "६-उपसंहार",
       "block_count": 61,
-      "word_count": 3561,
+      "word_count": 3547,
       "estimated_minutes": 20,
       "file": "content/books/hindi-bhasha-ki-utpatti/ch_06.json"
     }

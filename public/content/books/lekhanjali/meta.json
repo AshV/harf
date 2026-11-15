@@ -16,7 +16,7 @@
     "scientific essays",
     "dwivedi yug"
   ],
-  "total_words": 39680,
+  "total_words": 39647,
   "total_chapters": 19,
   "estimated_reading_minutes": 220,
   "chapters": [
@@ -70,7 +70,7 @@
       "number": 6,
       "title": "६—स्वयंवह-यंत्र",
       "block_count": 29,
-      "word_count": 2339,
+      "word_count": 2337,
       "estimated_minutes": 13,
       "file": "content/books/lekhanjali/ch_06.json"
     },
@@ -97,7 +97,7 @@
       "number": 9,
       "title": "९—गौतम बुद्ध का समय",
       "block_count": 24,
-      "word_count": 2209,
+      "word_count": 2207,
       "estimated_minutes": 12,
       "file": "content/books/lekhanjali/ch_09.json"
     },
@@ -151,7 +151,7 @@
       "number": 15,
       "title": "१५—लीग आफ़ नेशन्स का ख़र्च और भारत",
       "block_count": 39,
-      "word_count": 1982,
+      "word_count": 1954,
       "estimated_minutes": 11,
       "file": "content/books/lekhanjali/ch_15.json"
     },
@@ -187,7 +187,7 @@
       "number": 19,
       "title": "१९—दण्ड-देव का आत्म-निवेदन",
       "block_count": 31,
-      "word_count": 3011,
+      "word_count": 3010,
       "estimated_minutes": 17,
       "file": "content/books/lekhanjali/ch_19.json"
     }

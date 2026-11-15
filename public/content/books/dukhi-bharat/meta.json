@@ -18,16 +18,16 @@
     "nationalism",
     "indian freedom struggle"
   ],
-  "total_words": 157005,
+  "total_words": 156293,
   "total_chapters": 35,
-  "estimated_reading_minutes": 872,
+  "estimated_reading_minutes": 868,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "विषय प्रवेश",
       "block_count": 187,
-      "word_count": 16706,
+      "word_count": 16671,
       "estimated_minutes": 93,
       "file": "content/books/dukhi-bharat/ch_01.json"
     },
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "१ मिस मेयो के तर्क",
       "block_count": 39,
-      "word_count": 3509,
+      "word_count": 3497,
       "estimated_minutes": 19,
       "file": "content/books/dukhi-bharat/ch_02.json"
     },
@@ -45,8 +45,8 @@
       "number": 3,
       "title": "२ अमर-प्रकाश",
       "block_count": 104,
-      "word_count": 7346,
-      "estimated_minutes": 41,
+      "word_count": 7288,
+      "estimated_minutes": 40,
       "file": "content/books/dukhi-bharat/ch_03.json"
     },
     {
@@ -54,7 +54,7 @@
       "number": 4,
       "title": "३ असफल शिक्षा",
       "block_count": 22,
-      "word_count": 1849,
+      "word_count": 1843,
       "estimated_minutes": 10,
       "file": "content/books/dukhi-bharat/ch_04.json"
     },
@@ -63,7 +63,7 @@
       "number": 5,
       "title": "४ शिक्षा और द्रव्योपार्जन",
       "block_count": 20,
-      "word_count": 2108,
+      "word_count": 2102,
       "estimated_minutes": 12,
       "file": "content/books/dukhi-bharat/ch_05.json"
     },
@@ -72,7 +72,7 @@
       "number": 6,
       "title": "५ एक महान् वकील",
       "block_count": 32,
-      "word_count": 2860,
+      "word_count": 2850,
       "estimated_minutes": 16,
       "file": "content/books/dukhi-bharat/ch_06.json"
     },
@@ -90,7 +90,7 @@
       "number": 8,
       "title": "७ शिक्षा क्यों नहीं दी जाती?",
       "block_count": 21,
-      "word_count": 1609,
+      "word_count": 1599,
       "estimated_minutes": 9,
       "file": "content/books/dukhi-bharat/ch_08.json"
     },
@@ -99,7 +99,7 @@
       "number": 9,
       "title": "८ हिन्दू-वर्णाश्रम-धर्म",
       "block_count": 25,
-      "word_count": 3563,
+      "word_count": 3551,
       "estimated_minutes": 20,
       "file": "content/books/dukhi-bharat/ch_09.json"
     },
@@ -108,7 +108,7 @@
       "number": 10,
       "title": "९ अछूत—उनके मित्र और शत्रु",
       "block_count": 23,
-      "word_count": 2822,
+      "word_count": 2812,
       "estimated_minutes": 16,
       "file": "content/books/dukhi-bharat/ch_10.json"
     },
@@ -117,7 +117,7 @@
       "number": 11,
       "title": "१० चाण्डाल से भी बदतर",
       "block_count": 104,
-      "word_count": 8138,
+      "word_count": 8124,
       "estimated_minutes": 45,
       "file": "content/books/dukhi-bharat/ch_11.json"
     },
@@ -126,7 +126,7 @@
       "number": 12,
       "title": "११ चाण्डाल से भी बदतर—समाप्त",
       "block_count": 62,
-      "word_count": 5551,
+      "word_count": 5528,
       "estimated_minutes": 31,
       "file": "content/books/dukhi-bharat/ch_12.json"
     },
@@ -135,7 +135,7 @@
       "number": 13,
       "title": "१२ प्राचीन भारत में स्त्रियों का स्थान",
       "block_count": 72,
-      "word_count": 5984,
+      "word_count": 5950,
       "estimated_minutes": 33,
       "file": "content/books/dukhi-bharat/ch_13.json"
     },
@@ -144,7 +144,7 @@
       "number": 14,
       "title": "१३ स्त्रियाँ और नवयुग",
       "block_count": 48,
-      "word_count": 3304,
+      "word_count": 3270,
       "estimated_minutes": 18,
       "file": "content/books/dukhi-bharat/ch_14.json"
     },
@@ -162,7 +162,7 @@
       "number": 16,
       "title": "१५ हिन्दू-विधवा",
       "block_count": 27,
-      "word_count": 1911,
+      "word_count": 1899,
       "estimated_minutes": 11,
       "file": "content/books/dukhi-bharat/ch_16.json"
     },
@@ -171,7 +171,7 @@
       "number": 17,
       "title": "१६ देवदासी",
       "block_count": 18,
-      "word_count": 1866,
+      "word_count": 1862,
       "estimated_minutes": 10,
       "file": "content/books/dukhi-bharat/ch_17.json"
     },
@@ -180,7 +180,7 @@
       "number": 18,
       "title": "१७ निःशुल्क शिक्षा",
       "block_count": 40,
-      "word_count": 742,
+      "word_count": 731,
       "estimated_minutes": 4,
       "file": "content/books/dukhi-bharat/ch_18.json"
     },
@@ -189,8 +189,8 @@
       "number": 19,
       "title": "१८ पश्चिम में कामोत्तेजना",
       "block_count": 191,
-      "word_count": 13250,
-      "estimated_minutes": 74,
+      "word_count": 13144,
+      "estimated_minutes": 73,
       "file": "content/books/dukhi-bharat/ch_19.json"
     },
     {
@@ -198,7 +198,7 @@
       "number": 20,
       "title": "१९ मिस्टर विन्सटन चर्चिल के लिए एक उपहार",
       "block_count": 70,
-      "word_count": 4092,
+      "word_count": 4077,
       "estimated_minutes": 23,
       "file": "content/books/dukhi-bharat/ch_20.json"
     },
@@ -207,7 +207,7 @@
       "number": 21,
       "title": "२० हमारे परिचित विश्व-निन्दक-वृन्द",
       "block_count": 26,
-      "word_count": 2604,
+      "word_count": 2602,
       "estimated_minutes": 14,
       "file": "content/books/dukhi-bharat/ch_21.json"
     },
@@ -216,7 +216,7 @@
       "number": 22,
       "title": "२१ हिन्दुओं का स्वास्थ्य-शास्त्र",
       "block_count": 31,
-      "word_count": 3183,
+      "word_count": 3169,
       "estimated_minutes": 18,
       "file": "content/books/dukhi-bharat/ch_22.json"
     },
@@ -225,7 +225,7 @@
       "number": 23,
       "title": "२२ गाय भूखों क्यों मरती है?",
       "block_count": 35,
-      "word_count": 3181,
+      "word_count": 3163,
       "estimated_minutes": 18,
       "file": "content/books/dukhi-bharat/ch_23.json"
     },
@@ -234,7 +234,7 @@
       "number": 24,
       "title": "२३ भारतवर्ष-वैभव का घर",
       "block_count": 77,
-      "word_count": 4914,
+      "word_count": 4876,
       "estimated_minutes": 27,
       "file": "content/books/dukhi-bharat/ch_24.json"
     },
@@ -243,8 +243,8 @@
       "number": 25,
       "title": "२४ भारतवर्ष-'दरिद्रता का घर'",
       "block_count": 131,
-      "word_count": 8550,
-      "estimated_minutes": 48,
+      "word_count": 8499,
+      "estimated_minutes": 47,
       "file": "content/books/dukhi-bharat/ch_25.json"
     },
     {
@@ -252,7 +252,7 @@
       "number": 26,
       "title": "२५ बुराइयों की जड़-दरिद्रता",
       "block_count": 107,
-      "word_count": 6503,
+      "word_count": 6477,
       "estimated_minutes": 36,
       "file": "content/books/dukhi-bharat/ch_26.json"
     },
@@ -261,7 +261,7 @@
       "number": 27,
       "title": "२६ भारत के धन का अपव्यय",
       "block_count": 49,
-      "word_count": 2331,
+      "word_count": 2325,
       "estimated_minutes": 13,
       "file": "content/books/dukhi-bharat/ch_27.json"
     },
@@ -270,7 +270,7 @@
       "number": 28,
       "title": "२७ भारत के धन का अपव्यय-समाप्त",
       "block_count": 78,
-      "word_count": 4369,
+      "word_count": 4357,
       "estimated_minutes": 24,
       "file": "content/books/dukhi-bharat/ch_28.json"
     },
@@ -279,7 +279,7 @@
       "number": 29,
       "title": "२८ भेद-नीति",
       "block_count": 48,
-      "word_count": 2733,
+      "word_count": 2711,
       "estimated_minutes": 15,
       "file": "content/books/dukhi-bharat/ch_29.json"
     },
@@ -288,7 +288,7 @@
       "number": 30,
       "title": "२९ पैग़म्बर के वंशज",
       "block_count": 22,
-      "word_count": 3356,
+      "word_count": 3352,
       "estimated_minutes": 19,
       "file": "content/books/dukhi-bharat/ch_30.json"
     },
@@ -297,7 +297,7 @@
       "number": 31,
       "title": "३० अँगरेज़ी राज्य पर अँगरेजों की सम्मतियाँ",
       "block_count": 57,
-      "word_count": 3980,
+      "word_count": 3954,
       "estimated_minutes": 22,
       "file": "content/books/dukhi-bharat/ch_31.json"
     },
@@ -306,7 +306,7 @@
       "number": 32,
       "title": "३१ सुधारों की कथा",
       "block_count": 64,
-      "word_count": 6741,
+      "word_count": 6727,
       "estimated_minutes": 37,
       "file": "content/books/dukhi-bharat/ch_32.json"
     },
@@ -315,7 +315,7 @@
       "number": 33,
       "title": "३२ दुःखदायक, जटिल और अनिश्चित पद्धति",
       "block_count": 14,
-      "word_count": 1253,
+      "word_count": 1251,
       "estimated_minutes": 7,
       "file": "content/books/dukhi-bharat/ch_33.json"
     },
@@ -324,7 +324,7 @@
       "number": 34,
       "title": "३३ संसार का सङ्कट–भारतवर्ष",
       "block_count": 27,
-      "word_count": 4862,
+      "word_count": 4854,
       "estimated_minutes": 27,
       "file": "content/books/dukhi-bharat/ch_34.json"
     },
@@ -333,7 +333,7 @@
       "number": 35,
       "title": "'मदर इंडिया' पर कुछ सम्मतियाँ",
       "block_count": 88,
-      "word_count": 9042,
+      "word_count": 8985,
       "estimated_minutes": 50,
       "file": "content/books/dukhi-bharat/ch_35.json"
     }

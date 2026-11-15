@@ -19,7 +19,7 @@
     "devasena",
     "rashtriya natak"
   ],
-  "total_words": 28127,
+  "total_words": 28021,
   "total_chapters": 5,
   "estimated_reading_minutes": 156,
   "chapters": [
@@ -28,7 +28,7 @@
       "number": 1,
       "title": "प्रथम अंक — उज्जयिनी का गुप्त-शिविर व अंतःपुर षड्यंत्र",
       "block_count": 453,
-      "word_count": 7648,
+      "word_count": 7574,
       "estimated_minutes": 42,
       "file": "content/books/skandagupta/ch_01.json"
     },
@@ -37,7 +37,7 @@
       "number": 2,
       "title": "द्वितीय अंक — मालव का दुर्ग व बंधुवर्मा की निष्ठा",
       "block_count": 380,
-      "word_count": 6802,
+      "word_count": 6794,
       "estimated_minutes": 38,
       "file": "content/books/skandagupta/ch_02.json"
     },
@@ -46,7 +46,7 @@
       "number": 3,
       "title": "तृतीय अंक — रणक्षेत्र, हुण-आक्रमण व मातृगुप्त की प्रतिज्ञा",
       "block_count": 292,
-      "word_count": 4467,
+      "word_count": 4462,
       "estimated_minutes": 25,
       "file": "content/books/skandagupta/ch_03.json"
     },
@@ -55,7 +55,7 @@
       "number": 4,
       "title": "चतुर्थ अंक — विपत्ति की वेला व देवसेना का त्याग",
       "block_count": 215,
-      "word_count": 4720,
+      "word_count": 4715,
       "estimated_minutes": 26,
       "file": "content/books/skandagupta/ch_04.json"
     },
@@ -64,7 +64,7 @@
       "number": 5,
       "title": "पंचम अंक — हुणों का संहार, राष्ट्र-मुक्ति व अमर संन्यास",
       "block_count": 265,
-      "word_count": 4490,
+      "word_count": 4476,
       "estimated_minutes": 25,
       "file": "content/books/skandagupta/ch_05.json"
     }

@@ -18,9 +18,9 @@
     "classic essays",
     "hindi prose"
   ],
-  "total_words": 36874,
+  "total_words": 35983,
   "total_chapters": 12,
-  "estimated_reading_minutes": 205,
+  "estimated_reading_minutes": 200,
   "chapters": [
     {
       "id": "ch_01",
@@ -54,7 +54,7 @@
       "number": 4,
       "title": "कवि और कविता — आचार्य महावीर प्रसाद द्विवेदी",
       "block_count": 23,
-      "word_count": 3637,
+      "word_count": 3629,
       "estimated_minutes": 20,
       "file": "content/books/hindi-nibandhamala/ch_04.json"
     },
@@ -72,7 +72,7 @@
       "number": 6,
       "title": "करुणा — आचार्य रामचंद्र शुक्ल",
       "block_count": 45,
-      "word_count": 3789,
+      "word_count": 3785,
       "estimated_minutes": 21,
       "file": "content/books/hindi-nibandhamala/ch_06.json"
     },
@@ -107,9 +107,9 @@
       "id": "ch_10",
       "number": 10,
       "title": "मित्र-लाभ — गणपत जानकीराम दूबे",
-      "block_count": 36,
-      "word_count": 2179,
-      "estimated_minutes": 12,
+      "block_count": 35,
+      "word_count": 1860,
+      "estimated_minutes": 10,
       "file": "content/books/hindi-nibandhamala/ch_10.json"
     },
     {
@@ -117,7 +117,7 @@
       "number": 11,
       "title": "प्रकृति-सौंदर्य — गणपत जानकीराम दूबे",
       "block_count": 78,
-      "word_count": 2967,
+      "word_count": 2965,
       "estimated_minutes": 16,
       "file": "content/books/hindi-nibandhamala/ch_11.json"
     },
@@ -125,9 +125,9 @@
       "id": "ch_12",
       "number": 12,
       "title": "बुंदेलखंड-पर्यटन — कृष्णबलदेव वर्मा",
-      "block_count": 19,
-      "word_count": 3801,
-      "estimated_minutes": 21,
+      "block_count": 18,
+      "word_count": 3243,
+      "estimated_minutes": 18,
       "file": "content/books/hindi-nibandhamala/ch_12.json"
     }
   ]

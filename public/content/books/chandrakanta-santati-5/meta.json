@@ -18,16 +18,16 @@
     "fantasy novel",
     "part 5"
   ],
-  "total_words": 109890,
+  "total_words": 109849,
   "total_chapters": 59,
-  "estimated_reading_minutes": 611,
+  "estimated_reading_minutes": 610,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "बयान 17 - भाग 1",
       "block_count": 16,
-      "word_count": 1565,
+      "word_count": 1563,
       "estimated_minutes": 9,
       "file": "content/books/chandrakanta-santati-5/ch_01.json"
     },
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "बयान 17 - भाग 2",
       "block_count": 22,
-      "word_count": 1222,
+      "word_count": 1220,
       "estimated_minutes": 7,
       "file": "content/books/chandrakanta-santati-5/ch_02.json"
     },
@@ -225,7 +225,7 @@
       "number": 23,
       "title": "बयान 18 - भाग 6",
       "block_count": 112,
-      "word_count": 3961,
+      "word_count": 3958,
       "estimated_minutes": 22,
       "file": "content/books/chandrakanta-santati-5/ch_23.json"
     },
@@ -270,7 +270,7 @@
       "number": 28,
       "title": "बयान 18 - भाग 11",
       "block_count": 95,
-      "word_count": 2715,
+      "word_count": 2713,
       "estimated_minutes": 15,
       "file": "content/books/chandrakanta-santati-5/ch_28.json"
     },
@@ -315,7 +315,7 @@
       "number": 33,
       "title": "बयान 19 - भाग 4",
       "block_count": 89,
-      "word_count": 3117,
+      "word_count": 3103,
       "estimated_minutes": 17,
       "file": "content/books/chandrakanta-santati-5/ch_33.json"
     },
@@ -333,7 +333,7 @@
       "number": 35,
       "title": "बयान 19 - भाग 6",
       "block_count": 120,
-      "word_count": 6924,
+      "word_count": 6920,
       "estimated_minutes": 38,
       "file": "content/books/chandrakanta-santati-5/ch_35.json"
     },
@@ -342,7 +342,7 @@
       "number": 36,
       "title": "बयान 19 - भाग 7",
       "block_count": 21,
-      "word_count": 1273,
+      "word_count": 1271,
       "estimated_minutes": 7,
       "file": "content/books/chandrakanta-santati-5/ch_36.json"
     },
@@ -387,7 +387,7 @@
       "number": 41,
       "title": "बयान 19 - भाग 12",
       "block_count": 37,
-      "word_count": 2267,
+      "word_count": 2265,
       "estimated_minutes": 13,
       "file": "content/books/chandrakanta-santati-5/ch_41.json"
     },
@@ -432,7 +432,7 @@
       "number": 46,
       "title": "बयान 20 - भाग 2",
       "block_count": 73,
-      "word_count": 3026,
+      "word_count": 3024,
       "estimated_minutes": 17,
       "file": "content/books/chandrakanta-santati-5/ch_46.json"
     },
@@ -450,7 +450,7 @@
       "number": 48,
       "title": "बयान 20 - भाग 4",
       "block_count": 36,
-      "word_count": 1769,
+      "word_count": 1767,
       "estimated_minutes": 10,
       "file": "content/books/chandrakanta-santati-5/ch_48.json"
     },
@@ -495,7 +495,7 @@
       "number": 53,
       "title": "बयान 20 - भाग 9",
       "block_count": 27,
-      "word_count": 1583,
+      "word_count": 1581,
       "estimated_minutes": 9,
       "file": "content/books/chandrakanta-santati-5/ch_53.json"
     },
@@ -504,7 +504,7 @@
       "number": 54,
       "title": "बयान 20 - भाग 10",
       "block_count": 43,
-      "word_count": 1863,
+      "word_count": 1859,
       "estimated_minutes": 10,
       "file": "content/books/chandrakanta-santati-5/ch_54.json"
     },

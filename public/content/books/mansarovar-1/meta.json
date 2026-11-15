@@ -18,7 +18,7 @@
     "alagyoojha",
     "hindi kahaniya"
   ],
-  "total_words": 103366,
+  "total_words": 103353,
   "total_chapters": 27,
   "estimated_reading_minutes": 574,
   "chapters": [
@@ -45,7 +45,7 @@
       "number": 3,
       "title": "अलग्योझा",
       "block_count": 153,
-      "word_count": 5681,
+      "word_count": 5680,
       "estimated_minutes": 32,
       "file": "content/books/mansarovar-1/ch_03.json"
     },
@@ -63,7 +63,7 @@
       "number": 5,
       "title": "ईदगाह",
       "block_count": 92,
-      "word_count": 5036,
+      "word_count": 5035,
       "estimated_minutes": 28,
       "file": "content/books/mansarovar-1/ch_05.json"
     },
@@ -72,7 +72,7 @@
       "number": 6,
       "title": "कायर",
       "block_count": 87,
-      "word_count": 3845,
+      "word_count": 3844,
       "estimated_minutes": 21,
       "file": "content/books/mansarovar-1/ch_06.json"
     },
@@ -216,7 +216,7 @@
       "number": 22,
       "title": "रसिक सम्पादक",
       "block_count": 55,
-      "word_count": 2396,
+      "word_count": 2386,
       "estimated_minutes": 13,
       "file": "content/books/mansarovar-1/ch_22.json"
     },

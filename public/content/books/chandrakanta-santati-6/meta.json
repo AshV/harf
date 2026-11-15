@@ -19,7 +19,7 @@
     "part 6",
     "finale"
   ],
-  "total_words": 109693,
+  "total_words": 109685,
   "total_chapters": 45,
   "estimated_reading_minutes": 609,
   "chapters": [
@@ -262,7 +262,7 @@
       "number": 27,
       "title": "बयान 23 - भाग 2",
       "block_count": 28,
-      "word_count": 1436,
+      "word_count": 1434,
       "estimated_minutes": 8,
       "file": "content/books/chandrakanta-santati-6/ch_27.json"
     },
@@ -361,7 +361,7 @@
       "number": 38,
       "title": "बयान 24 - भाग 1",
       "block_count": 220,
-      "word_count": 8402,
+      "word_count": 8400,
       "estimated_minutes": 47,
       "file": "content/books/chandrakanta-santati-6/ch_38.json"
     },
@@ -415,7 +415,7 @@
       "number": 44,
       "title": "बयान 24 - भाग 7",
       "block_count": 42,
-      "word_count": 3596,
+      "word_count": 3592,
       "estimated_minutes": 20,
       "file": "content/books/chandrakanta-santati-6/ch_44.json"
     },

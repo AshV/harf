@@ -17,7 +17,7 @@
     "linguistics",
     "standard hindi"
   ],
-  "total_words": 52049,
+  "total_words": 52020,
   "total_chapters": 12,
   "estimated_reading_minutes": 289,
   "chapters": [
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "हिंदी की उत्पत्ति",
       "block_count": 136,
-      "word_count": 5730,
+      "word_count": 5724,
       "estimated_minutes": 32,
       "file": "content/books/hindi-vyakaran/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "वर्ण विचार",
       "block_count": 325,
-      "word_count": 6385,
+      "word_count": 6364,
       "estimated_minutes": 35,
       "file": "content/books/hindi-vyakaran/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "शब्द-भेद",
       "block_count": 75,
-      "word_count": 2707,
+      "word_count": 2705,
       "estimated_minutes": 15,
       "file": "content/books/hindi-vyakaran/ch_04.json"
     },

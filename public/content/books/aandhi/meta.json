@@ -17,7 +17,7 @@
     "ghisu",
     "hindi kahani"
   ],
-  "total_words": 28494,
+  "total_words": 28487,
   "total_chapters": 10,
   "estimated_reading_minutes": 158,
   "chapters": [
@@ -26,7 +26,7 @@
       "number": 1,
       "title": "आंधी",
       "block_count": 163,
-      "word_count": 9547,
+      "word_count": 9543,
       "estimated_minutes": 53,
       "file": "content/books/aandhi/ch_01.json"
     },
@@ -107,7 +107,7 @@
       "number": 10,
       "title": "नीरा",
       "block_count": 54,
-      "word_count": 3189,
+      "word_count": 3186,
       "estimated_minutes": 18,
       "file": "content/books/aandhi/ch_10.json"
     }

@@ -23,9 +23,38 @@ function countHindiWords(text) {
   return clean ? clean.split(/\s+/).length : 0;
 }
 
+function cleanHtmlEntitiesAndArtifacts(text) {
+  if (!text) return '';
+  return text
+    // 1. Remove Word Joiner entity &#8288; and invisible Unicode artifacts
+    .replace(/&#8288;/g, '')
+    .replace(/[\u2060\uFEFF]/g, '')
+    // 2. Decode standard bracket / star / space numeric entities
+    .replace(/&#91;/g, '[')
+    .replace(/&#93;/g, ']')
+    .replace(/&#42;/g, '*')
+    .replace(/&#8195;/g, ' ')
+    // 3. Decode any other numeric entities &#...; or hex entities &#x...;
+    .replace(/&#(\d+);/g, (m, dec) => {
+      const code = parseInt(dec, 10);
+      if (code === 8288 || code === 8203 || code === 65279) return '';
+      if (code === 8195 || code === 8194 || code === 160) return ' ';
+      return String.fromCharCode(code);
+    })
+    .replace(/&#x([0-9a-fA-F]+);/g, (m, hex) => {
+      const code = parseInt(hex, 16);
+      if (code === 0x2060 || code === 0x200B || code === 0xFEFF) return '';
+      if (code === 0x2003 || code === 0x2002 || code === 0x00A0) return ' ';
+      return String.fromCharCode(code);
+    })
+    // 4. Strip wikitext tags
+    .replace(/<\/?(?:poem|noinclude|ref|reg|br|ब्र)[\s\S]*?>/gi, '');
+}
+
 function parseMarkdownChapters(content, frontmatter = {}) {
-  // Normalize Unicode NFC to prevent split conjuncts / matras
-  const normalized = content.normalize('NFC');
+  // Normalize Unicode NFC and clean HTML entities to prevent split conjuncts / matras / artifacts
+  const cleanContent = cleanHtmlEntitiesAndArtifacts(content);
+  const normalized = cleanContent.normalize('NFC');
   const isPoetry = frontmatter.category === 'कविता';
   const rawChapters = normalized.split(/\n(?=# )/).filter(c => c.trim().length > 0);
   const chapters = [];
@@ -90,15 +119,20 @@ function parseMarkdownChapters(content, frontmatter = {}) {
           .filter(Boolean)
           .join(' ');
       } else if (isPoetry) {
-        // In poetry, keep line breaks inside verse stanzas
-        text = trimmedP;
+        // In poetry, keep line breaks inside verse stanzas and clean stray indentation
+        text = trimmedP
+          .split('\n')
+          .map(l => l.replace(/^[ \t]+/, '').trim())
+          .filter(Boolean)
+          .join('\n');
       } else {
         // In prose, join soft-wrapped lines into a single flowing paragraph
         text = trimmedP
           .split('\n')
           .map(l => l.trim())
           .filter(Boolean)
-          .join(' ');
+          .join(' ')
+          .replace(/[ \t]{2,}/g, ' ');
       }
 
       // Strip running headers or page numbers at start of block

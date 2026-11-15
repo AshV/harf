@@ -16,9 +16,9 @@
     "hindi natak",
     "chhayavad"
   ],
-  "total_words": 22236,
+  "total_words": 22222,
   "total_chapters": 23,
-  "estimated_reading_minutes": 124,
+  "estimated_reading_minutes": 123,
   "chapters": [
     {
       "id": "ch_01",
@@ -79,7 +79,7 @@
       "number": 7,
       "title": "2.1",
       "block_count": 52,
-      "word_count": 782,
+      "word_count": 781,
       "estimated_minutes": 4,
       "file": "content/books/kamna/ch_07.json"
     },
@@ -88,7 +88,7 @@
       "number": 8,
       "title": "2.2",
       "block_count": 41,
-      "word_count": 542,
+      "word_count": 541,
       "estimated_minutes": 3,
       "file": "content/books/kamna/ch_08.json"
     },
@@ -97,7 +97,7 @@
       "number": 9,
       "title": "2.3",
       "block_count": 50,
-      "word_count": 482,
+      "word_count": 479,
       "estimated_minutes": 3,
       "file": "content/books/kamna/ch_09.json"
     },
@@ -106,7 +106,7 @@
       "number": 10,
       "title": "2.4",
       "block_count": 39,
-      "word_count": 924,
+      "word_count": 923,
       "estimated_minutes": 5,
       "file": "content/books/kamna/ch_10.json"
     },
@@ -142,7 +142,7 @@
       "number": 14,
       "title": "2.8",
       "block_count": 70,
-      "word_count": 769,
+      "word_count": 764,
       "estimated_minutes": 4,
       "file": "content/books/kamna/ch_14.json"
     },
@@ -160,7 +160,7 @@
       "number": 16,
       "title": "3.2",
       "block_count": 106,
-      "word_count": 1514,
+      "word_count": 1512,
       "estimated_minutes": 8,
       "file": "content/books/kamna/ch_16.json"
     },
@@ -223,7 +223,7 @@
       "number": 23,
       "title": "पुस्तक विज्ञापन",
       "block_count": 109,
-      "word_count": 3697,
+      "word_count": 3696,
       "estimated_minutes": 21,
       "file": "content/books/kamna/ch_23.json"
     }

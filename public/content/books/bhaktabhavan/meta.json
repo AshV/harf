@@ -17,16 +17,16 @@
     "riti kavya",
     "krishna bhakti"
   ],
-  "total_words": 36544,
+  "total_words": 36437,
   "total_chapters": 12,
-  "estimated_reading_minutes": 203,
+  "estimated_reading_minutes": 202,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "भूमिका व मंगलाचरण",
       "block_count": 231,
-      "word_count": 6716,
+      "word_count": 6703,
       "estimated_minutes": 37,
       "file": "content/books/bhaktabhavan/ch_01.json"
     },
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "यमुना लहरी",
       "block_count": 595,
-      "word_count": 6454,
+      "word_count": 6418,
       "estimated_minutes": 36,
       "file": "content/books/bhaktabhavan/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "कृष्णचंद्रजू के नखशिख",
       "block_count": 308,
-      "word_count": 3387,
+      "word_count": 3379,
       "estimated_minutes": 19,
       "file": "content/books/bhaktabhavan/ch_03.json"
     },
@@ -71,7 +71,7 @@
       "number": 6,
       "title": "षट्ऋतु वर्णन",
       "block_count": 562,
-      "word_count": 6139,
+      "word_count": 6127,
       "estimated_minutes": 34,
       "file": "content/books/bhaktabhavan/ch_06.json"
     },
@@ -80,7 +80,7 @@
       "number": 7,
       "title": "कृष्णाष्टक",
       "block_count": 158,
-      "word_count": 1776,
+      "word_count": 1774,
       "estimated_minutes": 10,
       "file": "content/books/bhaktabhavan/ch_07.json"
     },
@@ -89,7 +89,7 @@
       "number": 8,
       "title": "राधाष्टक",
       "block_count": 41,
-      "word_count": 435,
+      "word_count": 433,
       "estimated_minutes": 2,
       "file": "content/books/bhaktabhavan/ch_08.json"
     },
@@ -98,7 +98,7 @@
       "number": 9,
       "title": "दशमहाविज्ञान की स्तुति",
       "block_count": 62,
-      "word_count": 680,
+      "word_count": 676,
       "estimated_minutes": 4,
       "file": "content/books/bhaktabhavan/ch_09.json"
     },
@@ -107,7 +107,7 @@
       "number": 10,
       "title": "ज्वालाष्टक",
       "block_count": 301,
-      "word_count": 3269,
+      "word_count": 3263,
       "estimated_minutes": 18,
       "file": "content/books/bhaktabhavan/ch_10.json"
     },
@@ -125,8 +125,8 @@
       "number": 12,
       "title": "प्रस्तावक नीति",
       "block_count": 540,
-      "word_count": 5491,
-      "estimated_minutes": 31,
+      "word_count": 5467,
+      "estimated_minutes": 30,
       "file": "content/books/bhaktabhavan/ch_12.json"
     }
   ]

@@ -18,7 +18,7 @@
     "karun ras",
     "kavita"
   ],
-  "total_words": 42823,
+  "total_words": 42803,
   "total_chapters": 19,
   "estimated_reading_minutes": 238,
   "chapters": [
@@ -27,7 +27,7 @@
       "number": 1,
       "title": "वक्तव्य — कवि का निवेदन",
       "block_count": 102,
-      "word_count": 5501,
+      "word_count": 5499,
       "estimated_minutes": 31,
       "file": "content/books/vaidehi-vanvas/ch_01.json"
     },
@@ -152,8 +152,8 @@
       "id": "ch_15",
       "number": 15,
       "title": "सर्ग १४ — दाम्पत्य-दिव्यता",
-      "block_count": 677,
-      "word_count": 4478,
+      "block_count": 674,
+      "word_count": 4460,
       "estimated_minutes": 25,
       "file": "content/books/vaidehi-vanvas/ch_15.json"
     },

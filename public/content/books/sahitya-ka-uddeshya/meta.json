@@ -18,9 +18,9 @@
     "essays",
     "nibandh"
   ],
-  "total_words": 86593,
+  "total_words": 86469,
   "total_chapters": 39,
-  "estimated_reading_minutes": 481,
+  "estimated_reading_minutes": 480,
   "chapters": [
     {
       "id": "ch_01",
@@ -152,8 +152,8 @@
       "id": "ch_15",
       "number": 15,
       "title": "निबंध १५ — फिल्म और साहित्य",
-      "block_count": 36,
-      "word_count": 3860,
+      "block_count": 35,
+      "word_count": 3736,
       "estimated_minutes": 21,
       "file": "content/books/sahitya-ka-uddeshya/ch_15.json"
     },

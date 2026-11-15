@@ -18,7 +18,7 @@
     "cambodia",
     "nibandh"
   ],
-  "total_words": 32763,
+  "total_words": 32707,
   "total_chapters": 15,
   "estimated_reading_minutes": 182,
   "chapters": [
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "निबंध — पुरातत्त्व का पूर्वेतिहास",
       "block_count": 55,
-      "word_count": 4380,
+      "word_count": 4371,
       "estimated_minutes": 24,
       "file": "content/books/puratattva-prasang/ch_02.json"
     },
@@ -45,7 +45,7 @@
       "number": 3,
       "title": "निबंध — अफ़ग़ानिस्तान में बौद्धकालीन चिन्ह",
       "block_count": 22,
-      "word_count": 1979,
+      "word_count": 1977,
       "estimated_minutes": 11,
       "file": "content/books/puratattva-prasang/ch_03.json"
     },
@@ -63,7 +63,7 @@
       "number": 5,
       "title": "निबंध — सुमात्रा और जात्रा आदि द्वीपों में प्राचीन हिन्दू-सभ्यता",
       "block_count": 51,
-      "word_count": 3600,
+      "word_count": 3599,
       "estimated_minutes": 20,
       "file": "content/books/puratattva-prasang/ch_05.json"
     },
@@ -99,7 +99,7 @@
       "number": 9,
       "title": "निबंध — प्राचीन हिन्दुओं की समुद्र-यात्रा",
       "block_count": 94,
-      "word_count": 3384,
+      "word_count": 3344,
       "estimated_minutes": 19,
       "file": "content/books/puratattva-prasang/ch_09.json"
     },
@@ -108,7 +108,7 @@
       "number": 10,
       "title": "निबंध — महात्मा अगस्त्य की महत्ता",
       "block_count": 15,
-      "word_count": 1533,
+      "word_count": 1532,
       "estimated_minutes": 9,
       "file": "content/books/puratattva-prasang/ch_10.json"
     },
@@ -134,8 +134,8 @@
       "id": "ch_13",
       "number": 13,
       "title": "निबंध — मिशमी जाति",
-      "block_count": 26,
-      "word_count": 1858,
+      "block_count": 25,
+      "word_count": 1855,
       "estimated_minutes": 10,
       "file": "content/books/puratattva-prasang/ch_13.json"
     },

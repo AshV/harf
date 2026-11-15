@@ -18,7 +18,7 @@
     "fantasy novel",
     "part 4"
   ],
-  "total_words": 111274,
+  "total_words": 111271,
   "total_chapters": 48,
   "estimated_reading_minutes": 618,
   "chapters": [
@@ -171,7 +171,7 @@
       "number": 17,
       "title": "बयान 14.4",
       "block_count": 66,
-      "word_count": 3188,
+      "word_count": 3187,
       "estimated_minutes": 18,
       "file": "content/books/chandrakanta-santati-4/ch_17.json"
     },
@@ -189,7 +189,7 @@
       "number": 19,
       "title": "बयान 14.6",
       "block_count": 111,
-      "word_count": 3473,
+      "word_count": 3471,
       "estimated_minutes": 19,
       "file": "content/books/chandrakanta-santati-4/ch_19.json"
     },

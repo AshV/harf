@@ -19,16 +19,16 @@
     "pavan dootika",
     "mangala prasad"
   ],
-  "total_words": 45709,
+  "total_words": 42173,
   "total_chapters": 17,
-  "estimated_reading_minutes": 254,
+  "estimated_reading_minutes": 234,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "प्रथम सर्ग — दिवस का अवसान व गोकुल की विरह-व्यथा",
       "block_count": 187,
-      "word_count": 1107,
+      "word_count": 1005,
       "estimated_minutes": 6,
       "file": "content/books/priyapravas/ch_01.json"
     },
@@ -36,9 +36,9 @@
       "id": "ch_02",
       "number": 2,
       "title": "दूसरा सर्ग — माता यशोदा का वात्सल्य-विलाप",
-      "block_count": 258,
-      "word_count": 1559,
-      "estimated_minutes": 9,
+      "block_count": 257,
+      "word_count": 1417,
+      "estimated_minutes": 8,
       "file": "content/books/priyapravas/ch_02.json"
     },
     {
@@ -46,7 +46,7 @@
       "number": 3,
       "title": "तीसरा सर्ग — नंदराज की चिंता व विरह-शोक",
       "block_count": 216,
-      "word_count": 1330,
+      "word_count": 1194,
       "estimated_minutes": 7,
       "file": "content/books/priyapravas/ch_03.json"
     },
@@ -55,7 +55,7 @@
       "number": 4,
       "title": "चौथा सर्ग — गोकुल में प्रभात व विरह-जागरण",
       "block_count": 187,
-      "word_count": 1340,
+      "word_count": 1208,
       "estimated_minutes": 7,
       "file": "content/books/priyapravas/ch_04.json"
     },
@@ -64,8 +64,8 @@
       "number": 5,
       "title": "पाँचवाँ सर्ग — ब्रजवासियों का मथुरा गमन व विदाई",
       "block_count": 254,
-      "word_count": 2261,
-      "estimated_minutes": 13,
+      "word_count": 2118,
+      "estimated_minutes": 12,
       "file": "content/books/priyapravas/ch_05.json"
     },
     {
@@ -73,8 +73,8 @@
       "number": 6,
       "title": "छठा सर्ग — श्रीकृष्ण का संदेश व मथुरा की स्थिति",
       "block_count": 335,
-      "word_count": 3033,
-      "estimated_minutes": 17,
+      "word_count": 2852,
+      "estimated_minutes": 16,
       "file": "content/books/priyapravas/ch_06.json"
     },
     {
@@ -82,8 +82,8 @@
       "number": 7,
       "title": "सातवाँ सर्ग — अक्रूर व उद्धव का परामर्श",
       "block_count": 258,
-      "word_count": 2165,
-      "estimated_minutes": 12,
+      "word_count": 2043,
+      "estimated_minutes": 11,
       "file": "content/books/priyapravas/ch_07.json"
     },
     {
@@ -91,7 +91,7 @@
       "number": 8,
       "title": "आठवाँ सर्ग — गोकुल की विरह-वेदना व प्रकृति",
       "block_count": 168,
-      "word_count": 1310,
+      "word_count": 1170,
       "estimated_minutes": 7,
       "file": "content/books/priyapravas/ch_08.json"
     },
@@ -100,8 +100,8 @@
       "number": 9,
       "title": "नवाँ सर्ग — गोपियों का आर्तनाद व विरह-संवाद",
       "block_count": 509,
-      "word_count": 3346,
-      "estimated_minutes": 19,
+      "word_count": 3045,
+      "estimated_minutes": 17,
       "file": "content/books/priyapravas/ch_09.json"
     },
     {
@@ -109,8 +109,8 @@
       "number": 10,
       "title": "दसवाँ सर्ग — राधा की अंतर्वेदना व विरह-तप",
       "block_count": 397,
-      "word_count": 3592,
-      "estimated_minutes": 20,
+      "word_count": 3321,
+      "estimated_minutes": 18,
       "file": "content/books/priyapravas/ch_10.json"
     },
     {
@@ -118,17 +118,17 @@
       "number": 11,
       "title": "ग्यारहवाँ सर्ग — उद्धव का गोकुल आगमन",
       "block_count": 400,
-      "word_count": 2632,
-      "estimated_minutes": 15,
+      "word_count": 2425,
+      "estimated_minutes": 13,
       "file": "content/books/priyapravas/ch_11.json"
     },
     {
       "id": "ch_12",
       "number": 12,
       "title": "बारहवाँ सर्ग — उद्धव व माता यशोदा का संवाद",
-      "block_count": 410,
-      "word_count": 2766,
-      "estimated_minutes": 15,
+      "block_count": 409,
+      "word_count": 2533,
+      "estimated_minutes": 14,
       "file": "content/books/priyapravas/ch_12.json"
     },
     {
@@ -136,8 +136,8 @@
       "number": 13,
       "title": "तेरहवाँ सर्ग — उद्धव-गोपी संवाद व भ्रमरगीत सार",
       "block_count": 408,
-      "word_count": 2806,
-      "estimated_minutes": 16,
+      "word_count": 2570,
+      "estimated_minutes": 14,
       "file": "content/books/priyapravas/ch_13.json"
     },
     {
@@ -145,17 +145,17 @@
       "number": 14,
       "title": "चौदहवाँ सर्ग — पवन-दूतिका प्रसंग व संदेश",
       "block_count": 593,
-      "word_count": 4935,
-      "estimated_minutes": 27,
+      "word_count": 4603,
+      "estimated_minutes": 26,
       "file": "content/books/priyapravas/ch_14.json"
     },
     {
       "id": "ch_15",
       "number": 15,
       "title": "पंद्रहवाँ सर्ग — राधा-उद्धव साक्षात्कार",
-      "block_count": 521,
-      "word_count": 4268,
-      "estimated_minutes": 24,
+      "block_count": 516,
+      "word_count": 3932,
+      "estimated_minutes": 22,
       "file": "content/books/priyapravas/ch_15.json"
     },
     {
@@ -163,8 +163,8 @@
       "number": 16,
       "title": "सोलहवाँ सर्ग — राधा का विश्व-प्रेम व लोक-सेवा संकल्प",
       "block_count": 557,
-      "word_count": 4662,
-      "estimated_minutes": 26,
+      "word_count": 4258,
+      "estimated_minutes": 24,
       "file": "content/books/priyapravas/ch_16.json"
     },
     {
@@ -172,7 +172,7 @@
       "number": 17,
       "title": "सत्रहवाँ सर्ग — उद्धव का मथुरा लौटना व श्रीकृष्ण का लोक-कल्याण संदेश",
       "block_count": 232,
-      "word_count": 2597,
+      "word_count": 2479,
       "estimated_minutes": 14,
       "file": "content/books/priyapravas/ch_17.json"
     }

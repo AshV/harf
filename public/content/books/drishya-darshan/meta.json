@@ -17,7 +17,7 @@
     "gwalior fort",
     "daulatabad"
   ],
-  "total_words": 34315,
+  "total_words": 34314,
   "total_chapters": 13,
   "estimated_reading_minutes": 191,
   "chapters": [
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "जयपुर।",
       "block_count": 5,
-      "word_count": 1140,
+      "word_count": 1139,
       "estimated_minutes": 6,
       "file": "content/books/drishya-darshan/ch_05.json"
     },

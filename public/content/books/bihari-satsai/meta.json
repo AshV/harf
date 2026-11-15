@@ -19,16 +19,16 @@
     "neeti",
     "bhakti"
   ],
-  "total_words": 130337,
+  "total_words": 130160,
   "total_chapters": 8,
-  "estimated_reading_minutes": 724,
+  "estimated_reading_minutes": 723,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "प्रथम प्रकाश — मंगलाचरण व शृंगार दोहावली",
       "block_count": 282,
-      "word_count": 19327,
+      "word_count": 19200,
       "estimated_minutes": 107,
       "file": "content/books/bihari-satsai/ch_01.json"
     },
@@ -64,8 +64,8 @@
       "number": 5,
       "title": "पंचम प्रकाश — ऋतु-वर्णन व उद्दीपन",
       "block_count": 77,
-      "word_count": 17192,
-      "estimated_minutes": 96,
+      "word_count": 17182,
+      "estimated_minutes": 95,
       "file": "content/books/bihari-satsai/ch_05.json"
     },
     {
@@ -82,7 +82,7 @@
       "number": 7,
       "title": "सप्तम प्रकाश — भक्ति, वैराग्य व आत्म-निवेदन",
       "block_count": 139,
-      "word_count": 16944,
+      "word_count": 16904,
       "estimated_minutes": 94,
       "file": "content/books/bihari-satsai/ch_07.json"
     },

@@ -17,7 +17,7 @@
     "classic stories",
     "kahani"
   ],
-  "total_words": 22348,
+  "total_words": 22332,
   "total_chapters": 8,
   "estimated_reading_minutes": 124,
   "chapters": [
@@ -43,8 +43,8 @@
       "id": "ch_03",
       "number": 3,
       "title": "कहानी — प्रस्तावना",
-      "block_count": 87,
-      "word_count": 445,
+      "block_count": 85,
+      "word_count": 429,
       "estimated_minutes": 2,
       "file": "content/books/paanch-phool/ch_03.json"
     },

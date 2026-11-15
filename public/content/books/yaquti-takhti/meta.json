@@ -16,7 +16,7 @@
     "mystery",
     "early hindi novel"
   ],
-  "total_words": 25131,
+  "total_words": 25127,
   "total_chapters": 13,
   "estimated_reading_minutes": 140,
   "chapters": [
@@ -115,7 +115,7 @@
       "number": 11,
       "title": "परिच्छेद ११",
       "block_count": 32,
-      "word_count": 1459,
+      "word_count": 1457,
       "estimated_minutes": 8,
       "file": "content/books/yaquti-takhti/ch_11.json"
     },
@@ -133,7 +133,7 @@
       "number": 13,
       "title": "परिच्छेद १४",
       "block_count": 32,
-      "word_count": 1459,
+      "word_count": 1457,
       "estimated_minutes": 8,
       "file": "content/books/yaquti-takhti/ch_13.json"
     }

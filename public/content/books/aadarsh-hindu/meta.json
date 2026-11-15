@@ -17,16 +17,16 @@
     "kashi",
     "upanyas"
   ],
-  "total_words": 151363,
+  "total_words": 151072,
   "total_chapters": 70,
-  "estimated_reading_minutes": 841,
+  "estimated_reading_minutes": 839,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "१ दंपती की पहाड़ी सैर",
       "block_count": 31,
-      "word_count": 2123,
+      "word_count": 2122,
       "estimated_minutes": 12,
       "file": "content/books/aadarsh-hindu/ch_01.json"
     },
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "१० बंदर चौबे और उनकी गृहिणी",
       "block_count": 59,
-      "word_count": 2352,
+      "word_count": 2343,
       "estimated_minutes": 13,
       "file": "content/books/aadarsh-hindu/ch_02.json"
     },
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "११ सुखदा—नहीं दुःखदा",
       "block_count": 19,
-      "word_count": 1982,
+      "word_count": 1980,
       "estimated_minutes": 11,
       "file": "content/books/aadarsh-hindu/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "१२ सुखदा की सहेली",
       "block_count": 10,
-      "word_count": 1556,
+      "word_count": 1554,
       "estimated_minutes": 9,
       "file": "content/books/aadarsh-hindu/ch_04.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "१३ गृहचरित्र",
       "block_count": 22,
-      "word_count": 2021,
+      "word_count": 2020,
       "estimated_minutes": 11,
       "file": "content/books/aadarsh-hindu/ch_05.json"
     },
@@ -71,7 +71,7 @@
       "number": 6,
       "title": "१४ ब्रजयात्रा की झलक और कृष्णचरित्र",
       "block_count": 90,
-      "word_count": 3188,
+      "word_count": 3184,
       "estimated_minutes": 18,
       "file": "content/books/aadarsh-hindu/ch_06.json"
     },
@@ -80,7 +80,7 @@
       "number": 7,
       "title": "१५ बूढ़े की घबड़ाहट",
       "block_count": 46,
-      "word_count": 2858,
+      "word_count": 2853,
       "estimated_minutes": 16,
       "file": "content/books/aadarsh-hindu/ch_07.json"
     },
@@ -89,7 +89,7 @@
       "number": 8,
       "title": "१६ घबड़ाहट का अंत",
       "block_count": 10,
-      "word_count": 982,
+      "word_count": 979,
       "estimated_minutes": 5,
       "file": "content/books/aadarsh-hindu/ch_08.json"
     },
@@ -98,7 +98,7 @@
       "number": 9,
       "title": "१७ स्टेशन का सीन",
       "block_count": 14,
-      "word_count": 3114,
+      "word_count": 3111,
       "estimated_minutes": 17,
       "file": "content/books/aadarsh-hindu/ch_09.json"
     },
@@ -107,7 +107,7 @@
       "number": 10,
       "title": "१८ प्रियंवदा से छेड़छाड़",
       "block_count": 11,
-      "word_count": 2175,
+      "word_count": 2173,
       "estimated_minutes": 12,
       "file": "content/books/aadarsh-hindu/ch_10.json"
     },
@@ -116,7 +116,7 @@
       "number": 11,
       "title": "१९ प्रयागी पंडे",
       "block_count": 14,
-      "word_count": 2054,
+      "word_count": 2051,
       "estimated_minutes": 11,
       "file": "content/books/aadarsh-hindu/ch_11.json"
     },
@@ -125,7 +125,7 @@
       "number": 12,
       "title": "२ पुत्रकामना",
       "block_count": 40,
-      "word_count": 1722,
+      "word_count": 1717,
       "estimated_minutes": 10,
       "file": "content/books/aadarsh-hindu/ch_12.json"
     },
@@ -134,7 +134,7 @@
       "number": 13,
       "title": "२० प्रयाग प्रशंसा",
       "block_count": 88,
-      "word_count": 1765,
+      "word_count": 1762,
       "estimated_minutes": 10,
       "file": "content/books/aadarsh-hindu/ch_13.json"
     },
@@ -143,7 +143,7 @@
       "number": 14,
       "title": "२१ त्रिवेणी संगम",
       "block_count": 67,
-      "word_count": 2980,
+      "word_count": 2978,
       "estimated_minutes": 17,
       "file": "content/books/aadarsh-hindu/ch_14.json"
     },
@@ -152,7 +152,7 @@
       "number": 15,
       "title": "२२ व्यभिचार में प्रवृत्ति",
       "block_count": 20,
-      "word_count": 1995,
+      "word_count": 1993,
       "estimated_minutes": 11,
       "file": "content/books/aadarsh-hindu/ch_15.json"
     },
@@ -161,7 +161,7 @@
       "number": 16,
       "title": "२३ बच गई",
       "block_count": 30,
-      "word_count": 2614,
+      "word_count": 2612,
       "estimated_minutes": 15,
       "file": "content/books/aadarsh-hindu/ch_16.json"
     },
@@ -170,7 +170,7 @@
       "number": 17,
       "title": "३ बूढ़े का गृहराज्य",
       "block_count": 17,
-      "word_count": 2002,
+      "word_count": 2000,
       "estimated_minutes": 11,
       "file": "content/books/aadarsh-hindu/ch_17.json"
     },
@@ -179,7 +179,7 @@
       "number": 18,
       "title": "४ प्रियंवदा की सुशिक्षा",
       "block_count": 21,
-      "word_count": 2196,
+      "word_count": 2193,
       "estimated_minutes": 12,
       "file": "content/books/aadarsh-hindu/ch_18.json"
     },
@@ -188,7 +188,7 @@
       "number": 19,
       "title": "५ भूत की लीला",
       "block_count": 30,
-      "word_count": 1899,
+      "word_count": 1893,
       "estimated_minutes": 11,
       "file": "content/books/aadarsh-hindu/ch_19.json"
     },
@@ -197,7 +197,7 @@
       "number": 20,
       "title": "६ कर्कशा सुखदा",
       "block_count": 13,
-      "word_count": 1968,
+      "word_count": 1966,
       "estimated_minutes": 11,
       "file": "content/books/aadarsh-hindu/ch_20.json"
     },
@@ -206,7 +206,7 @@
       "number": 21,
       "title": "७ रेल की हड़ताल",
       "block_count": 12,
-      "word_count": 1982,
+      "word_count": 1980,
       "estimated_minutes": 11,
       "file": "content/books/aadarsh-hindu/ch_21.json"
     },
@@ -215,7 +215,7 @@
       "number": 22,
       "title": "८ आलसी भोला",
       "block_count": 20,
-      "word_count": 2040,
+      "word_count": 2037,
       "estimated_minutes": 11,
       "file": "content/books/aadarsh-hindu/ch_22.json"
     },
@@ -224,7 +224,7 @@
       "number": 23,
       "title": "९ निरक्षर पंडा",
       "block_count": 44,
-      "word_count": 2881,
+      "word_count": 2879,
       "estimated_minutes": 16,
       "file": "content/books/aadarsh-hindu/ch_23.json"
     },
@@ -233,7 +233,7 @@
       "number": 24,
       "title": "प्रकरण-३१ काशी की छटा",
       "block_count": 45,
-      "word_count": 2457,
+      "word_count": 2456,
       "estimated_minutes": 14,
       "file": "content/books/aadarsh-hindu/ch_24.json"
     },
@@ -251,7 +251,7 @@
       "number": 26,
       "title": "प्रकरण-३३ भक्तिरस की अमृत-वृष्टि",
       "block_count": 68,
-      "word_count": 2290,
+      "word_count": 2288,
       "estimated_minutes": 13,
       "file": "content/books/aadarsh-hindu/ch_26.json"
     },
@@ -269,7 +269,7 @@
       "number": 28,
       "title": "प्रकरण-३५ प्रियंवदा या नसीरन",
       "block_count": 31,
-      "word_count": 1222,
+      "word_count": 1221,
       "estimated_minutes": 7,
       "file": "content/books/aadarsh-hindu/ch_28.json"
     },
@@ -287,7 +287,7 @@
       "number": 30,
       "title": "प्रकरण-३७ घुरहू का प्रपंच",
       "block_count": 44,
-      "word_count": 2335,
+      "word_count": 2334,
       "estimated_minutes": 13,
       "file": "content/books/aadarsh-hindu/ch_30.json"
     },
@@ -322,9 +322,9 @@
       "id": "ch_34",
       "number": 34,
       "title": "प्रकरण-४१ व्यापार पर प्रकाश",
-      "block_count": 31,
-      "word_count": 1995,
-      "estimated_minutes": 11,
+      "block_count": 30,
+      "word_count": 1809,
+      "estimated_minutes": 10,
       "file": "content/books/aadarsh-hindu/ch_34.json"
     },
     {
@@ -350,7 +350,7 @@
       "number": 37,
       "title": "प्रकरण-४४ श्राद्ध पर शास्त्रार्थ",
       "block_count": 68,
-      "word_count": 2750,
+      "word_count": 2741,
       "estimated_minutes": 15,
       "file": "content/books/aadarsh-hindu/ch_37.json"
     },
@@ -368,7 +368,7 @@
       "number": 39,
       "title": "प्रकरण-४६ कर्म-फल का खाता",
       "block_count": 76,
-      "word_count": 2425,
+      "word_count": 2413,
       "estimated_minutes": 13,
       "file": "content/books/aadarsh-hindu/ch_39.json"
     },
@@ -377,7 +377,7 @@
       "number": 40,
       "title": "२४ प्रयाग के भिखारी",
       "block_count": 54,
-      "word_count": 2456,
+      "word_count": 2447,
       "estimated_minutes": 14,
       "file": "content/books/aadarsh-hindu/ch_40.json"
     },
@@ -386,7 +386,7 @@
       "number": 41,
       "title": "२५ मांस भक्षण",
       "block_count": 55,
-      "word_count": 1646,
+      "word_count": 1645,
       "estimated_minutes": 9,
       "file": "content/books/aadarsh-hindu/ch_41.json"
     },

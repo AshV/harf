@@ -19,16 +19,16 @@
     "braj bhasha",
     "riti poetry"
   ],
-  "total_words": 17865,
+  "total_words": 17379,
   "total_chapters": 10,
-  "estimated_reading_minutes": 99,
+  "estimated_reading_minutes": 97,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "रहीम का परिचय",
       "block_count": 247,
-      "word_count": 7631,
+      "word_count": 7608,
       "estimated_minutes": 42,
       "file": "content/books/rahim-kavitavali/ch_01.json"
     },
@@ -37,8 +37,8 @@
       "number": 2,
       "title": "दोहे",
       "block_count": 675,
-      "word_count": 5669,
-      "estimated_minutes": 31,
+      "word_count": 5401,
+      "estimated_minutes": 30,
       "file": "content/books/rahim-kavitavali/ch_02.json"
     },
     {
@@ -46,8 +46,8 @@
       "number": 3,
       "title": "सोरठे",
       "block_count": 31,
-      "word_count": 270,
-      "estimated_minutes": 2,
+      "word_count": 256,
+      "estimated_minutes": 1,
       "file": "content/books/rahim-kavitavali/ch_03.json"
     },
     {
@@ -55,8 +55,8 @@
       "number": 4,
       "title": "बरवै नायिका भेद",
       "block_count": 439,
-      "word_count": 2198,
-      "estimated_minutes": 12,
+      "word_count": 2021,
+      "estimated_minutes": 11,
       "file": "content/books/rahim-kavitavali/ch_04.json"
     },
     {
@@ -64,7 +64,7 @@
       "number": 5,
       "title": "ख़ानख़ाना-कृत बरवै",
       "block_count": 59,
-      "word_count": 360,
+      "word_count": 358,
       "estimated_minutes": 2,
       "file": "content/books/rahim-kavitavali/ch_05.json"
     },
@@ -73,7 +73,7 @@
       "number": 6,
       "title": "मदनाष्टक",
       "block_count": 33,
-      "word_count": 221,
+      "word_count": 219,
       "estimated_minutes": 1,
       "file": "content/books/rahim-kavitavali/ch_06.json"
     },

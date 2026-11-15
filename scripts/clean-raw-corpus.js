@@ -17,6 +17,34 @@ function normalizeDevanagari(s) {
     .replace(/ू/g, 'ु');
 }
 
+export function cleanHtmlEntitiesAndArtifacts(text) {
+  if (!text) return '';
+  return text
+    // 1. Remove Word Joiner entity &#8288; and invisible Unicode artifacts
+    .replace(/&#8288;/g, '')
+    .replace(/[\u2060\uFEFF]/g, '')
+    // 2. Decode standard bracket / star / space numeric entities
+    .replace(/&#91;/g, '[')
+    .replace(/&#93;/g, ']')
+    .replace(/&#42;/g, '*')
+    .replace(/&#8195;/g, ' ')
+    // 3. Decode any other numeric entities &#...; or hex entities &#x...;
+    .replace(/&#(\d+);/g, (m, dec) => {
+      const code = parseInt(dec, 10);
+      if (code === 8288 || code === 8203 || code === 65279) return '';
+      if (code === 8195 || code === 8194 || code === 160) return ' ';
+      return String.fromCharCode(code);
+    })
+    .replace(/&#x([0-9a-fA-F]+);/g, (m, hex) => {
+      const code = parseInt(hex, 16);
+      if (code === 0x2060 || code === 0x200B || code === 0xFEFF) return '';
+      if (code === 0x2003 || code === 0x2002 || code === 0x00A0) return ' ';
+      return String.fromCharCode(code);
+    })
+    // 4. Strip wikitext tags
+    .replace(/<\/?(?:poem|noinclude|ref|reg|br|ब्र)[\s\S]*?>/gi, '');
+}
+
 export function cleanBookContent(rawFileContent) {
   const { data: frontmatter, content } = matter(rawFileContent);
   const isPoetry = frontmatter.category === 'कविता';
@@ -25,7 +53,8 @@ export function cleanBookContent(rawFileContent) {
   const normTitle = normalizeDevanagari(bookTitle);
   const normAuthor = normalizeDevanagari(author);
 
-  const rawChapters = content.split(/\n(?=# )/).filter(c => c.trim().length > 0);
+  const cleanContent = cleanHtmlEntitiesAndArtifacts(content);
+  const rawChapters = cleanContent.split(/\n(?=# )/).filter(c => c.trim().length > 0);
   const cleanedChapters = [];
 
   for (const rawCh of rawChapters) {
@@ -238,14 +267,21 @@ export function cleanBookContent(rawFileContent) {
       if (trimmedP.startsWith('#') || trimmedP.startsWith('>')) {
         processedParagraphs.push(trimmedP);
       } else if (isPoetry) {
-        processedParagraphs.push(trimmedP);
+        // Poetry: clean stray indentation on verse lines
+        const cleanStanza = trimmedP
+          .split('\n')
+          .map(l => l.replace(/^[ \t]+/, '').trim())
+          .filter(Boolean)
+          .join('\n');
+        processedParagraphs.push(cleanStanza);
       } else {
         // Prose: join soft-wrapped lines into a single coherent paragraph
         const singleP = trimmedP
           .split('\n')
           .map(l => l.trim())
           .filter(Boolean)
-          .join(' ');
+          .join(' ')
+          .replace(/[ \t]{2,}/g, ' ');
         processedParagraphs.push(singleP);
       }
     }

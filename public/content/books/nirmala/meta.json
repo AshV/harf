@@ -17,7 +17,7 @@
     "dowry",
     "totaram"
   ],
-  "total_words": 24869,
+  "total_words": 24867,
   "total_chapters": 8,
   "estimated_reading_minutes": 138,
   "chapters": [
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "अध्याय ३",
       "block_count": 117,
-      "word_count": 5611,
+      "word_count": 5610,
       "estimated_minutes": 31,
       "file": "content/books/nirmala/ch_03.json"
     },
@@ -80,7 +80,7 @@
       "number": 7,
       "title": "अध्याय ७",
       "block_count": 65,
-      "word_count": 5395,
+      "word_count": 5394,
       "estimated_minutes": 30,
       "file": "content/books/nirmala/ch_07.json"
     },

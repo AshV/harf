@@ -16,7 +16,7 @@
     "hindi drama history",
     "literary criticism"
   ],
-  "total_words": 27011,
+  "total_words": 26997,
   "total_chapters": 12,
   "estimated_reading_minutes": 150,
   "chapters": [
@@ -79,7 +79,7 @@
       "number": 7,
       "title": "७–श्रीचंद्रावली",
       "block_count": 86,
-      "word_count": 2882,
+      "word_count": 2869,
       "estimated_minutes": 16,
       "file": "content/books/natak-aur-rangmanch/ch_07.json"
     },
@@ -106,7 +106,7 @@
       "number": 10,
       "title": "१०–नीलदेवी",
       "block_count": 33,
-      "word_count": 1375,
+      "word_count": 1374,
       "estimated_minutes": 8,
       "file": "content/books/natak-aur-rangmanch/ch_10.json"
     },

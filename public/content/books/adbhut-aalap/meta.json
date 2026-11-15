@@ -17,16 +17,16 @@
     "astronomy",
     "nibandh"
   ],
-  "total_words": 33786,
+  "total_words": 33520,
   "total_chapters": 21,
-  "estimated_reading_minutes": 188,
+  "estimated_reading_minutes": 186,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "निबंध 1 — अंतःसाक्षित्व-विद्या",
       "block_count": 32,
-      "word_count": 2017,
+      "word_count": 2016,
       "estimated_minutes": 11,
       "file": "content/books/adbhut-aalap/ch_01.json"
     },
@@ -35,7 +35,7 @@
       "number": 2,
       "title": "निबंध 2 — आकाश में निराधार स्थिति",
       "block_count": 36,
-      "word_count": 3466,
+      "word_count": 3464,
       "estimated_minutes": 19,
       "file": "content/books/adbhut-aalap/ch_02.json"
     },
@@ -43,9 +43,9 @@
       "id": "ch_03",
       "number": 3,
       "title": "निबंध 3 — एक योगी की साप्ताहिक समाधि",
-      "block_count": 21,
-      "word_count": 2002,
-      "estimated_minutes": 11,
+      "block_count": 20,
+      "word_count": 1856,
+      "estimated_minutes": 10,
       "file": "content/books/adbhut-aalap/ch_03.json"
     },
     {
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "निबंध 4 — एक ही शरीर में अनेक आत्माएँ",
       "block_count": 52,
-      "word_count": 3385,
+      "word_count": 3384,
       "estimated_minutes": 19,
       "file": "content/books/adbhut-aalap/ch_04.json"
     },
@@ -62,7 +62,7 @@
       "number": 5,
       "title": "निबंध 5 — क्या जानवर भी सोचते हैं?",
       "block_count": 8,
-      "word_count": 1053,
+      "word_count": 1052,
       "estimated_minutes": 6,
       "file": "content/books/adbhut-aalap/ch_05.json"
     },
@@ -71,7 +71,7 @@
       "number": 6,
       "title": "निबंध 6 — दिव्य दृष्टि",
       "block_count": 8,
-      "word_count": 925,
+      "word_count": 924,
       "estimated_minutes": 5,
       "file": "content/books/adbhut-aalap/ch_06.json"
     },
@@ -80,7 +80,7 @@
       "number": 7,
       "title": "निबंध 7 — परलोक से प्राप्त हुए पत्र",
       "block_count": 39,
-      "word_count": 1868,
+      "word_count": 1864,
       "estimated_minutes": 10,
       "file": "content/books/adbhut-aalap/ch_07.json"
     },
@@ -89,7 +89,7 @@
       "number": 8,
       "title": "निबंध 8 — परिचित्त-विज्ञान-विद्या",
       "block_count": 22,
-      "word_count": 2463,
+      "word_count": 2461,
       "estimated_minutes": 14,
       "file": "content/books/adbhut-aalap/ch_08.json"
     },
@@ -98,7 +98,7 @@
       "number": 9,
       "title": "निबंध 9 — मनुष्येतर जीवों का अंतर्ज्ञान",
       "block_count": 7,
-      "word_count": 1460,
+      "word_count": 1457,
       "estimated_minutes": 8,
       "file": "content/books/adbhut-aalap/ch_09.json"
     },
@@ -115,9 +115,9 @@
       "id": "ch_11",
       "number": 11,
       "title": "निबंध 11 — पशुओं में बोलने की शक्ति",
-      "block_count": 18,
-      "word_count": 1049,
-      "estimated_minutes": 6,
+      "block_count": 17,
+      "word_count": 949,
+      "estimated_minutes": 5,
       "file": "content/books/adbhut-aalap/ch_11.json"
     },
     {
@@ -134,8 +134,8 @@
       "number": 13,
       "title": "निबंध 13 — एक हिसाबी कुत्ता",
       "block_count": 7,
-      "word_count": 810,
-      "estimated_minutes": 5,
+      "word_count": 809,
+      "estimated_minutes": 4,
       "file": "content/books/adbhut-aalap/ch_13.json"
     },
     {
@@ -143,7 +143,7 @@
       "number": 14,
       "title": "निबंध 14 — बंदरों की भाषा",
       "block_count": 7,
-      "word_count": 639,
+      "word_count": 638,
       "estimated_minutes": 4,
       "file": "content/books/adbhut-aalap/ch_14.json"
     },
@@ -197,7 +197,7 @@
       "number": 20,
       "title": "निबंध 20 — अद्भुत इंद्रजाल",
       "block_count": 16,
-      "word_count": 2116,
+      "word_count": 2114,
       "estimated_minutes": 12,
       "file": "content/books/adbhut-aalap/ch_20.json"
     },
@@ -206,7 +206,7 @@
       "number": 21,
       "title": "निबंध 21 — प्राचीन मेक्सिको में नरमेध-यज्ञ",
       "block_count": 15,
-      "word_count": 1357,
+      "word_count": 1356,
       "estimated_minutes": 8,
       "file": "content/books/adbhut-aalap/ch_21.json"
     }

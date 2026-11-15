@@ -3,7 +3,7 @@
   "chapter_id": "ch_10",
   "number": 10,
   "title": "तलवार",
-  "word_count": 366,
+  "word_count": 363,
   "blocks": [
     {
       "id": "b_1",
@@ -23,7 +23,7 @@
     {
       "id": "b_4",
       "type": "p",
-      "text": "&#8288; x &#8288; x &#8288; x"
+      "text": "x x x"
     },
     {
       "id": "b_5",

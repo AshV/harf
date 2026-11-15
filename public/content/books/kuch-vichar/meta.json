@@ -17,9 +17,9 @@
     "nibandh",
     "literary criticism"
   ],
-  "total_words": 42030,
+  "total_words": 41651,
   "total_chapters": 11,
-  "estimated_reading_minutes": 234,
+  "estimated_reading_minutes": 231,
   "chapters": [
     {
       "id": "ch_01",
@@ -34,9 +34,9 @@
       "id": "ch_02",
       "number": 2,
       "title": "कहानी-कला (भाग १)",
-      "block_count": 5,
-      "word_count": 1381,
-      "estimated_minutes": 8,
+      "block_count": 3,
+      "word_count": 1004,
+      "estimated_minutes": 6,
       "file": "content/books/kuch-vichar/ch_02.json"
     },
     {
@@ -89,7 +89,7 @@
       "number": 8,
       "title": "एक भाषण",
       "block_count": 36,
-      "word_count": 5837,
+      "word_count": 5835,
       "estimated_minutes": 32,
       "file": "content/books/kuch-vichar/ch_08.json"
     },

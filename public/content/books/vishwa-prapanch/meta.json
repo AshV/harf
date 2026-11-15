@@ -18,16 +18,16 @@
     "evolution",
     "universe"
   ],
-  "total_words": 69580,
+  "total_words": 68518,
   "total_chapters": 18,
-  "estimated_reading_minutes": 387,
+  "estimated_reading_minutes": 381,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "आठवाँ प्रकरण",
       "block_count": 22,
-      "word_count": 2277,
+      "word_count": 2274,
       "estimated_minutes": 13,
       "file": "content/books/vishwa-prapanch/ch_01.json"
     },
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "चौथा प्रकरण",
       "block_count": 36,
-      "word_count": 3125,
+      "word_count": 3121,
       "estimated_minutes": 17,
       "file": "content/books/vishwa-prapanch/ch_02.json"
     },
@@ -45,7 +45,7 @@
       "number": 3,
       "title": "छठा प्रकरण",
       "block_count": 43,
-      "word_count": 4630,
+      "word_count": 4628,
       "estimated_minutes": 26,
       "file": "content/books/vishwa-prapanch/ch_03.json"
     },
@@ -54,7 +54,7 @@
       "number": 4,
       "title": "तीसरा प्रकरण",
       "block_count": 15,
-      "word_count": 1927,
+      "word_count": 1925,
       "estimated_minutes": 11,
       "file": "content/books/vishwa-prapanch/ch_04.json"
     },
@@ -63,7 +63,7 @@
       "number": 5,
       "title": "दसवाँ प्रकरण",
       "block_count": 31,
-      "word_count": 2725,
+      "word_count": 2724,
       "estimated_minutes": 15,
       "file": "content/books/vishwa-prapanch/ch_05.json"
     },
@@ -72,7 +72,7 @@
       "number": 6,
       "title": "दूसरा प्रकरण",
       "block_count": 25,
-      "word_count": 2760,
+      "word_count": 2759,
       "estimated_minutes": 15,
       "file": "content/books/vishwa-prapanch/ch_06.json"
     },
@@ -81,7 +81,7 @@
       "number": 7,
       "title": "नवाँ प्रकरण",
       "block_count": 39,
-      "word_count": 4344,
+      "word_count": 4341,
       "estimated_minutes": 24,
       "file": "content/books/vishwa-prapanch/ch_07.json"
     },
@@ -89,9 +89,9 @@
       "id": "ch_08",
       "number": 8,
       "title": "पहला प्रकरण",
-      "block_count": 44,
-      "word_count": 3369,
-      "estimated_minutes": 19,
+      "block_count": 42,
+      "word_count": 3117,
+      "estimated_minutes": 17,
       "file": "content/books/vishwa-prapanch/ch_08.json"
     },
     {
@@ -99,7 +99,7 @@
       "number": 9,
       "title": "पांचवाँ प्रकरण",
       "block_count": 24,
-      "word_count": 2962,
+      "word_count": 2961,
       "estimated_minutes": 16,
       "file": "content/books/vishwa-prapanch/ch_09.json"
     },
@@ -108,7 +108,7 @@
       "number": 10,
       "title": "भूमिका/१",
       "block_count": 40,
-      "word_count": 6050,
+      "word_count": 6046,
       "estimated_minutes": 34,
       "file": "content/books/vishwa-prapanch/ch_10.json"
     },
@@ -117,7 +117,7 @@
       "number": 11,
       "title": "भूमिका/२",
       "block_count": 33,
-      "word_count": 5138,
+      "word_count": 5137,
       "estimated_minutes": 29,
       "file": "content/books/vishwa-prapanch/ch_11.json"
     },
@@ -126,7 +126,7 @@
       "number": 12,
       "title": "भूमिका/३",
       "block_count": 25,
-      "word_count": 5792,
+      "word_count": 5791,
       "estimated_minutes": 32,
       "file": "content/books/vishwa-prapanch/ch_12.json"
     },
@@ -134,9 +134,9 @@
       "id": "ch_13",
       "number": 13,
       "title": "भूमिका/४",
-      "block_count": 47,
-      "word_count": 5213,
-      "estimated_minutes": 29,
+      "block_count": 43,
+      "word_count": 4437,
+      "estimated_minutes": 25,
       "file": "content/books/vishwa-prapanch/ch_13.json"
     },
     {
@@ -144,7 +144,7 @@
       "number": 14,
       "title": "भूमिका/५",
       "block_count": 29,
-      "word_count": 3312,
+      "word_count": 3310,
       "estimated_minutes": 18,
       "file": "content/books/vishwa-prapanch/ch_14.json"
     },
@@ -153,7 +153,7 @@
       "number": 15,
       "title": "भूमिका/६",
       "block_count": 29,
-      "word_count": 3102,
+      "word_count": 3101,
       "estimated_minutes": 17,
       "file": "content/books/vishwa-prapanch/ch_15.json"
     },
@@ -162,7 +162,7 @@
       "number": 16,
       "title": "भूमिका/७",
       "block_count": 32,
-      "word_count": 3778,
+      "word_count": 3775,
       "estimated_minutes": 21,
       "file": "content/books/vishwa-prapanch/ch_16.json"
     },
@@ -171,7 +171,7 @@
       "number": 17,
       "title": "भूमिका/८",
       "block_count": 27,
-      "word_count": 3407,
+      "word_count": 3405,
       "estimated_minutes": 19,
       "file": "content/books/vishwa-prapanch/ch_17.json"
     },
@@ -180,7 +180,7 @@
       "number": 18,
       "title": "सातवाँ प्रकरण",
       "block_count": 62,
-      "word_count": 5669,
+      "word_count": 5666,
       "estimated_minutes": 31,
       "file": "content/books/vishwa-prapanch/ch_18.json"
     }

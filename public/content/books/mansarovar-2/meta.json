@@ -17,7 +17,7 @@
     "doodh ka daam",
     "hindi kahaniya"
   ],
-  "total_words": 107064,
+  "total_words": 107060,
   "total_chapters": 25,
   "estimated_reading_minutes": 595,
   "chapters": [
@@ -26,7 +26,7 @@
       "number": 1,
       "title": "१ कुसुम‌",
       "block_count": 79,
-      "word_count": 7080,
+      "word_count": 7077,
       "estimated_minutes": 39,
       "file": "content/books/mansarovar-2/ch_01.json"
     },
@@ -143,7 +143,7 @@
       "number": 14,
       "title": "२२ क़ानूनी कुमार",
       "block_count": 80,
-      "word_count": 3611,
+      "word_count": 3610,
       "estimated_minutes": 20,
       "file": "content/books/mansarovar-2/ch_14.json"
     },

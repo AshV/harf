@@ -18,7 +18,7 @@
     "varanasi",
     "natak"
   ],
-  "total_words": 6228,
+  "total_words": 6224,
   "total_chapters": 4,
   "estimated_reading_minutes": 35,
   "chapters": [
@@ -36,7 +36,7 @@
       "number": 2,
       "title": "दूसरा गर्भांक — गंगा-तट व पंडे-पुजारियों का प्रपंच",
       "block_count": 117,
-      "word_count": 1182,
+      "word_count": 1178,
       "estimated_minutes": 7,
       "file": "content/books/premjogini/ch_02.json"
     },

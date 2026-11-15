@@ -17,7 +17,7 @@
     "banasur",
     "hindi natak"
   ],
-  "total_words": 24427,
+  "total_words": 24415,
   "total_chapters": 5,
   "estimated_reading_minutes": 136,
   "chapters": [
@@ -44,7 +44,7 @@
       "number": 3,
       "title": "अंक पहला: कैलास व शोणितपुर",
       "block_count": 495,
-      "word_count": 7620,
+      "word_count": 7613,
       "estimated_minutes": 42,
       "file": "content/books/usha-aniruddha/ch_03.json"
     },
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "अंक दूसरा: स्वप्न-दर्शन व चित्रलेखा",
       "block_count": 651,
-      "word_count": 8691,
+      "word_count": 8686,
       "estimated_minutes": 48,
       "file": "content/books/usha-aniruddha/ch_04.json"
     },

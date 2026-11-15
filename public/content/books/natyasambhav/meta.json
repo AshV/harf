@@ -16,7 +16,7 @@
     "natak",
     "mythological drama"
   ],
-  "total_words": 15130,
+  "total_words": 15112,
   "total_chapters": 10,
   "estimated_reading_minutes": 84,
   "chapters": [
@@ -43,7 +43,7 @@
       "number": 3,
       "title": "पहिला दृश्य: नन्दनवन-माधवीकुंज",
       "block_count": 115,
-      "word_count": 1729,
+      "word_count": 1724,
       "estimated_minutes": 10,
       "file": "content/books/natyasambhav/ch_03.json"
     },
@@ -52,7 +52,7 @@
       "number": 4,
       "title": "दूसरा दृश्य: इंद्रसभा",
       "block_count": 115,
-      "word_count": 1729,
+      "word_count": 1724,
       "estimated_minutes": 10,
       "file": "content/books/natyasambhav/ch_04.json"
     },
@@ -70,7 +70,7 @@
       "number": 6,
       "title": "चौथा दृश्य: देवसरोवर तट",
       "block_count": 141,
-      "word_count": 2006,
+      "word_count": 2002,
       "estimated_minutes": 11,
       "file": "content/books/natyasambhav/ch_06.json"
     },
@@ -79,8 +79,8 @@
       "number": 7,
       "title": "पांचवां दृश्य: कल्पतरु वाटिका",
       "block_count": 143,
-      "word_count": 2071,
-      "estimated_minutes": 12,
+      "word_count": 2069,
+      "estimated_minutes": 11,
       "file": "content/books/natyasambhav/ch_07.json"
     },
     {
@@ -106,7 +106,7 @@
       "number": 10,
       "title": "अङ्कावतार",
       "block_count": 136,
-      "word_count": 2224,
+      "word_count": 2222,
       "estimated_minutes": 12,
       "file": "content/books/natyasambhav/ch_10.json"
     }

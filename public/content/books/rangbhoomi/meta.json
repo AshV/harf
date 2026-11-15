@@ -20,9 +20,9 @@
     "clark",
     "john sevak"
   ],
-  "total_words": 244839,
+  "total_words": 244482,
   "total_chapters": 50,
-  "estimated_reading_minutes": 1360,
+  "estimated_reading_minutes": 1358,
   "chapters": [
     {
       "id": "ch_01",
@@ -128,7 +128,7 @@
       "number": 12,
       "title": "अध्याय १२ (पांडेयपुर का रंगमंच)",
       "block_count": 210,
-      "word_count": 7817,
+      "word_count": 7814,
       "estimated_minutes": 43,
       "file": "content/books/rangbhoomi/ch_12.json"
     },
@@ -290,7 +290,7 @@
       "number": 30,
       "title": "अध्याय ३० (पांडेयपुर का रंगमंच)",
       "block_count": 113,
-      "word_count": 5566,
+      "word_count": 5564,
       "estimated_minutes": 31,
       "file": "content/books/rangbhoomi/ch_30.json"
     },
@@ -451,9 +451,9 @@
       "id": "ch_48",
       "number": 48,
       "title": "अध्याय ४८ (पांडेयपुर का रंगमंच)",
-      "block_count": 56,
-      "word_count": 2806,
-      "estimated_minutes": 16,
+      "block_count": 55,
+      "word_count": 2454,
+      "estimated_minutes": 14,
       "file": "content/books/rangbhoomi/ch_48.json"
     },
     {

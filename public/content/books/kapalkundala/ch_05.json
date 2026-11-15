@@ -3,7 +3,7 @@
   "chapter_id": "ch_05",
   "number": 5,
   "title": "चौथा खण्ड/५",
-  "word_count": 695,
+  "word_count": 693,
   "blocks": [
     {
       "id": "b_1",
@@ -13,7 +13,7 @@
     {
       "id": "b_2",
       "type": "p",
-      "text": "दरवाजेपर      &#91; १ &#93;"
+      "text": "दरवाजेपर [ १ ]"
     },
     {
       "id": "b_3",
@@ -23,7 +23,7 @@
     {
       "id": "b_4",
       "type": "p",
-      "text": "Confine  yourself,  but in a  patient  list."
+      "text": "Confine yourself, but in a patient list."
     },
     {
       "id": "b_5",
@@ -128,7 +128,7 @@
     {
       "id": "b_25",
       "type": "p",
-      "text": "↑    इधर एक अध्यायको छोड़ दिया गया है।"
+      "text": "↑ इधर एक अध्यायको छोड़ दिया गया है।"
     }
   ]
 }

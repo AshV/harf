@@ -17,7 +17,7 @@
     "jamshedpur",
     "jivan charitra"
   ],
-  "total_words": 10864,
+  "total_words": 10862,
   "total_chapters": 5,
   "estimated_reading_minutes": 60,
   "chapters": [
@@ -53,7 +53,7 @@
       "number": 4,
       "title": "अध्याय ४: जीवन संध्या एवं स्वर्गारोहण",
       "block_count": 40,
-      "word_count": 3007,
+      "word_count": 3005,
       "estimated_minutes": 17,
       "file": "content/books/tata-jivan-charitra/ch_04.json"
     },

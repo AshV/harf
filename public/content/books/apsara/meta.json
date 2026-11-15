@@ -17,16 +17,16 @@
     "hindi novel",
     "realism"
   ],
-  "total_words": 52755,
+  "total_words": 51235,
   "total_chapters": 10,
-  "estimated_reading_minutes": 293,
+  "estimated_reading_minutes": 285,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "प्रारम्भिक भाग",
       "block_count": 62,
-      "word_count": 4140,
+      "word_count": 4139,
       "estimated_minutes": 23,
       "file": "content/books/apsara/ch_01.json"
     },
@@ -34,9 +34,9 @@
       "id": "ch_02",
       "number": 2,
       "title": "भाग 1",
-      "block_count": 32,
-      "word_count": 5466,
-      "estimated_minutes": 30,
+      "block_count": 31,
+      "word_count": 3947,
+      "estimated_minutes": 22,
       "file": "content/books/apsara/ch_02.json"
     },
     {

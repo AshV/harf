@@ -19,16 +19,16 @@
     "bhakti kavya",
     "hanuman"
   ],
-  "total_words": 81388,
+  "total_words": 79723,
   "total_chapters": 7,
-  "estimated_reading_minutes": 452,
+  "estimated_reading_minutes": 443,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
       "title": "बालकाण्ड — श्रीराम का शैशव, बाल-लीला व धनुर्भंग",
       "block_count": 172,
-      "word_count": 3277,
+      "word_count": 3224,
       "estimated_minutes": 18,
       "file": "content/books/kavitavali/ch_01.json"
     },
@@ -37,7 +37,7 @@
       "number": 2,
       "title": "अयोध्याकाण्ड — राम-वनगमन, प्रजा-शोक व निषाद-भेंट",
       "block_count": 219,
-      "word_count": 4135,
+      "word_count": 4095,
       "estimated_minutes": 23,
       "file": "content/books/kavitavali/ch_02.json"
     },
@@ -55,7 +55,7 @@
       "number": 4,
       "title": "किष्किन्धाकाण्ड — सुग्रीव-मित्रता, वालि-उद्धार व वर्षा-वर्णन",
       "block_count": 12,
-      "word_count": 207,
+      "word_count": 199,
       "estimated_minutes": 1,
       "file": "content/books/kavitavali/ch_04.json"
     },
@@ -64,8 +64,8 @@
       "number": 5,
       "title": "सुन्दरकाण्ड — हनुमान जी का लंका-प्रवेश व लंका-दहन",
       "block_count": 333,
-      "word_count": 5324,
-      "estimated_minutes": 30,
+      "word_count": 5172,
+      "estimated_minutes": 29,
       "file": "content/books/kavitavali/ch_05.json"
     },
     {
@@ -73,17 +73,17 @@
       "number": 6,
       "title": "लंकाकाण्ड — सेतु-बंधन, महासंग्राम व रावण-वध",
       "block_count": 488,
-      "word_count": 8641,
-      "estimated_minutes": 48,
+      "word_count": 8458,
+      "estimated_minutes": 47,
       "file": "content/books/kavitavali/ch_06.json"
     },
     {
       "id": "ch_07",
       "number": 7,
       "title": "उत्तरकाण्ड — राम-राज्याभिषेक, कलियुग-वर्णन व आत्म-निवेदन",
-      "block_count": 1998,
-      "word_count": 59684,
-      "estimated_minutes": 332,
+      "block_count": 2000,
+      "word_count": 58455,
+      "estimated_minutes": 325,
       "file": "content/books/kavitavali/ch_07.json"
     }
   ]
