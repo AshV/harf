@@ -1,0 +1,35 @@
+{
+  "id": "kukurmutta",
+  "title": "कुकुरमुत्ता",
+  "title_en": "Kukurmutta",
+  "author": "सूर्यकांत त्रिपाठी 'निराला'",
+  "author_en": "Suryakant Tripathi 'Nirala'",
+  "category": "कविता",
+  "category_en": "Satirical & Progressive Verse",
+  "description": "महाप्राण निराला की सुप्रसिद्ध प्रगतिशील, व्यंग्यात्मक कविता। 'गुलाब' (सामंतवाद व पूंजीपति वर्ग) और 'कुकुरमुत्ता' (सर्वहारा व श्रमजीवी वर्ग) के द्वंद्व के माध्यम से सामाजिक विषमता और आडंबर पर तीखा कटाक्ष। यूपीएससी पाठ्यक्रम की प्रमुख रचना।",
+  "cover_image": "",
+  "published_year": 1942,
+  "keywords": [
+    "kukurmutta",
+    "nirala",
+    "suryakant tripathi nirala",
+    "satire",
+    "pragativad",
+    "progressive poetry",
+    "upsc"
+  ],
+  "total_words": 2234,
+  "total_chapters": 1,
+  "estimated_reading_minutes": 12,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "कुकुरमुत्ता",
+      "block_count": 436,
+      "word_count": 2234,
+      "estimated_minutes": 12,
+      "file": "content/books/kukurmutta/ch_01.json"
+    }
+  ]
+}

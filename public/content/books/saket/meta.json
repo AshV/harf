@@ -1,0 +1,146 @@
+{
+  "id": "saket",
+  "title": "साकेत",
+  "title_en": "Saket",
+  "author": "मैथिलीशरण गुप्त",
+  "author_en": "Maithili Sharan Gupt",
+  "category": "कविता",
+  "category_en": "Epic Poetry / Modern Hindi Ramayana",
+  "description": "राष्ट्रकवि मैथिलीशरण गुप्त का अमर महाकाव्य। रामकथा की उपेक्षिता उर्मिला के त्याग, विरह और उदात्त चरित्र को केंद्र में रखकर रचित बारह सर्गों का अनुपम ग्रंथ। नवम सर्ग हिन्दी साहित्य का विरह-शिखर और यूपीएससी/पीसीएस पाठ्यक्रम का अनिवार्य अंग है।",
+  "cover_image": "",
+  "published_year": 1931,
+  "keywords": [
+    "saket",
+    "maithili sharan gupt",
+    "urmila",
+    "navam sarga",
+    "ramakatha",
+    "upsc",
+    "uppsc",
+    "bpsc",
+    "ugc net",
+    "hindi mahakavya"
+  ],
+  "total_words": 54611,
+  "total_chapters": 13,
+  "estimated_reading_minutes": 303,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "समर्पण और निवेदन",
+      "block_count": 87,
+      "word_count": 942,
+      "estimated_minutes": 5,
+      "file": "content/books/saket/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "प्रथम सर्ग",
+      "block_count": 467,
+      "word_count": 2888,
+      "estimated_minutes": 16,
+      "file": "content/books/saket/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "द्वितीय सर्ग",
+      "block_count": 476,
+      "word_count": 2511,
+      "estimated_minutes": 14,
+      "file": "content/books/saket/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "तृतीय सर्ग",
+      "block_count": 414,
+      "word_count": 2642,
+      "estimated_minutes": 15,
+      "file": "content/books/saket/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "चतुर्थ सर्ग",
+      "block_count": 590,
+      "word_count": 2791,
+      "estimated_minutes": 16,
+      "file": "content/books/saket/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "पंचम सर्ग",
+      "block_count": 642,
+      "word_count": 4398,
+      "estimated_minutes": 24,
+      "file": "content/books/saket/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "षष्ठ सर्ग",
+      "block_count": 416,
+      "word_count": 2249,
+      "estimated_minutes": 12,
+      "file": "content/books/saket/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "सप्तम सर्ग",
+      "block_count": 688,
+      "word_count": 3918,
+      "estimated_minutes": 22,
+      "file": "content/books/saket/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "अष्टम सर्ग",
+      "block_count": 842,
+      "word_count": 6042,
+      "estimated_minutes": 34,
+      "file": "content/books/saket/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "नवम सर्ग (उर्मिला-विरह)",
+      "block_count": 1259,
+      "word_count": 8329,
+      "estimated_minutes": 46,
+      "file": "content/books/saket/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "दशम सर्ग",
+      "block_count": 838,
+      "word_count": 4361,
+      "estimated_minutes": 24,
+      "file": "content/books/saket/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "एकादश सर्ग",
+      "block_count": 598,
+      "word_count": 5928,
+      "estimated_minutes": 33,
+      "file": "content/books/saket/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "द्वादश सर्ग",
+      "block_count": 969,
+      "word_count": 7612,
+      "estimated_minutes": 42,
+      "file": "content/books/saket/ch_13.json"
+    }
+  ]
+}

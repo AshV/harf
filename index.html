@@ -43,18 +43,18 @@
       rel="stylesheet"
     />
 
-    <!-- Harf PWA Self-Healing & Migration to v0.2.0 -->
+    <!-- Harf PWA Self-Healing & Migration to v0.2.1 -->
     <script>
       (function() {
-        var CURRENT_VERSION = 'v0.2.0';
+        var CURRENT_VERSION = 'v0.2.1';
         var stored = localStorage.getItem('harf_pwa_version');
         if (stored !== CURRENT_VERSION) {
           localStorage.setItem('harf_pwa_version', CURRENT_VERSION);
-          // Purge stale caches from pre-v0.2.0 builds
+          // Purge stale caches from older builds
           if ('caches' in window) {
             caches.keys().then(function(names) {
               names.forEach(function(name) {
-                if (!name.includes('harf-library-catalog-v2') && !name.includes('harf-books-runtime')) {
+                if (!name.includes('harf-library-catalog-v3') && !name.includes('harf-books-runtime')) {
                   caches.delete(name);
                 }
               });

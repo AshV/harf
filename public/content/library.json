@@ -203,6 +203,30 @@
     ]
   },
   {
+    "id": "andhere-mein",
+    "title": "अंधेरे में",
+    "title_en": "Andhere Mein",
+    "author": "गजानन माधव मुक्तिबोध",
+    "author_en": "Gajanan Madhav Muktibodh",
+    "category": "कविता",
+    "category_en": "Modernist Epic Verse / Fantasy",
+    "description": "हिन्दी साहित्य की सबसे प्रभावशाली, जटिल और बहुचर्चित लंबी कविता। 'चाँद का मुँह टेढ़ा है' में संकलित यह आठ खंडों की फंतासी स्वतंत्र भारत के राजनीतिक संकट, बौद्धिक पतन, मध्यवर्गीय संशय और अंतःकरण की स्वतंत्रता की खोज का महाकाव्यात्मक आख्यान है।",
+    "cover_image": "",
+    "published_year": 1964,
+    "total_chapters": 8,
+    "estimated_reading_minutes": 37,
+    "keywords": [
+      "andhere mein",
+      "muktibodh",
+      "gajanan madhav muktibodh",
+      "nayi kavita",
+      "fantasy",
+      "upsc",
+      "ugc net",
+      "chand ka munh tedha hai"
+    ]
+  },
+  {
     "id": "anima",
     "title": "अणिमा",
     "title_en": "Anima",
@@ -354,6 +378,32 @@
       "yamuna lahari",
       "riti kavya",
       "krishna bhakti"
+    ]
+  },
+  {
+    "id": "bharat-bharati",
+    "title": "भारत-भारती",
+    "title_en": "Bharat Bharati",
+    "author": "मैथिलीशरण गुप्त",
+    "author_en": "Maithili Sharan Gupt",
+    "category": "कविता",
+    "category_en": "National Awakening & Historic Verse",
+    "description": "राष्ट्रकवि मैथिलीशरण गुप्त का युगप्रवर्तक राष्ट्रीय काव्य-ग्रंथ। अतीत खंड, वर्तमान खंड और भविष्यत खंड के माध्यम से भारत के स्वर्णिम इतिहास, तत्कालीन अवनति और भावी पुनरुत्थान का ओजस्वी उद्बोधन। यूपीएससी हिन्दी साहित्य मुख्य परीक्षा का अनिवार्य ग्रंथ।",
+    "cover_image": "",
+    "published_year": 1912,
+    "total_chapters": 4,
+    "estimated_reading_minutes": 156,
+    "keywords": [
+      "bharat bharati",
+      "maithili sharan gupt",
+      "rashtrakavi",
+      "upsc",
+      "uppsc",
+      "bpsc",
+      "atit khand",
+      "vartman khand",
+      "bhavishyat khand",
+      "hindi kavita"
     ]
   },
   {
@@ -539,6 +589,29 @@
       "novella",
       "upanyas",
       "awadh"
+    ]
+  },
+  {
+    "id": "brahmarakshas",
+    "title": "ब्रह्मराक्षस",
+    "title_en": "Brahmarakshas",
+    "author": "गजानन माधव मुक्तिबोध",
+    "author_en": "Gajanan Madhav Muktibodh",
+    "category": "कविता",
+    "category_en": "Modernist & Existentialist Verse",
+    "description": "नई कविता के शलाका पुरुष गजानन माधव मुक्तिबोध की प्रसिद्ध फंतासी-परक लंबी कविता। 'बावड़ी' और 'ब्रह्मराक्षस' के प्रतीक द्वारा आधुनिक बुद्धिजीवी के अंतर्द्वंद्व, ज्ञान-पिपासा, सामाजिक अलगाव और त्रासदी का गहन मनोवैज्ञानिक अन्वेषण। यूपीएससी का अनिवार्य पाठ।",
+    "cover_image": "",
+    "published_year": 1957,
+    "total_chapters": 1,
+    "estimated_reading_minutes": 5,
+    "keywords": [
+      "brahmarakshas",
+      "muktibodh",
+      "gajanan madhav muktibodh",
+      "nayi kavita",
+      "fantasy",
+      "upsc",
+      "chand ka munh tedha hai"
     ]
   },
   {
@@ -1587,6 +1660,29 @@
     ]
   },
   {
+    "id": "kukurmutta",
+    "title": "कुकुरमुत्ता",
+    "title_en": "Kukurmutta",
+    "author": "सूर्यकांत त्रिपाठी 'निराला'",
+    "author_en": "Suryakant Tripathi 'Nirala'",
+    "category": "कविता",
+    "category_en": "Satirical & Progressive Verse",
+    "description": "महाप्राण निराला की सुप्रसिद्ध प्रगतिशील, व्यंग्यात्मक कविता। 'गुलाब' (सामंतवाद व पूंजीपति वर्ग) और 'कुकुरमुत्ता' (सर्वहारा व श्रमजीवी वर्ग) के द्वंद्व के माध्यम से सामाजिक विषमता और आडंबर पर तीखा कटाक्ष। यूपीएससी पाठ्यक्रम की प्रमुख रचना।",
+    "cover_image": "",
+    "published_year": 1942,
+    "total_chapters": 1,
+    "estimated_reading_minutes": 12,
+    "keywords": [
+      "kukurmutta",
+      "nirala",
+      "suryakant tripathi nirala",
+      "satire",
+      "pragativad",
+      "progressive poetry",
+      "upsc"
+    ]
+  },
+  {
     "id": "kural-kavya",
     "title": "कुरल-काव्य",
     "title_en": "Kural Kavya (Tirukkural)",
@@ -2309,6 +2405,31 @@
     ]
   },
   {
+    "id": "ram-ki-shaktipooja",
+    "title": "राम की शक्तिपूजा",
+    "title_en": "Ram Ki Shakti Pooja",
+    "author": "सूर्यकांत त्रिपाठी 'निराला'",
+    "author_en": "Suryakant Tripathi 'Nirala'",
+    "category": "कविता",
+    "category_en": "Modern Epic Poetry / Chhayavad",
+    "description": "महाप्राण निराला की ३१२ पंक्तियों की अमर, युगांतरकारी कविता। रावण-विजय हेतु श्रीराम द्वारा शक्ति की मौलिक आराधना, संशय और अंततः देवी दुर्गा से विजय-वरदान की कथा। आधुनिक हिन्दी कविता का सर्वोच्च शिखर व यूपीएससी का अनिवार्य पाठ।",
+    "cover_image": "",
+    "published_year": 1936,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 13,
+    "keywords": [
+      "ram ki shaktipooja",
+      "shakti puja",
+      "nirala",
+      "suryakant tripathi nirala",
+      "upsc",
+      "uppsc",
+      "bpsc",
+      "chhayavad",
+      "anamika"
+    ]
+  },
+  {
     "id": "rangbhoomi",
     "title": "रंगभूमि",
     "title_en": "Rangbhoomi",
@@ -2471,6 +2592,32 @@
     ]
   },
   {
+    "id": "saket",
+    "title": "साकेत",
+    "title_en": "Saket",
+    "author": "मैथिलीशरण गुप्त",
+    "author_en": "Maithili Sharan Gupt",
+    "category": "कविता",
+    "category_en": "Epic Poetry / Modern Hindi Ramayana",
+    "description": "राष्ट्रकवि मैथिलीशरण गुप्त का अमर महाकाव्य। रामकथा की उपेक्षिता उर्मिला के त्याग, विरह और उदात्त चरित्र को केंद्र में रखकर रचित बारह सर्गों का अनुपम ग्रंथ। नवम सर्ग हिन्दी साहित्य का विरह-शिखर और यूपीएससी/पीसीएस पाठ्यक्रम का अनिवार्य अंग है।",
+    "cover_image": "",
+    "published_year": 1931,
+    "total_chapters": 13,
+    "estimated_reading_minutes": 303,
+    "keywords": [
+      "saket",
+      "maithili sharan gupt",
+      "urmila",
+      "navam sarga",
+      "ramakatha",
+      "upsc",
+      "uppsc",
+      "bpsc",
+      "ugc net",
+      "hindi mahakavya"
+    ]
+  },
+  {
     "id": "sangram",
     "title": "संग्राम",
     "title_en": "Sangram",
@@ -2554,6 +2701,30 @@
       "bade ghar ki beti",
       "classic hindi stories",
       "kahani"
+    ]
+  },
+  {
+    "id": "saroj-smriti",
+    "title": "सरोज-स्मृति",
+    "title_en": "Saroj Smriti",
+    "author": "सूर्यकांत त्रिपाठी 'निराला'",
+    "author_en": "Suryakant Tripathi 'Nirala'",
+    "category": "कविता",
+    "category_en": "Elegy / Lyrical Poetry",
+    "description": "हिन्दी साहित्य का सर्वश्रेष्ठ और अत्यंत मर्मस्पर्शी शोकगीत (Elegy)। अपनी दिवंगत पुत्री सरोज की स्मृति में महाप्राण निराला द्वारा रचित आत्मकथात्मक, कारुणिक और युगीन संघर्षों का अद्वितीय काव्य। यूपीएससी व राज्य पीसीएस परीक्षाओं का अनिवार्य अंश।",
+    "cover_image": "",
+    "published_year": 1935,
+    "total_chapters": 5,
+    "estimated_reading_minutes": 9,
+    "keywords": [
+      "saroj smriti",
+      "nirala",
+      "suryakant tripathi nirala",
+      "elegy",
+      "shokgeet",
+      "upsc",
+      "ugc net",
+      "uppsc"
     ]
   },
   {

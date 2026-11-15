@@ -1,0 +1,65 @@
+{
+  "id": "bharat-bharati",
+  "title": "भारत-भारती",
+  "title_en": "Bharat Bharati",
+  "author": "मैथिलीशरण गुप्त",
+  "author_en": "Maithili Sharan Gupt",
+  "category": "कविता",
+  "category_en": "National Awakening & Historic Verse",
+  "description": "राष्ट्रकवि मैथिलीशरण गुप्त का युगप्रवर्तक राष्ट्रीय काव्य-ग्रंथ। अतीत खंड, वर्तमान खंड और भविष्यत खंड के माध्यम से भारत के स्वर्णिम इतिहास, तत्कालीन अवनति और भावी पुनरुत्थान का ओजस्वी उद्बोधन। यूपीएससी हिन्दी साहित्य मुख्य परीक्षा का अनिवार्य ग्रंथ।",
+  "cover_image": "",
+  "published_year": 1912,
+  "keywords": [
+    "bharat bharati",
+    "maithili sharan gupt",
+    "rashtrakavi",
+    "upsc",
+    "uppsc",
+    "bpsc",
+    "atit khand",
+    "vartman khand",
+    "bhavishyat khand",
+    "hindi kavita"
+  ],
+  "total_words": 28079,
+  "total_chapters": 4,
+  "estimated_reading_minutes": 156,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "प्रस्तावना",
+      "block_count": 18,
+      "word_count": 881,
+      "estimated_minutes": 5,
+      "file": "content/books/bharat-bharati/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "अतीत खंड",
+      "block_count": 341,
+      "word_count": 9615,
+      "estimated_minutes": 53,
+      "file": "content/books/bharat-bharati/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "वर्तमान खंड",
+      "block_count": 361,
+      "word_count": 11823,
+      "estimated_minutes": 66,
+      "file": "content/books/bharat-bharati/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "भविष्यत खंड",
+      "block_count": 175,
+      "word_count": 5760,
+      "estimated_minutes": 32,
+      "file": "content/books/bharat-bharati/ch_04.json"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ram-ki-shaktipooja",
+  "title": "राम की शक्तिपूजा",
+  "title_en": "Ram Ki Shakti Pooja",
+  "author": "सूर्यकांत त्रिपाठी 'निराला'",
+  "author_en": "Suryakant Tripathi 'Nirala'",
+  "category": "कविता",
+  "category_en": "Modern Epic Poetry / Chhayavad",
+  "description": "महाप्राण निराला की ३१२ पंक्तियों की अमर, युगांतरकारी कविता। रावण-विजय हेतु श्रीराम द्वारा शक्ति की मौलिक आराधना, संशय और अंततः देवी दुर्गा से विजय-वरदान की कथा। आधुनिक हिन्दी कविता का सर्वोच्च शिखर व यूपीएससी का अनिवार्य पाठ।",
+  "cover_image": "",
+  "published_year": 1936,
+  "keywords": [
+    "ram ki shaktipooja",
+    "shakti puja",
+    "nirala",
+    "suryakant tripathi nirala",
+    "upsc",
+    "uppsc",
+    "bpsc",
+    "chhayavad",
+    "anamika"
+  ],
+  "total_words": 2298,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 13,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भाग १ (समर और संशय)",
+      "block_count": 72,
+      "word_count": 502,
+      "estimated_minutes": 3,
+      "file": "content/books/ram-ki-shaktipooja/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "भाग २ (जाम्बवान का परामर्श)",
+      "block_count": 78,
+      "word_count": 584,
+      "estimated_minutes": 3,
+      "file": "content/books/ram-ki-shaktipooja/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "भाग ३ (शक्ति की आराधना)",
+      "block_count": 75,
+      "word_count": 554,
+      "estimated_minutes": 3,
+      "file": "content/books/ram-ki-shaktipooja/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "भाग ४ (अंतिम कमल और संकल्प)",
+      "block_count": 70,
+      "word_count": 523,
+      "estimated_minutes": 3,
+      "file": "content/books/ram-ki-shaktipooja/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "भाग ५ (शक्ति का अवतरण व विजय वरदान)",
+      "block_count": 18,
+      "word_count": 135,
+      "estimated_minutes": 1,
+      "file": "content/books/ram-ki-shaktipooja/ch_05.json"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "saroj-smriti",
+  "title": "सरोज-स्मृति",
+  "title_en": "Saroj Smriti",
+  "author": "सूर्यकांत त्रिपाठी 'निराला'",
+  "author_en": "Suryakant Tripathi 'Nirala'",
+  "category": "कविता",
+  "category_en": "Elegy / Lyrical Poetry",
+  "description": "हिन्दी साहित्य का सर्वश्रेष्ठ और अत्यंत मर्मस्पर्शी शोकगीत (Elegy)। अपनी दिवंगत पुत्री सरोज की स्मृति में महाप्राण निराला द्वारा रचित आत्मकथात्मक, कारुणिक और युगीन संघर्षों का अद्वितीय काव्य। यूपीएससी व राज्य पीसीएस परीक्षाओं का अनिवार्य अंश।",
+  "cover_image": "",
+  "published_year": 1935,
+  "keywords": [
+    "saroj smriti",
+    "nirala",
+    "suryakant tripathi nirala",
+    "elegy",
+    "shokgeet",
+    "upsc",
+    "ugc net",
+    "uppsc"
+  ],
+  "total_words": 1638,
+  "total_chapters": 5,
+  "estimated_reading_minutes": 9,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भाग १ (जीवन-सिन्धु-तरण)",
+      "block_count": 46,
+      "word_count": 231,
+      "estimated_minutes": 1,
+      "file": "content/books/saroj-smriti/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "भाग २ (विवाह और वियोग)",
+      "block_count": 47,
+      "word_count": 253,
+      "estimated_minutes": 1,
+      "file": "content/books/saroj-smriti/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "भाग ३ (अर्थ-संघर्ष और साहित्य-साधना)",
+      "block_count": 52,
+      "word_count": 268,
+      "estimated_minutes": 1,
+      "file": "content/books/saroj-smriti/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "भाग ४ (मातुल-गृह और रुग्णता)",
+      "block_count": 86,
+      "word_count": 435,
+      "estimated_minutes": 2,
+      "file": "content/books/saroj-smriti/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "भाग ५ (चरम विदा और तर्पण)",
+      "block_count": 86,
+      "word_count": 451,
+      "estimated_minutes": 3,
+      "file": "content/books/saroj-smriti/ch_05.json"
+    }
+  ]
+}

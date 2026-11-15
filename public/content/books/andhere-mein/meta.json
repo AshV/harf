@@ -1,0 +1,99 @@
+{
+  "id": "andhere-mein",
+  "title": "अंधेरे में",
+  "title_en": "Andhere Mein",
+  "author": "गजानन माधव मुक्तिबोध",
+  "author_en": "Gajanan Madhav Muktibodh",
+  "category": "कविता",
+  "category_en": "Modernist Epic Verse / Fantasy",
+  "description": "हिन्दी साहित्य की सबसे प्रभावशाली, जटिल और बहुचर्चित लंबी कविता। 'चाँद का मुँह टेढ़ा है' में संकलित यह आठ खंडों की फंतासी स्वतंत्र भारत के राजनीतिक संकट, बौद्धिक पतन, मध्यवर्गीय संशय और अंतःकरण की स्वतंत्रता की खोज का महाकाव्यात्मक आख्यान है।",
+  "cover_image": "",
+  "published_year": 1964,
+  "keywords": [
+    "andhere mein",
+    "muktibodh",
+    "gajanan madhav muktibodh",
+    "nayi kavita",
+    "fantasy",
+    "upsc",
+    "ugc net",
+    "chand ka munh tedha hai"
+  ],
+  "total_words": 6733,
+  "total_chapters": 8,
+  "estimated_reading_minutes": 37,
+  "chapters": [
+    {
+      "id": "ch_01",
+      "number": 1,
+      "title": "भाग १",
+      "block_count": 82,
+      "word_count": 398,
+      "estimated_minutes": 2,
+      "file": "content/books/andhere-mein/ch_01.json"
+    },
+    {
+      "id": "ch_02",
+      "number": 2,
+      "title": "भाग २",
+      "block_count": 121,
+      "word_count": 655,
+      "estimated_minutes": 4,
+      "file": "content/books/andhere-mein/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "भाग ३",
+      "block_count": 163,
+      "word_count": 798,
+      "estimated_minutes": 4,
+      "file": "content/books/andhere-mein/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "भाग ४",
+      "block_count": 148,
+      "word_count": 755,
+      "estimated_minutes": 4,
+      "file": "content/books/andhere-mein/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "भाग ५",
+      "block_count": 59,
+      "word_count": 301,
+      "estimated_minutes": 2,
+      "file": "content/books/andhere-mein/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "भाग ६",
+      "block_count": 381,
+      "word_count": 2017,
+      "estimated_minutes": 11,
+      "file": "content/books/andhere-mein/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "भाग ७",
+      "block_count": 154,
+      "word_count": 785,
+      "estimated_minutes": 4,
+      "file": "content/books/andhere-mein/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "भाग ८",
+      "block_count": 186,
+      "word_count": 1024,
+      "estimated_minutes": 6,
+      "file": "content/books/andhere-mein/ch_08.json"
+    }
+  ]
+}
