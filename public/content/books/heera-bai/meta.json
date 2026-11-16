@@ -16,27 +16,108 @@
     "alauddin khilji",
     "early hindi novel"
   ],
-  "total_words": 3219,
-  "total_chapters": 2,
-  "estimated_reading_minutes": 18,
+  "total_words": 3551,
+  "total_chapters": 11,
+  "estimated_reading_minutes": 20,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
-      "title": "भाग 1",
-      "block_count": 44,
-      "word_count": 1391,
-      "estimated_minutes": 8,
+      "title": "परिच्छेद १ : अत्याचार",
+      "block_count": 11,
+      "word_count": 351,
+      "estimated_minutes": 2,
       "file": "content/books/heera-bai/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
-      "title": "भाग 2",
-      "block_count": 64,
-      "word_count": 1828,
-      "estimated_minutes": 10,
+      "title": "परिच्छेद २ : छुटकारा",
+      "block_count": 5,
+      "word_count": 196,
+      "estimated_minutes": 1,
       "file": "content/books/heera-bai/ch_02.json"
+    },
+    {
+      "id": "ch_03",
+      "number": 3,
+      "title": "परिच्छेद ३ : बहकावट",
+      "block_count": 15,
+      "word_count": 494,
+      "estimated_minutes": 3,
+      "file": "content/books/heera-bai/ch_03.json"
+    },
+    {
+      "id": "ch_04",
+      "number": 4,
+      "title": "परिच्छेद ४ : धमकी",
+      "block_count": 6,
+      "word_count": 253,
+      "estimated_minutes": 1,
+      "file": "content/books/heera-bai/ch_04.json"
+    },
+    {
+      "id": "ch_05",
+      "number": 5,
+      "title": "परिच्छेद ५ : दृढ़ता",
+      "block_count": 13,
+      "word_count": 447,
+      "estimated_minutes": 2,
+      "file": "content/books/heera-bai/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "परिच्छेद ६ : प्रत्युपकार",
+      "block_count": 12,
+      "word_count": 340,
+      "estimated_minutes": 2,
+      "file": "content/books/heera-bai/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
+      "title": "परिच्छेद ७ : परिचय",
+      "block_count": 10,
+      "word_count": 395,
+      "estimated_minutes": 2,
+      "file": "content/books/heera-bai/ch_07.json"
+    },
+    {
+      "id": "ch_08",
+      "number": 8,
+      "title": "परिच्छेद ८ : आत्मबलि",
+      "block_count": 8,
+      "word_count": 191,
+      "estimated_minutes": 1,
+      "file": "content/books/heera-bai/ch_08.json"
+    },
+    {
+      "id": "ch_09",
+      "number": 9,
+      "title": "परिच्छेद ९ : प्रपंच",
+      "block_count": 7,
+      "word_count": 326,
+      "estimated_minutes": 2,
+      "file": "content/books/heera-bai/ch_09.json"
+    },
+    {
+      "id": "ch_10",
+      "number": 10,
+      "title": "परिच्छेद १० : अन्त",
+      "block_count": 9,
+      "word_count": 399,
+      "estimated_minutes": 2,
+      "file": "content/books/heera-bai/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "परिच्छेद ११ : स्मृति",
+      "block_count": 8,
+      "word_count": 159,
+      "estimated_minutes": 1,
+      "file": "content/books/heera-bai/ch_11.json"
     }
   ]
 }

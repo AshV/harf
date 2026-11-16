@@ -16,9 +16,9 @@
     "biography",
     "nagari pracharini sabha"
   ],
-  "total_words": 22185,
-  "total_chapters": 5,
-  "estimated_reading_minutes": 123,
+  "total_words": 35201,
+  "total_chapters": 7,
+  "estimated_reading_minutes": 196,
   "chapters": [
     {
       "id": "ch_01",
@@ -41,29 +41,47 @@
     {
       "id": "ch_03",
       "number": 3,
-      "title": "अध्याय ४: साहित्य-सेवा, मित्रता एवं दानशीलता",
-      "block_count": 10,
-      "word_count": 5204,
-      "estimated_minutes": 29,
+      "title": "अध्याय ३: रचनाएँ, नाटक एवं पत्र-पत्रिकाएँ",
+      "block_count": 5,
+      "word_count": 7038,
+      "estimated_minutes": 39,
       "file": "content/books/bharatendu-jivan-charitra/ch_03.json"
     },
     {
       "id": "ch_04",
       "number": 4,
-      "title": "अध्याय ६: भारतेन्दु जी का व्यक्तित्व एवं हिन्दी साहित्य पर प्रभाव",
-      "block_count": 1,
-      "word_count": 3730,
-      "estimated_minutes": 21,
+      "title": "अध्याय ४: साहित्य-सेवा, मित्रता एवं दानशीलता",
+      "block_count": 10,
+      "word_count": 5204,
+      "estimated_minutes": 29,
       "file": "content/books/bharatendu-jivan-charitra/ch_04.json"
     },
     {
       "id": "ch_05",
       "number": 5,
+      "title": "अध्याय ५: जीवन की अंतिम अवस्था एवं देहावसान",
+      "block_count": 3,
+      "word_count": 5978,
+      "estimated_minutes": 33,
+      "file": "content/books/bharatendu-jivan-charitra/ch_05.json"
+    },
+    {
+      "id": "ch_06",
+      "number": 6,
+      "title": "अध्याय ६: भारतेन्दु जी का व्यक्तित्व एवं हिन्दी साहित्य पर प्रभाव",
+      "block_count": 1,
+      "word_count": 3730,
+      "estimated_minutes": 21,
+      "file": "content/books/bharatendu-jivan-charitra/ch_06.json"
+    },
+    {
+      "id": "ch_07",
+      "number": 7,
       "title": "अध्याय ७: ग्रन्थों की प्रामाणिक सूची",
       "block_count": 35,
       "word_count": 4641,
       "estimated_minutes": 26,
-      "file": "content/books/bharatendu-jivan-charitra/ch_05.json"
+      "file": "content/books/bharatendu-jivan-charitra/ch_07.json"
     }
   ]
 }

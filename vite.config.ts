@@ -79,7 +79,7 @@ export default defineConfig({
             urlPattern: /.*\/content\/library\.json.*/i,
             handler: 'NetworkFirst',
             options: {
-              cacheName: 'harf-library-catalog-v3',
+              cacheName: 'harf-library-catalog-v4',
               expiration: {
                 maxEntries: 1,
                 maxAgeSeconds: 60 * 60 * 24 * 7 // 7 days fallback

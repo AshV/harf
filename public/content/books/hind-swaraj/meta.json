@@ -17,50 +17,50 @@
     "indian independence",
     "political philosophy"
   ],
-  "total_words": 32637,
-  "total_chapters": 10,
-  "estimated_reading_minutes": 181,
+  "total_words": 35889,
+  "total_chapters": 21,
+  "estimated_reading_minutes": 199,
   "chapters": [
     {
       "id": "ch_01",
       "number": 1,
-      "title": "निवेदन",
-      "block_count": 4,
-      "word_count": 122,
-      "estimated_minutes": 1,
+      "title": "१. कांग्रेस और उसके कर्ता-धर्ता",
+      "block_count": 74,
+      "word_count": 3361,
+      "estimated_minutes": 19,
       "file": "content/books/hind-swaraj/ch_01.json"
     },
     {
       "id": "ch_02",
       "number": 2,
-      "title": "१",
-      "block_count": 70,
-      "word_count": 3089,
-      "estimated_minutes": 17,
+      "title": "२. बंग-भंग",
+      "block_count": 6,
+      "word_count": 716,
+      "estimated_minutes": 4,
       "file": "content/books/hind-swaraj/ch_02.json"
     },
     {
       "id": "ch_03",
       "number": 3,
-      "title": "२",
-      "block_count": 78,
-      "word_count": 2073,
-      "estimated_minutes": 12,
+      "title": "३. अशांति और असंतोष",
+      "block_count": 4,
+      "word_count": 315,
+      "estimated_minutes": 2,
       "file": "content/books/hind-swaraj/ch_03.json"
     },
     {
       "id": "ch_04",
       "number": 4,
-      "title": "३",
-      "block_count": 74,
-      "word_count": 3361,
-      "estimated_minutes": 19,
+      "title": "४. स्वराज्य क्या है?",
+      "block_count": 14,
+      "word_count": 794,
+      "estimated_minutes": 4,
       "file": "content/books/hind-swaraj/ch_04.json"
     },
     {
       "id": "ch_05",
       "number": 5,
-      "title": "४",
+      "title": "५. इंग्लैंड की हालत",
       "block_count": 70,
       "word_count": 3232,
       "estimated_minutes": 18,
@@ -69,47 +69,146 @@
     {
       "id": "ch_06",
       "number": 6,
-      "title": "५",
-      "block_count": 124,
-      "word_count": 5297,
-      "estimated_minutes": 29,
+      "title": "६. सभ्यता का दर्शन",
+      "block_count": 8,
+      "word_count": 1327,
+      "estimated_minutes": 7,
       "file": "content/books/hind-swaraj/ch_06.json"
     },
     {
       "id": "ch_07",
       "number": 7,
-      "title": "६",
-      "block_count": 125,
-      "word_count": 5091,
-      "estimated_minutes": 28,
+      "title": "७. हिन्दुस्तान कैसे गया?",
+      "block_count": 10,
+      "word_count": 973,
+      "estimated_minutes": 5,
       "file": "content/books/hind-swaraj/ch_07.json"
     },
     {
       "id": "ch_08",
       "number": 8,
-      "title": "७",
-      "block_count": 130,
-      "word_count": 6132,
-      "estimated_minutes": 34,
+      "title": "८. हिन्दुस्तान की दशा (१)",
+      "block_count": 124,
+      "word_count": 5297,
+      "estimated_minutes": 29,
       "file": "content/books/hind-swaraj/ch_08.json"
     },
     {
       "id": "ch_09",
       "number": 9,
-      "title": "८",
-      "block_count": 70,
-      "word_count": 2541,
-      "estimated_minutes": 14,
+      "title": "९. हिन्दुस्तान की दशा (२) : रेलवे",
+      "block_count": 16,
+      "word_count": 1054,
+      "estimated_minutes": 6,
       "file": "content/books/hind-swaraj/ch_09.json"
     },
     {
       "id": "ch_10",
       "number": 10,
-      "title": "दो शब्द",
-      "block_count": 35,
-      "word_count": 1699,
-      "estimated_minutes": 9,
+      "title": "१०. हिन्दुस्तान की दशा (३) : हिन्दू और मुसलमान",
+      "block_count": 24,
+      "word_count": 1922,
+      "estimated_minutes": 11,
       "file": "content/books/hind-swaraj/ch_10.json"
+    },
+    {
+      "id": "ch_11",
+      "number": 11,
+      "title": "११. हिन्दुस्तान की दशा (४) : वकील",
+      "block_count": 1,
+      "word_count": 1352,
+      "estimated_minutes": 8,
+      "file": "content/books/hind-swaraj/ch_11.json"
+    },
+    {
+      "id": "ch_12",
+      "number": 12,
+      "title": "१२. हिन्दुस्तान की दशा (५) : डॉक्टर",
+      "block_count": 1,
+      "word_count": 1000,
+      "estimated_minutes": 6,
+      "file": "content/books/hind-swaraj/ch_12.json"
+    },
+    {
+      "id": "ch_13",
+      "number": 13,
+      "title": "१३. सच्ची सभ्यता कौन-सी?",
+      "block_count": 18,
+      "word_count": 1131,
+      "estimated_minutes": 6,
+      "file": "content/books/hind-swaraj/ch_13.json"
+    },
+    {
+      "id": "ch_14",
+      "number": 14,
+      "title": "१४. हिन्दुस्तान कैसे आज़ाद हो?",
+      "block_count": 18,
+      "word_count": 886,
+      "estimated_minutes": 5,
+      "file": "content/books/hind-swaraj/ch_14.json"
+    },
+    {
+      "id": "ch_15",
+      "number": 15,
+      "title": "१५. इटली और हिन्दुस्तान",
+      "block_count": 14,
+      "word_count": 1002,
+      "estimated_minutes": 6,
+      "file": "content/books/hind-swaraj/ch_15.json"
+    },
+    {
+      "id": "ch_16",
+      "number": 16,
+      "title": "१६. गोला-बारूद",
+      "block_count": 18,
+      "word_count": 2241,
+      "estimated_minutes": 12,
+      "file": "content/books/hind-swaraj/ch_16.json"
+    },
+    {
+      "id": "ch_17",
+      "number": 17,
+      "title": "१७. सत्याग्रह — आत्मबल",
+      "block_count": 46,
+      "word_count": 3223,
+      "estimated_minutes": 18,
+      "file": "content/books/hind-swaraj/ch_17.json"
+    },
+    {
+      "id": "ch_18",
+      "number": 18,
+      "title": "१८. शिक्षा",
+      "block_count": 21,
+      "word_count": 2106,
+      "estimated_minutes": 12,
+      "file": "content/books/hind-swaraj/ch_18.json"
+    },
+    {
+      "id": "ch_19",
+      "number": 19,
+      "title": "१९. मशीनें",
+      "block_count": 18,
+      "word_count": 1290,
+      "estimated_minutes": 7,
+      "file": "content/books/hind-swaraj/ch_19.json"
+    },
+    {
+      "id": "ch_20",
+      "number": 20,
+      "title": "२०. छुटकारा (उपसंहार)",
+      "block_count": 53,
+      "word_count": 2462,
+      "estimated_minutes": 14,
+      "file": "content/books/hind-swaraj/ch_20.json"
+    },
+    {
+      "id": "ch_21",
+      "number": 21,
+      "title": "परिशिष्ट : सम्मति और सन्दर्भ पुस्तकें",
+      "block_count": 7,
+      "word_count": 205,
+      "estimated_minutes": 1,
+      "file": "content/books/hind-swaraj/ch_21.json"
     }
   ]
 }

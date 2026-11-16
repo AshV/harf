@@ -16,9 +16,9 @@
     "hindi fiction",
     "romantic drama"
   ],
-  "total_words": 16505,
+  "total_words": 15576,
   "total_chapters": 6,
-  "estimated_reading_minutes": 92,
+  "estimated_reading_minutes": 87,
   "chapters": [
     {
       "id": "ch_01",
@@ -69,9 +69,9 @@
       "id": "ch_06",
       "number": 6,
       "title": "भाग 6",
-      "block_count": 6,
-      "word_count": 2345,
-      "estimated_minutes": 13,
+      "block_count": 2,
+      "word_count": 1416,
+      "estimated_minutes": 8,
       "file": "content/books/sukhasharvari/ch_06.json"
     }
   ]

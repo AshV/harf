@@ -17,9 +17,9 @@
     "autobiography",
     "memoir"
   ],
-  "total_words": 62363,
+  "total_words": 62375,
   "total_chapters": 12,
-  "estimated_reading_minutes": 346,
+  "estimated_reading_minutes": 347,
   "chapters": [
     {
       "id": "ch_01",
@@ -124,8 +124,8 @@
       "id": "ch_12",
       "number": 12,
       "title": "अध्याय १२ — कुछ व्यक्तिगत संस्मरण व जीवन-सत्य",
-      "block_count": 54,
-      "word_count": 10618,
+      "block_count": 55,
+      "word_count": 10630,
       "estimated_minutes": 59,
       "file": "content/books/meri-aatmakahani/ch_12.json"
     }

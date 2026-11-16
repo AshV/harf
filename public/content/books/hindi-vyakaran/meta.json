@@ -17,9 +17,9 @@
     "linguistics",
     "standard hindi"
   ],
-  "total_words": 52020,
+  "total_words": 51841,
   "total_chapters": 12,
-  "estimated_reading_minutes": 289,
+  "estimated_reading_minutes": 288,
   "chapters": [
     {
       "id": "ch_01",
@@ -124,8 +124,8 @@
       "id": "ch_12",
       "number": 12,
       "title": "विस्मयादि-बोधक",
-      "block_count": 26,
-      "word_count": 809,
+      "block_count": 16,
+      "word_count": 630,
       "estimated_minutes": 4,
       "file": "content/books/hindi-vyakaran/ch_12.json"
     }

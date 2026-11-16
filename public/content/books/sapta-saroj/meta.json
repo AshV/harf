@@ -17,9 +17,9 @@
     "classic hindi stories",
     "kahani"
   ],
-  "total_words": 23589,
+  "total_words": 24870,
   "total_chapters": 8,
-  "estimated_reading_minutes": 131,
+  "estimated_reading_minutes": 138,
   "chapters": [
     {
       "id": "ch_01",
@@ -89,8 +89,8 @@
       "number": 8,
       "title": "सौत",
       "block_count": 40,
-      "word_count": 2716,
-      "estimated_minutes": 15,
+      "word_count": 3997,
+      "estimated_minutes": 22,
       "file": "content/books/sapta-saroj/ch_08.json"
     }
   ]

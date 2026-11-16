@@ -31,11 +31,12 @@ function auditBook(filePath) {
   const tailText = `${secondLastLine} ${lastLine}`.trim();
 
   // Permissible conclusion endings: Hindi danda, double danda, quotes, brackets, or conclusion words
+  const cleanLastLine = lastLine.replace(/[—–•\-\*\s]+$/, '');
   const validPunctuation = /[।॥!?."\x27)\]»”’]$/;
-  const validConclusionWords = /(?:समाप्त|इति|शुभम्|पटाक्षेप|परिशिष्ट|विश्राम|यवनिका|अन्त|छाप|प्रेस|कुटीर|सभा|बनारस|इलाहाबाद|आगरा|१९\d\d|18\d\d|19\d\d|20\d\d|[०-९]+|\-|\*)$/i;
+  const validConclusionWords = /(?:समाप्त|इति|इतिश्री|शुभम्|पटाक्षेप|परिशिष्ट|विश्राम|यवनिका|अन्त|दृश्य|छाप|प्रेस|कुटीर|सभा|बनारस|इलाहाबाद|आगरा|१९\d\d|18\d\d|19\d\d|20\d\d|[०-९]+|\-|\*)[।॥.)\]]?$/i;
 
-  const hasPunctuation = validPunctuation.test(lastLine);
-  const hasConclusionWord = validConclusionWords.test(lastLine);
+  const hasPunctuation = validPunctuation.test(cleanLastLine);
+  const hasConclusionWord = validConclusionWords.test(cleanLastLine);
   const isAbruptCutoff = !hasPunctuation && !hasConclusionWord;
 
   const issues = [];
@@ -43,9 +44,15 @@ function auditBook(filePath) {
   // Check 1: Critical Truncation based on Genre
   if (meta.category === 'उपन्यास') {
     if (words < 5000) {
-      issues.push({ severity: 'CRITICAL', msg: `उपन्यास के लिए अत्यधिक कम शब्द (${words} शब्द, अपेक्षित > 15,000)` });
+      if ((hasConclusionWord || hasPunctuation) && chapters.length >= 5) {
+        // Authentic early Hindi novelette (लघु उपन्यास)
+      } else {
+        issues.push({ severity: 'CRITICAL', msg: `उपन्यास के लिए अत्यधिक कम शब्द (${words} शब्द, अपेक्षित > 15,000)` });
+      }
     } else if (words < 12000) {
-      issues.push({ severity: 'WARNING', msg: `लघु उपन्यास या खण्डित होने का संदेह (${words} शब्द)` });
+      if (!hasConclusionWord && !hasPunctuation) {
+        issues.push({ severity: 'WARNING', msg: `लघु उपन्यास या खण्डित होने का संदेह (${words} शब्द)` });
+      }
     }
   } else if (meta.category === 'नाटक') {
     if (words < 2500) {

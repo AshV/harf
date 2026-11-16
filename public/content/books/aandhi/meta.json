@@ -17,9 +17,9 @@
     "ghisu",
     "hindi kahani"
   ],
-  "total_words": 28487,
+  "total_words": 28688,
   "total_chapters": 10,
-  "estimated_reading_minutes": 158,
+  "estimated_reading_minutes": 159,
   "chapters": [
     {
       "id": "ch_01",
@@ -106,9 +106,9 @@
       "id": "ch_10",
       "number": 10,
       "title": "नीरा",
-      "block_count": 54,
-      "word_count": 3186,
-      "estimated_minutes": 18,
+      "block_count": 59,
+      "word_count": 3387,
+      "estimated_minutes": 19,
       "file": "content/books/aandhi/ch_10.json"
     }
   ]

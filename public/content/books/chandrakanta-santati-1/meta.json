@@ -20,9 +20,9 @@
     "fantasy",
     "adventure"
   ],
-  "total_words": 10482,
+  "total_words": 10785,
   "total_chapters": 3,
-  "estimated_reading_minutes": 58,
+  "estimated_reading_minutes": 60,
   "chapters": [
     {
       "id": "ch_01",
@@ -46,9 +46,9 @@
       "id": "ch_03",
       "number": 3,
       "title": "तीसरा बयान — तिलिस्मी घाटी और गुप्त संकेत",
-      "block_count": 19,
-      "word_count": 6055,
-      "estimated_minutes": 34,
+      "block_count": 26,
+      "word_count": 6358,
+      "estimated_minutes": 35,
       "file": "content/books/chandrakanta-santati-1/ch_03.json"
     }
   ]
