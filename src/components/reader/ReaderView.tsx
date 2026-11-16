@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useSearchParams } from 'react-router-dom';
 import {
   ArrowLeft,
   Settings,
@@ -10,7 +10,8 @@ import {
   Headphones,
   Square,
   Play,
-  Pause
+  Pause,
+  GraduationCap
 } from 'lucide-react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
@@ -23,6 +24,9 @@ import { TOCDrawer } from './TOCDrawer';
 import { SelectionToolbar } from './SelectionToolbar';
 import { NotebookDrawer } from './NotebookDrawer';
 import { QuoteCardModal } from './QuoteCardModal';
+import { getUPSCBookInfo } from '../../data/upscData';
+import { UPSCStudyDrawer } from '../study/UPSCStudyDrawer';
+import { UPSCExamBadge } from '../study/UPSCExamBadge';
 
 const sanitizeReaderText = (str: string): string => {
   if (!str) return '';
@@ -69,6 +73,38 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
   const containerRef = useRef<HTMLDivElement>(null);
   const blockRefs = useRef<Map<string, HTMLDivElement>>(new Map());
   const pendingJumpBlockIdRef = useRef<string | null>(null);
+
+  // UPSC Syllabus & Study Mode Setup
+  const [searchParams] = useSearchParams();
+  const upscInfo = getUPSCBookInfo(book.id);
+  const [isStudyMode, setIsStudyMode] = useState<boolean>(() => {
+    const param = searchParams.get('study');
+    if (param === 'true') return true;
+    if (param === 'false') return false;
+    try {
+      return localStorage.getItem('harf_study_mode') === 'true';
+    } catch {
+      return false;
+    }
+  });
+  const [showStudyDrawer, setShowStudyDrawer] = useState(false);
+  const [activeAnnotationId, setActiveAnnotationId] = useState<string | null>(null);
+
+  // Annotations for current chapter
+  const chapterAnnotations = upscInfo
+    ? upscInfo.annotations.filter((a) => a.chapterId === chapter.chapter_id)
+    : [];
+
+  const handleToggleStudyMode = () => {
+    const next = !isStudyMode;
+    setIsStudyMode(next);
+    try {
+      localStorage.setItem('harf_study_mode', String(next));
+    } catch {}
+    if (next) {
+      setShowStudyDrawer(true);
+    }
+  };
 
   // Fetch highlights for current book and chapter
   const highlights = useLiveQuery(
@@ -384,7 +420,24 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
           </div>
         </div>
 
-        <div className="flex items-center gap-1">
+        <div className="flex items-center gap-1 sm:gap-1.5">
+          {upscInfo && (
+            <button
+              onClick={handleToggleStudyMode}
+              className={`flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl text-xs font-bold transition-all border active:scale-95 ${
+                isStudyMode
+                  ? 'bg-amber-500 text-amber-950 border-amber-400 shadow-xs'
+                  : 'bg-black/5 dark:bg-white/10 hover:bg-black/10 text-inherit border-transparent'
+              }`}
+              title={isStudyMode ? 'सामान्य पठन मोड में बदलें' : 'UPSC अध्ययन मोड चालू करें'}
+            >
+              <GraduationCap className={`w-4 h-4 ${isStudyMode ? 'text-amber-950' : 'text-amber-600'}`} />
+              <span className="hidden xs:inline">
+                {isStudyMode ? 'अध्ययन मोड' : 'अध्ययन'}
+              </span>
+            </button>
+          )}
+
           <button
             onClick={() => setShowNotebook(true)}
             className="p-2 rounded-xl hover:bg-black/5 dark:hover:bg-white/10 transition-colors relative"
@@ -431,6 +484,13 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
         <div className="space-y-6">
           {chapter.blocks.map((block, index) => {
             const isActiveTTS = activeBlockId === block.id;
+            const matchingAnnotation = isStudyMode
+              ? chapterAnnotations.find((a) => {
+                  if (a.blockId && a.blockId === block.id) return true;
+                  if (a.targetSnippet && block.text.includes(a.targetSnippet)) return true;
+                  return false;
+                })
+              : null;
 
             return (
               <div
@@ -443,12 +503,25 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
                 }}
                 className={`transition-all duration-200 select-text ${
                   isActiveTTS ? 'active-tts-block' : ''
+                } ${
+                  matchingAnnotation
+                    ? 'border-l-3 border-amber-500/90 bg-amber-500/8 pl-3.5 sm:pl-4 rounded-r-2xl py-2 my-3'
+                    : ''
                 }`}
                 style={{
                   fontSize: `${settings.fontSize}px`,
                   lineHeight: settings.lineHeight
                 }}
               >
+                {matchingAnnotation && (
+                  <UPSCExamBadge
+                    annotation={matchingAnnotation}
+                    onClick={() => {
+                      setActiveAnnotationId(matchingAnnotation.id);
+                      setShowStudyDrawer(true);
+                    }}
+                  />
+                )}
                 {block.type === 'quote' ? (
                   <blockquote className="border-l-4 border-[#C05621] pl-4 italic opacity-95 my-4">
                     {renderHighlightedText(block.text, block.id)}
@@ -518,6 +591,29 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
         onOpenQuoteCard={handleOpenQuoteCard}
         onClose={() => setSelectionToolbar(null)}
       />
+
+      {/* Floating UPSC Study Friend Toggle Pill */}
+      {upscInfo && isStudyMode && (
+        <div
+          className={`fixed top-18 right-4 z-30 transition-all duration-300 ${
+            showChrome ? 'opacity-100 translate-y-0' : 'opacity-85 translate-y-2'
+          }`}
+        >
+          <button
+            onClick={() => setShowStudyDrawer(true)}
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 text-white font-bold text-xs shadow-lg border border-amber-300/40 active:scale-95 transition-all"
+            title="UPSC अध्ययन मित्र साइडशीट खोलें"
+          >
+            <GraduationCap className="w-4 h-4 text-amber-200" />
+            <span>अध्ययन मित्र</span>
+            {chapterAnnotations.length > 0 && (
+              <span className="w-4 h-4 rounded-full bg-amber-950 text-amber-200 text-[10px] flex items-center justify-center font-bold">
+                {chapterAnnotations.length}
+              </span>
+            )}
+          </button>
+        </div>
+      )}
 
       {/* Floating Audio Read-Along Bar */}
       <div
@@ -632,6 +728,19 @@ export const ReaderView: React.FC<ReaderViewProps> = ({
         bookTitle={book.title}
         author={book.author}
       />
+
+      {/* UPSC Study Drawer */}
+      {upscInfo && (
+        <UPSCStudyDrawer
+          isOpen={showStudyDrawer}
+          onClose={() => setShowStudyDrawer(false)}
+          upscInfo={upscInfo}
+          chapterId={chapter.chapter_id}
+          chapterTitle={chapter.title}
+          activeAnnotationId={activeAnnotationId}
+          onSelectAnnotation={(ann) => setActiveAnnotationId(ann.id)}
+        />
+      )}
     </div>
   );
 };

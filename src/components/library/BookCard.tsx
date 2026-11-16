@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Clock, BookMarked, CheckCircle2 } from 'lucide-react';
 import type { BookSummary } from '../../types';
 import { BookCover } from './BookCover';
+import { getUPSCBookInfo } from '../../data/upscData';
 
 interface BookCardProps {
   book: BookSummary;
@@ -10,6 +11,8 @@ interface BookCardProps {
 }
 
 export const BookCard: React.FC<BookCardProps> = ({ book, isOffline }) => {
+  const upscInfo = getUPSCBookInfo(book.id);
+
   return (
     <Link
       to={`/book/${book.id}`}
@@ -25,7 +28,17 @@ export const BookCard: React.FC<BookCardProps> = ({ book, isOffline }) => {
           size="md"
         />
 
-        {/* Offline Badge Pill */}
+        {/* UPSC Badge Pill (Top-Left) */}
+        {upscInfo && (
+          <div
+            className="absolute top-2.5 left-2.5 z-30 flex items-center gap-1 bg-[#1B120E]/90 backdrop-blur-md text-amber-300 border border-amber-400/40 text-[9px] font-bold px-2 py-0.5 rounded-full shadow-md"
+            title={`${upscInfo.paper} (${upscInfo.syllabusCategory})`}
+          >
+            <span>🎓 UPSC</span>
+          </div>
+        )}
+
+        {/* Offline Badge Pill (Top-Right) */}
         {isOffline && (
           <div className="absolute top-2.5 right-2.5 z-30 flex items-center gap-1 bg-emerald-950/80 backdrop-blur-md text-emerald-300 border border-emerald-500/30 text-[10px] font-bold px-2 py-0.5 rounded-full shadow-lg">
             <CheckCircle2 className="w-3 h-3 text-emerald-400" />

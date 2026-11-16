@@ -9,12 +9,16 @@ import {
   Trash2,
   Calendar,
   Share2,
-  Check
+  Check,
+  GraduationCap,
+  Award,
+  HelpCircle
 } from 'lucide-react';
 import { useBook } from '../hooks/useBook';
 import { useReadingProgress } from '../hooks/useReadingProgress';
 import { downloadBookOffline, removeBookOffline, isBookOffline } from '../utils/storage';
 import { BookCover } from '../components/library/BookCover';
+import { getUPSCBookInfo } from '../data/upscData';
 
 export const BookDetailPage: React.FC = () => {
   const { bookId } = useParams<{ bookId: string }>();
@@ -93,6 +97,7 @@ export const BookDetailPage: React.FC = () => {
   };
 
   const startChapterId = progress?.chapter_id || book.chapters[0]?.id || 'ch_01';
+  const upscInfo = book ? getUPSCBookInfo(book.id) : undefined;
 
   return (
     <div className="min-h-screen bg-[#FAF7F2] text-[#1F1916]">
@@ -188,6 +193,17 @@ export const BookDetailPage: React.FC = () => {
                 <span>{progress ? 'पठन जारी रखें' : 'पहला अध्याय पढ़ें'}</span>
               </Link>
 
+              {upscInfo && (
+                <Link
+                  to={`/read/${book.id}/${startChapterId}?study=true`}
+                  className="px-5 py-3 rounded-2xl bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 text-white font-bold text-xs sm:text-sm shadow-md transition-all active:scale-95 flex items-center gap-2 border border-amber-400/40"
+                  title="UPSC अध्ययन मोड में पढ़ें"
+                >
+                  <GraduationCap className="w-4 h-4 text-amber-200" />
+                  <span>अध्ययन मोड में पढ़ें</span>
+                </Link>
+              )}
+
               {isOffline ? (
                 <button
                   onClick={handleRemoveOffline}
@@ -211,6 +227,70 @@ export const BookDetailPage: React.FC = () => {
             </div>
           </div>
         </div>
+
+        {/* UPSC Exam Syllabus Overview Card */}
+        {upscInfo && (
+          <section className="bg-gradient-to-br from-amber-50/90 via-white to-amber-50/40 rounded-3xl p-5 sm:p-6 border border-amber-300/80 mb-8 shadow-xs">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 mb-4 border-b border-amber-200/80">
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-2xl bg-gradient-to-br from-amber-600 to-amber-700 text-white flex items-center justify-center shadow-sm">
+                  <GraduationCap className="w-5 h-5 text-amber-100" />
+                </div>
+                <div>
+                  <h3 className="font-bold text-base font-serif text-amber-950">
+                    UPSC व राज्य PCS पाठ्यक्रम (हिन्दी साहित्य)
+                  </h3>
+                  <p className="text-xs text-amber-800 font-medium">
+                    {upscInfo.paper} • {upscInfo.paperSection}
+                  </p>
+                </div>
+              </div>
+              <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-200/80 text-amber-950 text-xs font-bold w-fit border border-amber-300">
+                <Award className="w-3.5 h-3.5 text-amber-700" />
+                <span>{upscInfo.importance}</span>
+              </span>
+            </div>
+
+            <div className="space-y-3.5 text-xs">
+              <div className="flex flex-wrap items-baseline gap-2">
+                <span className="font-bold text-[#1F1916]/70 uppercase tracking-wider text-[11px]">पाठ्यक्रम दायरा:</span>
+                <span className="font-bold text-[#1F1916] font-serif text-sm">{upscInfo.syllabusScope}</span>
+              </div>
+
+              {upscInfo.coreThemes.length > 0 && (
+                <div className="space-y-1.5">
+                  <span className="font-bold text-[#1F1916]/70 uppercase tracking-wider text-[11px] block">प्रमुख परीक्षा थीम्स:</span>
+                  <div className="flex flex-wrap gap-1.5">
+                    {upscInfo.coreThemes.map((th, idx) => (
+                      <span
+                        key={idx}
+                        className="px-2.5 py-1 rounded-xl bg-amber-100/70 text-amber-950 font-semibold border border-amber-200/80"
+                      >
+                        {th}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {upscInfo.pyqs.length > 0 && (
+                <div className="pt-2 border-t border-amber-200/60 flex items-center justify-between flex-wrap gap-2 text-amber-900 font-semibold">
+                  <span className="flex items-center gap-1.5">
+                    <HelpCircle className="w-3.5 h-3.5 text-amber-700" />
+                    <span>{upscInfo.pyqs.length} विगत वर्षों के मुख्य परीक्षा प्रश्न (PYQs) उपलब्ध</span>
+                  </span>
+                  <Link
+                    to={`/read/${book.id}/${startChapterId}?study=true`}
+                    className="text-xs font-bold text-[#C85A32] hover:underline flex items-center gap-0.5"
+                  >
+                    <span>मॉडल उत्तर व व्याख्या देखें</span>
+                    <span>→</span>
+                  </Link>
+                </div>
+              )}
+            </div>
+          </section>
+        )}
 
         {/* Synopsis / Blurb */}
         <section className="bg-white/70 rounded-3xl p-6 border border-[#231A15]/10 mb-8 shadow-xs">

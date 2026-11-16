@@ -10,7 +10,8 @@ import { DailyQuoteCard } from '../components/library/DailyQuoteCard';
 import { useAllReadingProgress } from '../hooks/useReadingProgress';
 import { getStorageUsage, requestPersistentStorage } from '../utils/storage';
 import { db } from '../db';
-import { Feather, Compass, Sparkles, Filter, X, Check, HardDriveDownload } from 'lucide-react';
+import { Feather, Compass, Sparkles, Filter, X, Check, HardDriveDownload, GraduationCap, Award, BookOpen } from 'lucide-react';
+import { getUPSCBookInfo, getAllUPSCBookIds } from '../data/upscData';
 
 export const HomePage: React.FC = () => {
   const [books, setBooks] = useState<BookSummary[]>(() => {
@@ -38,6 +39,7 @@ export const HomePage: React.FC = () => {
   const selectedCategory = searchParams.get('category') || 'all';
   const selectedAuthor = searchParams.get('author') || 'all';
   const onlyOffline = searchParams.get('offline') === 'true';
+  const selectedUPSC = searchParams.get('upsc') || 'none'; // 'none' | 'all' | 'paper2_padya' | 'paper2_gadya' | 'paper1' | 'state_pcs'
 
   const allProgress = useAllReadingProgress();
 
@@ -111,14 +113,29 @@ export const HomePage: React.FC = () => {
   }, []);
 
   // Update URL search parameters
-  const updateFilter = (key: 'category' | 'author' | 'offline', value: string | boolean) => {
+  const updateFilter = (
+    key: 'category' | 'author' | 'offline' | 'upsc',
+    value: string | boolean
+  ) => {
     const newParams = new URLSearchParams(searchParams);
     if (key === 'offline') {
       if (value === true) newParams.set('offline', 'true');
       else newParams.delete('offline');
+    } else if (key === 'upsc') {
+      if (value === 'none' || !value) {
+        newParams.delete('upsc');
+      } else {
+        newParams.set('upsc', value as string);
+        newParams.delete('category');
+        newParams.delete('author');
+      }
     } else {
       if (value === 'all' || !value) newParams.delete(key);
-      else newParams.set(key, value as string);
+      else {
+        newParams.set(key, value as string);
+        // Clear upsc filter when user explicitly picks a category or author
+        newParams.delete('upsc');
+      }
     }
     setSearchParams(newParams);
   };
@@ -141,22 +158,35 @@ export const HomePage: React.FC = () => {
   // Distinct categories and authors extraction with counts
   const categories = Array.from(new Set(books.map((b) => b.category)));
   const authors = Array.from(new Set(books.map((b) => b.author)));
+  const upscBookIds = getAllUPSCBookIds();
 
-  // Multi-facet filtering logic: Category AND Author AND Offline
+  // Multi-facet filtering logic: Category AND Author AND Offline AND UPSC
   const filteredBooks = books.filter((book) => {
     // 1. Availability filter
     if (onlyOffline && !offlineBookIds.has(book.id)) return false;
 
-    // 2. Category / Genre filter
+    // 2. UPSC Syllabus filter
+    if (selectedUPSC !== 'none') {
+      const upscInfo = getUPSCBookInfo(book.id);
+      if (!upscInfo) return false;
+      if (selectedUPSC === 'paper1' && upscInfo.paper !== 'Paper 1') return false;
+      if (selectedUPSC === 'paper2_padya' && upscInfo.paper !== 'Paper 2 (पद्य)') return false;
+      if (selectedUPSC === 'paper2_gadya' && upscInfo.paper !== 'Paper 2 (गद्य)') return false;
+      if (selectedUPSC === 'state_pcs' && upscInfo.paper !== 'State PCS / NET') return false;
+    }
+
+    // 3. Category / Genre filter
     if (selectedCategory !== 'all' && book.category !== selectedCategory) return false;
 
-    // 3. Author filter
+    // 4. Author filter
     if (selectedAuthor !== 'all' && book.author !== selectedAuthor) return false;
 
     return true;
   });
 
-  const hasActiveFilters = selectedCategory !== 'all' || selectedAuthor !== 'all' || onlyOffline;
+  const isUPSCActive = selectedUPSC !== 'none';
+  const hasActiveFilters =
+    selectedCategory !== 'all' || selectedAuthor !== 'all' || onlyOffline || isUPSCActive;
 
   const scrollToCollection = () => {
     if (collectionRef.current) {
@@ -188,16 +218,89 @@ export const HomePage: React.FC = () => {
 
         {/* Curated Collection Section */}
         <section ref={collectionRef} className="mt-6 mb-12">
+          {/* Main Collection Mode Tabs: All Library vs UPSC / State PCS */}
+          <div className="flex items-center gap-2 mb-6 overflow-x-auto pb-1">
+            <button
+              onClick={() => updateFilter('upsc', 'none')}
+              className={`px-4 py-2.5 rounded-2xl text-xs sm:text-sm font-bold transition-all flex items-center gap-2 whitespace-nowrap active:scale-95 cursor-pointer ${
+                !isUPSCActive
+                  ? 'bg-[#231814] text-[#FAF5E8] shadow-sm'
+                  : 'bg-white hover:bg-white/80 text-[#1F1916]/75 border border-[#231A15]/10'
+              }`}
+            >
+              <BookOpen className="w-4 h-4 text-[#E08E45]" />
+              <span>सम्पूर्ण पुस्तकालय ({books.length})</span>
+            </button>
+
+            <button
+              onClick={() => updateFilter('upsc', 'all')}
+              className={`px-4 py-2.5 rounded-2xl text-xs sm:text-sm font-bold transition-all flex items-center gap-2 whitespace-nowrap active:scale-95 cursor-pointer ${
+                isUPSCActive
+                  ? 'bg-gradient-to-r from-amber-600 to-amber-700 text-white shadow-md border border-amber-400/40'
+                  : 'bg-amber-100/70 hover:bg-amber-200/80 text-amber-950 border border-amber-300/60'
+              }`}
+            >
+              <GraduationCap className={`w-4 h-4 ${isUPSCActive ? 'text-amber-200' : 'text-amber-800'}`} />
+              <span>🎓 UPSC / PCS पाठ्यक्रम ({upscBookIds.length})</span>
+              <span
+                className={`text-[10px] px-2 py-0.2 rounded-full font-bold ${
+                  isUPSCActive
+                    ? 'bg-amber-950/60 text-amber-200'
+                    : 'bg-amber-200 text-amber-900'
+                }`}
+              >
+                100% पूर्ण
+              </span>
+            </button>
+          </div>
+
+          {/* UPSC Syllabus Header Banner (Visible when UPSC mode is active) */}
+          {isUPSCActive && (
+            <div className="bg-gradient-to-r from-[#241A14] via-[#3B2922] to-[#1F140E] rounded-3xl p-5 sm:p-6 text-white border border-amber-600/30 shadow-md mb-6 relative overflow-hidden">
+              <div className="relative z-10 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+                <div>
+                  <div className="flex items-center gap-2 text-amber-400 text-xs font-bold uppercase tracking-wider mb-1">
+                    <GraduationCap className="w-4 h-4" />
+                    <span>UPSC CSE एवं राज्य लोक सेवा आयोग</span>
+                  </div>
+                  <h3 className="text-xl sm:text-2xl font-bold font-serif text-[#FBF0D9] tracking-tight">
+                    हिन्दी साहित्य (वैकल्पिक विषय) संपूर्ण संग्रह
+                  </h3>
+                  <p className="text-xs sm:text-sm text-white/80 mt-1 max-w-2xl font-hindi-serif leading-relaxed">
+                    सार्वजनिक डोमेन की सभी २६ कालजयी कृतियाँ १००% पूर्ण, प्रामाणिक व डिजिटल व्याख्या/PYQ सहित उपलब्ध हैं।
+                  </p>
+                </div>
+                <div className="shrink-0 flex items-center gap-2">
+                  <span className="px-3.5 py-1.5 rounded-full bg-amber-500/20 text-amber-300 border border-amber-400/40 text-xs font-bold">
+                    २६/२६ कृतियाँ उपलब्ध
+                  </span>
+                </div>
+              </div>
+            </div>
+          )}
+
           {/* Section Header */}
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-6">
             <div>
               <div className="flex items-center gap-1.5 text-xs font-bold text-[#C85A32] uppercase tracking-wider mb-1">
                 <Compass className="w-3.5 h-3.5" />
-                <span>पुस्तकालय संग्रह</span>
+                <span>{isUPSCActive ? 'UPSC / PCS पाठ्यक्रम' : 'पुस्तकालय संग्रह'}</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black font-serif text-[#1F1916] tracking-tight">
-                {selectedAuthor !== 'all' ? `${selectedAuthor} की कृतियाँ` : 'कालजयी कृतियाँ'}
-                {selectedCategory !== 'all' && ` • ${selectedCategory}`}
+                {isUPSCActive
+                  ? selectedUPSC === 'paper2_padya'
+                    ? 'पेपर 2: पद्य खंड (Poetry)'
+                    : selectedUPSC === 'paper2_gadya'
+                    ? 'पेपर 2: गद्य खंड (Prose & Drama)'
+                    : selectedUPSC === 'paper1'
+                    ? 'पेपर 1: भाषा व इतिहास'
+                    : selectedUPSC === 'state_pcs'
+                    ? 'राज्य PCS व UGC-NET कृतियाँ'
+                    : 'UPSC / PCS संपूर्ण पाठ्यक्रम'
+                  : selectedAuthor !== 'all'
+                  ? `${selectedAuthor} की कृतियाँ`
+                  : 'कालजयी कृतियाँ'}
+                {!isUPSCActive && selectedCategory !== 'all' && ` • ${selectedCategory}`}
               </h2>
               <p className="text-xs text-[#1F1916]/60 mt-0.5 font-medium">
                 कुल {filteredBooks.length} पुस्तकें उपलब्ध
@@ -208,7 +311,7 @@ export const HomePage: React.FC = () => {
             <div className="flex items-center gap-2">
               <button
                 onClick={() => updateFilter('offline', !onlyOffline)}
-                className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all flex items-center gap-1.5 border ${
+                className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all flex items-center gap-1.5 border cursor-pointer ${
                   onlyOffline
                     ? 'bg-emerald-900 text-emerald-100 border-emerald-700 shadow-sm'
                     : 'bg-white hover:bg-white/80 text-[#1F1916]/75 border-[#231A15]/10 shadow-2xs'
@@ -221,117 +324,185 @@ export const HomePage: React.FC = () => {
             </div>
           </div>
 
-          {/* DUAL FILTER CONTROLS: Category & Author Managed Separately */}
+          {/* DUAL FILTER CONTROLS: Managed Separately for General vs UPSC */}
           <div className="bg-white/70 rounded-3xl p-4 sm:p-5 border border-[#231A15]/10 shadow-xs mb-8 space-y-4">
-            {/* Filter Row 1: विधा (Category / Genre) */}
-            <div>
-              <div className="flex items-center justify-between mb-2">
-                <span className="text-xs font-bold text-[#1F1916]/60 uppercase tracking-wider flex items-center gap-1">
-                  <Filter className="w-3 h-3 text-[#C85A32]" />
-                  <span>विधा के अनुसार (By Genre)</span>
-                </span>
-                {selectedCategory !== 'all' && (
-                  <button
-                    onClick={() => updateFilter('category', 'all')}
-                    className="text-[11px] font-semibold text-[#C85A32] hover:underline"
-                  >
-                    हटाएँ
-                  </button>
-                )}
-              </div>
-
-              <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
-                <button
-                  onClick={() => updateFilter('category', 'all')}
-                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 ${
-                    selectedCategory === 'all'
-                      ? 'bg-[#231814] text-[#FAF5E8] shadow-sm'
-                      : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
-                  }`}
-                >
-                  सभी विधाएँ ({books.length})
-                </button>
-
-                {categories.map((cat) => {
-                  const count = books.filter((b) => b.category === cat).length;
-                  const isSelected = selectedCategory === cat;
-                  return (
+            {isUPSCActive ? (
+              /* UPSC Paper / Section Sub-Filter Row */
+              <div>
+                <div className="flex items-center justify-between mb-2">
+                  <span className="text-xs font-bold text-[#1F1916]/60 uppercase tracking-wider flex items-center gap-1">
+                    <Award className="w-3.5 h-3.5 text-amber-700" />
+                    <span>पाठ्यक्रम खंड (By Syllabus Paper)</span>
+                  </span>
+                  {selectedUPSC !== 'all' && (
                     <button
-                      key={cat}
-                      onClick={() => updateFilter('category', isSelected ? 'all' : cat)}
-                      className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 flex items-center gap-1.5 ${
-                        isSelected
-                          ? 'bg-[#C85A32] text-white shadow-sm'
+                      onClick={() => updateFilter('upsc', 'all')}
+                      className="text-[11px] font-semibold text-[#C85A32] hover:underline cursor-pointer"
+                    >
+                      सभी खंड दिखाएँ
+                    </button>
+                  )}
+                </div>
+
+                <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
+                  {[
+                    { id: 'all', label: 'सभी कृतियाँ', count: 26 },
+                    { id: 'paper2_padya', label: 'पेपर 2: पद्य', count: 13 },
+                    { id: 'paper2_gadya', label: 'पेपर 2: गद्य', count: 5 },
+                    { id: 'paper1', label: 'पेपर 1: भाषा व इतिहास', count: 2 },
+                    { id: 'state_pcs', label: 'राज्य PCS / NET', count: 6 }
+                  ].map((tab) => {
+                    const isSelected = selectedUPSC === tab.id;
+                    return (
+                      <button
+                        key={tab.id}
+                        onClick={() => updateFilter('upsc', tab.id)}
+                        className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 flex items-center gap-1.5 cursor-pointer ${
+                          isSelected
+                            ? 'bg-gradient-to-r from-amber-600 to-amber-700 text-white shadow-sm'
+                            : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/75'
+                        }`}
+                      >
+                        <span>{tab.label}</span>
+                        <span
+                          className={`text-[10px] px-1.5 py-0.2 rounded-full ${
+                            isSelected ? 'bg-white/20 text-white' : 'bg-black/10 text-black/60'
+                          }`}
+                        >
+                          {tab.count}
+                        </span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            ) : (
+              <>
+                {/* Filter Row 1: विधा (Category / Genre) */}
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-xs font-bold text-[#1F1916]/60 uppercase tracking-wider flex items-center gap-1">
+                      <Filter className="w-3 h-3 text-[#C85A32]" />
+                      <span>विधा के अनुसार (By Genre)</span>
+                    </span>
+                    {selectedCategory !== 'all' && (
+                      <button
+                        onClick={() => updateFilter('category', 'all')}
+                        className="text-[11px] font-semibold text-[#C85A32] hover:underline cursor-pointer"
+                      >
+                        हटाएँ
+                      </button>
+                    )}
+                  </div>
+
+                  <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
+                    <button
+                      onClick={() => updateFilter('category', 'all')}
+                      className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 cursor-pointer ${
+                        selectedCategory === 'all'
+                          ? 'bg-[#231814] text-[#FAF5E8] shadow-sm'
                           : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
                       }`}
                     >
-                      <span>{cat}</span>
-                      <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${isSelected ? 'bg-white/20 text-white' : 'bg-black/10 text-black/60'}`}>
-                        {count}
-                      </span>
+                      सभी विधाएँ ({books.length})
                     </button>
-                  );
-                })}
-              </div>
-            </div>
 
-            {/* Filter Row 2: रचनाकार (Authors) */}
-            <div className="pt-3 border-t border-[#231A15]/8">
-              <div className="flex items-center justify-between mb-2">
-                <span className="text-xs font-bold text-[#1F1916]/60 uppercase tracking-wider flex items-center gap-1">
-                  <Feather className="w-3 h-3 text-[#1B2A4A]" />
-                  <span>रचनाकार के अनुसार (By Author)</span>
-                </span>
-                {selectedAuthor !== 'all' && (
-                  <button
-                    onClick={() => updateFilter('author', 'all')}
-                    className="text-[11px] font-semibold text-[#1B2A4A] hover:underline"
-                  >
-                    हटाएँ
-                  </button>
-                )}
-              </div>
+                    {categories.map((cat) => {
+                      const count = books.filter((b) => b.category === cat).length;
+                      const isSelected = selectedCategory === cat;
+                      return (
+                        <button
+                          key={cat}
+                          onClick={() => updateFilter('category', isSelected ? 'all' : cat)}
+                          className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 flex items-center gap-1.5 cursor-pointer ${
+                            isSelected
+                              ? 'bg-[#C85A32] text-white shadow-sm'
+                              : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
+                          }`}
+                        >
+                          <span>{cat}</span>
+                          <span
+                            className={`text-[10px] px-1.5 py-0.2 rounded-full ${
+                              isSelected ? 'bg-white/20 text-white' : 'bg-black/10 text-black/60'
+                            }`}
+                          >
+                            {count}
+                          </span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
 
-              <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
-                <button
-                  onClick={() => updateFilter('author', 'all')}
-                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 ${
-                    selectedAuthor === 'all'
-                      ? 'bg-[#231814] text-[#FAF5E8] shadow-sm'
-                      : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
-                  }`}
-                >
-                  सभी रचनाकार ({books.length})
-                </button>
+                {/* Filter Row 2: रचनाकार (Authors) */}
+                <div className="pt-3 border-t border-[#231A15]/8">
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-xs font-bold text-[#1F1916]/60 uppercase tracking-wider flex items-center gap-1">
+                      <Feather className="w-3 h-3 text-[#1B2A4A]" />
+                      <span>रचनाकार के अनुसार (By Author)</span>
+                    </span>
+                    {selectedAuthor !== 'all' && (
+                      <button
+                        onClick={() => updateFilter('author', 'all')}
+                        className="text-[11px] font-semibold text-[#1B2A4A] hover:underline cursor-pointer"
+                      >
+                        हटाएँ
+                      </button>
+                    )}
+                  </div>
 
-                {authors.map((author) => {
-                  const count = books.filter((b) => b.author === author).length;
-                  const isSelected = selectedAuthor === author;
-                  return (
+                  <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
                     <button
-                      key={author}
-                      onClick={() => updateFilter('author', isSelected ? 'all' : author)}
-                      className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 flex items-center gap-1.5 ${
-                        isSelected
-                          ? 'bg-[#1B2A4A] text-white shadow-sm'
+                      onClick={() => updateFilter('author', 'all')}
+                      className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 cursor-pointer ${
+                        selectedAuthor === 'all'
+                          ? 'bg-[#231814] text-[#FAF5E8] shadow-sm'
                           : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
                       }`}
                     >
-                      <span>{author}</span>
-                      <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${isSelected ? 'bg-white/20 text-white' : 'bg-black/10 text-black/60'}`}>
-                        {count}
-                      </span>
+                      सभी रचनाकार ({books.length})
                     </button>
-                  );
-                })}
-              </div>
-            </div>
+
+                    {authors.map((author) => {
+                      const count = books.filter((b) => b.author === author).length;
+                      const isSelected = selectedAuthor === author;
+                      return (
+                        <button
+                          key={author}
+                          onClick={() => updateFilter('author', isSelected ? 'all' : author)}
+                          className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all whitespace-nowrap active:scale-95 flex items-center gap-1.5 cursor-pointer ${
+                            isSelected
+                              ? 'bg-[#1B2A4A] text-white shadow-sm'
+                              : 'bg-black/5 hover:bg-black/10 text-[#1F1916]/70'
+                          }`}
+                        >
+                          <span>{author}</span>
+                          <span
+                            className={`text-[10px] px-1.5 py-0.2 rounded-full ${
+                              isSelected ? 'bg-white/20 text-white' : 'bg-black/10 text-black/60'
+                            }`}
+                          >
+                            {count}
+                          </span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              </>
+            )}
 
             {/* Active Filters Summary Pill Bar */}
             {hasActiveFilters && (
               <div className="pt-3 border-t border-[#231A15]/8 flex items-center justify-between flex-wrap gap-2 text-xs">
                 <div className="flex items-center gap-1.5 flex-wrap">
                   <span className="font-semibold text-[#1F1916]/60">सक्रिय फ़िल्टर:</span>
+                  {isUPSCActive && (
+                    <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-lg bg-amber-100 text-amber-950 font-bold border border-amber-300">
+                      UPSC: {selectedUPSC === 'all' ? 'संपूर्ण पाठ्यक्रम' : selectedUPSC === 'paper2_padya' ? 'पेपर 2 (पद्य)' : selectedUPSC === 'paper2_gadya' ? 'पेपर 2 (गद्य)' : selectedUPSC === 'paper1' ? 'पेपर 1 (भाषा/इतिहास)' : 'राज्य PCS / NET'}
+                      <X className="w-3 h-3 cursor-pointer" onClick={() => updateFilter('upsc', 'none')} />
+                    </span>
+                  )}
                   {selectedCategory !== 'all' && (
                     <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-lg bg-[#C85A32]/10 text-[#C85A32] font-bold">
                       विधा: {selectedCategory}
